@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2024309465676468533",
+    "created_at": "2026-02-19T11:29:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T12:29:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024446189383667721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1945894406244208640",
+          "start": 0,
+          "username": "daimengniu8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024446189383667721",
+    "in_reply_to_user_id": "1945894406244208640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024309465676468533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daimengniu8964 有姐姐的看见了之后只感觉地球完了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 513,
+        "media_key": "3_2024309456574828544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBfKubqbUAAph1o.jpg",
+        "width": 401
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2024309465676468533",
+        "created_at": "2026-02-19T11:29:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T12:29:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024446189383667721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1945894406244208640",
+              "start": 0,
+              "username": "daimengniu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024446189383667721",
+        "in_reply_to_user_id": "1945894406244208640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024309465676468533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daimengniu8964 有姐姐的看见了之后只感觉地球完了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024309456574828544"
+          ]
+        },
+        "author_id": "1945894406244208640",
+        "conversation_id": "2024309465676468533",
+        "created_at": "2026-02-19T02:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T03:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024309465676468533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IBWLeok88V",
+              "end": 23,
+              "expanded_url": "https://x.com/daimengniu8964/status/2024309465676468533/photo/1",
+              "media_key": "3_2024309456574828544",
+              "start": 0,
+              "url": "https://t.co/IBWLeok88V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024309465676468533",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 9029,
+          "like_count": 160,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IBWLeok88V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 423,
+          "like_count": 3599,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1254
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T17:12:45.000Z",
+        "description": "感觉自己好呆萌呀……门槛费涨钱是因为牛牛最近炒股赔钱了 好想哭 皮下女孩 接广请自行分辨❕牛牛在赚饲料钱 牛牛上网就是为了逗你们开心滴",
+        "id": "1945894406244208640",
+        "location": "🚪52💚",
+        "name": "呆萌小牛牛",
+        "pinned_tweet_id": "2008478920052748459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003809315216613376/T96k8TkP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11151,
+          "following_count": 53,
+          "like_count": 4990,
+          "listed_count": 8,
+          "media_count": 169,
+          "tweet_count": 3539
+        },
+        "username": "daimengniu8964",
+        "verified": false
+      }
+    ]
+  }
+}

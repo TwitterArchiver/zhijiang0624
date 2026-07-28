@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2046924548168409580",
+    "created_at": "2026-04-22T13:13:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T14:13:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046940528068227372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1700917352064561152",
+          "start": 0,
+          "username": "jing1234560"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046940528068227372",
+    "in_reply_to_user_id": "1700917352064561152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046924548168409580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jing1234560 哟！好久不见"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2046924532209106944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgjBFhbQAAocVZ.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2046924548168409580",
+        "created_at": "2026-04-22T13:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T14:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046940528068227372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1700917352064561152",
+              "start": 0,
+              "username": "jing1234560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046940528068227372",
+        "in_reply_to_user_id": "1700917352064561152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046924548168409580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jing1234560 哟！好久不见"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046924532209106944"
+          ]
+        },
+        "author_id": "1700917352064561152",
+        "conversation_id": "2046924548168409580",
+        "created_at": "2026-04-22T12:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T13:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046924548168409580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a0sh6aUOGv",
+              "end": 23,
+              "expanded_url": "https://x.com/jing1234560/status/2046924548168409580/photo/1",
+              "media_key": "3_2046924532209106944",
+              "start": 0,
+              "url": "https://t.co/a0sh6aUOGv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046924548168409580",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/a0sh6aUOGv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 663,
+          "like_count": 10856,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 2197
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T17:01:20.000Z",
+        "description": "🌈卧槽尼玛我的人生怎么变成县城小太妹了 过门请私信🚪88块钱 小号@xingyi1234560 推广自辨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "xingyi1234560"
+              }
+            ]
+          }
+        },
+        "id": "1700917352064561152",
+        "location": "在苞米地里务农",
+        "name": "恋痛症Z",
+        "pinned_tweet_id": "2030262711075098692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784554850753400832/oPoWwB4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6241,
+          "following_count": 119,
+          "like_count": 10732,
+          "listed_count": 8,
+          "media_count": 280,
+          "tweet_count": 5566
+        },
+        "username": "jing1234560",
+        "verified": false
+      }
+    ]
+  }
+}

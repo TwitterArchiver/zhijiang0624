@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2049136152901451948",
+    "created_at": "2026-04-28T16:39:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T17:39:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049166562972823904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2028814965965312001",
+          "start": 0,
+          "username": "Miiharukawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049166562972823904",
+    "in_reply_to_user_id": "2028814965965312001",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049136152901451948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miiharukawa 很好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1736,
+        "media_key": "3_2049136130877255680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_-dElbcAAmZc8.jpg",
+        "width": 1160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2049136152901451948",
+        "created_at": "2026-04-28T16:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T17:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049166562972823904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049166562972823904",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049136152901451948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 很好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049136130877255680"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2049136152901451948",
+        "created_at": "2026-04-28T14:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049136152901451948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RNWptE6KO1",
+              "end": 34,
+              "expanded_url": "https://x.com/Miiharukawa/status/2049136152901451948/photo/1",
+              "media_key": "3_2049136130877255680",
+              "start": 11,
+              "url": "https://t.co/RNWptE6KO1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049136152901451948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1093,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们知道该说什么👁️ https://t.co/RNWptE6KO1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 674,
+          "like_count": 11229,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 2266
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "希望天使带我逃离地狱。\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "Harukayo96"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1229,
+          "following_count": 196,
+          "like_count": 6060,
+          "listed_count": 6,
+          "media_count": 241,
+          "tweet_count": 2284
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

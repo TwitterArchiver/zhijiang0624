@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2009565821664964731",
+    "created_at": "2026-01-10T00:45:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T01:45:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009788719444938906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1926451442572754944",
+          "start": 0,
+          "username": "keiaiqing"
+        },
+        {
+          "end": 18,
+          "id": "1545277694325116928",
+          "start": 11,
+          "username": "BI3BXI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009788719444938906",
+    "in_reply_to_user_id": "1926451442572754944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009766642910409136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keiaiqing @BI3BXI （似乎可行？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2009565821664964731",
+        "created_at": "2026-01-10T00:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T01:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009788719444938906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1926451442572754944",
+              "start": 0,
+              "username": "keiaiqing"
+            },
+            {
+              "end": 18,
+              "id": "1545277694325116928",
+              "start": 11,
+              "username": "BI3BXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009788719444938906",
+        "in_reply_to_user_id": "1926451442572754944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009766642910409136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keiaiqing @BI3BXI （似乎可行？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926451442572754944",
+        "conversation_id": "2009565821664964731",
+        "created_at": "2026-01-09T23:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T00:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009766642910409136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "BI3BXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009766642910409136",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 420,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009565821664964731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BI3BXI 我怎么可能成为你的恋人不行不行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一个偶尔变得哲学或者厌世的重度自闭男生。理想大概就是想尽自己的绵薄之力尽量缝补这个世界支离破碎的一面吧",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 244,
+          "like_count": 955,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 544
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T01:33:32.000Z",
+        "description": "我是命运·冠位指定中清姬这一角色的梦女…我是女同性恋🏳️‍🌈🏳️‍🌈🏳️‍🌈😭😭😭我讨厌百合破坏😭😭😭",
+        "id": "1926451442572754944",
+        "location": "10.12生日（恋爱日是24.12.21",
+        "name": "ke（与清姬小姐恋爱中",
+        "pinned_tweet_id": "1978579998748410118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007059004531580928/LhhY3cJk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 378,
+          "like_count": 34009,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 3474
+        },
+        "username": "keiaiqing",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "本体@yqua_｜除了梗图外 时不时发一些有价值的内容｜点击“查看更多”可以了解我～｜400一年X Premium可以私信我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 2,
+                "username": "yqua_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qm.qq.com/q/TT3IUMhhUQ",
+                "end": 23,
+                "expanded_url": "https://qm.qq.com/q/TT3IUMhhUQ",
+                "start": 0,
+                "url": "https://t.co/9ZD7jPBAmp"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "阿彬秘制羊排饭",
+        "name": "铨（互fo寻回中）",
+        "pinned_tweet_id": "2009052555326968076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4991,
+          "following_count": 3126,
+          "like_count": 29636,
+          "listed_count": 15,
+          "media_count": 1032,
+          "tweet_count": 5140
+        },
+        "url": "https://t.co/9ZD7jPBAmp",
+        "username": "BI3BXI",
+        "verified": true
+      }
+    ]
+  }
+}

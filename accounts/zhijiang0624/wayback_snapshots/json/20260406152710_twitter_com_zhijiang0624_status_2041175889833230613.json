@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2041145860743139481",
+    "created_at": "2026-04-06T15:27:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T16:27:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041175889833230613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1981381547594043396",
+          "start": 0,
+          "username": "donttouchme3322"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041175889833230613",
+    "in_reply_to_user_id": "1981381547594043396",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041145860743139481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@donttouchme3322 😰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2041145860743139481",
+        "created_at": "2026-04-06T15:27:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041175889833230613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1981381547594043396",
+              "start": 0,
+              "username": "donttouchme3322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041175889833230613",
+        "in_reply_to_user_id": "1981381547594043396",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041145860743139481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@donttouchme3322 😰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981381547594043396",
+        "conversation_id": "2041145860743139481",
+        "created_at": "2026-04-06T13:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T14:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041145860743139481"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041145860743139481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现舔口腔溃疡很爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 652,
+          "like_count": 9782,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 2069
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-23T15:25:59.000Z",
+        "description": "目前人设：勾践",
+        "id": "1981381547594043396",
+        "name": "小烂（人在囧途工作版）",
+        "pinned_tweet_id": "2032071932359950798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036998725307162625/lku6g7mC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 189,
+          "like_count": 1646,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 2435
+        },
+        "username": "donttouchme3322",
+        "verified": false
+      }
+    ]
+  }
+}

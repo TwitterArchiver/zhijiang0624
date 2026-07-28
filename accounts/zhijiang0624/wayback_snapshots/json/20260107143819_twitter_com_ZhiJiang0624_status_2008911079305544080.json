@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2008568081149526339",
+    "created_at": "2026-01-07T14:38:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T15:38:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008911079305544080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1968225364163141632",
+          "start": 0,
+          "username": "Deborah90330371"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008911079305544080",
+    "in_reply_to_user_id": "1968225364163141632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008568081149526339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Deborah90330371 攻击力认可了👍🏻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2008568071385214976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9_eBOIbcAADXpf.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2008568081149526339",
+        "created_at": "2026-01-07T14:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T15:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008911079305544080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1968225364163141632",
+              "start": 0,
+              "username": "Deborah90330371"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008911079305544080",
+        "in_reply_to_user_id": "1968225364163141632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008568081149526339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Deborah90330371 攻击力认可了👍🏻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008568071385214976"
+          ]
+        },
+        "author_id": "1968225364163141632",
+        "conversation_id": "2008568081149526339",
+        "created_at": "2026-01-06T15:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T16:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008568081149526339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k2riB0ahK2",
+              "end": 40,
+              "expanded_url": "https://x.com/Deborah90330371/status/2008568081149526339/photo/1",
+              "media_key": "3_2008568071385214976",
+              "start": 17,
+              "url": "https://t.co/k2riB0ahK2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008568081149526339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11712,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我根本就没🚪，想认识谁全看我心情 https://t.co/k2riB0ahK2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一个偶尔变得哲学或者厌世的重度自闭男生。理想大概就是想尽自己的绵薄之力尽量缝补这个世界支离破碎的一面吧",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 187,
+          "like_count": 710,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 464
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T08:07:54.000Z",
+        "description": "我素绑带结or小若 双/不完全健全/女宝全认可/善良邪恶人格乱切/友好私信欢迎！（私信有些收不到/互fo看成分。有问题发小号@dai7831",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 62,
+                "username": "dai7831"
+              }
+            ]
+          }
+        },
+        "id": "1968225364163141632",
+        "name": "感觉自己很呆萌",
+        "pinned_tweet_id": "2006253707105828937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002613646657216514/c_8H58pg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 88,
+          "like_count": 1599,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 1051
+        },
+        "username": "Deborah90330371",
+        "verified": false
+      }
+    ]
+  }
+}

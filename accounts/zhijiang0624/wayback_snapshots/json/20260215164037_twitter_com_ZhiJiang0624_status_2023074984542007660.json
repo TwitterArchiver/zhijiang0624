@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2022902039714361686",
+    "created_at": "2026-02-15T16:40:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T17:40:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023074984542007660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1732909754941681664",
+          "start": 0,
+          "username": "A_starv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023074984542007660",
+    "in_reply_to_user_id": "1732909754941681664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022902039714361686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A_starv 除夕快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2022902039714361686",
+        "created_at": "2026-02-15T16:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T17:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023074984542007660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1732909754941681664",
+              "start": 0,
+              "username": "A_starv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023074984542007660",
+        "in_reply_to_user_id": "1732909754941681664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022902039714361686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A_starv 除夕快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732909754941681664",
+        "conversation_id": "2022902039714361686",
+        "created_at": "2026-02-15T05:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T05:20:44.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022888786036953159",
+          "2022902039714361686"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022902039714361686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我想知道  玩儿推的有没有25岁左右刚毕业一两年的 牛马\n\n不是计算机专业的\n\n业余发推，白天工作 空闲时间发推\n\n都说在算法下 真诚才是必杀技\n\n把脑子里的内容转为文字\n\n你们的时间都被工作占据，平时又是没多大时间去经历新事物 哪儿来的这么多文章？\n\n还是说玩儿推发文的基本上都在32岁靠后了，经历了时代的浪潮，结婚生子，人生基本算是体验了酸甜苦辣各个阶段"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想知道  玩儿推的有没有25岁左右刚毕业一两年的 牛马\n\n不是计算机专业的\n\n业余发推，白天工作 空闲时间发推\n\n都说在算法下 真诚才是必杀技\n\n把脑子里的内容转为文字\n\n你们的时间都被工作占据，平时又是没多大时间去经历新事物 哪儿来的这么多文章？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 320,
+          "like_count": 2761,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 938
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-07T23:47:53.000Z",
+        "description": "✨ENTJ｜📏起業する&認知｜💾開発するing｜共有を読む📖 web3諮詢News |株✉️gmail:astareenl@gmail.com｜Global Times·Spiritual healer·Psychological School",
+        "id": "1732909754941681664",
+        "name": "Plum",
+        "pinned_tweet_id": "2021211458621800802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014159222401847296/wa439CqB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2305,
+          "following_count": 1758,
+          "like_count": 1020,
+          "listed_count": 4,
+          "media_count": 220,
+          "tweet_count": 991
+        },
+        "username": "A_starv",
+        "verified": true
+      }
+    ]
+  }
+}

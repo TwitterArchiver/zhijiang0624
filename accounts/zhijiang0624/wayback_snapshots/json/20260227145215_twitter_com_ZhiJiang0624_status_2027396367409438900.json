@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2027350744278634576",
+    "created_at": "2026-02-27T14:52:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T15:52:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027396367409438900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1739391734491086848",
+          "start": 0,
+          "username": "IXXA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027396367409438900",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027350744278634576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IXXA00 已经知道发生什么事了（憋笑）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2027350744278634576",
+        "created_at": "2026-02-27T14:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T15:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027396367409438900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027396367409438900",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027350744278634576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 已经知道发生什么事了（憋笑）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2027350744278634576",
+        "created_at": "2026-02-27T11:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T12:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027350744278634576"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027350744278634576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 221,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你妈，我再也不把臭豆腐冷面夹塞大衣内怀兜里了。😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 476,
+          "like_count": 4298,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1389
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "你好，我是卖的。",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla",
+        "pinned_tweet_id": "2016421959370997852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5765,
+          "following_count": 4482,
+          "like_count": 36078,
+          "listed_count": 14,
+          "media_count": 2623,
+          "tweet_count": 36177
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

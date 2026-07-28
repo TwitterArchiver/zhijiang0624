@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2068447773981061247",
+    "created_at": "2026-06-21T12:03:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T13:03:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068666079187239282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1885374496569516033",
+          "start": 0,
+          "username": "Wyatt_Power88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068666079187239282",
+    "in_reply_to_user_id": "1885374496569516033",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068447773981061247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wyatt_Power88 I live alone now, and I feel very lonely."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1715,
+        "media_key": "3_2068447770948599808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLSaSd_XAAACOnv.jpg",
+        "width": 1436
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2068447773981061247",
+        "created_at": "2026-06-21T12:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068666079187239282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1885374496569516033",
+              "start": 0,
+              "username": "Wyatt_Power88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068666079187239282",
+        "in_reply_to_user_id": "1885374496569516033",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068447773981061247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wyatt_Power88 I live alone now, and I feel very lonely."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068447770948599808"
+          ]
+        },
+        "author_id": "1885374496569516033",
+        "conversation_id": "2068447773981061247",
+        "created_at": "2026-06-20T21:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T22:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068447773981061247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AlV9PAjlro",
+              "end": 53,
+              "expanded_url": "https://x.com/Wyatt_Power88/status/2068447773981061247/photo/1",
+              "media_key": "3_2068447770948599808",
+              "start": 30,
+              "url": "https://t.co/AlV9PAjlro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068447773981061247",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 196,
+          "impression_count": 10877,
+          "like_count": 1173,
+          "quote_count": 6,
+          "reply_count": 19,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "I wish I fucking lived alone. https://t.co/AlV9PAjlro"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 713,
+          "like_count": 12690,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2613
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T17:08:14.000Z",
+        "description": "second account is @kriegvar1097\n the jews are after me\nprivate account @WeissKrieg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "kriegvar1097"
+              },
+              {
+                "end": 82,
+                "start": 71,
+                "username": "WeissKrieg"
+              }
+            ]
+          }
+        },
+        "id": "1885374496569516033",
+        "location": "the pentagon",
+        "name": "Krieg",
+        "pinned_tweet_id": "2068529699005796407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953629594231177216/8rD-8Pdt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 193,
+          "like_count": 5022,
+          "listed_count": 1,
+          "media_count": 528,
+          "tweet_count": 1629
+        },
+        "url": "",
+        "username": "Wyatt_Power88",
+        "verified": false
+      }
+    ]
+  }
+}

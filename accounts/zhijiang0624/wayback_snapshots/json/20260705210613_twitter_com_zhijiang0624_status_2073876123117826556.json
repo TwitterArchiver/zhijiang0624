@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2073724231716839649",
+    "created_at": "2026-07-05T21:06:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T22:06:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073876123117826556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1936462024898383872",
+          "start": 0,
+          "username": "changledawang"
+        },
+        {
+          "end": 28,
+          "id": "1910008101371273225",
+          "start": 15,
+          "username": "paopao152025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073876123117826556",
+    "in_reply_to_user_id": "1936462024898383872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073806701992747478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@changledawang @paopao152025 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2073724231716839649",
+        "created_at": "2026-07-05T21:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T22:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073876123117826556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1936462024898383872",
+              "start": 0,
+              "username": "changledawang"
+            },
+            {
+              "end": 28,
+              "id": "1910008101371273225",
+              "start": 15,
+              "username": "paopao152025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073876123117826556",
+        "in_reply_to_user_id": "1936462024898383872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073806701992747478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@changledawang @paopao152025 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936462024898383872",
+        "conversation_id": "2073724231716839649",
+        "created_at": "2026-07-05T16:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073806701992747478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1910008101371273225",
+              "start": 0,
+              "username": "paopao152025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073806701992747478",
+        "in_reply_to_user_id": "1910008101371273225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 528,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073724231716839649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paopao152025 这种一般都很压抑自卑还很无趣……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 728,
+          "like_count": 13079,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 2660
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-21T16:31:47.000Z",
+        "description": "阁下小乐乐",
+        "id": "1936462024898383872",
+        "location": "🚪88/188/288",
+        "name": "废话少讲好吗",
+        "pinned_tweet_id": "1947680858607116686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041937031371390976/LdcvRlt7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1971,
+          "following_count": 91,
+          "like_count": 2571,
+          "listed_count": 1,
+          "media_count": 269,
+          "tweet_count": 1053
+        },
+        "url": "",
+        "username": "changledawang",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-09T16:33:28.000Z",
+        "description": "第一世@keeganlike 第二世@paonew26\n小号@haoxiangsiaaaa 大号随时都会被封 会自言自语抛出一些疑问和思考 我说的都是胡话瞎发的很多都是上句不接下句纯自己唠叨瞎逼逼🙏 推广自辨 我骂的死全家骂我的死全家",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "keeganlike"
+              },
+              {
+                "end": 27,
+                "start": 18,
+                "username": "paonew26"
+              },
+              {
+                "end": 45,
+                "start": 30,
+                "username": "haoxiangsiaaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%A1%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B3%A1%E6%B3%A133527",
+                "start": 0,
+                "url": "https://t.co/J2oUGc5Ac0"
+              }
+            ]
+          }
+        },
+        "id": "1910008101371273225",
+        "location": "互关可加v",
+        "name": "泡泡",
+        "pinned_tweet_id": "2068906421023027522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025885586859667456/5jfteWE1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6408,
+          "following_count": 201,
+          "like_count": 8394,
+          "listed_count": 4,
+          "media_count": 426,
+          "tweet_count": 4093
+        },
+        "url": "https://t.co/J2oUGc5Ac0",
+        "username": "paopao152025",
+        "verified": false
+      }
+    ]
+  }
+}

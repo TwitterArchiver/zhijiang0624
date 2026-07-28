@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2024929657288569017",
+    "created_at": "2026-02-20T20:13:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T21:13:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024940525057614124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1942213542104510464",
+          "start": 0,
+          "username": "SillmanW78399"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024940525057614124",
+    "in_reply_to_user_id": "1942213542104510464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024929657288569017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SillmanW78399 那就去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2024929657288569017",
+        "created_at": "2026-02-20T20:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T21:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024940525057614124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1942213542104510464",
+              "start": 0,
+              "username": "SillmanW78399"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024940525057614124",
+        "in_reply_to_user_id": "1942213542104510464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024929657288569017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SillmanW78399 那就去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942213542104510464",
+        "conversation_id": "2024929657288569017",
+        "created_at": "2026-02-20T19:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T20:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024929657288569017"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024929657288569017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要去做心理咨询"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 429,
+          "like_count": 3679,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1272
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T13:26:14.000Z",
+        "description": "",
+        "id": "1942213542104510464",
+        "location": "任何地方",
+        "name": "Rain-",
+        "pinned_tweet_id": "1981325575324381221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018653097929973760/DyIpTRyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 38,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 139
+        },
+        "username": "SillmanW78399",
+        "verified": false
+      }
+    ]
+  }
+}

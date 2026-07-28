@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2021864775886811163",
+    "created_at": "2026-05-16T12:16:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T13:16:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055623498102616524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1556198265061646336",
+          "start": 0,
+          "username": "hfymomoj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055623498102616524",
+    "in_reply_to_user_id": "1556198265061646336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021864775886811163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hfymomoj 想变强？\n那就每天一百个俯卧撑\n一百个仰卧起坐\n一百个引体向上\n十公里跑步\n夏冬不开空调\n巴拉巴拉"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9000,
+        "height": 1280,
+        "media_key": "13_2021864704008916992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2021864704008916992/img/rsITMy2nIagtXtqQ.jpg",
+        "public_metrics": {
+          "view_count": 51591
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021864704008916992/vid/avc1/320x568/xkTNA4O2XSrJUt7f.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021864704008916992/vid/avc1/480x852/XZSUSwMWqsjsIrE0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021864704008916992/vid/avc1/720x1280/EZtA1rBYhIb_uIL3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2021864704008916992/pl/iJsm4mrcaqrrXN2C.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2021864775886811163",
+        "created_at": "2026-05-16T12:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055623498102616524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1556198265061646336",
+              "start": 0,
+              "username": "hfymomoj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055623498102616524",
+        "in_reply_to_user_id": "1556198265061646336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021864775886811163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hfymomoj 想变强？\n那就每天一百个俯卧撑\n一百个仰卧起坐\n一百个引体向上\n十公里跑步\n夏冬不开空调\n巴拉巴拉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2021864704008916992"
+          ]
+        },
+        "author_id": "1556198265061646336",
+        "conversation_id": "2021864775886811163",
+        "created_at": "2026-02-12T08:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T09:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021864775886811163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L6svPGpDmN",
+              "end": 37,
+              "expanded_url": "https://x.com/hfymomoj/status/2021864775886811163/video/1",
+              "media_key": "13_2021864704008916992",
+              "start": 14,
+              "url": "https://t.co/L6svPGpDmN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021864775886811163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 194,
+          "impression_count": 184530,
+          "like_count": 1204,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "刹那想要 变得更强(＞人＜ https://t.co/L6svPGpDmN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 686,
+          "like_count": 11822,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 2422
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-07T08:39:24.000Z",
+        "description": "我是傻福 营业号在@Gniy666",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Gniy666"
+              }
+            ]
+          }
+        },
+        "id": "1556198265061646336",
+        "location": " 🚪520/1314",
+        "name": "治疗术",
+        "pinned_tweet_id": "1923963433491530106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015482573737381888/HVyMkmvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57526,
+          "following_count": 98,
+          "like_count": 4309,
+          "listed_count": 147,
+          "media_count": 177,
+          "tweet_count": 2472
+        },
+        "username": "hfymomoj",
+        "verified": false
+      }
+    ]
+  }
+}

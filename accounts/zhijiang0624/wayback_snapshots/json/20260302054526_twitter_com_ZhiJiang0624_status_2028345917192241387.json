@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028345904319827968"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "conversation_id": "2028343031683031458",
+    "created_at": "2026-03-02T05:45:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T06:45:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028345917192241387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1700917352064561152",
+          "start": 0,
+          "username": "jing1234560"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lOfolBB1MH",
+          "end": 43,
+          "expanded_url": "https://x.com/ZhiJiang0624/status/2028345917192241387/photo/1",
+          "media_key": "3_2028345904319827968",
+          "start": 20,
+          "url": "https://t.co/lOfolBB1MH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028345917192241387",
+    "in_reply_to_user_id": "1700917352064561152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028343031683031458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jing1234560 先能养好自己 https://t.co/lOfolBB1MH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 772,
+        "media_key": "3_2028345904319827968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCYh2nSaEAAPh8P.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028345904319827968"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "conversation_id": "2028343031683031458",
+        "created_at": "2026-03-02T05:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T06:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028345917192241387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1700917352064561152",
+              "start": 0,
+              "username": "jing1234560"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lOfolBB1MH",
+              "end": 43,
+              "expanded_url": "https://x.com/ZhiJiang0624/status/2028345917192241387/photo/1",
+              "media_key": "3_2028345904319827968",
+              "start": 20,
+              "url": "https://t.co/lOfolBB1MH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028345917192241387",
+        "in_reply_to_user_id": "1700917352064561152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028343031683031458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jing1234560 先能养好自己 https://t.co/lOfolBB1MH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700917352064561152",
+        "conversation_id": "2028343031683031458",
+        "created_at": "2026-03-02T05:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T06:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028343031683031458"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028343031683031458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么领养别人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 482,
+          "like_count": 4556,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1410
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T17:01:20.000Z",
+        "description": "🌈卧槽尼玛我的人生怎么变成县城小太妹了 过门请私信🚪88块钱 小号@xingyi1234560 推广自辨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "xingyi1234560"
+              }
+            ]
+          }
+        },
+        "id": "1700917352064561152",
+        "location": "在苞米地里务农",
+        "name": "恋痛症Z",
+        "pinned_tweet_id": "2010703913289490783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784554850753400832/oPoWwB4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6048,
+          "following_count": 122,
+          "like_count": 10517,
+          "listed_count": 10,
+          "media_count": 269,
+          "tweet_count": 5636
+        },
+        "username": "jing1234560",
+        "verified": false
+      }
+    ]
+  }
+}

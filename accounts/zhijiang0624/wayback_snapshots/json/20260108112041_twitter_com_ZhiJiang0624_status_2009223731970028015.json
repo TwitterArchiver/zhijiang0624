@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2008901940307259641",
+    "created_at": "2026-01-08T11:20:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T12:20:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009223731970028015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1820898082961420289",
+          "start": 0,
+          "username": "Ejcryc3h4o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009223731970028015",
+    "in_reply_to_user_id": "1820898082961420289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008901940307259641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ejcryc3h4o 情绪积累到了一定程度就需要宣泄，哭是正常的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2008901940307259641",
+        "created_at": "2026-01-08T11:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T12:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009223731970028015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1820898082961420289",
+              "start": 0,
+              "username": "Ejcryc3h4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009223731970028015",
+        "in_reply_to_user_id": "1820898082961420289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008901940307259641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ejcryc3h4o 情绪积累到了一定程度就需要宣泄，哭是正常的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820898082961420289",
+        "conversation_id": "2008901940307259641",
+        "created_at": "2026-01-07T14:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T15:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008901940307259641"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008901940307259641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5128,
+          "like_count": 111,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "喂喂，我好歹也是个女人啊，居然对我这么没有防备，你好歹也是个男孩子啊，心情有点复杂，我啊，好歹也是个女人哦？稍微也注意点我的心情吧。你可是男孩子啊，现在的状况对你很不妙哦。安心吗…但你也别忘了，我好歹也是个女人啊？对我也稍微有点防备心吧。对不起，居然让你看到我流泪的样子。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一个偶尔变得哲学或者厌世的重度自闭男生。理想大概就是想尽自己的绵薄之力尽量缝补这个世界支离破碎的一面吧",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 207,
+          "like_count": 812,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 498
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-06T19:02:01.000Z",
+        "description": "小画渣，我上来就为了找点文案看看，或者我自己发发，不参与zz，皮下女，喜欢跟女孩子聊天，防加v价666",
+        "id": "1820898082961420289",
+        "name": "真人",
+        "pinned_tweet_id": "2007743781366600159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978147991920705536/-TdyXumo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 188,
+          "like_count": 1619,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 672
+        },
+        "username": "Ejcryc3h4o",
+        "verified": false
+      }
+    ]
+  }
+}

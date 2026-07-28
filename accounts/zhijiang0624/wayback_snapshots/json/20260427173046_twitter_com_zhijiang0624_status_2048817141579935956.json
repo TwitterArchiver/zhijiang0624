@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2048780066247872933",
+    "created_at": "2026-04-27T17:30:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T18:30:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048817141579935956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1682885911728488448",
+          "start": 0,
+          "username": "nj644364835923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048817141579935956",
+    "in_reply_to_user_id": "1682885911728488448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048780066247872933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nj644364835923 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2048780004415438848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG66jyIbAAAkLpR.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2048780004360863744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG66jx7aQAASSgD.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2048780004335800321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG66jx1b0AEzqrQ.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2048780066247872933",
+        "created_at": "2026-04-27T17:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T18:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048817141579935956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1682885911728488448",
+              "start": 0,
+              "username": "nj644364835923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048817141579935956",
+        "in_reply_to_user_id": "1682885911728488448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048780066247872933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nj644364835923 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048780004415438848",
+            "3_2048780004360863744",
+            "3_2048780004335800321"
+          ]
+        },
+        "author_id": "1682885911728488448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048780066247872933",
+        "created_at": "2026-04-27T15:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T16:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048780066247872933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T68KTYJZBt",
+              "end": 33,
+              "expanded_url": "https://x.com/nj644364835923/status/2048780066247872933/photo/1",
+              "media_key": "3_2048780004415438848",
+              "start": 10,
+              "url": "https://t.co/T68KTYJZBt"
+            },
+            {
+              "display_url": "pic.x.com/T68KTYJZBt",
+              "end": 33,
+              "expanded_url": "https://x.com/nj644364835923/status/2048780066247872933/photo/1",
+              "media_key": "3_2048780004360863744",
+              "start": 10,
+              "url": "https://t.co/T68KTYJZBt"
+            },
+            {
+              "display_url": "pic.x.com/T68KTYJZBt",
+              "end": 33,
+              "expanded_url": "https://x.com/nj644364835923/status/2048780066247872933/photo/1",
+              "media_key": "3_2048780004335800321",
+              "start": 10,
+              "url": "https://t.co/T68KTYJZBt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048780066247872933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2670,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天祝我生日快乐吧 https://t.co/T68KTYJZBt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 670,
+          "like_count": 11170,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 2254
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T22:50:51.000Z",
+        "description": "请玩坏我 阿里嘎多（",
+        "id": "1682885911728488448",
+        "location": "Sheffield, England",
+        "name": "爆炒奶牛狗",
+        "pinned_tweet_id": "1806059348520493230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973014470780952576/zOEJ25Va_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19771,
+          "following_count": 18,
+          "like_count": 5274,
+          "listed_count": 46,
+          "media_count": 599,
+          "tweet_count": 4051
+        },
+        "username": "nj644364835923",
+        "verified": false
+      }
+    ]
+  }
+}

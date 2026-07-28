@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2007893312095891685",
+    "created_at": "2026-01-05T06:49:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T07:49:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008068243853115756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1948646111604080644",
+          "start": 0,
+          "username": "love_affair419"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008068243853115756",
+    "in_reply_to_user_id": "1948646111604080644",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007893312095891685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@love_affair419 保持健康，祝幸福快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2007893312095891685",
+        "created_at": "2026-01-05T06:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T07:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008068243853115756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1948646111604080644",
+              "start": 0,
+              "username": "love_affair419"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008068243853115756",
+        "in_reply_to_user_id": "1948646111604080644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007893312095891685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@love_affair419 保持健康，祝幸福快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948646111604080644",
+        "conversation_id": "2007893312095891685",
+        "created_at": "2026-01-04T19:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T20:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007893312095891685"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007893312095891685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8345,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一直以来发了让人感观不适的内容很抱歉。衷心感谢喜欢我拍摄的照片的大家。本来我在这里也是一部分作为个人记录使用，在各方面求助无果的情况下我想为我每天都受到生命安全威胁的生活留下记录，或者说没有能用之处的证据，没有任何卖惨或者博同情的含义。仅仅为我得不到正常保障的生活作生前记录。抱歉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一个偶尔变得哲学或者厌世的重度自闭男生。理想大概就是想尽自己的绵薄之力尽量缝补这个世界支离破碎的一面吧",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 167,
+          "like_count": 593,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 419
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T07:26:58.000Z",
+        "description": "18｜🚪88送库存图集｜接定制 可加其他联系方式 想听我原生家庭的悲惨生活可以来入门了 听过的都哭了()｜图片 日常 生前记录什么都发不喜屏蔽就好｜欢迎和我认识😽｜成分含量复杂ww不喜自避啦orz\n🐱💗随意喊小优☆优子ฅ(៸៸᳐⁃⩊⁃៸៸᳐)ฅ咱是高三生 上线看到有空回复 还请多见谅｜感谢过门。🥹",
+        "id": "1948646111604080644",
+        "location": "唉",
+        "name": "优子酱issue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988232368923308034/1OMf18yB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19493,
+          "following_count": 376,
+          "like_count": 773,
+          "listed_count": 79,
+          "media_count": 175,
+          "tweet_count": 501
+        },
+        "username": "love_affair419",
+        "verified": false
+      }
+    ]
+  }
+}

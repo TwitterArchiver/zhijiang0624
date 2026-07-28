@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2022920047182917945",
+    "created_at": "2026-02-16T02:16:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T03:16:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023219997590573143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1967962536000753666",
+          "start": 0,
+          "username": "FUHGRC694lol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023219997590573143",
+    "in_reply_to_user_id": "1967962536000753666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022920047182917945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FUHGRC694lol 除夕快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2022920047182917945",
+        "created_at": "2026-02-16T02:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T03:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023219997590573143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1967962536000753666",
+              "start": 0,
+              "username": "FUHGRC694lol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023219997590573143",
+        "in_reply_to_user_id": "1967962536000753666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022920047182917945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FUHGRC694lol 除夕快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967962536000753666",
+        "conversation_id": "2022920047182917945",
+        "created_at": "2026-02-15T06:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T07:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022920047182917945"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022920047182917945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一定要像珍惜第一次性高潮一樣珍惜第一次第三高原。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 333,
+          "like_count": 2858,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 999
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-16T14:43:37.000Z",
+        "description": "我不知道我們可以交朋友我們可以一起嗑藥打膠割手靈魂永遠纏綿。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cultsphil",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cultsphil",
+                "start": 0,
+                "url": "https://t.co/jBwePHUXbF"
+              }
+            ]
+          }
+        },
+        "id": "1967962536000753666",
+        "location": "迷拉星",
+        "name": "死藤水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011620687623094272/DI5lY0RU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 34,
+          "like_count": 26761,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1052
+        },
+        "url": "https://t.co/jBwePHUXbF",
+        "username": "FUHGRC694lol",
+        "verified": false
+      }
+    ]
+  }
+}

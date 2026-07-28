@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2041734126269878378",
+    "created_at": "2026-04-08T05:37:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T06:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041752384729444507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1285630764185292800",
+          "start": 0,
+          "username": "Rin53__03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041752384729444507",
+    "in_reply_to_user_id": "1285630764185292800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041734126269878378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rin53__03 恭喜╰(*´)`*)〃！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2041734126269878378",
+        "created_at": "2026-04-08T05:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T06:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041752384729444507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1285630764185292800",
+              "start": 0,
+              "username": "Rin53__03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041752384729444507",
+        "in_reply_to_user_id": "1285630764185292800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041734126269878378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rin53__03 恭喜╰(*´)`*)〃！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1285630764185292800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2041734126269878378",
+        "created_at": "2026-04-08T04:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T05:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041734126269878378"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041734126269878378",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "数ヶ月の先延ばし癖の末、\nチョコザップへの入会に成功"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 655,
+          "like_count": 9933,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 2100
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-21T17:41:29.000Z",
+        "description": "🗼| 20↑|153㎝|鳴潮|HoYovers|🌈🕒 Sub→@mmnkrng 💌mmnkrng@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "mmnkrng"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/rin5303",
+                "end": 23,
+                "expanded_url": "https://lit.link/rin5303",
+                "start": 0,
+                "url": "https://t.co/FPN3am1GXJ"
+              }
+            ]
+          }
+        },
+        "id": "1285630764185292800",
+        "location": "DMは写真と連絡事項のみ",
+        "name": "超 桃猫りんご 4/4,4/5a!",
+        "pinned_tweet_id": "1997510563417731139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007045613087772672/d37tABcw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3927,
+          "following_count": 433,
+          "like_count": 98820,
+          "listed_count": 116,
+          "media_count": 913,
+          "tweet_count": 34264
+        },
+        "url": "https://t.co/FPN3am1GXJ",
+        "username": "Rin53__03",
+        "verified": true
+      }
+    ]
+  }
+}

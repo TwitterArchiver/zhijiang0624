@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2006555697505259767",
+    "created_at": "2026-01-01T04:38:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T05:38:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006585709214446036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1549239881469140992",
+          "start": 0,
+          "username": "simplyrotten"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006585709214446036",
+    "in_reply_to_user_id": "1549239881469140992",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006555697505259767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@simplyrotten This is not a good thing."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2006555697505259767",
+        "created_at": "2026-01-01T04:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T05:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006585709214446036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1549239881469140992",
+              "start": 0,
+              "username": "simplyrotten"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006585709214446036",
+        "in_reply_to_user_id": "1549239881469140992",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006555697505259767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@simplyrotten This is not a good thing."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549239881469140992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2006555697505259767",
+        "created_at": "2026-01-01T02:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T03:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006555697505259767"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006555697505259767",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 171,
+          "impression_count": 64432,
+          "like_count": 4762,
+          "quote_count": 33,
+          "reply_count": 39,
+          "retweet_count": 727
+        },
+        "reply_settings": "everyone",
+        "text": "killing yourself on new years probably feels good as fuck"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一个偶尔变得哲学或者厌世的重度自闭男生。理想大概就是想尽自己的绵薄之力尽量缝补这个世界支离破碎的一面吧",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730476491866349568/7MFnijBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 159,
+          "like_count": 443,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 329
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-19T03:49:28.000Z",
+        "description": "",
+        "id": "1549239881469140992",
+        "name": "rot",
+        "pinned_tweet_id": "1980029683006681138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005549620491960320/uZ93JvWo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17334,
+          "following_count": 318,
+          "like_count": 12022,
+          "listed_count": 31,
+          "media_count": 80,
+          "tweet_count": 5962
+        },
+        "username": "simplyrotten",
+        "verified": false
+      }
+    ]
+  }
+}

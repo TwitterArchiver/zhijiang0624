@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2077159191119339535",
+    "created_at": "2026-07-14T23:07:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T00:07:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077168259254878470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1871856668818227200",
+          "start": 0,
+          "username": "SEISEI_YUYU_EX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077168259254878470",
+    "in_reply_to_user_id": "1871856668818227200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077159191119339535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SEISEI_YUYU_EX 节哀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2077159191119339535",
+        "created_at": "2026-07-14T23:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T00:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077168259254878470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1871856668818227200",
+              "start": 0,
+              "username": "SEISEI_YUYU_EX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077168259254878470",
+        "in_reply_to_user_id": "1871856668818227200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077159191119339535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SEISEI_YUYU_EX 节哀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871856668818227200",
+        "conversation_id": "2077159191119339535",
+        "created_at": "2026-07-14T22:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T23:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077159191119339535"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077159191119339535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我长这么大 22年了 好不容易遇到一个愿意爱我的人 哪怕我和她没法最后一直幸福 但是最起码的也应该有暂时的温暖的、、\n结果她就这么死了\n哈哈哈\n老天爷你就这么整我是吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 762,
+          "like_count": 13540,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 2719
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-25T09:53:30.000Z",
+        "description": "04ライナーㅣ0D&リスカㅣ病み垢ㅣLanguage:🇨🇳🇯🇵🇰🇷🇰🇵🇻🇳🇬🇧🇫🇷ㅣ言語学が趣味ㅣ特撮ㅣポケモン\n\n永眠したニコイチ@Luca_yyy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "Luca_yyy"
+              }
+            ]
+          }
+        },
+        "id": "1871856668818227200",
+        "location": "XANADU",
+        "name": "青々悠々",
+        "pinned_tweet_id": "2071602421760147494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048474911338037248/XNMIyi5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 591,
+          "like_count": 8533,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1188
+        },
+        "url": "",
+        "username": "SEISEI_YUYU_EX",
+        "verified": false
+      }
+    ]
+  }
+}

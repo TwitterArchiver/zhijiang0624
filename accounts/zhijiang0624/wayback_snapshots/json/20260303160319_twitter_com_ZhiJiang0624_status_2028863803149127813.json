@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2028523729836528074",
+    "created_at": "2026-03-03T16:03:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T17:03:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028863803149127813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1574996383697817601",
+          "start": 0,
+          "username": "zzt50557238"
+        },
+        {
+          "end": 21,
+          "id": "1917047326990094336",
+          "start": 13,
+          "username": "0TwT012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028863803149127813",
+    "in_reply_to_user_id": "1574996383697817601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028856010291679684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzt50557238 @0TwT012 但是我偶尔真的会给自己上心脏复苏，心脏真的会偶尔休息"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2028523729836528074",
+        "created_at": "2026-03-03T16:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T17:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028863803149127813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1574996383697817601",
+              "start": 0,
+              "username": "zzt50557238"
+            },
+            {
+              "end": 21,
+              "id": "1917047326990094336",
+              "start": 13,
+              "username": "0TwT012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028863803149127813",
+        "in_reply_to_user_id": "1574996383697817601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028856010291679684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzt50557238 @0TwT012 但是我偶尔真的会给自己上心脏复苏，心脏真的会偶尔休息"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1574996383697817601",
+        "conversation_id": "2028523729836528074",
+        "created_at": "2026-03-03T15:32:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T16:32:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028856010291679684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "ZhiJiang0624"
+            },
+            {
+              "end": 22,
+              "id": "1917047326990094336",
+              "start": 14,
+              "username": "0TwT012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028856010291679684",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028843635182293165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhiJiang0624 @0TwT012 bro是不是有个哥们叫白金之星🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 522,
+          "like_count": 5199,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1534
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-28T05:36:47.000Z",
+        "description": "扎西得累，居住在妈妈省",
+        "id": "1574996383697817601",
+        "name": "理塘神棍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743087498711142400/uriCGszf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 254,
+          "like_count": 1492,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 28
+        },
+        "username": "zzt50557238",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/欢迎聊天💬//基本全是碎碎念 // 会互fo感兴趣的人—你喜欢我我喜欢你//讨厌没有礼貌的人   🔝开放提问箱：https://t.co/hLLfQQAfFm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 91,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 68,
+                "url": "https://t.co/hLLfQQAfFm"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 230,
+          "like_count": 502,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 478
+        },
+        "username": "0TwT012",
+        "verified": false
+      }
+    ]
+  }
+}

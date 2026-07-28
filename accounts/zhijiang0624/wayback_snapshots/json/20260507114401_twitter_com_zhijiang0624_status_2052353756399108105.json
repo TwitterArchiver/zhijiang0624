@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2052044362255597797",
+    "created_at": "2026-05-07T11:44:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T12:44:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052353756399108105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1851962067236065281",
+          "start": 0,
+          "username": "dzzzzz467732"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052353756399108105",
+    "in_reply_to_user_id": "1851962067236065281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052044362255597797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dzzzzz467732 可以说说怎么了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2052044362255597797",
+        "created_at": "2026-05-07T11:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T12:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052353756399108105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1851962067236065281",
+              "start": 0,
+              "username": "dzzzzz467732"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052353756399108105",
+        "in_reply_to_user_id": "1851962067236065281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052044362255597797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dzzzzz467732 可以说说怎么了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851962067236065281",
+        "conversation_id": "2052044362255597797",
+        "created_at": "2026-05-06T15:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T16:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052044362255597797"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052044362255597797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我完全行动不了，额可是可是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 681,
+          "like_count": 11582,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 2353
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-31T12:19:07.000Z",
+        "description": "去死吧",
+        "id": "1851962067236065281",
+        "name": "炸玉ちゃん，梦想笑了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989917042187931651/KRczj1M-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 256,
+          "like_count": 1981,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 951
+        },
+        "username": "dzzzzz467732",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2022339135147798960",
+    "created_at": "2026-02-14T15:46:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T16:46:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022698894455640271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1966711981622390785",
+          "start": 0,
+          "username": "xynmaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022698894455640271",
+    "in_reply_to_user_id": "1966711981622390785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022339135147798960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xynmaomao 生日快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2022339135147798960",
+        "created_at": "2026-02-14T15:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T16:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022698894455640271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1966711981622390785",
+              "start": 0,
+              "username": "xynmaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022698894455640271",
+        "in_reply_to_user_id": "1966711981622390785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022339135147798960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xynmaomao 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966711981622390785",
+        "conversation_id": "2022339135147798960",
+        "created_at": "2026-02-13T15:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022339135147798960"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022339135147798960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2447,
+          "like_count": 100,
+          "quote_count": 0,
+          "reply_count": 51,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有4分钟就是我生日了🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 300,
+          "like_count": 2419,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 791
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-13T03:54:27.000Z",
+        "description": "10后/无证/2024.9.1hrt/🚪50可加QQ 近的话可线下/身高177/体重110左右/可互fo/猫猫好欺负 不要欺负猫猫 会哭的 T^T女儿 @Y6747276299965 /欢迎同类找我聊天哦～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "Y6747276299965"
+              }
+            ]
+          }
+        },
+        "id": "1966711981622390785",
+        "name": "猫猫 🍥",
+        "pinned_tweet_id": "2020182491378905560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011130577395818496/bNqJvzde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 350,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 86
+        },
+        "username": "xynmaomao",
+        "verified": false
+      }
+    ]
+  }
+}

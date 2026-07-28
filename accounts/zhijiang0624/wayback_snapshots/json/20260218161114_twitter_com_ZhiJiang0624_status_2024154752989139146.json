@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2024150274751828055",
+    "created_at": "2026-02-18T16:11:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T17:11:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024154752989139146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2024030266264858624",
+          "start": 0,
+          "username": "Nlan1007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024154752989139146",
+    "in_reply_to_user_id": "2024030266264858624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024150274751828055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nlan1007 熬到一两点就睡觉吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2024150274751828055",
+        "created_at": "2026-02-18T16:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T17:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024154752989139146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2024030266264858624",
+              "start": 0,
+              "username": "Nlan1007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024154752989139146",
+        "in_reply_to_user_id": "2024030266264858624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024150274751828055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nlan1007 熬到一两点就睡觉吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024030266264858624",
+        "conversation_id": "2024150274751828055",
+        "created_at": "2026-02-18T15:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T16:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024150274751828055"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024150274751828055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "無聊，不想睡覺又不需想要隔天累死...\n\n話說我來推特的目的.....\n\n....其實忘了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 420,
+          "like_count": 3518,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1225
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T07:56:45.000Z",
+        "description": "像是有很多話想說，卻說不出的阻塞\n\n死在了無人問津的角落，隨著我的理想一起....逐漸被世人遺忘",
+        "id": "2024030266264858624",
+        "name": "蘭恩",
+        "pinned_tweet_id": "2024134614848028759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024035466807570434/MT2gDod0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 7,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "username": "Nlan1007",
+        "verified": false
+      }
+    ]
+  }
+}

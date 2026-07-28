@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2026262800985944365",
+    "created_at": "2026-02-25T04:14:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T05:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026510997289316555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1247769753097101318",
+          "start": 0,
+          "username": "X09COTCC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026510997289316555",
+    "in_reply_to_user_id": "1247769753097101318",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026262800985944365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X09COTCC 和用户名组起来就是我的名字和生日"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2026262800985944365",
+        "created_at": "2026-02-25T04:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T05:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026510997289316555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1247769753097101318",
+              "start": 0,
+              "username": "X09COTCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026510997289316555",
+        "in_reply_to_user_id": "1247769753097101318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026262800985944365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X09COTCC 和用户名组起来就是我的名字和生日"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247769753097101318",
+        "conversation_id": "2026262800985944365",
+        "created_at": "2026-02-24T11:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T12:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026262800985944365"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026262800985944365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 73894,
+          "like_count": 316,
+          "quote_count": 41,
+          "reply_count": 506,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "解释你们的网名现在！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 464,
+          "like_count": 4009,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1370
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-08T06:15:29.000Z",
+        "description": "Freaky",
+        "id": "1247769753097101318",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "太阳瓜",
+        "pinned_tweet_id": "1842967681949106335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976459986567053312/fJpGKW31_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7689,
+          "following_count": 1814,
+          "like_count": 168185,
+          "listed_count": 20,
+          "media_count": 1355,
+          "tweet_count": 46576
+        },
+        "username": "X09COTCC",
+        "verified": false
+      }
+    ]
+  }
+}

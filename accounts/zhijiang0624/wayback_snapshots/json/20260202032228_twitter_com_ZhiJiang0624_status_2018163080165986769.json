@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2018082194795757915",
+    "created_at": "2026-02-02T03:22:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T04:22:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018163080165986769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1996586866309783552",
+          "start": 0,
+          "username": "emptyazra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018163080165986769",
+    "in_reply_to_user_id": "1996586866309783552",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018082194795757915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@emptyazra Sometimes it's not necessary to do well or succeed. If everything is only based on results, then everyone's life is meaningless. So please don't be discouraged, you can improve"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2018082194795757915",
+        "created_at": "2026-02-02T03:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T04:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018163080165986769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1996586866309783552",
+              "start": 0,
+              "username": "emptyazra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018163080165986769",
+        "in_reply_to_user_id": "1996586866309783552",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018082194795757915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@emptyazra Sometimes it's not necessary to do well or succeed. If everything is only based on results, then everyone's life is meaningless. So please don't be discouraged, you can improve"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1996586866309783552",
+        "conversation_id": "2018082194795757915",
+        "created_at": "2026-02-01T22:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T23:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018082194795757915"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018082194795757915",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "my friend already knows what he's going to study and which university he will go to, most of my friends know already\n\nbut especially he used to be so depressed and unmotivated, i always felt so accompanied by him since i never did anything and he hardly did so too."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 371,
+          "like_count": 1909,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 661
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-04T14:26:27.000Z",
+        "description": ".    ¦♪͠ ꒰  🥀 . . . lancer  ₊  azrael      ͜  ͜   ݂۫   ͡   .\n  16y/o  he/it . . . shedtwt, ventwt\n// pro recovery! //\npriv: @_s0ulezz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 124,
+                "username": "_s0ulezz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "azrasvoid.straw.page",
+                "end": 23,
+                "expanded_url": "http://azrasvoid.straw.page",
+                "start": 0,
+                "url": "https://t.co/KjIP5JsAeQ"
+              }
+            ]
+          }
+        },
+        "id": "1996586866309783552",
+        "location": "your walls!!",
+        "name": "⋆˚.✰ ⁺. 𝔞𝔷𝔯𝔞𝔢𝔩 . 𖦹‧₊ 🫀",
+        "pinned_tweet_id": "2013697742191698373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011624960289087488/nKzsU72E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 626,
+          "like_count": 16160,
+          "listed_count": 23,
+          "media_count": 313,
+          "tweet_count": 5171
+        },
+        "url": "https://t.co/KjIP5JsAeQ",
+        "username": "emptyazra",
+        "verified": false
+      }
+    ]
+  }
+}

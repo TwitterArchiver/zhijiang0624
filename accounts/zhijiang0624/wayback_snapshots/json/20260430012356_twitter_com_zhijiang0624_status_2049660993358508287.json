@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "1977004906084286903",
+    "created_at": "2026-04-30T01:23:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T02:23:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049660993358508287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1564123466160566272",
+          "start": 0,
+          "username": "gao_jing523"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049660993358508287",
+    "in_reply_to_user_id": "1564123466160566272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977004906084286903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gao_jing523 曾经也有，但是后来也断了关系"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1045,
+        "media_key": "3_1977004900463919109",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2-7e3tbwAU3uq2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "1977004906084286903",
+        "created_at": "2026-04-30T01:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T02:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049660993358508287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1564123466160566272",
+              "start": 0,
+              "username": "gao_jing523"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049660993358508287",
+        "in_reply_to_user_id": "1564123466160566272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977004906084286903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gao_jing523 曾经也有，但是后来也断了关系"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977004900463919109"
+          ]
+        },
+        "author_id": "1564123466160566272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1977004906084286903",
+        "created_at": "2025-10-11T13:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T14:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977004906084286903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iz8epJ20dC",
+              "end": 23,
+              "expanded_url": "https://x.com/gao_jing523/status/1977004906084286903/photo/1",
+              "media_key": "3_1977004900463919109",
+              "start": 0,
+              "url": "https://t.co/iz8epJ20dC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977004906084286903",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2710,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/iz8epJ20dC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 679,
+          "like_count": 11308,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 2286
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-29T05:31:25.000Z",
+        "description": "别忘记我了…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/5Y6LFl6",
+                "end": 23,
+                "expanded_url": "https://b23.tv/5Y6LFl6",
+                "start": 0,
+                "url": "https://t.co/KTsdh8BPhq"
+              }
+            ]
+          }
+        },
+        "id": "1564123466160566272",
+        "name": "我想做长发男",
+        "pinned_tweet_id": "1977004906084286903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829877650305007619/LYqmOGzz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 244,
+          "like_count": 18965,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 750
+        },
+        "url": "https://t.co/KTsdh8BPhq",
+        "username": "gao_jing523",
+        "verified": false
+      }
+    ]
+  }
+}

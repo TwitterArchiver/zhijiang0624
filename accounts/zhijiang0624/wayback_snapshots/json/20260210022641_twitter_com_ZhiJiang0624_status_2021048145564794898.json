@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2020870528806850846",
+    "created_at": "2026-02-10T02:26:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T03:26:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021048145564794898"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 12,
+          "normalized_text": "很漂亮",
+          "probability": 0.6501,
+          "start": 10,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1737861608393895936",
+          "start": 0,
+          "username": "Ruzhen21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021048145564794898",
+    "in_reply_to_user_id": "1737861608393895936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020870528806850846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruzhen21 很漂亮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2020870516056477697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAuTBv6bUAE2CxJ.jpg",
+        "width": 863
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2020870528806850846",
+        "created_at": "2026-02-10T02:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T03:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021048145564794898"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "很漂亮",
+              "probability": 0.6501,
+              "start": 10,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1737861608393895936",
+              "start": 0,
+              "username": "Ruzhen21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021048145564794898",
+        "in_reply_to_user_id": "1737861608393895936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020870528806850846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruzhen21 很漂亮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020870516056477697"
+          ]
+        },
+        "author_id": "1737861608393895936",
+        "conversation_id": "2020870528806850846",
+        "created_at": "2026-02-09T14:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T15:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020870528806850846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PI8wPMhQNk",
+              "end": 23,
+              "expanded_url": "https://x.com/Ruzhen21/status/2020870528806850846/photo/1",
+              "media_key": "3_2020870516056477697",
+              "start": 0,
+              "url": "https://t.co/PI8wPMhQNk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020870528806850846",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 639,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PI8wPMhQNk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 389,
+          "like_count": 2163,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 701
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-21T15:44:40.000Z",
+        "description": "活得纯粹，成为纯粹。",
+        "id": "1737861608393895936",
+        "name": "如真",
+        "pinned_tweet_id": "1836516034901328056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1737877918083432448/bvvqxbPf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2250,
+          "following_count": 96,
+          "like_count": 1067,
+          "listed_count": 2,
+          "media_count": 105,
+          "tweet_count": 604
+        },
+        "username": "Ruzhen21",
+        "verified": false
+      }
+    ]
+  }
+}

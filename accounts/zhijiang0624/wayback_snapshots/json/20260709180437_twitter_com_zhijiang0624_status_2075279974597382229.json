@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2075101985083449719",
+    "created_at": "2026-07-09T18:04:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T19:04:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075279974597382229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2072837759098638337",
+          "start": 0,
+          "username": "zhoupuanv0"
+        },
+        {
+          "end": 22,
+          "id": "1701472172169187328",
+          "start": 12,
+          "username": "quan38639"
+        },
+        {
+          "end": 35,
+          "id": "1947793687158603778",
+          "start": 23,
+          "username": "zjl66667777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075279974597382229",
+    "in_reply_to_user_id": "2072837759098638337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075255141020688469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhoupuanv0 @quan38639 @zjl66667777 是真的会封"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2075101985083449719",
+        "created_at": "2026-07-09T18:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T19:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075279974597382229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2072837759098638337",
+              "start": 0,
+              "username": "zhoupuanv0"
+            },
+            {
+              "end": 22,
+              "id": "1701472172169187328",
+              "start": 12,
+              "username": "quan38639"
+            },
+            {
+              "end": 35,
+              "id": "1947793687158603778",
+              "start": 23,
+              "username": "zjl66667777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075279974597382229",
+        "in_reply_to_user_id": "2072837759098638337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075255141020688469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhoupuanv0 @quan38639 @zjl66667777 是真的会封"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072837759098638337",
+        "conversation_id": "2075101985083449719",
+        "created_at": "2026-07-09T16:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T17:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075255141020688469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1701472172169187328",
+              "start": 0,
+              "username": "quan38639"
+            },
+            {
+              "end": 23,
+              "id": "1947793687158603778",
+              "start": 11,
+              "username": "zjl66667777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075255141020688469",
+        "in_reply_to_user_id": "1701472172169187328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075234565040538064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quan38639 @zjl66667777 好骂兄弟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 752,
+          "like_count": 13422,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 2706
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-03T00:20:58.000Z",
+        "description": "666",
+        "id": "2072837759098638337",
+        "name": "zhoupu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075256251504582656/--IDaEfd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 31,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "zhoupuanv0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T05:46:22.000Z",
+        "description": "",
+        "id": "1701472172169187328",
+        "name": "泉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986021894324383744/QefMAsmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 21,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 156
+        },
+        "url": "",
+        "username": "quan38639",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T22:59:49.000Z",
+        "description": "重生号 | 174 | 大学在读 | 没有电报 |关注我的私信都会回～",
+        "id": "1947793687158603778",
+        "location": "🚪",
+        "name": "念念",
+        "pinned_tweet_id": "2043241270768988303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959636379878805504/GFLrcehn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4074,
+          "following_count": 83,
+          "like_count": 4740,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 322
+        },
+        "url": "",
+        "username": "zjl66667777",
+        "verified": false
+      }
+    ]
+  }
+}

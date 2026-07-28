@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2014246857481048442",
+    "created_at": "2026-01-22T10:22:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T11:22:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014282579512627313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1975041313403019264",
+          "start": 0,
+          "username": "maidinsara2gou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014282579512627313",
+    "in_reply_to_user_id": "1975041313403019264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014260782771621959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maidinsara2gou 私はゲームをしたり、散歩に出かけたりして、自分のために何かをしたりします。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2014246857481048442",
+        "created_at": "2026-01-22T10:22:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T11:22:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014282579512627313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1975041313403019264",
+              "start": 0,
+              "username": "maidinsara2gou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014282579512627313",
+        "in_reply_to_user_id": "1975041313403019264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014260782771621959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maidinsara2gou 私はゲームをしたり、散歩に出かけたりして、自分のために何かをしたりします。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975041313403019264",
+        "conversation_id": "2014246857481048442",
+        "created_at": "2026-01-22T08:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T09:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014260782771621959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "ZhiJiang0624"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014260782771621959",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014254627424972966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhiJiang0624 私はリラックスをすることが上手ではありません…。\nあなたはいつもどうしていますか？私も参考にして試してみたいです。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "你他妈的到底是谁？！莫名其妙跑到我的脑子里来做些莫名其妙的事！草你妈杀了你！",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 338,
+          "like_count": 1606,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 624
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T03:32:26.000Z",
+        "description": "@maidinsaraの緊急時アカウントです。本垢乗っ取られましたので奪還するまでこのアカウントでうごうごと動きます。\n皆さまには大変ご迷惑をおかけいたします。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "maidinsara"
+              }
+            ]
+          }
+        },
+        "id": "1975041313403019264",
+        "location": "東京都北区",
+        "name": "秣本瑳羅@緊急時用",
+        "pinned_tweet_id": "1975163687615754712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975168767484383232/VqCzrLUV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 22,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 123
+        },
+        "username": "maidinsara2gou",
+        "verified": false
+      }
+    ]
+  }
+}

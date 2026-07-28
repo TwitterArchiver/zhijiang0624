@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028718917657804800"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2028435356476194819",
+    "created_at": "2026-03-03T06:27:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T07:27:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028719000457551994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1476546742577504265",
+          "start": 0,
+          "username": "luoshuyao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t2mRoAbyHi",
+          "end": 52,
+          "expanded_url": "https://x.com/ZhiJiang0624/status/2028719000457551994/photo/1",
+          "media_key": "3_2028718917657804800",
+          "start": 29,
+          "url": "https://t.co/t2mRoAbyHi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028719000457551994",
+    "in_reply_to_user_id": "1476546742577504265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028435356476194819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luoshuyao 有个两分多钟的版本是免费了，泪目了 https://t.co/t2mRoAbyHi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028718917657804800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCd1G2QbwAANBad.jpg",
+        "width": 922
+      },
+      {
+        "duration_ms": 123623,
+        "height": 2400,
+        "media_key": "13_2028432712714031104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2028432712714031104/img/RCQu6uXL7pVNf0Zy.jpg",
+        "public_metrics": {
+          "view_count": 35
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028432712714031104/vid/avc1/320x710/duDT3sNYbWzn_F_C.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028432712714031104/vid/avc1/480x1066/6L9rUAXbb0H8l_W_.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028432712714031104/vid/avc1/720x1600/fwwaoIkytQxZUEZU.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2028432712714031104/pl/At5UVtB3Os4IeUNT.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028718917657804800"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2028435356476194819",
+        "created_at": "2026-03-03T06:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T07:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028719000457551994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t2mRoAbyHi",
+              "end": 52,
+              "expanded_url": "https://x.com/ZhiJiang0624/status/2028719000457551994/photo/1",
+              "media_key": "3_2028718917657804800",
+              "start": 29,
+              "url": "https://t.co/t2mRoAbyHi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028719000457551994",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028435356476194819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 有个两分多钟的版本是免费了，泪目了 https://t.co/t2mRoAbyHi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2028432712714031104"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2028435356476194819",
+        "created_at": "2026-03-02T11:40:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T12:40:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028435356476194819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NnwWGocKLu",
+              "end": 168,
+              "expanded_url": "https://x.com/luoshuyao/status/2028435356476194819/video/1",
+              "media_key": "13_2028432712714031104",
+              "start": 145,
+              "url": "https://t.co/NnwWGocKLu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028435356476194819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "9年前还在上初中的时候，班上一个女孩子给我弹了一首钢琴曲，虽然后面崩了而且当时语音上限只有120秒，但是那时的我一直觉得好好听，她真的好厉害，也因此爱上了纯音乐。\n当时她没有告诉我这首曲子叫什么名字，直到几个月后的某一天，QQ音乐正好给我推了这首曲子：River Flows in You https://t.co/NnwWGocKLu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 508,
+          "like_count": 4958,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1489
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "INFP‖究极社恐‖什么都发，偶尔会平静的发疯。欢迎和所有人类交朋友，反社会反人类的物种除外。不键政，不聊H。目前已经是步入社会的苦命打工人。（但其实我一直感觉自己还是个孩子）\n欢迎互fo",
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027060681129009153/S2K_RWOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 100,
+          "like_count": 501,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 204
+        },
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

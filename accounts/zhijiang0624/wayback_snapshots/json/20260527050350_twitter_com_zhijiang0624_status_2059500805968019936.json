@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2059191662367445110",
+    "created_at": "2026-05-27T05:03:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T06:03:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059500805968019936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "909616671647662080",
+          "start": 0,
+          "username": "SulivenMark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059500805968019936",
+    "in_reply_to_user_id": "909616671647662080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059191662367445110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SulivenMark 傻逼吧你ai制作别人的视频，死妈杂种我日你马勒戈壁"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11145,
+        "height": 1024,
+        "media_key": "13_2059191587729743874",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059191587729743874/img/dqXRm7fTLQZ-lATq.jpg",
+        "public_metrics": {
+          "view_count": 27977
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059191587729743874/vid/avc1/320x568/EMCy5E8BITJsrw8I.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059191587729743874/vid/avc1/480x852/4VdW42_QHAsYwi4I.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059191587729743874/vid/avc1/576x1024/URNfipXdOhXyNcok.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059191587729743874/pl/aFxYuX6LbKrxaFOe.m3u8?tag=14"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2059191662367445110",
+        "created_at": "2026-05-27T05:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059500805968019936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "909616671647662080",
+              "start": 0,
+              "username": "SulivenMark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059500805968019936",
+        "in_reply_to_user_id": "909616671647662080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059191662367445110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SulivenMark 傻逼吧你ai制作别人的视频，死妈杂种我日你马勒戈壁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059191587729743874"
+          ]
+        },
+        "author_id": "909616671647662080",
+        "conversation_id": "2059191662367445110",
+        "created_at": "2026-05-26T08:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059191662367445110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fhQedvf0Jo",
+              "end": 49,
+              "expanded_url": "https://x.com/SulivenMark/status/2059191662367445110/video/1",
+              "media_key": "13_2059191587729743874",
+              "start": 26,
+              "url": "https://t.co/fhQedvf0Jo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059191662367445110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1718,
+          "impression_count": 47301,
+          "like_count": 4795,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 312
+        },
+        "reply_settings": "everyone",
+        "text": "经常听别人说快奔三之后，欲望会变大   是真的吗？ https://t.co/fhQedvf0Jo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 704,
+          "like_count": 12234,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 2540
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-18T03:14:49.000Z",
+        "description": "人家出生在罗马 我出生就是牛马",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t58g.top",
+                "end": 23,
+                "expanded_url": "https://t58g.top",
+                "start": 0,
+                "url": "https://t.co/GdEzRijDUj"
+              }
+            ]
+          }
+        },
+        "id": "909616671647662080",
+        "location": "线下这里月哦👉",
+        "name": "吖冰",
+        "pinned_tweet_id": "2059382824915055016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043575576179703808/zx5hxfUu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3776,
+          "following_count": 21,
+          "like_count": 14,
+          "listed_count": 9,
+          "media_count": 15,
+          "tweet_count": 16
+        },
+        "url": "https://t.co/GdEzRijDUj",
+        "username": "SulivenMark",
+        "verified": false
+      }
+    ]
+  }
+}

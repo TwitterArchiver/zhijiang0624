@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2073151640236892352",
+    "created_at": "2026-07-04T17:16:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T18:16:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073455869208269092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1567668955661144064",
+          "start": 0,
+          "username": "jxtsummer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073455869208269092",
+    "in_reply_to_user_id": "1567668955661144064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073151640236892352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jxtsummer 伤害身体治疗心灵\n居然是等价交换的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2073151640236892352",
+        "created_at": "2026-07-04T17:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073455869208269092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1567668955661144064",
+              "start": 0,
+              "username": "jxtsummer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073455869208269092",
+        "in_reply_to_user_id": "1567668955661144064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073151640236892352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jxtsummer 伤害身体治疗心灵\n居然是等价交换的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567668955661144064",
+        "conversation_id": "2073151640236892352",
+        "created_at": "2026-07-03T21:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T22:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073151640236892352"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073151640236892352",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2546,
+          "impression_count": 697449,
+          "like_count": 39289,
+          "quote_count": 1331,
+          "reply_count": 243,
+          "retweet_count": 10097
+        },
+        "reply_settings": "everyone",
+        "text": "you gotta learn to heal without venting to everyone"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 724,
+          "like_count": 12988,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 2645
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-08T00:19:53.000Z",
+        "description": "ɹǝsɐɥɔ ɯɐǝɹp || 𝚍𝚖 𝚏𝚘𝚛 𝚊𝚍𝚜 𝚊𝚗𝚍 𝚙𝚛📩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/jxtsummer_?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/jxtsummer_?igsh=MWZkMDNoMHpoNGdhYQ==",
+                "start": 0,
+                "url": "https://t.co/62rc7asXlE"
+              }
+            ]
+          }
+        },
+        "id": "1567668955661144064",
+        "name": "$",
+        "pinned_tweet_id": "2046214707464249396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019237494219329536/eOvPb-5N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7785,
+          "following_count": 531,
+          "like_count": 8148,
+          "listed_count": 10,
+          "media_count": 392,
+          "tweet_count": 6725
+        },
+        "url": "https://t.co/62rc7asXlE",
+        "username": "jxtsummer",
+        "verified": false
+      }
+    ]
+  }
+}

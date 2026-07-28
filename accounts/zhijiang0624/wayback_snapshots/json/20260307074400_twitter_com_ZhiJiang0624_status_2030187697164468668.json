@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2030136363497181490",
+    "created_at": "2026-03-07T07:44:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T08:44:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030187697164468668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2017361313010208768",
+          "start": 0,
+          "username": "RoseMoore295736"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030187697164468668",
+    "in_reply_to_user_id": "2017361313010208768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030186952214122668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RoseMoore295736 滚你妈逼死杂种"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2030136363497181490",
+        "created_at": "2026-03-07T07:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T08:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030187697164468668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2017361313010208768",
+              "start": 0,
+              "username": "RoseMoore295736"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030187697164468668",
+        "in_reply_to_user_id": "2017361313010208768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030186952214122668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RoseMoore295736 滚你妈逼死杂种"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017361313010208768",
+        "conversation_id": "2030136363497181490",
+        "created_at": "2026-03-07T07:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T08:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030186952214122668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "ZhiJiang0624"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030186952214122668",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030136363497181490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhiJiang0624 🎌😑🙏可到付"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 570,
+          "like_count": 7035,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1731
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-30T22:16:56.000Z",
+        "description": "#香烟🚬\n#口粮🚬\n#免税香烟，一条起发，全国包邮!\n#货到付款，品类齐全/低价/保真!\n和天下380，中华细金边260,\n软阳光0，软中华280-329，等等高低端口粮🚬\n#价格低至冰点，量大价格从优!\n咨询联系点击下方✈群找我↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "香烟"
+              },
+              {
+                "end": 8,
+                "start": 5,
+                "tag": "口粮"
+              },
+              {
+                "end": 15,
+                "start": 10,
+                "tag": "免税香烟"
+              },
+              {
+                "end": 32,
+                "start": 27,
+                "tag": "货到付款"
+              },
+              {
+                "end": 94,
+                "start": 87,
+                "tag": "价格低至冰点"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aCI18GGQixJjM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aCI18GGQixJjMDA1",
+                "start": 0,
+                "url": "https://t.co/jLFLaaTgw6"
+              }
+            ]
+          }
+        },
+        "id": "2017361313010208768",
+        "location": "加✈群咨询下单👉👉👉",
+        "name": "软阳光利群软中华煊赫门和天下1916烟草中国烟草荷花大苏小苏卡比龙鸿运口粮黄鹤楼和天下天叶大重九",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029068491689795584/dfqOkoEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 230
+        },
+        "url": "https://t.co/jLFLaaTgw6",
+        "username": "RoseMoore295736",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2075230111784378384",
+    "created_at": "2026-07-09T17:57:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T18:57:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075278082261635188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2029957028807118848",
+          "start": 0,
+          "username": "Go_Karagawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075278082261635188",
+    "in_reply_to_user_id": "2029957028807118848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075235227946094675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Go_Karagawa 别吧……"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2075235227946094675].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2075235227946094675",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2075235227946094675"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2075230111784378384",
+        "created_at": "2026-07-09T17:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T18:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075278082261635188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029957028807118848",
+              "start": 0,
+              "username": "Go_Karagawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075278082261635188",
+        "in_reply_to_user_id": "2029957028807118848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075235227946094675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Go_Karagawa 别吧……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 750,
+          "like_count": 13416,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 2699
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T16:28:44.000Z",
+        "description": "「This is your last wish.」\n最可爱的妹妹♡：@starSpring_0\n@MeraK_Rinchi的逃生舱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "starSpring_0"
+              },
+              {
+                "end": 61,
+                "start": 48,
+                "username": "MeraK_Rinchi"
+              }
+            ]
+          }
+        },
+        "id": "2029957028807118848",
+        "location": "德国-波茨坦",
+        "name": "空川小五",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072184414617182208/47ioxjM2_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 40,
+          "like_count": 245,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "Go_Karagawa",
+        "verified": false
+      }
+    ]
+  }
+}

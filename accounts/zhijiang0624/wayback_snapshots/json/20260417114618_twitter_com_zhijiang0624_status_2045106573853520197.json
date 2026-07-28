@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2044721651124994335",
+    "created_at": "2026-04-17T11:46:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T12:46:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045106573853520197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1044140195568742400",
+          "start": 0,
+          "username": "jiojiolang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045106573853520197",
+    "in_reply_to_user_id": "1044140195568742400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044721651124994335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiojiolang 当常识、对他人基本的尊重变成了加分项\n我知道了\n我现在在亚空间\n色孽奸奇恐虐纳垢还是帝皇谁都好\n谁来救我一下？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2044721651124994335",
+        "created_at": "2026-04-17T11:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T12:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045106573853520197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1044140195568742400",
+              "start": 0,
+              "username": "jiojiolang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045106573853520197",
+        "in_reply_to_user_id": "1044140195568742400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044721651124994335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiojiolang 当常识、对他人基本的尊重变成了加分项\n我知道了\n我现在在亚空间\n色孽奸奇恐虐纳垢还是帝皇谁都好\n谁来救我一下？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1044140195568742400",
+        "conversation_id": "2044721651124994335",
+        "created_at": "2026-04-16T10:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T11:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044721651124994335"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044721651124994335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 13798,
+          "like_count": 272,
+          "quote_count": 3,
+          "reply_count": 59,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "推特上男生的加分项:\n①不给别人发屌照\n②不在主页发屌照\n③不问别人想不想看你的屌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 666,
+          "like_count": 10687,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 2179
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-24T08:23:16.000Z",
+        "description": "我望着月亮，却只看见了你。",
+        "id": "1044140195568742400",
+        "location": "中国",
+        "name": "电子止痛药♡",
+        "pinned_tweet_id": "2043283801414176882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042402468605411330/-8bQnGNl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 179,
+          "like_count": 536,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 160
+        },
+        "username": "jiojiolang",
+        "verified": false
+      }
+    ]
+  }
+}

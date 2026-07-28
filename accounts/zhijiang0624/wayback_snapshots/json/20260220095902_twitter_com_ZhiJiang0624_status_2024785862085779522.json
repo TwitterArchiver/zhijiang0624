@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2024705372964131036",
+    "created_at": "2026-02-20T09:59:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T10:59:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024785862085779522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2001821328584929280",
+          "start": 0,
+          "username": "cwmgdnn0305"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024785862085779522",
+    "in_reply_to_user_id": "2001821328584929280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024705372964131036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cwmgdnn0305 换个节点"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1364,
+        "media_key": "3_2024705370669936640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBkyzqmbcAAptbK.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2024705372964131036",
+        "created_at": "2026-02-20T09:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T10:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024785862085779522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2001821328584929280",
+              "start": 0,
+              "username": "cwmgdnn0305"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024785862085779522",
+        "in_reply_to_user_id": "2001821328584929280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024705372964131036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cwmgdnn0305 换个节点"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024705370669936640"
+          ]
+        },
+        "author_id": "2001821328584929280",
+        "conversation_id": "2024705372964131036",
+        "created_at": "2026-02-20T04:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T05:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024705372964131036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PfgbKg4p3R",
+              "end": 34,
+              "expanded_url": "https://x.com/cwmgdnn0305/status/2024705372964131036/photo/1",
+              "media_key": "3_2024705370669936640",
+              "start": 11,
+              "url": "https://t.co/PfgbKg4p3R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024705372964131036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "。推特你就这样对我。 https://t.co/PfgbKg4p3R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 426,
+          "like_count": 3657,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1264
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-19T01:06:51.000Z",
+        "description": "餐券女   日常是一个非常温良的妹子可以随便找我倾诉哦   可以称呼我为楠楠   od💊喜欢右美（库存快没了，只能先o玉米片，虽然很苦但是解离带来的升天感好喜欢）感康（虽然很难受不过它给我的幻觉是难以想象的，喜欢）白兔，pr80（比较喜欢的，好幸福）你喜欢我＝我喜欢你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cwmgdnn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cwmgdnn",
+                "start": 0,
+                "url": "https://t.co/jtBG6h7WY2"
+              }
+            ]
+          }
+        },
+        "id": "2001821328584929280",
+        "location": "Tokyo-to, Japan",
+        "name": "…",
+        "pinned_tweet_id": "2022170822077722927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021498682844315648/hNPyW2zW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 163,
+          "like_count": 1256,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 308
+        },
+        "url": "https://t.co/jtBG6h7WY2",
+        "username": "cwmgdnn0305",
+        "verified": false
+      }
+    ]
+  }
+}

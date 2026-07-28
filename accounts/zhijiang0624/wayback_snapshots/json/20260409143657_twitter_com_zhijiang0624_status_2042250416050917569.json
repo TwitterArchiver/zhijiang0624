@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2042250416050917569",
+    "created_at": "2026-04-09T14:36:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T15:36:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042250416050917569"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042250416050917569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一个没注意睡着了\n街上也没什么餐馆开着了\n难道我又得饿一晚上吗？\n（大悲）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2042250416050917569",
+        "created_at": "2026-04-09T14:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T15:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042250416050917569"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042250416050917569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个没注意睡着了\n街上也没什么餐馆开着了\n难道我又得饿一晚上吗？\n（大悲）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 656,
+          "like_count": 10088,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 2111
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      }
+    ]
+  }
+}

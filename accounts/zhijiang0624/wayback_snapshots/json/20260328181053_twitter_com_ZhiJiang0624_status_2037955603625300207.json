@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2037955603625300207",
+    "created_at": "2026-03-28T18:10:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T19:10:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037955603625300207"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037955603625300207",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "遗忘素来都是文明延续中的一道坎\n对于追求完美的文明而言\n是“圆”上无法避免的裂痕\n无数挑战自然的搏斗、延续的成果\n它们不毁于战火、不毁于封锁\n而在于遗忘\n但\n遗忘未必只是裂痕\n正是因为会遗忘\n人类才不得不反复追问、重新创造、不断重构先人走过的路\n如果不留进行变通的空间\n所有东西都会止步不前"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2037955603625300207",
+        "created_at": "2026-03-28T18:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T19:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037955603625300207"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037955603625300207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "遗忘素来都是文明延续中的一道坎\n对于追求完美的文明而言\n是“圆”上无法避免的裂痕\n无数挑战自然的搏斗、延续的成果\n它们不毁于战火、不毁于封锁\n而在于遗忘\n但\n遗忘未必只是裂痕\n正是因为会遗忘\n人类才不得不反复追问、重新创造、不断重构先人走过的路\n如果不留进行变通的空间\n所有东西都会止步不前"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n07年纯种神经病\n如果哪里说得有错还请麻烦指点一下谢谢。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 614,
+          "like_count": 9126,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1969
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2028652662414266496",
+    "created_at": "2026-03-03T10:16:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T11:16:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028776607096471786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1986085289635491840",
+          "start": 0,
+          "username": "KkJLXOOmo151229"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028776607096471786",
+    "in_reply_to_user_id": "1986085289635491840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028776315349090466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KkJLXOOmo151229 用针在手臂上挖洞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2028652662414266496",
+        "created_at": "2026-03-03T10:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T11:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028776607096471786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1986085289635491840",
+              "start": 0,
+              "username": "KkJLXOOmo151229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028776607096471786",
+        "in_reply_to_user_id": "1986085289635491840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028776315349090466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KkJLXOOmo151229 用针在手臂上挖洞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986085289635491840",
+        "conversation_id": "2028652662414266496",
+        "created_at": "2026-03-03T10:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T11:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028776315349090466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "ZhiJiang0624"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028776315349090466",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028652662414266496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhiJiang0624 什么开眼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 511,
+          "like_count": 5032,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1502
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-05T14:57:01.000Z",
+        "description": "爱因爱太过沉重而拒绝理解爱",
+        "id": "1986085289635491840",
+        "name": "winkky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022631145700290560/t4ZjTA-V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 18,
+          "like_count": 843,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 250
+        },
+        "username": "KkJLXOOmo151229",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2047246947740996030",
+    "created_at": "2026-04-23T14:48:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T15:48:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047326664481448440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1739391734491086848",
+          "start": 0,
+          "username": "IXXA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047326664481448440",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047246947740996030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IXXA00 很漂亮啊朋友😃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047246945270616064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGlIP_xb0AAA9gP.jpg",
+        "width": 1148
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2047246947740996030",
+        "created_at": "2026-04-23T14:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047326664481448440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047326664481448440",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047246947740996030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 很漂亮啊朋友😃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047246945270616064"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "2047246947740996030",
+        "created_at": "2026-04-23T09:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T10:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047246947740996030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RpsmFMUsZJ",
+              "end": 48,
+              "expanded_url": "https://x.com/IXXA00/status/2047246947740996030/photo/1",
+              "media_key": "3_2047246945270616064",
+              "start": 25,
+              "url": "https://t.co/RpsmFMUsZJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047246947740996030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1727,
+          "like_count": 75,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看图识字，第一课：\n\nlǎo poi\n老   婆 https://t.co/RpsmFMUsZJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 663,
+          "like_count": 10860,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 2199
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "35yo/男/已婚人妻/敏感，脆弱，缺乏安全感，冷漠，焦虑，如果这样也没关系的话，那么请享受我给你的爱。/https://t.co/UDk836ufY8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ixxa00",
+                "end": 76,
+                "expanded_url": "https://ngl.link/ixxa00",
+                "start": 53,
+                "url": "https://t.co/UDk836ufY8"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "鞍山市",
+        "name": "i",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6585,
+          "following_count": 4412,
+          "like_count": 38471,
+          "listed_count": 19,
+          "media_count": 2769,
+          "tweet_count": 38521
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2030261212039323977",
+    "created_at": "2026-03-07T16:33:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T17:33:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030321006410441004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1613066923801202689",
+          "start": 0,
+          "username": "tingDavid6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030321006410441004",
+    "in_reply_to_user_id": "1613066923801202689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030317297366135283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tingDavid6 语文怎么样都考不差的吧……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2030261212039323977",
+        "created_at": "2026-03-07T16:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T17:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030321006410441004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1613066923801202689",
+              "start": 0,
+              "username": "tingDavid6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030321006410441004",
+        "in_reply_to_user_id": "1613066923801202689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030317297366135283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingDavid6 语文怎么样都考不差的吧……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613066923801202689",
+        "conversation_id": "2030261212039323977",
+        "created_at": "2026-03-07T16:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T17:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030317297366135283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "ZhiJiang0624"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030317297366135283",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030261212039323977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhiJiang0624 如果对自己的要求较高的话，就像是要是语文没考好那其他科也就没有考的必要了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 576,
+          "like_count": 7263,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1752
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T06:55:12.000Z",
+        "description": "用骄傲对待骄傲的前额，\n用善良对待善良的心肠：\n这是我一生永恒的规律，\n只有采摘玫瑰才弯下脊梁。",
+        "id": "1613066923801202689",
+        "location": "Sapporo City Atsubetsu Ward",
+        "name": "ting David",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966948242643660800/kVOAWdFg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 886,
+          "like_count": 4727,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 1076
+        },
+        "username": "tingDavid6",
+        "verified": false
+      }
+    ]
+  }
+}

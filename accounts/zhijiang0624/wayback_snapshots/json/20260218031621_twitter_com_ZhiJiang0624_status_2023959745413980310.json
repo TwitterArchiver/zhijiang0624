@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2023853520114643416",
+    "created_at": "2026-02-18T03:16:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T04:16:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023959745413980310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1697580552793051136",
+          "start": 0,
+          "username": "yyc20090"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023959745413980310",
+    "in_reply_to_user_id": "1697580552793051136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023853520114643416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyc20090 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023853517593812992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBYsDSmaoAA1Dcq.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2023853520114643416",
+        "created_at": "2026-02-18T03:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T04:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023959745413980310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1697580552793051136",
+              "start": 0,
+              "username": "yyc20090"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023959745413980310",
+        "in_reply_to_user_id": "1697580552793051136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023853520114643416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyc20090 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023853517593812992"
+          ]
+        },
+        "author_id": "1697580552793051136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2023853520114643416",
+        "created_at": "2026-02-17T20:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T21:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023853520114643416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NAyw6DsFII",
+              "end": 33,
+              "expanded_url": "https://x.com/yyc20090/status/2023853520114643416/photo/1",
+              "media_key": "3_2023853517593812992",
+              "start": 10,
+              "url": "https://t.co/NAyw6DsFII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023853520114643416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 728,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是小寻生日了呢 https://t.co/NAyw6DsFII"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 419,
+          "like_count": 3458,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1203
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-01T12:02:04.000Z",
+        "description": "已失踪（失踪日期2026.2.4） 小寻代管账号中最新消息请联系https://t.co/OyvLSQqYbb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xiaoxunjiang",
+                "end": 55,
+                "expanded_url": "http://t.me/xiaoxunjiang",
+                "start": 32,
+                "url": "https://t.co/OyvLSQqYbb"
+              }
+            ]
+          }
+        },
+        "id": "1697580552793051136",
+        "location": "Southern District, Hong Kong",
+        "name": "yyxx🍥（已失联 小寻代管中）",
+        "pinned_tweet_id": "2019051669858746399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004799068204400643/jaUwPByl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2848,
+          "following_count": 825,
+          "like_count": 2804,
+          "listed_count": 2,
+          "media_count": 256,
+          "tweet_count": 1718
+        },
+        "username": "yyc20090",
+        "verified": false
+      }
+    ]
+  }
+}

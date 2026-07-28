@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2055761707721695610",
+    "created_at": "2026-05-16T21:25:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T22:25:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055761707721695610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1821153303834873856",
+          "start": 3,
+          "username": "konato_11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055761707721695610",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055697824960983215",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @konato_11: 大家朋友圈玩玩520的梗就得了 别今天真发个对象出来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2055761707721695610",
+        "created_at": "2026-05-16T21:25:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T22:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055761707721695610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1821153303834873856",
+              "start": 3,
+              "username": "konato_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055761707721695610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055697824960983215",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @konato_11: 大家朋友圈玩玩520的梗就得了 别今天真发个对象出来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821153303834873856",
+        "conversation_id": "2055697824960983215",
+        "created_at": "2026-05-16T17:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T18:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055697824960983215"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055697824960983215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家朋友圈玩玩520的梗就得了 别今天真发个对象出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 692,
+          "like_count": 11911,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 2445
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T11:56:08.000Z",
+        "description": "日常",
+        "id": "1821153303834873856",
+        "name": "小会",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042678437090136064/uZ9PE1TZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 69,
+          "like_count": 4125,
+          "listed_count": 1,
+          "media_count": 594,
+          "tweet_count": 3192
+        },
+        "username": "konato_11",
+        "verified": false
+      }
+    ]
+  }
+}

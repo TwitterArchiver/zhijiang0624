@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2047321762552299810",
+    "created_at": "2026-04-23T14:48:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T15:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047326726779465817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1762309555386769408",
+          "start": 0,
+          "username": "O_DROP_DEAD_O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047326726779465817",
+    "in_reply_to_user_id": "1762309555386769408",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047321762552299810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@O_DROP_DEAD_O ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2047321762552299810",
+        "created_at": "2026-04-23T14:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047326726779465817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1762309555386769408",
+              "start": 0,
+              "username": "O_DROP_DEAD_O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047326726779465817",
+        "in_reply_to_user_id": "1762309555386769408",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047321762552299810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@O_DROP_DEAD_O ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762309555386769408",
+        "conversation_id": "2047321762552299810",
+        "created_at": "2026-04-23T14:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047321762552299810"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047321762552299810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怀孕四个月了……如何"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 663,
+          "like_count": 10862,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 2200
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T02:52:13.000Z",
+        "description": "Hope I can drop dead😋\n呼呼呼呼呼biubiubiuboomboomboomdamnyoudeadbitchfuckingdierightmeow!",
+        "id": "1762309555386769408",
+        "name": "Calling",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924121102449614848/X2tFTgBV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 426,
+          "like_count": 488,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 1363
+        },
+        "username": "O_DROP_DEAD_O",
+        "verified": false
+      }
+    ]
+  }
+}

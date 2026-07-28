@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2028875531580756057",
+    "created_at": "2026-03-03T16:52:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T17:52:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028876178015342910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2015770770576678912",
+          "start": 0,
+          "username": "Stewie071105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028876178015342910",
+    "in_reply_to_user_id": "2015770770576678912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028875531580756057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stewie071105 快点清理吧，干了的话就不好清理了\n记得消毒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028875513096466432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCgDh5uacAA2pr0.jpg",
+        "width": 1706
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028875513113284608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCgDh5ybEAA4V98.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2028875531580756057",
+        "created_at": "2026-03-03T16:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T17:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028876178015342910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2015770770576678912",
+              "start": 0,
+              "username": "Stewie071105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028876178015342910",
+        "in_reply_to_user_id": "2015770770576678912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028875531580756057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stewie071105 快点清理吧，干了的话就不好清理了\n记得消毒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028875513096466432",
+            "3_2028875513113284608"
+          ]
+        },
+        "author_id": "2015770770576678912",
+        "conversation_id": "2028875531580756057",
+        "created_at": "2026-03-03T16:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T17:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028875531580756057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1KdzZkRw1i",
+              "end": 27,
+              "expanded_url": "https://x.com/Stewie071105/status/2028875531580756057/photo/1",
+              "media_key": "3_2028875513096466432",
+              "start": 4,
+              "url": "https://t.co/1KdzZkRw1i"
+            },
+            {
+              "display_url": "pic.x.com/1KdzZkRw1i",
+              "end": 27,
+              "expanded_url": "https://x.com/Stewie071105/status/2028875531580756057/photo/1",
+              "media_key": "3_2028875513113284608",
+              "start": 4,
+              "url": "https://t.co/1KdzZkRw1i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028875531580756057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操你妈 https://t.co/1KdzZkRw1i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 527,
+          "like_count": 5271,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1552
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-26T12:56:27.000Z",
+        "description": "骂我死全家 🚪52",
+        "id": "2015770770576678912",
+        "name": "饺子",
+        "pinned_tweet_id": "2020173140572483854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020843589862055936/g-5BpMGq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 24,
+          "like_count": 14,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 147
+        },
+        "username": "Stewie071105",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2052379466681159686",
+    "created_at": "2026-05-07T13:36:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T14:36:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052381938871402854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1945375974419529728",
+          "start": 0,
+          "username": "xngchn351390"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052381938871402854",
+    "in_reply_to_user_id": "1945375974419529728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052381644909097383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xngchn351390 这有什么问题吗？\n超出自己能力范围的，那就不属于自己，无视即可"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2052379466681159686",
+        "created_at": "2026-05-07T13:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052381938871402854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1945375974419529728",
+              "start": 0,
+              "username": "xngchn351390"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052381938871402854",
+        "in_reply_to_user_id": "1945375974419529728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052381644909097383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xngchn351390 这有什么问题吗？\n超出自己能力范围的，那就不属于自己，无视即可"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945375974419529728",
+        "conversation_id": "2052379466681159686",
+        "created_at": "2026-05-07T13:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052381644909097383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "zhijiang0624"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052381644909097383",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052380467639574609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhijiang0624 没事，就是一直在逃避一些事情，永远都不敢去面对"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 681,
+          "like_count": 11596,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 2355
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-16T06:52:38.000Z",
+        "description": "",
+        "id": "1945375974419529728",
+        "name": "星泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035863428326113280/6fBruEi5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 18,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 20
+        },
+        "username": "xngchn351390",
+        "verified": false
+      }
+    ]
+  }
+}

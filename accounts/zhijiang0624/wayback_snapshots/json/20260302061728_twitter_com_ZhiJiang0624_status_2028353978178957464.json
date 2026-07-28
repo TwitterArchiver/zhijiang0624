@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2028184839292371080",
+    "created_at": "2026-03-02T06:17:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T07:17:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028353978178957464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1531375166411907073",
+          "start": 0,
+          "username": "biantaishayu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028353978178957464",
+    "in_reply_to_user_id": "1531375166411907073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028184839292371080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@biantaishayu 现在已经放弃思考了，只想着之后跟着亲戚去打工，考个汽车驾照，买辆二手汽车，最后弄个房子整个容，然后就什么都无所谓了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2028184839292371080",
+        "created_at": "2026-03-02T06:17:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T07:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028353978178957464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1531375166411907073",
+              "start": 0,
+              "username": "biantaishayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028353978178957464",
+        "in_reply_to_user_id": "1531375166411907073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028184839292371080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@biantaishayu 现在已经放弃思考了，只想着之后跟着亲戚去打工，考个汽车驾照，买辆二手汽车，最后弄个房子整个容，然后就什么都无所谓了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1531375166411907073",
+        "conversation_id": "2028184839292371080",
+        "created_at": "2026-03-01T19:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T20:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028184839292371080"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028184839292371080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 14541,
+          "like_count": 183,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "谁让你读了这么多书，又见了这么多世面。如果从小你就在这个天地里日出干活，日落操逼，那你现在就会和众乡亲抱同一理想：经过几年的辛劳，像大哥一样38万8娶个满意的媳妇，生个胖儿子，加上你的体魄，会成为一名出色的庄稼汉。你就是知道的太多了，思考的太多了，因此才有了这些莫名其妙的苦恼.…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 484,
+          "like_count": 4574,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1412
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-30T20:41:06.000Z",
+        "description": "这个人很懒什么，也没有留下。",
+        "id": "1531375166411907073",
+        "name": "徐小樱🌸重生版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027716886478393348/pDrIvgZN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1329,
+          "following_count": 401,
+          "like_count": 164,
+          "listed_count": 3,
+          "media_count": 23,
+          "tweet_count": 437
+        },
+        "username": "biantaishayu",
+        "verified": false
+      }
+    ]
+  }
+}

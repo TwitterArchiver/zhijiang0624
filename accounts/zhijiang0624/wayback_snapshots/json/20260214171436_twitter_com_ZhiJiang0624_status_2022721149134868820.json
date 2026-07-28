@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2014006355607105888",
+    "created_at": "2026-02-14T17:14:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T18:14:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022721149134868820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1541224736214003712",
+          "start": 0,
+          "username": "tenshi_0210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022721149134868820",
+    "in_reply_to_user_id": "1541224736214003712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014006355607105888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tenshi_0210 有的是寻找能一起爬出泥沼或一起坠入深渊的伴侣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2014006355607105888",
+        "created_at": "2026-02-14T17:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T18:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022721149134868820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1541224736214003712",
+              "start": 0,
+              "username": "tenshi_0210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022721149134868820",
+        "in_reply_to_user_id": "1541224736214003712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014006355607105888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tenshi_0210 有的是寻找能一起爬出泥沼或一起坠入深渊的伴侣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541224736214003712",
+        "conversation_id": "2014006355607105888",
+        "created_at": "2026-01-21T16:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T17:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014006355607105888"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014006355607105888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 220,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "精神病的戀愛就只是在尋找 能殺死自己的人 的感覺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 308,
+          "like_count": 2484,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 809
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-27T01:00:39.000Z",
+        "description": "割れ物注意|サブ@mizuir0_0210|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "mizuir0_0210"
+              }
+            ]
+          }
+        },
+        "id": "1541224736214003712",
+        "name": "ましろ🦭",
+        "pinned_tweet_id": "1791161920411910619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936848691345678336/62Xn-6g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 4587,
+          "like_count": 155182,
+          "listed_count": 7,
+          "media_count": 160,
+          "tweet_count": 15749
+        },
+        "username": "tenshi_0210",
+        "verified": false
+      }
+    ]
+  }
+}

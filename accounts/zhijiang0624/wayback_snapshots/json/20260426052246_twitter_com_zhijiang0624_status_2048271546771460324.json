@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2048026525120008645",
+    "created_at": "2026-04-26T05:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T06:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048271546771460324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1734188803747962880",
+          "start": 0,
+          "username": "GeBiubiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048271546771460324",
+    "in_reply_to_user_id": "1734188803747962880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048026525120008645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GeBiubiu 活着"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2048026456996130816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwNNjPbMAA7kMq.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2048026525120008645",
+        "created_at": "2026-04-26T05:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048271546771460324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1734188803747962880",
+              "start": 0,
+              "username": "GeBiubiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048271546771460324",
+        "in_reply_to_user_id": "1734188803747962880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048026525120008645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GeBiubiu 活着"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048026456996130816"
+          ]
+        },
+        "author_id": "1734188803747962880",
+        "conversation_id": "2048026525120008645",
+        "created_at": "2026-04-25T13:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048026525120008645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0L5G6Q6JIz",
+              "end": 43,
+              "expanded_url": "https://x.com/GeBiubiu/status/2048026525120008645/photo/1",
+              "media_key": "3_2048026456996130816",
+              "start": 20,
+              "url": "https://t.co/0L5G6Q6JIz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048026525120008645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 229359,
+          "like_count": 242,
+          "quote_count": 29,
+          "reply_count": 1004,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "敢不敢自曝一个很烧钱\n但又戒不掉的爱好 https://t.co/0L5G6Q6JIz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 669,
+          "like_count": 11013,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 2232
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-11T12:30:30.000Z",
+        "description": "🇨🇳 钢筋直男 分享 美好\n      \n（视频图片源自网络 如有侵权请联系删除～）",
+        "id": "1734188803747962880",
+        "location": "Jiangxi China",
+        "name": "是Biubiu_Ge",
+        "pinned_tweet_id": "2028390436583485865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011019340095897601/M3EAib_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11374,
+          "following_count": 6015,
+          "like_count": 377356,
+          "listed_count": 36,
+          "media_count": 1036,
+          "tweet_count": 18078
+        },
+        "username": "GeBiubiu",
+        "verified": false
+      }
+    ]
+  }
+}

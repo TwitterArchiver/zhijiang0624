@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2067081542024012030",
+    "created_at": "2026-06-17T14:56:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T15:56:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067260149719568679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "492381908",
+          "start": 0,
+          "username": "amgdrinkingoil"
+        },
+        {
+          "end": 24,
+          "id": "623005239",
+          "start": 16,
+          "username": "Leo_aoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067260149719568679",
+    "in_reply_to_user_id": "492381908",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067142749569036707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amgdrinkingoil @Leo_aoi That's impressive... I'm ashamed to say, as a Chinese person, I'm actually completely uninformed about this because I'm usually too much of a shut-in."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2067081542024012030",
+        "created_at": "2026-06-17T14:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T15:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067260149719568679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "492381908",
+              "start": 0,
+              "username": "amgdrinkingoil"
+            },
+            {
+              "end": 24,
+              "id": "623005239",
+              "start": 16,
+              "username": "Leo_aoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067260149719568679",
+        "in_reply_to_user_id": "492381908",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067142749569036707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amgdrinkingoil @Leo_aoi That's impressive... I'm ashamed to say, as a Chinese person, I'm actually completely uninformed about this because I'm usually too much of a shut-in."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "492381908",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2067081542024012030",
+        "created_at": "2026-06-17T07:10:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T08:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067142749569036707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "zhijiang0624"
+            },
+            {
+              "end": 22,
+              "id": "623005239",
+              "start": 14,
+              "username": "Leo_aoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067142749569036707",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "In China, they have factories who make those costumes. Even more than 10 - 20 people are working on those factories. I think that Kuro reached out one of them to make those costumes before the character reveals. They signed NDA with the costume maker and the cosplayer. Most of the cosplayer all around the world say ' China is heaven for cosplay '. This is the reason."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067103839376044346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhijiang0624 @Leo_aoi In China, they have factories who make those costumes. Even more than 10 - 20 people are working on those factories. I think that Kuro reached out one of them to make those costumes before the character reveals. They signed NDA with the costume maker and the cosplayer. Most of"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 705,
+          "like_count": 12598,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2606
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-14T17:13:02.000Z",
+        "description": "Fake and Scammer Cosplay Account Hunter, VW Amarok Dreamer, Hoping for visit China and Cosplay & Gaming Conventions",
+        "id": "492381908",
+        "location": "İstanbul, Türkiye",
+        "name": "This Baby Rolls Royce is Happy",
+        "pinned_tweet_id": "2052698531702448507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006263828607127553/vAJdEPT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 1425,
+          "like_count": 31131,
+          "listed_count": 5,
+          "media_count": 793,
+          "tweet_count": 5847
+        },
+        "username": "amgdrinkingoil",
+        "verified": true
+      },
+      {
+        "created_at": "2012-06-30T15:59:03.000Z",
+        "description": "🐼コスプレイヤ一 ✦ momokoです ⟡ 中/日文/eng👌 | ▹ ins@aoimomoko_cos | ▹ weibo@Momoko葵葵",
+        "id": "623005239",
+        "location": "▹お仕事連絡【aoimomoko813@gmail.com】",
+        "name": "Momoko葵葵",
+        "pinned_tweet_id": "2006701581560156318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810493737182892032/cZO2vAsH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433745,
+          "following_count": 97,
+          "like_count": 102,
+          "listed_count": 1603,
+          "media_count": 381,
+          "tweet_count": 437
+        },
+        "username": "Leo_aoi",
+        "verified": false
+      }
+    ]
+  }
+}

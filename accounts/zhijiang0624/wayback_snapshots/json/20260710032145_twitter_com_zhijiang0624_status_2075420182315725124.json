@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075419944855162880",
+        "3_2075419944846868480",
+        "3_2075420174942097408"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "conversation_id": "2075420182315725124",
+    "created_at": "2026-07-10T03:21:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T04:21:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075420182315725124"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bBxw4Ydct7",
+          "end": 68,
+          "expanded_url": "https://x.com/zhijiang0624/status/2075420182315725124/photo/1",
+          "media_key": "3_2075419944855162880",
+          "start": 45,
+          "url": "https://t.co/bBxw4Ydct7"
+        },
+        {
+          "display_url": "pic.x.com/bBxw4Ydct7",
+          "end": 68,
+          "expanded_url": "https://x.com/zhijiang0624/status/2075420182315725124/photo/1",
+          "media_key": "3_2075419944846868480",
+          "start": 45,
+          "url": "https://t.co/bBxw4Ydct7"
+        },
+        {
+          "display_url": "pic.x.com/bBxw4Ydct7",
+          "end": 68,
+          "expanded_url": "https://x.com/zhijiang0624/status/2075420182315725124/photo/1",
+          "media_key": "3_2075420174942097408",
+          "start": 45,
+          "url": "https://t.co/bBxw4Ydct7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075420182315725124",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "各位人类大家好\n这里是DaLin\n巴威第三次眼壁置换\n会赢吗？\n关注我，带你肘击巴威副本 https://t.co/bBxw4Ydct7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 809,
+        "media_key": "3_2075419944855162880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM1fcZzaUAA0JOP.jpg",
+        "width": 1439
+      },
+      {
+        "height": 3200,
+        "media_key": "3_2075419944846868480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM1fcZxbwAArGLW.jpg",
+        "width": 1440
+      },
+      {
+        "height": 266,
+        "media_key": "3_2075420174942097408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM1fpy8aUAANmul.jpg",
+        "width": 270
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075419944855162880",
+            "3_2075419944846868480",
+            "3_2075420174942097408"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "conversation_id": "2075420182315725124",
+        "created_at": "2026-07-10T03:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T04:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075420182315725124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bBxw4Ydct7",
+              "end": 68,
+              "expanded_url": "https://x.com/zhijiang0624/status/2075420182315725124/photo/1",
+              "media_key": "3_2075419944855162880",
+              "start": 45,
+              "url": "https://t.co/bBxw4Ydct7"
+            },
+            {
+              "display_url": "pic.x.com/bBxw4Ydct7",
+              "end": 68,
+              "expanded_url": "https://x.com/zhijiang0624/status/2075420182315725124/photo/1",
+              "media_key": "3_2075419944846868480",
+              "start": 45,
+              "url": "https://t.co/bBxw4Ydct7"
+            },
+            {
+              "display_url": "pic.x.com/bBxw4Ydct7",
+              "end": 68,
+              "expanded_url": "https://x.com/zhijiang0624/status/2075420182315725124/photo/1",
+              "media_key": "3_2075420174942097408",
+              "start": 45,
+              "url": "https://t.co/bBxw4Ydct7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075420182315725124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "各位人类大家好\n这里是DaLin\n巴威第三次眼壁置换\n会赢吗？\n关注我，带你肘击巴威副本 https://t.co/bBxw4Ydct7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 753,
+          "like_count": 13437,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 2707
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      }
+    ]
+  }
+}

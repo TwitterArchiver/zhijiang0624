@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2021935011486965964",
+    "created_at": "2026-02-12T13:32:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T14:32:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021940527239970904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1504630614578073600",
+          "start": 0,
+          "username": "yunxvan1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021940527239970904",
+    "in_reply_to_user_id": "1504630614578073600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021935011486965964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yunxvan1 退订"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2021935011486965964",
+        "created_at": "2026-02-12T13:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T14:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021940527239970904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1504630614578073600",
+              "start": 0,
+              "username": "yunxvan1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021940527239970904",
+        "in_reply_to_user_id": "1504630614578073600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021935011486965964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunxvan1 退订"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504630614578073600",
+        "conversation_id": "2021935011486965964",
+        "created_at": "2026-02-12T13:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T14:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021935011486965964"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021935011486965964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "当一次女菩萨  不嫌弃的\n\n点赞评论“1”\n\n我看到了就发......"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 285,
+          "like_count": 2254,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 725
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-18T01:27:56.000Z",
+        "description": "我是圣诞帽 查成分互fo 性格很烂 想交朋友 喜欢挂人 好友位66",
+        "id": "1504630614578073600",
+        "location": "冰岛",
+        "name": "谢谢",
+        "pinned_tweet_id": "2015092568854515750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003097612799598592/tpc5iV9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 705,
+          "like_count": 7816,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 978
+        },
+        "username": "yunxvan1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2028357454820708512",
+    "created_at": "2026-03-02T10:42:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T11:42:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028420781546618957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1948391508970762240",
+          "start": 0,
+          "username": "ohouhou717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028420781546618957",
+    "in_reply_to_user_id": "1948391508970762240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028404909322948767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ohouhou717 是，长官！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2028357454820708512",
+        "created_at": "2026-03-02T10:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T11:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028420781546618957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1948391508970762240",
+              "start": 0,
+              "username": "ohouhou717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028420781546618957",
+        "in_reply_to_user_id": "1948391508970762240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028404909322948767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ohouhou717 是，长官！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948391508970762240",
+        "conversation_id": "2028357454820708512",
+        "created_at": "2026-03-02T09:39:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T10:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028404909322948767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "ZhiJiang0624"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028404909322948767",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028357454820708512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhiJiang0624 好好上课哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 488,
+          "like_count": 4605,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1424
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T14:35:22.000Z",
+        "description": "Now！ \nYapping about crypto！",
+        "id": "1948391508970762240",
+        "name": "Weilan| 🤖ボッ Bird🕊️",
+        "pinned_tweet_id": "2028041543345418528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999801423761199104/dgwqRHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14057,
+          "following_count": 7549,
+          "like_count": 86372,
+          "listed_count": 61,
+          "media_count": 251,
+          "tweet_count": 85655
+        },
+        "username": "ohouhou717",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042277572386648064"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2042277727521370305",
+    "created_at": "2026-04-09T16:25:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T17:25:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042277727521370305"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XCYjFp4S9p",
+          "end": 163,
+          "expanded_url": "https://x.com/zhijiang0624/status/2042277727521370305/photo/1",
+          "media_key": "3_2042277572386648064",
+          "start": 140,
+          "url": "https://t.co/XCYjFp4S9p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042277727521370305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哈哈哈哈\n我觉得我应该我必须我建议我同意我拒绝我向上我向下我向前我向后我想我不想我可能我不可能我重出江湖v规划局多大的发一份发光据调查红拂夜奔更丰富黄金回购会不会好好开会汉家江湖厚古薄今关系属于经验回归方程高风险回个电话公司如果车经常犯桃花呼呼呼就很尴尬咕咕鸡哈哈哈哈杂种游戏！ https://t.co/XCYjFp4S9p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 546,
+        "media_key": "3_2042277572386648064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFegobLacAAGemZ.jpg",
+        "width": 664
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042277572386648064"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042277727521370305",
+        "created_at": "2026-04-09T16:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042277727521370305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XCYjFp4S9p",
+              "end": 163,
+              "expanded_url": "https://x.com/zhijiang0624/status/2042277727521370305/photo/1",
+              "media_key": "3_2042277572386648064",
+              "start": 140,
+              "url": "https://t.co/XCYjFp4S9p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042277727521370305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈哈哈\n我觉得我应该我必须我建议我同意我拒绝我向上我向下我向前我向后我想我不想我可能我不可能我重出江湖v规划局多大的发一份发光据调查红拂夜奔更丰富黄金回购会不会好好开会汉家江湖厚古薄今关系属于经验回归方程高风险回个电话公司如果车经常犯桃花呼呼呼就很尴尬咕咕鸡哈哈哈哈杂种游戏！ https://t.co/XCYjFp4S9p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 656,
+          "like_count": 10095,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 2113
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      }
+    ]
+  }
+}

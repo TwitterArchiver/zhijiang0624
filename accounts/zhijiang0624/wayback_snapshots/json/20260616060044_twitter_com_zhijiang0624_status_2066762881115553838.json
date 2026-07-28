@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2066762881115553838",
+    "created_at": "2026-06-16T06:00:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T07:00:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066762881115553838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2045127800324288513",
+          "start": 3,
+          "username": "yacht_ono"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066762881115553838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 637
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064943082018410928",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yacht_ono: 拧巴的人需要引导型人民币\n回避的人需要主动型人民币\n缺爱的人需要依恋型人民币\n暴躁的人需要讨好型人民币\n孤独的人需要陪伴型人民币\n迷茫的人需要指引型人民币\n脆弱的人需要守护型人民币"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2066762881115553838",
+        "created_at": "2026-06-16T06:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T07:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066762881115553838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2045127800324288513",
+              "start": 3,
+              "username": "yacht_ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066762881115553838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 637
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064943082018410928",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yacht_ono: 拧巴的人需要引导型人民币\n回避的人需要主动型人民币\n缺爱的人需要依恋型人民币\n暴躁的人需要讨好型人民币\n孤独的人需要陪伴型人民币\n迷茫的人需要指引型人民币\n脆弱的人需要守护型人民币"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045127800324288513",
+        "conversation_id": "2064943082018410928",
+        "created_at": "2026-06-11T05:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T06:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064943082018410928"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064943082018410928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 116,
+          "impression_count": 176150,
+          "like_count": 5219,
+          "quote_count": 55,
+          "reply_count": 164,
+          "retweet_count": 637
+        },
+        "reply_settings": "everyone",
+        "text": "拧巴的人需要引导型人民币\n回避的人需要主动型人民币\n缺爱的人需要依恋型人民币\n暴躁的人需要讨好型人民币\n孤独的人需要陪伴型人民币\n迷茫的人需要指引型人民币\n脆弱的人需要守护型人民币"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 703,
+          "like_count": 12543,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2597
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T13:12:15.000Z",
+        "description": "碎碎念寄存处",
+        "id": "2045127800324288513",
+        "location": "🚪52",
+        "name": "yacht",
+        "pinned_tweet_id": "2065786267997278403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059069717709721600/K6TBjpNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1388,
+          "following_count": 38,
+          "like_count": 284,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 262
+        },
+        "username": "yacht_ono",
+        "verified": false
+      }
+    ]
+  }
+}

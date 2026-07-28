@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2052344645280227631",
+    "created_at": "2026-05-07T14:01:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T15:01:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052388457050497432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1510243706347028482",
+          "start": 0,
+          "username": "Chiqyuna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052388457050497432",
+    "in_reply_to_user_id": "1510243706347028482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052344645280227631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiqyuna 那就自己学调酒\n还能赚钱（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2052344645280227631",
+        "created_at": "2026-05-07T14:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052388457050497432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1510243706347028482",
+              "start": 0,
+              "username": "Chiqyuna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052388457050497432",
+        "in_reply_to_user_id": "1510243706347028482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052344645280227631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiqyuna 那就自己学调酒\n还能赚钱（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510243706347028482",
+        "conversation_id": "2052344645280227631",
+        "created_at": "2026-05-07T11:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T12:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052344645280227631"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052344645280227631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 182,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喝酒误事还浪费钱，我已经够穷了\n有没有办法戒掉啊，但是真的很好喝欸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 684,
+          "like_count": 11615,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 2362
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-02T13:12:25.000Z",
+        "description": "如果觉得被冒犯了那是我的猫发的，它有四个爪子打字比我快。对可爱的东西欲罢不能。臭打游戏的，别看她长得乖，私底下烟酒都来的。双叶天下第一可爱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chiqyuna",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chiqyuna",
+                "start": 0,
+                "url": "https://t.co/MzdDuzes1D"
+              }
+            ]
+          }
+        },
+        "id": "1510243706347028482",
+        "location": "察院场",
+        "name": "…",
+        "pinned_tweet_id": "2034823419670536249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047131412747444224/nLWdoqbB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 550,
+          "like_count": 4894,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1414
+        },
+        "url": "https://t.co/MzdDuzes1D",
+        "username": "Chiqyuna",
+        "verified": false
+      }
+    ]
+  }
+}

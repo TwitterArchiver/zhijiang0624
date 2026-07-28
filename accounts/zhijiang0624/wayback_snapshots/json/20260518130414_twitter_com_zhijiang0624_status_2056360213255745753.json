@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2055881565302112766",
+    "created_at": "2026-05-18T13:04:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T14:04:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056360213255745753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1510243706347028482",
+          "start": 0,
+          "username": "Chiqyuna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056360213255745753",
+    "in_reply_to_user_id": "1510243706347028482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055881565302112766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiqyuna 据说这是秦代第一杀手的眼神\n你敢和他，对视114514秒吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055881559929135104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIf1Yt_aIAAkpiD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2055881565302112766",
+        "created_at": "2026-05-18T13:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T14:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056360213255745753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1510243706347028482",
+              "start": 0,
+              "username": "Chiqyuna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056360213255745753",
+        "in_reply_to_user_id": "1510243706347028482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055881565302112766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiqyuna 据说这是秦代第一杀手的眼神\n你敢和他，对视114514秒吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055881559929135104"
+          ]
+        },
+        "author_id": "1510243706347028482",
+        "conversation_id": "2055881565302112766",
+        "created_at": "2026-05-17T05:22:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T06:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055881565302112766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rz2MIb4Tbt",
+              "end": 31,
+              "expanded_url": "https://x.com/Chiqyuna/status/2055881565302112766/photo/1",
+              "media_key": "3_2055881559929135104",
+              "start": 8,
+              "url": "https://t.co/rz2MIb4Tbt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055881565302112766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 539,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这到底睡没睡着 https://t.co/rz2MIb4Tbt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 695,
+          "like_count": 11960,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 2472
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-02T13:12:25.000Z",
+        "description": "如果觉得被冒犯了那是我的猫发的，它有四个爪子打字比我快。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chiqyuna",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chiqyuna",
+                "start": 0,
+                "url": "https://t.co/MzdDuzes1D"
+              }
+            ]
+          }
+        },
+        "id": "1510243706347028482",
+        "location": "四軒茶屋",
+        "name": "…",
+        "pinned_tweet_id": "2034823419670536249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047131412747444224/nLWdoqbB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 495,
+          "like_count": 5825,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1475
+        },
+        "url": "https://t.co/MzdDuzes1D",
+        "username": "Chiqyuna",
+        "verified": false
+      }
+    ]
+  }
+}

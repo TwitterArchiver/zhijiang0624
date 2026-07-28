@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2022693588241649835",
+    "created_at": "2026-02-14T17:03:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T18:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022718226791305234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1558346182316896256",
+          "start": 0,
+          "username": "hoxer15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022718226791305234",
+    "in_reply_to_user_id": "1558346182316896256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022693588241649835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoxer15 很可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2022693588241649835",
+        "created_at": "2026-02-14T17:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T18:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022718226791305234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1558346182316896256",
+              "start": 0,
+              "username": "hoxer15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022718226791305234",
+        "in_reply_to_user_id": "1558346182316896256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022693588241649835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoxer15 很可爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558346182316896256",
+        "conversation_id": "2022693588241649835",
+        "created_at": "2026-02-14T15:25:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T16:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022693588241649835"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022693588241649835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 950,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "偶换了一个头像。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 308,
+          "like_count": 2478,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 805
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T06:54:23.000Z",
+        "description": "可以叫我小物/4i /ENTP/摩羯/头像是本人/没门不约不聊骚",
+        "id": "1558346182316896256",
+        "location": "就那个哪呗",
+        "name": "人类是我的兼职",
+        "pinned_tweet_id": "2016542507140776031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022693465495343117/eLovIWVO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1369,
+          "following_count": 226,
+          "like_count": 18486,
+          "listed_count": 1,
+          "media_count": 348,
+          "tweet_count": 9974
+        },
+        "username": "hoxer15",
+        "verified": false
+      }
+    ]
+  }
+}

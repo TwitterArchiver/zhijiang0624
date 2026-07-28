@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2022255175751352554",
+    "created_at": "2026-02-13T10:28:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T11:28:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022256613634216203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1881948378453741569",
+          "start": 0,
+          "username": "neteru_365"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022256613634216203",
+    "in_reply_to_user_id": "1881948378453741569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022255175751352554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neteru_365 緩和作用はあるが、完全に解決することはできないに違いない。結局、人は群居動物だ。社交面はゆっくりすればいいので、自分を追い込む必要はありません"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2022255175751352554",
+        "created_at": "2026-02-13T10:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T11:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022256613634216203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1881948378453741569",
+              "start": 0,
+              "username": "neteru_365"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022256613634216203",
+        "in_reply_to_user_id": "1881948378453741569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022255175751352554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neteru_365 緩和作用はあるが、完全に解決することはできないに違いない。結局、人は群居動物だ。社交面はゆっくりすればいいので、自分を追い込む必要はありません"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881948378453741569",
+        "conversation_id": "2022255175751352554",
+        "created_at": "2026-02-13T10:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T11:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022255175751352554"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022255175751352554",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 207,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "彼氏がいないさみしさも、友達がいないさみしさも、犬と猫飼ったらすぐ解決する気がする。犬は彼氏、猫は友達。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 288,
+          "like_count": 2282,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 733
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T06:14:16.000Z",
+        "description": "32歳、穏やかに暮らすためアルバイトしながら関東で一人暮らし。友達も彼氏もいない。考え過ぎないように沢山ねてます。",
+        "id": "1881948378453741569",
+        "name": "ねてる",
+        "pinned_tweet_id": "2016222249196691521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004989256792698880/rfKsG3Pl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13441,
+          "following_count": 485,
+          "like_count": 15041,
+          "listed_count": 43,
+          "media_count": 61,
+          "tweet_count": 3784
+        },
+        "username": "neteru_365",
+        "verified": true
+      }
+    ]
+  }
+}

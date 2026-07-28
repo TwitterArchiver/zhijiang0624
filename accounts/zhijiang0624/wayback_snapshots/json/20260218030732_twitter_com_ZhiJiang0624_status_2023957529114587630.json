@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2023947251333185593",
+    "created_at": "2026-02-18T03:07:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T04:07:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023957529114587630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1938626182368612352",
+          "start": 0,
+          "username": "doudou49068"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023957529114587630",
+    "in_reply_to_user_id": "1938626182368612352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023947251333185593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doudou49068 没爱不就只是性交了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2023947251333185593",
+        "created_at": "2026-02-18T03:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T04:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023957529114587630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1938626182368612352",
+              "start": 0,
+              "username": "doudou49068"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023957529114587630",
+        "in_reply_to_user_id": "1938626182368612352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023947251333185593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doudou49068 没爱不就只是性交了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938626182368612352",
+        "conversation_id": "2023947251333185593",
+        "created_at": "2026-02-18T02:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T03:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023947251333185593"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023947251333185593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟呢些脑子里只有性没有爱的人说不清楚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 419,
+          "like_count": 3448,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1200
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-27T15:51:24.000Z",
+        "description": "G cup /🚪99 不含朋友圈/188含朋友圈/不线下/给钱也不线下",
+        "id": "1938626182368612352",
+        "location": "江苏",
+        "name": "兜兜",
+        "pinned_tweet_id": "2021227738011488433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938626325436375041/Z4oajt4__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 192,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 212
+        },
+        "username": "doudou49068",
+        "verified": false
+      }
+    ]
+  }
+}

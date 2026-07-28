@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2047920471057080389",
+    "created_at": "2026-04-25T13:20:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T14:20:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048029440870121676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1916005601563590656",
+          "start": 0,
+          "username": "Qiongli_BAKA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048029440870121676",
+    "in_reply_to_user_id": "1916005601563590656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047920471057080389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiongli_BAKA 我妈小时候也这样对我说\n然后……\n差不多算是比较自闭到了现在"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2047920471057080389",
+        "created_at": "2026-04-25T13:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048029440870121676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1916005601563590656",
+              "start": 0,
+              "username": "Qiongli_BAKA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048029440870121676",
+        "in_reply_to_user_id": "1916005601563590656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047920471057080389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiongli_BAKA 我妈小时候也这样对我说\n然后……\n差不多算是比较自闭到了现在"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916005601563590656",
+        "conversation_id": "2047920471057080389",
+        "created_at": "2026-04-25T06:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T07:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047920471057080389"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047920471057080389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妈说\n:你现在不需要什么朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 664,
+          "like_count": 10924,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 2212
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T05:45:16.000Z",
+        "description": "这里是笨蛋穹璃呀｜不混任何圈｜16岁｜181东北入｜欢迎交友喵｜重抑 重焦 双相 解离 惊恐 ADHD 被打出来的PTSD/buff叠满/｜诡异男生｜@xiaoyv9592好き",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "xiaoyv9592"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/3tPgjPG",
+                "end": 23,
+                "expanded_url": "https://b23.tv/3tPgjPG",
+                "start": 0,
+                "url": "https://t.co/GTQahueaFa"
+              }
+            ]
+          }
+        },
+        "id": "1916005601563590656",
+        "location": "fufu头顶上",
+        "name": "穹璃吖",
+        "pinned_tweet_id": "2040319119116095571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043239285445599232/8NR-8Gxj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 845,
+          "like_count": 3579,
+          "listed_count": 4,
+          "media_count": 183,
+          "tweet_count": 1048
+        },
+        "url": "https://t.co/GTQahueaFa",
+        "username": "Qiongli_BAKA",
+        "verified": false
+      }
+    ]
+  }
+}

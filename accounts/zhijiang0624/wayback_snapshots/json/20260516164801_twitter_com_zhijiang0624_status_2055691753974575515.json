@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055360216888385536"
+      ],
+      "media_source_tweet_id": [
+        "2055360245220946221"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "conversation_id": "2055691753974575515",
+    "created_at": "2026-05-16T16:48:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T17:48:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055691753974575515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1902309907145347072",
+          "start": 3,
+          "username": "Alisa165059"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E0RIRTy8a6",
+          "end": 40,
+          "expanded_url": "https://x.com/Alisa165059/status/2055360245220946221/photo/1",
+          "media_key": "3_2055360216888385536",
+          "start": 17,
+          "url": "https://t.co/E0RIRTy8a6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055691753974575515",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 872
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055360245220946221",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Alisa165059: https://t.co/E0RIRTy8a6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2678,
+        "media_key": "3_2055360216888385536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIYbOj0aIAA4foO.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055360216888385536"
+          ],
+          "media_source_tweet_id": [
+            "2055360245220946221"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "conversation_id": "2055691753974575515",
+        "created_at": "2026-05-16T16:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055691753974575515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1902309907145347072",
+              "start": 3,
+              "username": "Alisa165059"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E0RIRTy8a6",
+              "end": 40,
+              "expanded_url": "https://x.com/Alisa165059/status/2055360245220946221/photo/1",
+              "media_key": "3_2055360216888385536",
+              "start": 17,
+              "url": "https://t.co/E0RIRTy8a6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055691753974575515",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 872
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055360245220946221",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Alisa165059: https://t.co/E0RIRTy8a6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055360216888385536"
+          ]
+        },
+        "author_id": "1902309907145347072",
+        "conversation_id": "2055360245220946221",
+        "created_at": "2026-05-15T18:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T19:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055360245220946221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E0RIRTy8a6",
+              "end": 23,
+              "expanded_url": "https://x.com/Alisa165059/status/2055360245220946221/photo/1",
+              "media_key": "3_2055360216888385536",
+              "start": 0,
+              "url": "https://t.co/E0RIRTy8a6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055360245220946221",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 739,
+          "impression_count": 56956,
+          "like_count": 6517,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 872
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/E0RIRTy8a6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 689,
+          "like_count": 11879,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 2438
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T10:43:33.000Z",
+        "description": "=苍炀，画画的恐怖杂食者",
+        "id": "1902309907145347072",
+        "name": "群青易燃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906300368956649472/PHTh2xi4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4737,
+          "following_count": 65,
+          "like_count": 815,
+          "listed_count": 16,
+          "media_count": 43,
+          "tweet_count": 158
+        },
+        "username": "Alisa165059",
+        "verified": false
+      }
+    ]
+  }
+}

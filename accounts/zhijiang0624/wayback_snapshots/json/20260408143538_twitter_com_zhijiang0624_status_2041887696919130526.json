@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041887462772109312"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "conversation_id": "2041887696919130526",
+    "created_at": "2026-04-08T14:35:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T15:35:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041887696919130526"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nC09o8Uvzi",
+          "end": 152,
+          "expanded_url": "https://x.com/zhijiang0624/status/2041887696919130526/photo/1",
+          "media_key": "3_2041887462772109312",
+          "start": 129,
+          "url": "https://t.co/nC09o8Uvzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041887696919130526",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啊他妈的他妈的他妈的他妈的他妈的他妈的他妈的他妈的他妈的他妈的他妈的他妈的他妈的他妈的他妈的他妈的他妈的他妈的他妈的！\n啊啊啊啊啊啊啊啊啊啊啊啊啊！\n到底谁他妈的设计的马桶这种勾石！\n他妈的拉史的时候水不会溅到屁股吗？！\n洗澡！\n我要洗澡！\n啊啊啊啊啊啊！ https://t.co/nC09o8Uvzi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041887462772109312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFY91Dna8AA_EoN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041887462772109312"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "conversation_id": "2041887696919130526",
+        "created_at": "2026-04-08T14:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T15:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041887696919130526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nC09o8Uvzi",
+              "end": 152,
+              "expanded_url": "https://x.com/zhijiang0624/status/2041887696919130526/photo/1",
+              "media_key": "3_2041887462772109312",
+              "start": 129,
+              "url": "https://t.co/nC09o8Uvzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041887696919130526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊他妈的他妈的他妈的他妈的他妈的他妈的他妈的他妈的他妈的他妈的他妈的他妈的他妈的他妈的他妈的他妈的他妈的他妈的他妈的！\n啊啊啊啊啊啊啊啊啊啊啊啊啊！\n到底谁他妈的设计的马桶这种勾石！\n他妈的拉史的时候水不会溅到屁股吗？！\n洗澡！\n我要洗澡！\n啊啊啊啊啊啊！ https://t.co/nC09o8Uvzi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 656,
+          "like_count": 9996,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 2105
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      }
+    ]
+  }
+}

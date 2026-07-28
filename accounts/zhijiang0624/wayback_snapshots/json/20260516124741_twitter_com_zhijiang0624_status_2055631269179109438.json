@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055631144415264768"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2055524668015272088",
+    "created_at": "2026-05-16T12:47:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T13:47:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055631269179109438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1805173276022616064",
+          "start": 0,
+          "username": "murinomiyu_jp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/T31biCnAJd",
+          "end": 38,
+          "expanded_url": "https://x.com/zhijiang0624/status/2055631269179109438/photo/1",
+          "media_key": "3_2055631144415264768",
+          "start": 15,
+          "url": "https://t.co/T31biCnAJd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055631269179109438",
+    "in_reply_to_user_id": "1805173276022616064",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055524668015272088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@murinomiyu_jp https://t.co/T31biCnAJd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 200,
+        "media_key": "3_2055631144415264768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcRongaAAAY5XQ.jpg",
+        "width": 170
+      },
+      {
+        "duration_ms": 49901,
+        "height": 1912,
+        "media_key": "13_2055524365077446656",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055524365077446656/img/WOUq3A6WPBDTsBkg.jpg",
+        "public_metrics": {
+          "view_count": 77517
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055524365077446656/pl/vOoPmLCYTtA9hCgG.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055524365077446656/vid/avc1/320x522/TGzmhFHmBWYnN-EW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055524365077446656/vid/avc1/480x784/3q74ezZcodVmmJ4L.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055524365077446656/vid/avc1/1168x1912/Av4Clxicqb7DcGu9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055524365077446656/vid/avc1/720x1178/K-DJ9QTUU9vVjYv1.mp4"
+          }
+        ],
+        "width": 1168
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055631144415264768"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055524668015272088",
+        "created_at": "2026-05-16T12:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055631269179109438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1805173276022616064",
+              "start": 0,
+              "username": "murinomiyu_jp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T31biCnAJd",
+              "end": 38,
+              "expanded_url": "https://x.com/zhijiang0624/status/2055631269179109438/photo/1",
+              "media_key": "3_2055631144415264768",
+              "start": 15,
+              "url": "https://t.co/T31biCnAJd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055631269179109438",
+        "in_reply_to_user_id": "1805173276022616064",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055524668015272088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@murinomiyu_jp https://t.co/T31biCnAJd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055524365077446656"
+          ]
+        },
+        "author_id": "1805173276022616064",
+        "conversation_id": "2055524668015272088",
+        "created_at": "2026-05-16T05:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T06:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055524668015272088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4iAUSfQeOm",
+              "end": 38,
+              "expanded_url": "https://x.com/murinomiyu_jp/status/2055524668015272088/video/1",
+              "media_key": "13_2055524365077446656",
+              "start": 15,
+              "url": "https://t.co/4iAUSfQeOm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055524668015272088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 367,
+          "impression_count": 165230,
+          "like_count": 1551,
+          "quote_count": 43,
+          "reply_count": 91,
+          "retweet_count": 91
+        },
+        "reply_settings": "everyone",
+        "text": "世界よ、これが「歌舞伎町」だ https://t.co/4iAUSfQeOm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 687,
+          "like_count": 11850,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 2432
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-24T09:37:29.000Z",
+        "description": "むりすぎる人生😩 / お仕事依頼は気軽にDMください📩",
+        "id": "1805173276022616064",
+        "location": "Japan",
+        "name": "むり",
+        "pinned_tweet_id": "2054181138655244401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000007666375290880/Iz74awow_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207542,
+          "following_count": 56,
+          "like_count": 5126,
+          "listed_count": 402,
+          "media_count": 555,
+          "tweet_count": 595
+        },
+        "username": "murinomiyu_jp",
+        "verified": true
+      }
+    ]
+  }
+}

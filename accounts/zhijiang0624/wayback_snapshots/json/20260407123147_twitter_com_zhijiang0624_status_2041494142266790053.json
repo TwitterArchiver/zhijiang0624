@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2041383839235440858",
+    "created_at": "2026-04-07T12:31:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T13:31:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041494142266790053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1859994685458239488",
+          "start": 0,
+          "username": "pu_xin68339"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041494142266790053",
+    "in_reply_to_user_id": "1859994685458239488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041383839235440858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pu_xin68339 微笑掩盖疲惫啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2041383832902090752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFRzx8JawAATSSF.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2041383839235440858",
+        "created_at": "2026-04-07T12:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T13:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041494142266790053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1859994685458239488",
+              "start": 0,
+              "username": "pu_xin68339"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041494142266790053",
+        "in_reply_to_user_id": "1859994685458239488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041383839235440858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pu_xin68339 微笑掩盖疲惫啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041383832902090752"
+          ]
+        },
+        "author_id": "1859994685458239488",
+        "conversation_id": "2041383839235440858",
+        "created_at": "2026-04-07T05:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T06:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041383839235440858"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 0,
+              "tag": "NewProfilePic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zR8UzkB2dQ",
+              "end": 38,
+              "expanded_url": "https://x.com/pu_xin68339/status/2041383839235440858/photo/1",
+              "media_key": "3_2041383832902090752",
+              "start": 15,
+              "url": "https://t.co/zR8UzkB2dQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041383839235440858",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#NewProfilePic https://t.co/zR8UzkB2dQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 655,
+          "like_count": 9903,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2093
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-22T16:17:52.000Z",
+        "description": "此X记录我的日常吐槽及疑惑 ｜06｜不婚主义｜没有照片｜Istj",
+        "id": "1859994685458239488",
+        "name": "林达",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041383814908583936/omsu8DHm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 18,
+          "like_count": 216,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 636
+        },
+        "username": "pu_xin68339",
+        "verified": false
+      }
+    ]
+  }
+}

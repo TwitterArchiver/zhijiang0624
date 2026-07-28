@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2022615277872025962",
+    "created_at": "2026-02-14T17:54:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T18:54:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022731195398979929"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "尽早治",
+          "probability": 0.5286,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1806216127057678336",
+          "start": 0,
+          "username": "Ash310707962371"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022731195398979929",
+    "in_reply_to_user_id": "1806216127057678336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022615277872025962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ash310707962371 尽早治疗🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2022615277872025962",
+        "created_at": "2026-02-14T17:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T18:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022731195398979929"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "尽早治",
+              "probability": 0.5286,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1806216127057678336",
+              "start": 0,
+              "username": "Ash310707962371"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022731195398979929",
+        "in_reply_to_user_id": "1806216127057678336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022615277872025962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ash310707962371 尽早治疗🙏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806216127057678336",
+        "conversation_id": "2022615277872025962",
+        "created_at": "2026-02-14T10:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T11:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022615277872025962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ash31070796237…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/ash310707962371/status/2022614760739737774",
+              "start": 95,
+              "url": "https://t.co/KB9ARjycGX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022615277872025962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022614760739737774",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "发现自己原来有阴道纵隔，发育畸形导致的有两个很窄很细的入口，连棉条都塞不进去。家庭医生检查完那一刻我真的哭笑不得，原来事情的真相这样触手可及，从小到大讳性如深，竟然没有向任何一个长辈求助过 https://t.co/KB9ARjycGX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 314,
+          "like_count": 2507,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 815
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-27T06:41:04.000Z",
+        "description": "易碎的纯种变态🌈/微妙地在自闭和自由之间切换/苦海无涯，早日上岸",
+        "id": "1806216127057678336",
+        "name": "Ash",
+        "pinned_tweet_id": "1911405550824272094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806216181503922176/FnidkgGC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 359,
+          "like_count": 2216,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 581
+        },
+        "username": "Ash310707962371",
+        "verified": false
+      }
+    ]
+  }
+}

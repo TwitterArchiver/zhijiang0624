@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2009570466751717479",
+    "created_at": "2026-01-09T11:05:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T12:05:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009582170621563356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1857335218673483776",
+          "start": 0,
+          "username": "xiaoyv_zero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009582170621563356",
+    "in_reply_to_user_id": "1857335218673483776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009576448198410387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyv_zero 那就点自己推的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2009570466751717479",
+        "created_at": "2026-01-09T11:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T12:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009582170621563356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1857335218673483776",
+              "start": 0,
+              "username": "xiaoyv_zero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009582170621563356",
+        "in_reply_to_user_id": "1857335218673483776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009576448198410387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyv_zero 那就点自己推的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2009570466751717479",
+        "created_at": "2026-01-09T10:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T11:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009576448198410387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "ZhiJiang0624"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009576448198410387",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009572047404589465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhiJiang0624 就是定制图案或者头型那种"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一个偶尔变得哲学或者厌世的重度自闭男生。理想大概就是想尽自己的绵薄之力尽量缝补这个世界支离破碎的一面吧",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 241,
+          "like_count": 912,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 531
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "16//叫我小雨就好了//无🚪但需要资助//要互关或者加好友请私信然后我看成分//月亮计划 车万 主播女孩 十二神器 还有一些老ip//主推老唐桑丘 玛玛 宝子哥 李箱 糖糖超天酱 车万杂食//od//cos//碎碎念//自伤//电波//好闺蜜@ace_sana_ @fuyunxian//小弟@AiXipi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "fuyunxian"
+              },
+              {
+                "end": 154,
+                "start": 147,
+                "username": "AiXipi"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "雨",
+        "pinned_tweet_id": "2008700125376590152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991578115949359106/84qVlhCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3404,
+          "following_count": 516,
+          "like_count": 5671,
+          "listed_count": 5,
+          "media_count": 243,
+          "tweet_count": 3048
+        },
+        "username": "xiaoyv_zero",
+        "verified": false
+      }
+    ]
+  }
+}

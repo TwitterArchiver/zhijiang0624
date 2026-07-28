@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2030011767083131238",
+    "created_at": "2026-03-07T08:01:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T09:01:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030192050101223886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1712569883387678720",
+          "start": 0,
+          "username": "Rin202361"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030192050101223886",
+    "in_reply_to_user_id": "1712569883387678720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030011767083131238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rin202361 我小时候挺喜欢吃牙牙乐的草莓味牙膏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2030011767083131238",
+        "created_at": "2026-03-07T08:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T09:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030192050101223886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1712569883387678720",
+              "start": 0,
+              "username": "Rin202361"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030192050101223886",
+        "in_reply_to_user_id": "1712569883387678720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030011767083131238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rin202361 我小时候挺喜欢吃牙牙乐的草莓味牙膏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1712569883387678720",
+        "conversation_id": "2030011767083131238",
+        "created_at": "2026-03-06T20:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T21:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030011767083131238"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030011767083131238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8543,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小的时候家长说牙膏一点都不辣，然后我一直记着说等我长大了再看看辣不辣，现在十几年过去了，薄荷牙膏真的很他爸的辣，到底为啥要骗我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 570,
+          "like_count": 7044,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1733
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-12T20:44:26.000Z",
+        "description": "🚪188，稳定关系恋爱中 没有飞机/电报，只玩推，其它平台一律骗子，提问箱：https://t.co/2NC7j8oaoQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rin0769018",
+                "end": 61,
+                "expanded_url": "https://ngl.link/rin0769018",
+                "start": 38,
+                "url": "https://t.co/2NC7j8oaoQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rintoy.taobao.com",
+                "end": 23,
+                "expanded_url": "http://rintoy.taobao.com",
+                "start": 0,
+                "url": "https://t.co/QlWi8rwI8O"
+              }
+            ]
+          }
+        },
+        "id": "1712569883387678720",
+        "location": "小霖的🍑→",
+        "name": "宝宝霖",
+        "pinned_tweet_id": "1939587178277073120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916991711135600640/ygiMwkTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114890,
+          "following_count": 2,
+          "like_count": 155,
+          "listed_count": 208,
+          "media_count": 289,
+          "tweet_count": 2301
+        },
+        "url": "https://t.co/QlWi8rwI8O",
+        "username": "Rin202361",
+        "verified": false
+      }
+    ]
+  }
+}

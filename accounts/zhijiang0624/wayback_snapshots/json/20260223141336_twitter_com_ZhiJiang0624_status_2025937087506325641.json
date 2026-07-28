@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2025934091754086764",
+    "created_at": "2026-02-23T14:13:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T15:13:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025937087506325641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1946642385028718592",
+          "start": 0,
+          "username": "kurabakei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025937087506325641",
+    "in_reply_to_user_id": "1946642385028718592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025934091754086764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kurabakei 记得消毒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2025934088318967809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB2QUcibYAEQ-GR.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2025934091754086764",
+        "created_at": "2026-02-23T14:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T15:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025937087506325641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1946642385028718592",
+              "start": 0,
+              "username": "kurabakei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025937087506325641",
+        "in_reply_to_user_id": "1946642385028718592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025934091754086764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurabakei 记得消毒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025934088318967809"
+          ]
+        },
+        "author_id": "1946642385028718592",
+        "conversation_id": "2025934091754086764",
+        "created_at": "2026-02-23T14:01:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T15:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025934091754086764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yfL6AqgQTt",
+              "end": 28,
+              "expanded_url": "https://x.com/kurabakei/status/2025934091754086764/photo/1",
+              "media_key": "3_2025934088318967809",
+              "start": 5,
+              "url": "https://t.co/yfL6AqgQTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025934091754086764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我掰掰掰 https://t.co/yfL6AqgQTt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 446,
+          "like_count": 3847,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1318
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T18:44:58.000Z",
+        "description": "病み垢/リスカ/09/地雷女子/メンヘラ🚪88\n都来过我门槛吧，我死了\nfamily @emptieXtr_\n彼女 @afuai377",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "emptieXtr_"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "afuai377"
+              }
+            ]
+          }
+        },
+        "id": "1946642385028718592",
+        "location": "地獄",
+        "name": "闇葉",
+        "pinned_tweet_id": "1976750551363981816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969689671828680704/v3fvWkPi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 394,
+          "like_count": 2068,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 507
+        },
+        "username": "kurabakei",
+        "verified": false
+      }
+    ]
+  }
+}

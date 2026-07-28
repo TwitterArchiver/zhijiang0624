@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2024002681535386007",
+    "created_at": "2026-02-18T07:29:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T08:29:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024023356664696998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1981381547594043396",
+          "start": 0,
+          "username": "donttouchme3322"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024023356664696998",
+    "in_reply_to_user_id": "1981381547594043396",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024003077066342525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@donttouchme3322 好的朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2024002681535386007",
+        "created_at": "2026-02-18T07:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T08:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024023356664696998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1981381547594043396",
+              "start": 0,
+              "username": "donttouchme3322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024023356664696998",
+        "in_reply_to_user_id": "1981381547594043396",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024003077066342525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@donttouchme3322 好的朋友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981381547594043396",
+        "conversation_id": "2024002681535386007",
+        "created_at": "2026-02-18T06:08:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T07:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024003077066342525"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024003077066342525",
+        "in_reply_to_user_id": "1981381547594043396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024002681535386007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们只是推油🚬别太暧昧了好不"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 419,
+          "like_count": 3478,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1212
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-23T15:25:59.000Z",
+        "description": "碎碎念(ᇂ_ᇂ|||)高强度冲浪 \n欢迎和我互动！清水日常推 \n\n喜欢礼貌好玩的人，发牛子约炮加联系方式聊骚暧昧尬聊磕炮的别来了。\n没回你找找自己原因。\n我觉得我挺幽默的，幽默女人最好命。\n\n匿名提问：https://t.co/6wYsRJnYiG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/badsheep",
+                "end": 124,
+                "expanded_url": "https://ngl.link/badsheep",
+                "start": 101,
+                "url": "https://t.co/6wYsRJnYiG"
+              }
+            ]
+          }
+        },
+        "id": "1981381547594043396",
+        "name": "小烂",
+        "pinned_tweet_id": "2021962571230908534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017469723781566464/O7mQvpP3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 109,
+          "like_count": 539,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 757
+        },
+        "username": "donttouchme3322",
+        "verified": false
+      }
+    ]
+  }
+}

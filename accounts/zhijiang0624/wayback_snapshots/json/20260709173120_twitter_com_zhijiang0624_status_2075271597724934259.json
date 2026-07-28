@@ -1,0 +1,435 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1126559222122942464",
+          "name": "MrBeast"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1754648116094013440",
+          "name": "Mr. Beast"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1126559222122942464",
+          "name": "MrBeast"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1126559222122942464",
+          "name": "MrBeast"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1287879055191052288",
+          "name": "Gaming content creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "2075238902856605850",
+    "created_at": "2026-07-09T17:31:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T18:31:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075271597724934259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2455740283",
+          "start": 0,
+          "username": "MrBeast"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075271597724934259",
+    "in_reply_to_user_id": "2455740283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075238902856605850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MrBeast 一百万美元不一定能获得一百万的忠实粉丝？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1126559222122942464",
+              "name": "MrBeast"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1754648116094013440",
+              "name": "Mr. Beast"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1126559222122942464",
+              "name": "MrBeast"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1126559222122942464",
+              "name": "MrBeast"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287879055191052288",
+              "name": "Gaming content creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2075238902856605850",
+        "created_at": "2026-07-09T17:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T18:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075271597724934259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2455740283",
+              "start": 0,
+              "username": "MrBeast"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075271597724934259",
+        "in_reply_to_user_id": "2455740283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075238902856605850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MrBeast 一百万美元不一定能获得一百万的忠实粉丝？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2075238901971574784"
+          ]
+        },
+        "author_id": "2455740283",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1126559222122942464",
+              "name": "MrBeast"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1754648116094013440",
+              "name": "Mr. Beast"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1126559222122942464",
+              "name": "MrBeast"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1126559222122942464",
+              "name": "MrBeast"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287879055191052288",
+              "name": "Gaming content creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2075238902856605850",
+        "created_at": "2026-07-09T15:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T16:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075238902856605850"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075238902856605850",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 236,
+          "impression_count": 1361077,
+          "like_count": 7202,
+          "quote_count": 579,
+          "reply_count": 6284,
+          "retweet_count": 622
+        },
+        "reply_settings": "everyone",
+        "text": "Would you rather have 1,000,000 followers on here or $1,000,000?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 747,
+          "like_count": 13394,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 2694
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-21T00:28:42.000Z",
+        "description": "Beast Games Strong Vs Smart Is Out Now!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/beastgames",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/beastgames",
+                "start": 0,
+                "url": "https://t.co/Sn9fDg55Ji"
+              }
+            ]
+          }
+        },
+        "id": "2455740283",
+        "location": "Follow me for a cookie",
+        "name": "MrBeast",
+        "pinned_tweet_id": "1941802940768850033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008838029776158720/oDvxIJ1X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34813695,
+          "following_count": 2304,
+          "like_count": 22703,
+          "listed_count": 9511,
+          "media_count": 1065,
+          "tweet_count": 7966
+        },
+        "url": "https://t.co/Sn9fDg55Ji",
+        "username": "MrBeast",
+        "verified": true
+      }
+    ]
+  }
+}

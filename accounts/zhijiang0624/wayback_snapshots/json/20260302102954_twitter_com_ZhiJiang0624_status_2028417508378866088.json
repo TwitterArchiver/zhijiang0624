@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2028078522066190669",
+    "created_at": "2026-03-02T10:29:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T11:29:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028417508378866088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1768604529254379520",
+          "start": 0,
+          "username": "wowotototo"
+        },
+        {
+          "end": 21,
+          "id": "1501259717712044039",
+          "start": 12,
+          "username": "senkin__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028417508378866088",
+    "in_reply_to_user_id": "1768604529254379520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028383156135760211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wowotototo @senkin__ 憋说噢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2028078522066190669",
+        "created_at": "2026-03-02T10:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T11:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028417508378866088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1768604529254379520",
+              "start": 0,
+              "username": "wowotototo"
+            },
+            {
+              "end": 21,
+              "id": "1501259717712044039",
+              "start": 12,
+              "username": "senkin__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028417508378866088",
+        "in_reply_to_user_id": "1768604529254379520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028383156135760211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wowotototo @senkin__ 憋说噢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768604529254379520",
+        "conversation_id": "2028078522066190669",
+        "created_at": "2026-03-02T08:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T09:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028383156135760211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "ZhiJiang0624"
+            },
+            {
+              "end": 23,
+              "id": "1501259717712044039",
+              "start": 14,
+              "username": "senkin__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028383156135760211",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028357251849945188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhiJiang0624 @senkin__ 那一个倒一个不倒就是（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 486,
+          "like_count": 4596,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1422
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T11:46:01.000Z",
+        "description": "你们都是baka～(ᗜᴗᗜ)",
+        "id": "1768604529254379520",
+        "location": "024",
+        "name": "窝窝窝窝头",
+        "pinned_tweet_id": "1976308890607489433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009974416843911172/Z8XUX8U4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 1426,
+          "like_count": 11499,
+          "listed_count": 7,
+          "media_count": 79,
+          "tweet_count": 1286
+        },
+        "username": "wowotototo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-08T18:13:17.000Z",
+        "description": "/头像Pixiv ID=103826672\n/家里蹲的废物死宅\n/游戏王ocg中国区1级裁判\n/两个蓝色头发角色的填充物\n/云车万人，很云的那种（\n/※※※不是社恐※※※",
+        "id": "1501259717712044039",
+        "name": "千琴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620260161205202945/zdkdE1Ob_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 510,
+          "like_count": 3737,
+          "listed_count": 9,
+          "media_count": 103,
+          "tweet_count": 493
+        },
+        "username": "senkin__",
+        "verified": false
+      }
+    ]
+  }
+}

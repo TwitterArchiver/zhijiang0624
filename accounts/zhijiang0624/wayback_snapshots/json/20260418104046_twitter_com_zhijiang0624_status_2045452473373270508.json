@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045452458772877312"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "conversation_id": "2044339213617996268",
+    "created_at": "2026-04-18T10:40:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T11:40:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045452473373270508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1648904599330504704",
+          "start": 0,
+          "username": "trigger67048125"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h48svjYgwz",
+          "end": 45,
+          "expanded_url": "https://x.com/zhijiang0624/status/2045452473373270508/photo/1",
+          "media_key": "3_2045452458772877312",
+          "start": 22,
+          "url": "https://t.co/h48svjYgwz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045452473373270508",
+    "in_reply_to_user_id": "1648904599330504704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044339213617996268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@trigger67048125 你失败了 https://t.co/h48svjYgwz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2045452458772877312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLoLIobUAAFrXk.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045452458772877312"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "conversation_id": "2044339213617996268",
+        "created_at": "2026-04-18T10:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T11:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045452473373270508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1648904599330504704",
+              "start": 0,
+              "username": "trigger67048125"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h48svjYgwz",
+              "end": 45,
+              "expanded_url": "https://x.com/zhijiang0624/status/2045452473373270508/photo/1",
+              "media_key": "3_2045452458772877312",
+              "start": 22,
+              "url": "https://t.co/h48svjYgwz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045452473373270508",
+        "in_reply_to_user_id": "1648904599330504704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044339213617996268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@trigger67048125 你失败了 https://t.co/h48svjYgwz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1648904599330504704",
+        "conversation_id": "2044339213617996268",
+        "created_at": "2026-04-15T08:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T09:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044339213617996268"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044339213617996268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挑战30天不说脏话day1☺️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 666,
+          "like_count": 10708,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 2185
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-20T04:21:16.000Z",
+        "description": "愛",
+        "id": "1648904599330504704",
+        "name": "trigger",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1648904702267125761/B4OhExLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 115,
+          "like_count": 958,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 492
+        },
+        "username": "trigger67048125",
+        "verified": false
+      }
+    ]
+  }
+}

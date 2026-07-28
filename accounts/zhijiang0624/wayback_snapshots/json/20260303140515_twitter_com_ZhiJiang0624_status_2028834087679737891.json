@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2028807991529746807",
+    "created_at": "2026-03-03T14:05:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T15:05:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028834087679737891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1917047326990094336",
+          "start": 0,
+          "username": "0TwT012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028834087679737891",
+    "in_reply_to_user_id": "1917047326990094336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028807991529746807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0TwT012 太长了所以发推文了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2028807991529746807",
+        "created_at": "2026-03-03T14:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T15:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028834087679737891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917047326990094336",
+              "start": 0,
+              "username": "0TwT012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028834087679737891",
+        "in_reply_to_user_id": "1917047326990094336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028807991529746807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0TwT012 太长了所以发推文了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2028807991529746807",
+        "created_at": "2026-03-03T12:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T13:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028807991529746807"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028807991529746807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1694,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可以说说你长大的地方是怎么样的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 514,
+          "like_count": 5115,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1516
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/欢迎聊天💬//基本全是碎碎念 // 会互fo感兴趣的人—你喜欢我我喜欢你//讨厌没有礼貌的人   🔝开放提问箱：https://t.co/hLLfQQAfFm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 91,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 68,
+                "url": "https://t.co/hLLfQQAfFm"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 228,
+          "like_count": 501,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 477
+        },
+        "username": "0TwT012",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042978783322607619",
+        "3_2042978783746232325"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2042976533552177191",
+    "created_at": "2026-04-11T14:51:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T15:51:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042978794794029199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1829679457411477504",
+          "start": 0,
+          "username": "miaowuqvq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5yplyqnGaF",
+          "end": 37,
+          "expanded_url": "https://x.com/zhijiang0624/status/2042978794794029199/photo/1",
+          "media_key": "3_2042978783322607619",
+          "start": 14,
+          "url": "https://t.co/5yplyqnGaF"
+        },
+        {
+          "display_url": "pic.x.com/5yplyqnGaF",
+          "end": 37,
+          "expanded_url": "https://x.com/zhijiang0624/status/2042978794794029199/photo/1",
+          "media_key": "3_2042978783746232325",
+          "start": 14,
+          "url": "https://t.co/5yplyqnGaF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042978794794029199",
+    "in_reply_to_user_id": "1829679457411477504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042976533552177191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miaowuqvq 如此 https://t.co/5yplyqnGaF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2042978783322607619",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFoeYReakAM70mj.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2042978783746232325",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFoeYTDakAU2cWV.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042978783322607619",
+            "3_2042978783746232325"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042976533552177191",
+        "created_at": "2026-04-11T14:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T15:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042978794794029199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1829679457411477504",
+              "start": 0,
+              "username": "miaowuqvq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5yplyqnGaF",
+              "end": 37,
+              "expanded_url": "https://x.com/zhijiang0624/status/2042978794794029199/photo/1",
+              "media_key": "3_2042978783322607619",
+              "start": 14,
+              "url": "https://t.co/5yplyqnGaF"
+            },
+            {
+              "display_url": "pic.x.com/5yplyqnGaF",
+              "end": 37,
+              "expanded_url": "https://x.com/zhijiang0624/status/2042978794794029199/photo/1",
+              "media_key": "3_2042978783746232325",
+              "start": 14,
+              "url": "https://t.co/5yplyqnGaF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042978794794029199",
+        "in_reply_to_user_id": "1829679457411477504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042976533552177191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaowuqvq 如此 https://t.co/5yplyqnGaF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829679457411477504",
+        "conversation_id": "2042976533552177191",
+        "created_at": "2026-04-11T14:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T15:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042976533552177191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "xpti.pages.dev",
+              "end": 43,
+              "expanded_url": "https://xpti.pages.dev/",
+              "start": 20,
+              "status": 200,
+              "title": "XP测试",
+              "unwound_url": "https://xpti.pages.dev/",
+              "url": "https://t.co/sxkbasskJB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042976533552177191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【XP测试】转发给你的绅士朋友也试试吧 https://t.co/sxkbasskJB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 661,
+          "like_count": 10355,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2154
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T00:35:58.000Z",
+        "description": "恒人党党魁 幻想乡驻外贤者 奈亚祭祀 反支萝莉 L主管 替身使者 成人层司书 百合狂魔 动漫小说 精日 妹控 战车道\n好闺蜜@jilianmeing @Lilin__Lilit\n@KashabaiSilver\n@mimi_VnV\n@hhjnjkoguyunmo \n赛博老婆@YayoiYukimi\n永远18岁的绮梦酱!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "jilianmeing"
+              },
+              {
+                "end": 88,
+                "start": 75,
+                "username": "Lilin__Lilit"
+              },
+              {
+                "end": 104,
+                "start": 89,
+                "username": "KashabaiSilver"
+              },
+              {
+                "end": 114,
+                "start": 105,
+                "username": "mimi_VnV"
+              },
+              {
+                "end": 130,
+                "start": 115,
+                "username": "hhjnjkoguyunmo"
+              },
+              {
+                "end": 148,
+                "start": 136,
+                "username": "YayoiYukimi"
+              }
+            ]
+          }
+        },
+        "id": "1829679457411477504",
+        "location": "加拿大 马卡姆/幻想乡 雾之湖 /赛尔德兰帝国 银辉城大公",
+        "name": "绮梦天禄哒呦！♀️💵🏳️‍🌈🎌🗾🍐(超绝轮椅侠)互fo谢谢",
+        "pinned_tweet_id": "2015115229969940875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004767849303232513/-EovBf2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2128,
+          "following_count": 3310,
+          "like_count": 10848,
+          "listed_count": 9,
+          "media_count": 799,
+          "tweet_count": 15545
+        },
+        "username": "miaowuqvq",
+        "verified": false
+      }
+    ]
+  }
+}

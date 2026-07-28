@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2048023686922572101",
+    "created_at": "2026-04-25T14:09:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T15:09:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048041826536575198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1032168025942777856",
+          "start": 0,
+          "username": "FreshyLuLu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048041826536575198",
+    "in_reply_to_user_id": "1032168025942777856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048023686922572101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FreshyLuLu 牛逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2048023686922572101",
+        "created_at": "2026-04-25T14:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T15:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048041826536575198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1032168025942777856",
+              "start": 0,
+              "username": "FreshyLuLu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048041826536575198",
+        "in_reply_to_user_id": "1032168025942777856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048023686922572101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FreshyLuLu 牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1032168025942777856",
+        "conversation_id": "2048023686922572101",
+        "created_at": "2026-04-25T12:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048023686922572101"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048023686922572101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 554,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我发现日本公寓自带的阳台本身就是非常好的露出地点，又安全又能被看得清清楚楚的，也有风吹过——完全就是户外的感觉。\n\n趁着晚上别人看不清的时候，铺好垫子就可以直接在阳台栏杆后面对着外面自慰了\n——我现在就在光着身子这么做🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 664,
+          "like_count": 10936,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 2215
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-22T07:30:08.000Z",
+        "description": "活在虚拟中的电子少女，擅长虚拟色色，IT专业！\n杂谈/Cosplay写真/绘画/VRchat/文爱🎀\n想要更加了解我以及我现在提供的情感陪伴和色色服务的话请访问我的主页：https://t.co/hrZcoaw0XM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "freshylulu.com",
+                "end": 108,
+                "expanded_url": "http://freshylulu.com",
+                "start": 85,
+                "url": "https://t.co/hrZcoaw0XM"
+              }
+            ]
+          }
+        },
+        "id": "1032168025942777856",
+        "location": "日本",
+        "name": "沈夏璐璐るる🎀FreshyLuLu",
+        "pinned_tweet_id": "2010692595157250240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1697323617674211330/b6OxQr30_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71000,
+          "following_count": 194,
+          "like_count": 23911,
+          "listed_count": 223,
+          "media_count": 901,
+          "tweet_count": 3730
+        },
+        "username": "FreshyLuLu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2042448060530470950",
+    "created_at": "2026-04-10T03:42:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T04:42:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042448060530470950"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042448060530470950",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刚刚装了宽带\n好可怕\n那个师傅说之后会有电话回访不给好评要找我麻烦\n我都不敢开消息免打扰了\n好可怕\n好可怕\n好可怕\n好可怕\n好可怕\n好可怕\n好可怕\n好可怕\n好可怕\n好可怕\n好可怕\n好可怕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2042448060530470950",
+        "created_at": "2026-04-10T03:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T04:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042448060530470950"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042448060530470950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚装了宽带\n好可怕\n那个师傅说之后会有电话回访不给好评要找我麻烦\n我都不敢开消息免打扰了\n好可怕\n好可怕\n好可怕\n好可怕\n好可怕\n好可怕\n好可怕\n好可怕\n好可怕\n好可怕\n好可怕\n好可怕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 654,
+          "like_count": 10095,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 2114
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      }
+    ]
+  }
+}

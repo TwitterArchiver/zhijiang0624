@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2036102534524551206",
+    "created_at": "2026-05-10T14:18:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T15:18:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053479841383813220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1782990236836089856",
+          "start": 0,
+          "username": "lilllllli1i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053479841383813220",
+    "in_reply_to_user_id": "1782990236836089856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036102534524551206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lilllllli1i 走对路的是聪明人\n只走对路的是圣人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2036102534524551206",
+        "created_at": "2026-05-10T14:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053479841383813220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1782990236836089856",
+              "start": 0,
+              "username": "lilllllli1i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053479841383813220",
+        "in_reply_to_user_id": "1782990236836089856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036102534524551206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lilllllli1i 走对路的是聪明人\n只走对路的是圣人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782990236836089856",
+        "conversation_id": "2036102534524551206",
+        "created_at": "2026-03-23T15:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T16:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036102534524551206"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036102534524551206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 21888,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我必须先找回我自己直到我再次掌控我的人生，我必须走在正确的路上。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 683,
+          "like_count": 11655,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 2375
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T04:29:44.000Z",
+        "description": "不要回应",
+        "id": "1782990236836089856",
+        "location": "自我意识极度过剩",
+        "name": "拿流浪的躯体抱拥直到筋竭力穷",
+        "pinned_tweet_id": "2036102534524551206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047360720048984064/5y0fSRyN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4445,
+          "following_count": 424,
+          "like_count": 20657,
+          "listed_count": 26,
+          "media_count": 386,
+          "tweet_count": 4540
+        },
+        "username": "lilllllli1i",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2060061416112132254",
+    "created_at": "2026-05-29T04:36:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T05:36:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060218598589886864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2054134904540024832",
+          "start": 0,
+          "username": "Lumivibes_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060218598589886864",
+    "in_reply_to_user_id": "2054134904540024832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060061416112132254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lumivibes_ 你要知道\n能控制住自己不干烂事的人不会喝醉\n因为醉酒也是烂事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2060061416112132254",
+        "created_at": "2026-05-29T04:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060218598589886864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2054134904540024832",
+              "start": 0,
+              "username": "Lumivibes_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060218598589886864",
+        "in_reply_to_user_id": "2054134904540024832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060061416112132254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lumivibes_ 你要知道\n能控制住自己不干烂事的人不会喝醉\n因为醉酒也是烂事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054134904540024832",
+        "conversation_id": "2060061416112132254",
+        "created_at": "2026-05-28T18:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T19:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060061416112132254"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060061416112132254",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 972,
+          "impression_count": 1399974,
+          "like_count": 28110,
+          "quote_count": 369,
+          "reply_count": 455,
+          "retweet_count": 397
+        },
+        "reply_settings": "everyone",
+        "text": "Can drunk ppl ACTUALLY not control their actions or is it just an excuse to do some crazy bllsht"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 707,
+          "like_count": 12387,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 2561
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T09:41:52.000Z",
+        "description": "Spreading good vibes and butterfly wings.\nLet's be moots!",
+        "id": "2054134904540024832",
+        "name": "Lumi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054137289828392960/Ow0kUb5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 137,
+          "like_count": 367,
+          "listed_count": 3,
+          "media_count": 13,
+          "tweet_count": 367
+        },
+        "username": "Lumivibes_",
+        "verified": false
+      }
+    ]
+  }
+}

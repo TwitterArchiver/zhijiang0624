@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2067058970314051680",
+    "created_at": "2026-06-17T03:55:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T04:55:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067093876884811945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1815270845151092736",
+          "start": 0,
+          "username": "tingshuang_w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067093876884811945",
+    "in_reply_to_user_id": "1815270845151092736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067058970314051680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tingshuang_w 效率牛逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18388,
+        "height": 1184,
+        "media_key": "13_2067058898989887488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067058898989887488/img/Q0RiRPmiHlVi21nt.jpg",
+        "public_metrics": {
+          "view_count": 1245
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067058898989887488/vid/avc1/320x526/c4mFNF-3cIBVf1Vr.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067058898989887488/vid/avc1/480x788/phP3Mv5oPpA6vgUp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067058898989887488/vid/avc1/720x1184/7OOdwZGm98zbHftD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067058898989887488/pl/fDEP_rpibbUm631z.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2067058970314051680",
+        "created_at": "2026-06-17T03:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T04:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067093876884811945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1815270845151092736",
+              "start": 0,
+              "username": "tingshuang_w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067093876884811945",
+        "in_reply_to_user_id": "1815270845151092736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067058970314051680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingshuang_w 效率牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067058898989887488"
+          ]
+        },
+        "author_id": "1815270845151092736",
+        "conversation_id": "2067058970314051680",
+        "created_at": "2026-06-17T01:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T02:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067058970314051680"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 9,
+              "tag": "WutheringWaves"
+            },
+            {
+              "end": 32,
+              "start": 25,
+              "tag": "suisui"
+            },
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "鳴潮"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qtna2sLCJ2",
+              "end": 64,
+              "expanded_url": "https://x.com/tingshuang_w/status/2067058970314051680/video/1",
+              "media_key": "13_2067058898989887488",
+              "start": 41,
+              "url": "https://t.co/qtna2sLCJ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067058970314051680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 3557,
+          "like_count": 412,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "会和穗穗常相见吗 #WutheringWaves #suisui     #鳴潮 https://t.co/qtna2sLCJ2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 707,
+          "like_count": 12577,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2602
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-22T06:21:19.000Z",
+        "description": "我素听霜～普通人出点自己喜欢的cos~高p，想尽量p得还原角色 \n自己做假发，后期，剪辑\n合作写明具体内容^w^否则无法给出答复！",
+        "id": "1815270845151092736",
+        "location": "Shanghai",
+        "name": "听霜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940938690349748224/2sHpMsiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44087,
+          "following_count": 203,
+          "like_count": 2828,
+          "listed_count": 172,
+          "media_count": 224,
+          "tweet_count": 550
+        },
+        "url": "",
+        "username": "tingshuang_w",
+        "verified": false
+      }
+    ]
+  }
+}

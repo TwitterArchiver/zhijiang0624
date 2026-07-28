@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2055495462581616852",
+    "created_at": "2026-05-16T17:02:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T18:02:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055695321909625235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1543991998046093312",
+          "start": 0,
+          "username": "jiayuwanzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055695321909625235",
+    "in_reply_to_user_id": "1543991998046093312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055495462581616852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiayuwanzi 等轮到你玩阿尔法的时候\n不玩战双帕弥什只会度过相对失败的人生（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 979,
+        "media_key": "3_2055495436421767168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIaWNX1bIAASnxM.jpg",
+        "width": 1305
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2055495462581616852",
+        "created_at": "2026-05-16T17:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T18:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055695321909625235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1543991998046093312",
+              "start": 0,
+              "username": "jiayuwanzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055695321909625235",
+        "in_reply_to_user_id": "1543991998046093312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055495462581616852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiayuwanzi 等轮到你玩阿尔法的时候\n不玩战双帕弥什只会度过相对失败的人生（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055495436421767168"
+          ]
+        },
+        "author_id": "1543991998046093312",
+        "conversation_id": "2055495462581616852",
+        "created_at": "2026-05-16T03:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T04:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055495462581616852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ftLWqWA19n",
+              "end": 36,
+              "expanded_url": "https://x.com/jiayuwanzi/status/2055495462581616852/photo/1",
+              "media_key": "3_2055495436421767168",
+              "start": 13,
+              "url": "https://t.co/ftLWqWA19n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055495462581616852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1465,
+          "like_count": 177,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "什么时候轮到我玩阿尔法？ https://t.co/ftLWqWA19n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 689,
+          "like_count": 11888,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 2440
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-04T16:16:02.000Z",
+        "description": "20↑♀     yuri only\n\n中文🆗English🆗使用翻译器\n🚫无授权转载 🚫ai",
+        "id": "1543991998046093312",
+        "location": "王城下水道",
+        "name": "废鲟甲甲鱼",
+        "pinned_tweet_id": "2004576458472309080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740395294033088512/5kBwApre_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 109,
+          "like_count": 2731,
+          "listed_count": 1,
+          "media_count": 887,
+          "tweet_count": 2258
+        },
+        "username": "jiayuwanzi",
+        "verified": false
+      }
+    ]
+  }
+}

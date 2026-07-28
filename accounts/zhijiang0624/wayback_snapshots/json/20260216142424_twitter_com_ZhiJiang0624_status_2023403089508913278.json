@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2023402396089794687",
+    "created_at": "2026-02-16T14:24:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T15:24:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023403089508913278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1622587760514158593",
+          "start": 0,
+          "username": "ForlikOOO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023403089508913278",
+    "in_reply_to_user_id": "1622587760514158593",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023402396089794687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ForlikOOO 我也炸了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2023402396089794687",
+        "created_at": "2026-02-16T14:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T15:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023403089508913278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1622587760514158593",
+              "start": 0,
+              "username": "ForlikOOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023403089508913278",
+        "in_reply_to_user_id": "1622587760514158593",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023402396089794687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ForlikOOO 我也炸了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622587760514158593",
+        "conversation_id": "2023402396089794687",
+        "created_at": "2026-02-16T14:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T15:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023402396089794687"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023402396089794687",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就我推特炸了？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 379,
+          "like_count": 3077,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1087
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-06T13:27:34.000Z",
+        "description": "◉‿◉我的碎碎念垃圾箱。有对象了。不搞暧昧！不搞网恋！欢迎正常交友，发弔拉黑，搞暧昧约炮恋爱尬聊的不回复。不收门槛是因为没门不是因为我想理傻逼。",
+        "id": "1622587760514158593",
+        "location": "München, Bayern",
+        "name": "Cyclo",
+        "pinned_tweet_id": "2023046627758596236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997310784519409664/YzWyhr7Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 96,
+          "like_count": 24012,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1237
+        },
+        "username": "ForlikOOO",
+        "verified": false
+      }
+    ]
+  }
+}

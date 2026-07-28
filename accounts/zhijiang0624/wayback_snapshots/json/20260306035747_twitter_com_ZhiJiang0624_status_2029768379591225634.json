@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2029717948894728399",
+    "created_at": "2026-03-06T03:57:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T04:57:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029768379591225634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1693159632645345280",
+          "start": 0,
+          "username": "sxpphicstxr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029768379591225634",
+    "in_reply_to_user_id": "1693159632645345280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029717948894728399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sxpphicstxr 哈喽！😊"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15000,
+        "height": 1280,
+        "media_key": "13_2029717885531344900",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2029717885531344900/img/Ll3tNHou2w75Mnd_.jpg",
+        "public_metrics": {
+          "view_count": 183
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029717885531344900/vid/avc1/320x568/ZWb2wOe9XbAHOq9V.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029717885531344900/vid/avc1/480x852/4AmTkcqLtvPVJT9J.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029717885531344900/vid/avc1/720x1280/ZOKzUxM02kwkye0l.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2029717885531344900/pl/X6wu6CBOnbgy-V1i.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2029717948894728399",
+        "created_at": "2026-03-06T03:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T04:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029768379591225634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1693159632645345280",
+              "start": 0,
+              "username": "sxpphicstxr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029768379591225634",
+        "in_reply_to_user_id": "1693159632645345280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029717948894728399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sxpphicstxr 哈喽！😊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2029717885531344900"
+          ]
+        },
+        "author_id": "1693159632645345280",
+        "conversation_id": "2029717948894728399",
+        "created_at": "2026-03-06T00:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T01:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029717948894728399"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "le"
+            },
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "les"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "啦啦"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "女同"
+            },
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "wlw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bIJdKEuw46",
+              "end": 49,
+              "expanded_url": "https://x.com/sxpphicstxr/status/2029717948894728399/video/1",
+              "media_key": "13_2029717885531344900",
+              "start": 26,
+              "url": "https://t.co/bIJdKEuw46"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029717948894728399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 646,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "哈喽😋\n#le #les #啦啦 #女同 #wlw https://t.co/bIJdKEuw46"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 558,
+          "like_count": 6494,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 1682
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-20T07:14:57.000Z",
+        "description": "les | @sxpphicxx | ig: sharleen.xo | xhs: sxpphicstxr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "sxpphicxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "venmo.com/u/sxpphicstxr",
+                "end": 23,
+                "expanded_url": "https://www.venmo.com/u/sxpphicstxr",
+                "start": 0,
+                "url": "https://t.co/4sMu59AgX8"
+              }
+            ]
+          }
+        },
+        "id": "1693159632645345280",
+        "location": "LA ",
+        "name": "s",
+        "pinned_tweet_id": "1923178416787841216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780712407582883842/oAvn-4_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23476,
+          "following_count": 24,
+          "like_count": 1582,
+          "listed_count": 23,
+          "media_count": 336,
+          "tweet_count": 867
+        },
+        "url": "https://t.co/4sMu59AgX8",
+        "username": "sxpphicstxr",
+        "verified": false
+      }
+    ]
+  }
+}

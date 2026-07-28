@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2057697267415691276",
+    "created_at": "2026-05-22T23:19:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T00:19:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057964607114035681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1964265669362667520",
+          "start": 0,
+          "username": "zuiaiyiyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057964607114035681",
+    "in_reply_to_user_id": "1964265669362667520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057697267415691276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuiaiyiyi 火影项目组也小爆了\n福瑞老玛最开始就一大堆玩家抵制\n现在出个两百多块钱的驹驹斑皮肤露腹，豪火灭却特效没优化，大招表现迷就算了还被削了\n你魔方工作室进脏东西了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2057697267415691276",
+        "created_at": "2026-05-22T23:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T00:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057964607114035681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1964265669362667520",
+              "start": 0,
+              "username": "zuiaiyiyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057964607114035681",
+        "in_reply_to_user_id": "1964265669362667520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057697267415691276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuiaiyiyi 火影项目组也小爆了\n福瑞老玛最开始就一大堆玩家抵制\n现在出个两百多块钱的驹驹斑皮肤露腹，豪火灭却特效没优化，大招表现迷就算了还被削了\n你魔方工作室进脏东西了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964265669362667520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899016900083712",
+              "name": "Horror games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899125926821900",
+              "name": "Survival games"
+            }
+          }
+        ],
+        "conversation_id": "2057697267415691276",
+        "created_at": "2026-05-22T05:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057697267415691276"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057697267415691276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 545775,
+          "like_count": 1116,
+          "quote_count": 5,
+          "reply_count": 327,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "我之前以为洛克王国会是慢慢变成第五人格那种全是低龄女权地雷女玩家的形式慢慢烂掉\n能直接这样暴雷是我没想到的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 698,
+          "like_count": 12055,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 2502
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T09:53:43.000Z",
+        "description": "止于推，只聊天。\n如果关注我，我很开心。\n回复看心情没礼貌我不回。\n标签纯引流，当真的那你这辈子有了。我会用ai修图，介意勿烦我。\n不加墙内联系方式，没有门槛，给一百万也不加vq\nx唯一亲友@羊奇羊https://t.co/uLfKv4PlwH\n纯擦着玩，🈚️收费内容，说菩萨可以，说我是福利姬死老冯",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/cuteyangqi",
+                "end": 122,
+                "expanded_url": "https://x.com/cuteyangqi",
+                "start": 99,
+                "url": "https://t.co/uLfKv4PlwH"
+              }
+            ]
+          }
+        },
+        "id": "1964265669362667520",
+        "location": "亚特兰蒂斯",
+        "name": "熠熠舞",
+        "pinned_tweet_id": "2049070365826228308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004200904413925379/m3cu8rDM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23641,
+          "following_count": 14,
+          "like_count": 21,
+          "listed_count": 62,
+          "media_count": 255,
+          "tweet_count": 1267
+        },
+        "username": "zuiaiyiyi",
+        "verified": false
+      }
+    ]
+  }
+}

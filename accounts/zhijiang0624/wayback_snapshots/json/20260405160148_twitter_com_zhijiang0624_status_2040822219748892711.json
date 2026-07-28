@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2040822219748892711",
+    "created_at": "2026-04-05T16:01:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T17:01:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040822219748892711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1421851995355369477",
+          "start": 3,
+          "username": "Aichijiandanxyz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040822219748892711",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 170
+    },
+    "referenced_tweets": [
+      {
+        "id": "1746872263901892976",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aichijiandanxyz: 不要因为刷推看了很多超出认知的东西就降低自己的底线"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2040822219748892711",
+        "created_at": "2026-04-05T16:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T17:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040822219748892711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1421851995355369477",
+              "start": 3,
+              "username": "Aichijiandanxyz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040822219748892711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 170
+        },
+        "referenced_tweets": [
+          {
+            "id": "1746872263901892976",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aichijiandanxyz: 不要因为刷推看了很多超出认知的东西就降低自己的底线"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1421851995355369477",
+        "conversation_id": "1746872263901892976",
+        "created_at": "2024-01-15T12:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-01-15T13:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1746872263901892976"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1746872263901892976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 276642,
+          "like_count": 1662,
+          "quote_count": 10,
+          "reply_count": 65,
+          "retweet_count": 170
+        },
+        "reply_settings": "everyone",
+        "text": "不要因为刷推看了很多超出认知的东西就降低自己的底线"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "只是一个傻逼傻逼大傻逼————！",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 642,
+          "like_count": 9575,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 2043
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-01T15:15:33.000Z",
+        "description": "思维补丁，本体是🥚\n\n@eggyyybaby\n#煎蛋不想说话就唱歌吧\n#蛋喘",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 23,
+                "tag": "煎蛋不想说话就唱歌吧"
+              },
+              {
+                "end": 38,
+                "start": 35,
+                "tag": "蛋喘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "eggyyybaby"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cmespeed.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://cmespeed.com/#/register?code=qnpQSfop",
+                "start": 0,
+                "url": "https://t.co/NEXqoJ99mw"
+              }
+            ]
+          }
+        },
+        "id": "1421851995355369477",
+        "location": "🍳🪜→",
+        "name": "煎蛋棉被",
+        "pinned_tweet_id": "1844974218825400809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922277650879676418/p7_qBFWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20758,
+          "following_count": 329,
+          "like_count": 162357,
+          "listed_count": 58,
+          "media_count": 8246,
+          "tweet_count": 77377
+        },
+        "url": "https://t.co/NEXqoJ99mw",
+        "username": "Aichijiandanxyz",
+        "verified": false
+      }
+    ]
+  }
+}

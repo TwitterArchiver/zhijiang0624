@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2042604367002628520",
+    "created_at": "2026-04-10T14:25:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T15:25:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042609889428803735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "897749985361444866",
+          "start": 0,
+          "username": "woaishuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042609889428803735",
+    "in_reply_to_user_id": "897749985361444866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042604367002628520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woaishuji 可以给我看看吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2042604367002628520",
+        "created_at": "2026-04-10T14:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042609889428803735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "897749985361444866",
+              "start": 0,
+              "username": "woaishuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042609889428803735",
+        "in_reply_to_user_id": "897749985361444866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042604367002628520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woaishuji 可以给我看看吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "897749985361444866",
+        "conversation_id": "2042604367002628520",
+        "created_at": "2026-04-10T14:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042604367002628520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/woaishuji/stat…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/woaishuji/status/2042596011517054991",
+              "start": 57,
+              "url": "https://t.co/qndQa0Hq8Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042604367002628520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042596011517054991",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我应该在十年前玩快手当抽象能手\n亦或者在百年前作为一个疯癫艺术家\n而不是现在拍了一堆图想发却都没人想看的弱智状态 https://t.co/qndQa0Hq8Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 654,
+          "like_count": 10134,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 2118
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-16T09:20:50.000Z",
+        "description": "",
+        "id": "897749985361444866",
+        "name": "文学少女安德烈",
+        "pinned_tweet_id": "1862810120075583938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417757199130624/fcknZsxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1642,
+          "following_count": 1878,
+          "like_count": 466316,
+          "listed_count": 10,
+          "media_count": 2872,
+          "tweet_count": 16756
+        },
+        "username": "woaishuji",
+        "verified": false
+      }
+    ]
+  }
+}

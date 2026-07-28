@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2024876796060049888",
+    "created_at": "2026-02-20T20:24:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T21:24:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024943215452061849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2022232330752925696",
+          "start": 0,
+          "username": "Meltss03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024943215452061849",
+    "in_reply_to_user_id": "2022232330752925696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024876796060049888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meltss03 二氧化碳！呃呃呃……要无法呼吸力……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2024876796060049888",
+        "created_at": "2026-02-20T20:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T21:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024943215452061849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2022232330752925696",
+              "start": 0,
+              "username": "Meltss03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024943215452061849",
+        "in_reply_to_user_id": "2022232330752925696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024876796060049888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meltss03 二氧化碳！呃呃呃……要无法呼吸力……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022232330752925696",
+        "conversation_id": "2024876796060049888",
+        "created_at": "2026-02-20T16:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T17:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024876796060049888"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024876796060049888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 527,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好崩溃，好绝望，卧槽，这个世界对我为啥这么坏？世界孤立我，任他奚落我只保持我的沉默，明白什么才是好的，坏的都散了心巴巴巴普米拉，我一直在哭，随波逐流的痛苦你们不懂，城市套路深，我要回农村，如果你是资本，我就对抗这个资本。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 430,
+          "like_count": 3693,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1276
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T08:56:27.000Z",
+        "description": "骂我的，毁容，爆痘，挂科，破产，脱发，倒霉，变胖，变矮，替我全家挡灾，出门被车创死，体重发胖，脸上爆痘爆闭口，五官变得扭曲，脱发严重，烂脸烂皮肤，有狐臭口臭脚臭，全家破产，背负债务多而大，科科挂科，霉运缠身，各个器官衰竭，失明失聪变哑巴，成绩下滑，努力变失败，折寿一百年，大型考试全部挂科。",
+        "id": "2022232330752925696",
+        "name": "CO₂",
+        "pinned_tweet_id": "2024797552890073300",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 20,
+          "like_count": 304,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 402
+        },
+        "username": "Meltss03",
+        "verified": false
+      }
+    ]
+  }
+}

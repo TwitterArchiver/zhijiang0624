@@ -1,0 +1,460 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1012681620074053632",
+          "name": "Doraemon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1012681620074053632",
+          "name": "Doraemon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2044440044019286443",
+    "created_at": "2026-04-15T15:37:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T16:37:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044440044019286443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "17306975",
+          "start": 3,
+          "username": "livedoornews"
+        }
+      ],
+      "urls": [
+        {
+          "description": "漫画『ドラえもん』のコミックス再掲載『藤子・F・不二雄名作劇場ドラえもん』が、本日15日発売の『月刊コロコロコミック』にて最終回を迎えたことが、同誌にて発表された。漫画最後のページにて「『藤子・F・不二",
+          "display_url": "news.livedoor.com/article/detail…",
+          "end": 84,
+          "expanded_url": "https://news.livedoor.com/article/detail/31001067/",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://pbs.twimg.com/news_img/2044234003839102984/HRAxJn2s?format=jpg&name=orig",
+              "width": 413
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2044234003839102984/HRAxJn2s?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 61,
+          "status": 200,
+          "title": "藤子・F・不二雄名作劇場『ドラえもん』コロコロ掲載終了「長い間応援いただき」",
+          "unwound_url": "https://news.livedoor.com/article/detail/31001067/",
+          "url": "https://t.co/NBaUDgXngQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044440044019286443",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20838
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044234003591639526",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @livedoornews: 【最終回】『月刊コロコロコミック』、藤子・F・不二雄名作劇場『ドラえもん』の掲載終了\nhttps://t.co/NBaUDgXngQ\n\n15日発売の同誌にて、最終回を迎えたことを発表。漫画最後のページで「今月号で最終回となります。長い間応援い…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2044233958964236288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF6T9HHakAAAV20.jpg",
+        "width": 413
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1012681620074053632",
+              "name": "Doraemon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1012681620074053632",
+              "name": "Doraemon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2044440044019286443",
+        "created_at": "2026-04-15T15:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T16:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044440044019286443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "17306975",
+              "start": 3,
+              "username": "livedoornews"
+            }
+          ],
+          "urls": [
+            {
+              "description": "漫画『ドラえもん』のコミックス再掲載『藤子・F・不二雄名作劇場ドラえもん』が、本日15日発売の『月刊コロコロコミック』にて最終回を迎えたことが、同誌にて発表された。漫画最後のページにて「『藤子・F・不二",
+              "display_url": "news.livedoor.com/article/detail…",
+              "end": 84,
+              "expanded_url": "https://news.livedoor.com/article/detail/31001067/",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/2044234003839102984/HRAxJn2s?format=jpg&name=orig",
+                  "width": 413
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2044234003839102984/HRAxJn2s?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 61,
+              "status": 200,
+              "title": "藤子・F・不二雄名作劇場『ドラえもん』コロコロ掲載終了「長い間応援いただき」",
+              "unwound_url": "https://news.livedoor.com/article/detail/31001067/",
+              "url": "https://t.co/NBaUDgXngQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044440044019286443",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20838
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044234003591639526",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @livedoornews: 【最終回】『月刊コロコロコミック』、藤子・F・不二雄名作劇場『ドラえもん』の掲載終了\nhttps://t.co/NBaUDgXngQ\n\n15日発売の同誌にて、最終回を迎えたことを発表。漫画最後のページで「今月号で最終回となります。長い間応援い…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044233958964236288"
+          ]
+        },
+        "author_id": "17306975",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1012681620074053632",
+              "name": "Doraemon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2044234003591639526",
+        "created_at": "2026-04-15T01:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T02:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044234003591639526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "漫画『ドラえもん』のコミックス再掲載『藤子・F・不二雄名作劇場ドラえもん』が、本日15日発売の『月刊コロコロコミック』にて最終回を迎えたことが、同誌にて発表された。漫画最後のページにて「『藤子・F・不二",
+              "display_url": "news.livedoor.com/article/detail…",
+              "end": 66,
+              "expanded_url": "https://news.livedoor.com/article/detail/31001067/",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/2044234003839102984/HRAxJn2s?format=jpg&name=orig",
+                  "width": 413
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2044234003839102984/HRAxJn2s?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 43,
+              "status": 200,
+              "title": "藤子・F・不二雄名作劇場『ドラえもん』コロコロ掲載終了「長い間応援いただき」",
+              "unwound_url": "https://news.livedoor.com/article/detail/31001067/",
+              "url": "https://t.co/NBaUDgXngQ"
+            },
+            {
+              "display_url": "pic.x.com/neZNPXWXzm",
+              "end": 169,
+              "expanded_url": "https://x.com/livedoornews/status/2044234003591639526/photo/1",
+              "media_key": "3_2044233958964236288",
+              "start": 146,
+              "url": "https://t.co/neZNPXWXzm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044234003591639526",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6446,
+          "impression_count": 9025929,
+          "like_count": 79622,
+          "quote_count": 2337,
+          "reply_count": 909,
+          "retweet_count": 20838
+        },
+        "reply_settings": "everyone",
+        "text": "【最終回】『月刊コロコロコミック』、藤子・F・不二雄名作劇場『ドラえもん』の掲載終了\nhttps://t.co/NBaUDgXngQ\n\n15日発売の同誌にて、最終回を迎えたことを発表。漫画最後のページで「今月号で最終回となります。長い間応援いただき誠にありがとうございました」と説明された。 https://t.co/neZNPXWXzm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 665,
+          "like_count": 10583,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 2169
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2008-11-11T09:56:31.000Z",
+        "description": "国内・海外のニュースや芸能情報、ネットで話題の小ネタまで、幅広いジャンルのニュースをいち早くお伝えします。また、Amazonや楽天などのおトクなお買い物情報も発信中です。 ■公式アプリhttps://t.co/mboL5a5cKL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "onl.la/JHuxZ3v",
+                "end": 115,
+                "expanded_url": "http://onl.la/JHuxZ3v",
+                "start": 92,
+                "url": "https://t.co/mboL5a5cKL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "news.livedoor.com",
+                "end": 23,
+                "expanded_url": "http://news.livedoor.com/",
+                "start": 0,
+                "url": "https://t.co/wgqBLjY4vo"
+              }
+            ]
+          }
+        },
+        "id": "17306975",
+        "name": "ライブドアニュース",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698896423025270784/GhIkQiXi_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2147308,
+          "following_count": 106,
+          "like_count": 2288,
+          "listed_count": 13898,
+          "media_count": 286646,
+          "tweet_count": 462490
+        },
+        "url": "https://t.co/wgqBLjY4vo",
+        "username": "livedoornews",
+        "verified": true
+      }
+    ]
+  }
+}

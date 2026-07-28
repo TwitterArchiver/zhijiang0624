@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2072692810856427553",
+    "created_at": "2026-07-04T17:55:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T18:55:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073465799537562086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2026954721601462272",
+          "start": 0,
+          "username": "whxsa11"
+        },
+        {
+          "end": 20,
+          "id": "1845095784292941824",
+          "start": 9,
+          "username": "qims346179"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073465799537562086",
+    "in_reply_to_user_id": "2026954721601462272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073272808692678725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whxsa11 @qims346179 优质回答：我不知道"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2073272808692678725].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2073272808692678725",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2073272808692678725"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2072692810856427553",
+        "created_at": "2026-07-04T17:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073465799537562086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2026954721601462272",
+              "start": 0,
+              "username": "whxsa11"
+            },
+            {
+              "end": 20,
+              "id": "1845095784292941824",
+              "start": 9,
+              "username": "qims346179"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073465799537562086",
+        "in_reply_to_user_id": "2026954721601462272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073272808692678725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whxsa11 @qims346179 优质回答：我不知道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 728,
+          "like_count": 13002,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 2649
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-26T09:37:32.000Z",
+        "description": "再见了",
+        "id": "2026954721601462272",
+        "location": "若想查看此账号，请做到….",
+        "name": "她不想死她也想去巴黎",
+        "pinned_tweet_id": "2073341741454024997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073079103343734784/Wa7e_Zzd_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 8,
+          "like_count": 242,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 302
+        },
+        "url": "",
+        "username": "whxsa11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T13:34:57.000Z",
+        "description": "",
+        "id": "1845095784292941824",
+        "name": "秋木苏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845095819336466432/eD4Xkpdo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 14,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "qims346179",
+        "verified": false
+      }
+    ]
+  }
+}

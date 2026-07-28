@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2025845321402843214",
+    "created_at": "2026-02-23T14:04:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T15:04:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025934800813777154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1673483271299301376",
+          "start": 0,
+          "username": "cocoyoutoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025934800813777154",
+    "in_reply_to_user_id": "1673483271299301376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025845321402843214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cocoyoutoo 时钟周期：晶振振荡周期，是单片机的最小时间单位\n· 机器周期：完成一个基本操作（如取指、存储器读写等）所需的时间\n· 指令周期：执行一条指令所需的时间，由1-4个机器周期组成\n别问这是什么，这是不为人所知所理解不可名状的死人单片机知识"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025845313169465344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB0_lDVbIAAx-ZX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2025845321402843214",
+        "created_at": "2026-02-23T14:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T15:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025934800813777154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1673483271299301376",
+              "start": 0,
+              "username": "cocoyoutoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025934800813777154",
+        "in_reply_to_user_id": "1673483271299301376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025845321402843214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cocoyoutoo 时钟周期：晶振振荡周期，是单片机的最小时间单位\n· 机器周期：完成一个基本操作（如取指、存储器读写等）所需的时间\n· 指令周期：执行一条指令所需的时间，由1-4个机器周期组成\n别问这是什么，这是不为人所知所理解不可名状的死人单片机知识"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025845313169465344"
+          ]
+        },
+        "author_id": "1673483271299301376",
+        "conversation_id": "2025845321402843214",
+        "created_at": "2026-02-23T08:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T09:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025845321402843214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wrM5x9uIVA",
+              "end": 41,
+              "expanded_url": "https://x.com/cocoyoutoo/status/2025845321402843214/photo/1",
+              "media_key": "3_2025845313169465344",
+              "start": 18,
+              "url": "https://t.co/wrM5x9uIVA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025845321402843214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 2411,
+          "like_count": 180,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "请教给我更多，更多我不知道的知识。 https://t.co/wrM5x9uIVA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 443,
+          "like_count": 3838,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1315
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-27T00:08:12.000Z",
+        "description": "フォローしてくれてありがと 🎀 @qiqichidanta",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 16,
+                "username": "qiqichidanta"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/kekexinsuiban",
+                "end": 23,
+                "expanded_url": "http://patreon.com/kekexinsuiban",
+                "start": 0,
+                "url": "https://t.co/gutLuiZLkV"
+              }
+            ]
+          }
+        },
+        "id": "1673483271299301376",
+        "name": "coco",
+        "pinned_tweet_id": "1782442832789451217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000898045056270337/yIJiDo4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41473,
+          "following_count": 130,
+          "like_count": 9897,
+          "listed_count": 163,
+          "media_count": 59,
+          "tweet_count": 111
+        },
+        "url": "https://t.co/gutLuiZLkV",
+        "username": "cocoyoutoo",
+        "verified": true
+      }
+    ]
+  }
+}

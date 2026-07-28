@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2029042201297117568",
+    "created_at": "2026-03-04T04:14:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T05:14:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029047874747797760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1926589725189476352",
+          "start": 0,
+          "username": "sandyyyy0922"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029047874747797760",
+    "in_reply_to_user_id": "1926589725189476352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029042201297117568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sandyyyy0922 看完了\n很幸福的感情\n祝你们能一直走下去"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2029042077259186177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCibBNlawAE25LA.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2029042201297117568",
+        "created_at": "2026-03-04T04:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T05:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029047874747797760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1926589725189476352",
+              "start": 0,
+              "username": "sandyyyy0922"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029047874747797760",
+        "in_reply_to_user_id": "1926589725189476352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029042201297117568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sandyyyy0922 看完了\n很幸福的感情\n祝你们能一直走下去"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029042077259186177"
+          ]
+        },
+        "author_id": "1926589725189476352",
+        "conversation_id": "2029042201297117568",
+        "created_at": "2026-03-04T03:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T04:51:44.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029042080035512765",
+          "2029042201297117568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dJNiWN4mmP",
+              "end": 52,
+              "expanded_url": "https://x.com/sandyyyy0922/status/2029042201297117568/photo/1",
+              "media_key": "3_2029042077259186177",
+              "start": 29,
+              "url": "https://t.co/dJNiWN4mmP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029042201297117568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我很愿意跟你们讲我和豆夫的故事，因为他真的把我养的很好。\n豆夫是严格意义上的我的初恋。之所以说严格意义上，是因为我曾经有过一段“我们一直互称对方宝宝，还会打视频（但他几乎没露出过脸），且极度大男子主义，每天只想看我照片，结果最后他说从来没有跟我谈过恋爱，一直把我当成妹妹”的网络感情史。\n\n我其实是个缺爱的人，不只是如上的一段狗血感情史。虽然遇到豆夫的时候我依旧不乏喜欢和暗恋的勇气，但是我缺乏相信自己被爱的能力。遇见豆夫的时候我170斤，比现在还矮两厘米，大概164cm吧。是在健身房遇到他的。那会儿他来我的城市学习，大概两个月吧。\n\n看到豆夫的第一眼我真的是一见钟情，因为他几乎和我曾经梦到过一周的一个陌生人一模一样（我之前有在帖子讲过！我会刚到评论区）所以我大胆走过去问他能不能教我这个器械怎么做，豆夫很耐心的教了我。后来那一个月我们都是一起练的，他带着我练的，期间我们还约定好要助我减肥成功。一个半月后我瘦了25斤。\n\n后来他回他的城市了，但幸运的是我们在一个省里。我们每天给对方发很多日常，报备训练。我们一直无话不谈，直到有一天我和他突然开始畅聊xp，也不知道是什么契机导致的，我一股脑地把东西全部说出来了，好像自那天起我们的关系发生了转折。豆夫每天早上起床都要问我怎么还没起，叫我小懒猪，我说想他的时候还会给我打视频说看看我…\n\n平安夜前夕，我去他的城市办事情，当然也是为了找他。定了一家离他近的酒店。其实那个时候我很忐忑，我不知道他会不会像网上的人一样随随便便跟我就这样发生第一次，但我又觉得我很爱他，这没什么（那时已成年！）当天我们一起吃了饭，散步的时候我试探性地勾了勾他的手，他抓住了我的手牵了起来。他的手特别粗糙，但很温暖。\n我邀请他来我房间坐坐。其实我现在觉得这很危险，感觉这是一种暗示性的邀请。我们坐在床边，我看看他他看看我，有一丝尴尬。豆夫说，你帮我放松一下背部肌肉吧，我说好。他趴在床上，我跪坐在侧边，给他按揉每一块肌肉。他的肉很结实，背部的线条摸上去很流畅。那时我在思考他什么时候对我表白，我要怎么接受他的表白。出神间我不小心挠了他一下，他咯咯笑，我又闹他，他突然坐起来抓着我的手把我按在床上了。我们之间只隔了两根手指的距离。我很紧张，我那个时候在想我会不会闻着不够香，要是一会儿做爱我要怎么表现好一点。\n\n结果他只是轻轻吻了我一下，真的只是唇碰了一下唇，我明白他在试探我。豆夫那个时候表白了，我没回答他，只是把他按下来更有力的亲。他也很用力的回应我。\n\n但那晚我们没做，在一起一个月后我们才发生了关系。他说不想让我觉得他很随便，我说你当天晚上做了我也不觉得你随便，因为我爱你。他说，因为知道你很爱我，所以我我更想要保护你，珍视你珍贵的一切。\n\n后来我们一直是异地恋，直到现在的异国恋。在国内我们每天都要打一次视频，一打就是两小时，他一有空就坐高铁来看我，有时候一周一次，两周至少来一次。现在出国了每天也要打两次视频，至少每次三小时。\n\n所以我很庆幸我有豆夫这样的爱人。每个爱人都不是完美的，我们也会吵架，会发生争执，但我们从来不会让这个争执隔很久，冷静下来后我们都会道歉，说明双方的问题。\n对我来说，良好的亲密关系的内核就是爱，只有爱。爱是个很简单的东西，也是个很难做到的事情。\n\n谢谢你们愿意问我，谢谢你们愿意看完这么长的流水账👁️👅👁️💗"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很愿意跟你们讲我和豆夫的故事，因为他真的把我养的很好。 https://t.co/dJNiWN4mmP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 532,
+          "like_count": 5438,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1580
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T10:42:55.000Z",
+        "description": "M豆在🇨🇦闭关修炼中… 叫我M豆或者豆就好～有老公/哥哥/宝宝（同一个人）不聊骚不看屌不卖不约不私信露出…发骚男勿扰贱男勿扰皮下男勿扰…其余的小宝宝们请都来找我玩吧✌️👁️👅👁️✌️另一个豆@woxihuandaMdou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 95,
+                "username": "woxihuandaMdou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%BB%84%E8%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%BB%84%E8%89%B2%E5%A4%A7m%E8%B1%86",
+                "start": 0,
+                "url": "https://t.co/WRe3HQ5o5M"
+              }
+            ]
+          }
+        },
+        "id": "1926589725189476352",
+        "location": "Ontario, Canada",
+        "name": "黄色大M🫘",
+        "pinned_tweet_id": "2027836784147583410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926595280301875202/aWTzMjuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 271,
+          "like_count": 1249,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 1193
+        },
+        "url": "https://t.co/WRe3HQ5o5M",
+        "username": "sandyyyy0922",
+        "verified": true
+      }
+    ]
+  }
+}

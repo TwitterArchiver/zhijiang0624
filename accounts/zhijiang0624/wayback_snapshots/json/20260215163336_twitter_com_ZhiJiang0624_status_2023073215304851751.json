@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2023039438562140554",
+    "created_at": "2026-02-15T16:33:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T17:33:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023073215304851751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1919363955929362432",
+          "start": 0,
+          "username": "xiaomingmumu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023073215304851751",
+    "in_reply_to_user_id": "1919363955929362432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023039438562140554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaomingmumu 除夕快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2023039438562140554",
+        "created_at": "2026-02-15T16:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T17:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023073215304851751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1919363955929362432",
+              "start": 0,
+              "username": "xiaomingmumu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023073215304851751",
+        "in_reply_to_user_id": "1919363955929362432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023039438562140554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomingmumu 除夕快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919363955929362432",
+        "conversation_id": "2023039438562140554",
+        "created_at": "2026-02-15T14:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T15:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023039438562140554"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023039438562140554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 459,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有预感我回家上学的前几天会报复性手冲把自己搞昏。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 320,
+          "like_count": 2742,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 918
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T12:10:10.000Z",
+        "description": "操死全世界｜我是女的没有屌｜请善用拉黑功能，当然我也一样｜匿名https://t.co/NXKVyy5G1i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inridscent",
+                "end": 54,
+                "expanded_url": "https://ngl.link/inridscent",
+                "start": 31,
+                "url": "https://t.co/NXKVyy5G1i"
+              }
+            ]
+          }
+        },
+        "id": "1919363955929362432",
+        "name": "一根烂棉签",
+        "pinned_tweet_id": "2007795599199142093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007490886444429315/VErpiYVW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 281,
+          "like_count": 10355,
+          "listed_count": 1,
+          "media_count": 276,
+          "tweet_count": 5017
+        },
+        "username": "xiaomingmumu",
+        "verified": false
+      }
+    ]
+  }
+}

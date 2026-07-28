@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025929686761738240"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2025649516465238418",
+    "created_at": "2026-02-23T13:44:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T14:44:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025929725001314648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1634479894917677058",
+          "start": 0,
+          "username": "emon_n81"
+        },
+        {
+          "end": 26,
+          "id": "552553560",
+          "start": 10,
+          "username": "CLEARSTONE_info"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WWgxiq4CkP",
+          "end": 61,
+          "expanded_url": "https://x.com/ZhiJiang0624/status/2025929725001314648/photo/1",
+          "media_key": "3_2025929686761738240",
+          "start": 38,
+          "url": "https://t.co/WWgxiq4CkP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025929725001314648",
+    "in_reply_to_user_id": "1634479894917677058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025649516465238418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@emon_n81 @CLEARSTONE_info 有趣，新的挑战者吗？ https://t.co/WWgxiq4CkP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 200,
+        "media_key": "3_2025929686761738240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB2MUPdaEAAaSTD.jpg",
+        "width": 174
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025649507007111168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HByNfoiaoAASFvm.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025929686761738240"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025649516465238418",
+        "created_at": "2026-02-23T13:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T14:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025929725001314648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1634479894917677058",
+              "start": 0,
+              "username": "emon_n81"
+            },
+            {
+              "end": 26,
+              "id": "552553560",
+              "start": 10,
+              "username": "CLEARSTONE_info"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WWgxiq4CkP",
+              "end": 61,
+              "expanded_url": "https://x.com/ZhiJiang0624/status/2025929725001314648/photo/1",
+              "media_key": "3_2025929686761738240",
+              "start": 38,
+              "url": "https://t.co/WWgxiq4CkP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025929725001314648",
+        "in_reply_to_user_id": "1634479894917677058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025649516465238418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@emon_n81 @CLEARSTONE_info 有趣，新的挑战者吗？ https://t.co/WWgxiq4CkP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025649507007111168"
+          ]
+        },
+        "author_id": "1634479894917677058",
+        "conversation_id": "2025649516465238418",
+        "created_at": "2026-02-22T19:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T20:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025649516465238418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qBmqZMKb25",
+              "end": 38,
+              "expanded_url": "https://x.com/emon_n81/status/2025649516465238418/photo/1",
+              "media_key": "3_2025649507007111168",
+              "start": 15,
+              "url": "https://t.co/qBmqZMKb25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025649516465238418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 3337,
+          "like_count": 186,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "僵尸🧟‍♀️吃掉了你的脑子！ https://t.co/qBmqZMKb25"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 439,
+          "like_count": 3808,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1308
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-11T09:02:34.000Z",
+        "description": "https://t.co/SYt8DYPa46",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "threads.com/@emon_n81?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@emon_n81?igshid=NTc4MTIwNjQ2YQ==",
+                "start": 0,
+                "url": "https://t.co/SYt8DYPa46"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/emon_n81?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/emon_n81?igsh=emFjaTNyMDhqaWlm&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/UxFyCKPK9i"
+              }
+            ]
+          }
+        },
+        "id": "1634479894917677058",
+        "name": "阴间EMO子",
+        "pinned_tweet_id": "2008360099924832548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017606205665951745/wL-ZgzIF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 818,
+          "like_count": 3836,
+          "listed_count": 7,
+          "media_count": 67,
+          "tweet_count": 191
+        },
+        "url": "https://t.co/UxFyCKPK9i",
+        "username": "emon_n81",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-13T06:22:02.000Z",
+        "description": "2024年4月で20周年！🎉業界最大級の商品数×こだわりデザイン×お手頃価格が魅力の、コスプレ・パーティー・アパレルのメーカー👗 全国のドンキや通販で販売中💕新商品やお得情報などなど発信します✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shop.clearstone.co.jp",
+                "end": 23,
+                "expanded_url": "https://shop.clearstone.co.jp/",
+                "start": 0,
+                "url": "https://t.co/edR4esUYmJ"
+              }
+            ]
+          }
+        },
+        "id": "552553560",
+        "location": "ぜひタグ付けお願いします♥️💫",
+        "name": "クリアストーン💎🦋CLEARSTONE",
+        "pinned_tweet_id": "2018251353899024877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620710594633662466/-NHaX75C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15594,
+          "following_count": 1301,
+          "like_count": 12028,
+          "listed_count": 104,
+          "media_count": 3406,
+          "tweet_count": 11878
+        },
+        "url": "https://t.co/edR4esUYmJ",
+        "username": "CLEARSTONE_info",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2041170694936146363",
+    "created_at": "2026-04-06T15:19:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T16:19:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041173943890178405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1026730480824008704",
+          "start": 0,
+          "username": "Yun_Yun8754"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041173943890178405",
+    "in_reply_to_user_id": "1026730480824008704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041170694936146363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yun_Yun8754 きれいですね。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041170692264382464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOx7hZbUAAVX51.jpg",
+        "width": 1639
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2041170694936146363",
+        "created_at": "2026-04-06T15:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041173943890178405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1026730480824008704",
+              "start": 0,
+              "username": "Yun_Yun8754"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041173943890178405",
+        "in_reply_to_user_id": "1026730480824008704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041170694936146363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun_Yun8754 きれいですね。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041170692264382464"
+          ]
+        },
+        "author_id": "1026730480824008704",
+        "conversation_id": "2041170694936146363",
+        "created_at": "2026-04-06T15:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041170694936146363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lBxhWeuWLJ",
+              "end": 23,
+              "expanded_url": "https://x.com/Yun_Yun8754/status/2041170694936146363/photo/1",
+              "media_key": "3_2041170692264382464",
+              "start": 0,
+              "url": "https://t.co/lBxhWeuWLJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041170694936146363",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 464,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lBxhWeuWLJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 653,
+          "like_count": 9772,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 2065
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-07T07:23:17.000Z",
+        "description": "@iruri_rapulras SUB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "iruri_rapulras"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/iruri_rapulras…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/iruri_rapulrasu26?igsh=eHZhMDV5cWV3MmRs",
+                "start": 0,
+                "url": "https://t.co/1Ig1Z2uOMF"
+              }
+            ]
+          }
+        },
+        "id": "1026730480824008704",
+        "location": "horn",
+        "name": "イルリ",
+        "pinned_tweet_id": "2036289631814295561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966896524266532864/DGtIoRAf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133366,
+          "following_count": 98,
+          "like_count": 5515,
+          "listed_count": 341,
+          "media_count": 548,
+          "tweet_count": 5506
+        },
+        "url": "https://t.co/1Ig1Z2uOMF",
+        "username": "Yun_Yun8754",
+        "verified": true
+      }
+    ]
+  }
+}

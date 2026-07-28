@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2024220881720053989",
+    "created_at": "2026-02-19T02:19:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T03:19:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024307948298858543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1773020567479996416",
+          "start": 0,
+          "username": "Qiiii1472170"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024307948298858543",
+    "in_reply_to_user_id": "1773020567479996416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024220881720053989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiiii1472170 可能是担心你以后啥也不干只管他要钱，总而言之，下次别复合了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1164,
+        "media_key": "3_2024220871305654272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBd6KF0a8AATWmE.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024220871637004288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBd6KHDa8AAxF95.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2024220881720053989",
+        "created_at": "2026-02-19T02:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T03:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024307948298858543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1773020567479996416",
+              "start": 0,
+              "username": "Qiiii1472170"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024307948298858543",
+        "in_reply_to_user_id": "1773020567479996416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024220881720053989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiiii1472170 可能是担心你以后啥也不干只管他要钱，总而言之，下次别复合了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024220871305654272",
+            "3_2024220871637004288"
+          ]
+        },
+        "author_id": "1773020567479996416",
+        "conversation_id": "2024220881720053989",
+        "created_at": "2026-02-18T20:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T21:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024220881720053989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5lgJ0byFxb",
+              "end": 77,
+              "expanded_url": "https://x.com/Qiiii1472170/status/2024220881720053989/photo/1",
+              "media_key": "3_2024220871305654272",
+              "start": 54,
+              "url": "https://t.co/5lgJ0byFxb"
+            },
+            {
+              "display_url": "pic.x.com/5lgJ0byFxb",
+              "end": 77,
+              "expanded_url": "https://x.com/Qiiii1472170/status/2024220881720053989/photo/1",
+              "media_key": "3_2024220871637004288",
+              "start": 54,
+              "url": "https://t.co/5lgJ0byFxb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024220881720053989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的好想问我给过你任何压力吗 为什么总是这样对我 总是突然分手然后又复合 真的好累好崩溃 每天都在伤心。 https://t.co/5lgJ0byFxb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 422,
+          "like_count": 3530,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1231
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T16:13:49.000Z",
+        "description": "短命鬼一个只是还在苦苦挣扎罢了",
+        "id": "1773020567479996416",
+        "name": "能不能给我一首歌的时间",
+        "pinned_tweet_id": "1954721186178539730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023154000909217792/MNYoWuLd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 382,
+          "like_count": 1612,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 693
+        },
+        "username": "Qiiii1472170",
+        "verified": false
+      }
+    ]
+  }
+}

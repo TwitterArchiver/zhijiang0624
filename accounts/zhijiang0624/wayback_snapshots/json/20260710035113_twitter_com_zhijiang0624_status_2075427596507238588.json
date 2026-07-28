@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2075423988227141929",
+    "created_at": "2026-07-10T03:51:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T04:51:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075427596507238588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1491257669688397825",
+          "start": 0,
+          "username": "chenche88404202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075427596507238588",
+    "in_reply_to_user_id": "1491257669688397825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075423988227141929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenche88404202 我也有点害怕了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10123,
+        "height": 720,
+        "media_key": "7_2075423896271302656",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2075423896271302656/pu/img/SSd57wRjm4FZpb-h.jpg",
+        "public_metrics": {
+          "view_count": 23
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075423896271302656/pu/vid/avc1/476x270/YKyZxfsauKXGhwMJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075423896271302656/pu/vid/avc1/636x360/e4cNbHrq9ert8wQB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075423896271302656/pu/vid/avc1/1272x720/2ItoT4Ko449j9a2f.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2075423896271302656/pu/pl/SQrrdTNainEdKnCH.m3u8?tag=12"
+          }
+        ],
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2075423988227141929",
+        "created_at": "2026-07-10T03:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T04:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075427596507238588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1491257669688397825",
+              "start": 0,
+              "username": "chenche88404202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075427596507238588",
+        "in_reply_to_user_id": "1491257669688397825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075423988227141929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenche88404202 我也有点害怕了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2075423896271302656"
+          ]
+        },
+        "author_id": "1491257669688397825",
+        "conversation_id": "2075423988227141929",
+        "created_at": "2026-07-10T03:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T04:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075423988227141929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bmk6ENPM5d",
+              "end": 40,
+              "expanded_url": "https://x.com/chenche88404202/status/2075423988227141929/video/1",
+              "media_key": "7_2075423896271302656",
+              "start": 17,
+              "url": "https://t.co/Bmk6ENPM5d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075423988227141929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "巴威，可以绕道走吗？不要来浙江啊 https://t.co/Bmk6ENPM5d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 755,
+          "like_count": 13460,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 2710
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-09T03:48:42.000Z",
+        "description": "互fo🇨🇳🇨🇳💯💯。（回关超快。黄赌毒币勿扰。）",
+        "id": "1491257669688397825",
+        "name": "巨蟹的小丫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796801711765704704/TKTHBb0J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7209,
+          "following_count": 6899,
+          "like_count": 1188,
+          "listed_count": 3,
+          "media_count": 1238,
+          "tweet_count": 1350
+        },
+        "url": "",
+        "username": "chenche88404202",
+        "verified": false
+      }
+    ]
+  }
+}

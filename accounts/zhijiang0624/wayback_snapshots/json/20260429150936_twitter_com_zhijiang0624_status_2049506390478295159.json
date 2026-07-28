@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2049506390478295159",
+    "created_at": "2026-04-29T15:09:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T16:09:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049506390478295159"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049506390478295159",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啊\n上班好累啊\n游戏都不想打了\n身体啊\n快点崩溃吧\n你所做的所有努力\n都只是为你徒增疲惫、为我的灵魂徒增噪点\n声音啊\n快点闭嘴吧\n你所做的所有传播\n都只是在让我的灵魂不再稳定"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2049506390478295159",
+        "created_at": "2026-04-29T15:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T16:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049506390478295159"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049506390478295159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊\n上班好累啊\n游戏都不想打了\n身体啊\n快点崩溃吧\n你所做的所有努力\n都只是为你徒增疲惫、为我的灵魂徒增噪点\n声音啊\n快点闭嘴吧\n你所做的所有传播\n都只是在让我的灵魂不再稳定"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 676,
+          "like_count": 11283,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 2275
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      }
+    ]
+  }
+}

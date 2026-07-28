@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2022972364867441087",
+    "created_at": "2026-02-15T10:00:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T11:00:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022974403324367284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1799331977205796864",
+          "start": 0,
+          "username": "Xxxxx62778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022974403324367284",
+    "in_reply_to_user_id": "1799331977205796864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022972364867441087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xxxxx62778 摸摸小咪，小咪要开心"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1343,
+        "media_key": "3_2022970471411744768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBMI7POaAAAlrR-.jpg",
+        "width": 1193
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2022972364867441087",
+        "created_at": "2026-02-15T10:00:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T11:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022974403324367284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1799331977205796864",
+              "start": 0,
+              "username": "Xxxxx62778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022974403324367284",
+        "in_reply_to_user_id": "1799331977205796864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022972364867441087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxxxx62778 摸摸小咪，小咪要开心"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022970471411744768"
+          ]
+        },
+        "author_id": "1799331977205796864",
+        "conversation_id": "2022972364867441087",
+        "created_at": "2026-02-15T09:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T10:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022972364867441087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ggfqkuk4XA",
+              "end": 154,
+              "expanded_url": "https://x.com/Xxxxx62778/status/2022972364867441087/photo/1",
+              "media_key": "3_2022970471411744768",
+              "start": 131,
+              "url": "https://t.co/Ggfqkuk4XA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022972364867441087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下午躯体化了 \n妈妈和我商量——过年和表姐一家一起我不用理他们\n我不愿意\n一想表姐我就想哭\n我奶在我家住 从小对我不好 我发朋友圈说自己不被爱难过\n我表姐把朋友圈截图让大人来指责我 我奶奶从小偏心我表姐 她得了便宜还卖乖。\n在床上气全身冰冷发抖 真的不想见想哭 https://t.co/Ggfqkuk4XA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 319,
+          "like_count": 2636,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 844
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T06:45:56.000Z",
+        "description": "°. ⑅♡⑅ °. +. °. ⑅♡⑅ °. +. °.\n希望你因为拥有小咪的陪伴而幸福",
+        "id": "1799331977205796864",
+        "location": "⌯^⑅˶º ᵕ º˶^",
+        "name": "/•᷅‎‎•᷄\\୭⋆°✩ ๋࣭",
+        "pinned_tweet_id": "2013542676201967753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002547322463600640/hm5xe4nX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1900,
+          "following_count": 30,
+          "like_count": 24229,
+          "listed_count": 3,
+          "media_count": 3078,
+          "tweet_count": 8674
+        },
+        "username": "Xxxxx62778",
+        "verified": false
+      }
+    ]
+  }
+}

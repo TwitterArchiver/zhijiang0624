@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2028250622861214062",
+    "created_at": "2026-03-01T23:26:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T00:26:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028250622861214062"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MaymonRagu7198…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/MaymonRagu71988/status/2028167263845752888",
+          "start": 15,
+          "url": "https://t.co/LrTDqtAMcv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028250622861214062",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028167263845752888",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "类人群星闪耀\n我只得无力吐槽 https://t.co/LrTDqtAMcv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2028250622861214062",
+        "created_at": "2026-03-01T23:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T00:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028250622861214062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MaymonRagu7198…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/MaymonRagu71988/status/2028167263845752888",
+              "start": 15,
+              "url": "https://t.co/LrTDqtAMcv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028250622861214062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028167263845752888",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "类人群星闪耀\n我只得无力吐槽 https://t.co/LrTDqtAMcv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685852388090130433",
+        "conversation_id": "2028125695285817577",
+        "created_at": "2026-03-01T17:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T18:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028167263845752888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1827754018984394752",
+              "start": 0,
+              "username": "nuomishubot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028167263845752888",
+        "in_reply_to_user_id": "1827754018984394752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028166756666323012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nuomishubot 给你个水桶落地水就好了，别担心宝贝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 478,
+          "like_count": 4503,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1405
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-31T03:18:40.000Z",
+        "description": "ACGN 創作權益推動協會公关部-部长\n現居中國北京，是一位支持台灣回歸的愛國人士，任何不愛國行爲都將繩之以法！\n商務合作電話聯係：15611579562",
+        "id": "1685852388090130433",
+        "name": "實名制上網：吳昊哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866395543385329664/8Ml_9UC7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 14,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 126
+        },
+        "username": "MaymonRagu71988",
+        "verified": false
+      }
+    ]
+  }
+}

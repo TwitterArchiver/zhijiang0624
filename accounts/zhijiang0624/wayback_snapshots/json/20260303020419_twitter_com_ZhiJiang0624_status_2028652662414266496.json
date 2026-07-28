@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028652635004583936"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "conversation_id": "2028652662414266496",
+    "created_at": "2026-03-03T02:04:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T03:04:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028652662414266496"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DVgxaKJvmL",
+          "end": 44,
+          "expanded_url": "https://x.com/ZhiJiang0624/status/2028652662414266496/photo/1",
+          "media_key": "3_2028652635004583936",
+          "start": 21,
+          "url": "https://t.co/DVgxaKJvmL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028652662414266496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我有罪，我忏悔\n先从给自己开开眼开始赎罪 https://t.co/DVgxaKJvmL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2028652635004583936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCc40sIbwAAiu0E.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028652635004583936"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "conversation_id": "2028652662414266496",
+        "created_at": "2026-03-03T02:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T03:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028652662414266496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DVgxaKJvmL",
+              "end": 44,
+              "expanded_url": "https://x.com/ZhiJiang0624/status/2028652662414266496/photo/1",
+              "media_key": "3_2028652635004583936",
+              "start": 21,
+              "url": "https://t.co/DVgxaKJvmL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028652662414266496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有罪，我忏悔\n先从给自己开开眼开始赎罪 https://t.co/DVgxaKJvmL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 504,
+          "like_count": 4861,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1467
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      }
+    ]
+  }
+}

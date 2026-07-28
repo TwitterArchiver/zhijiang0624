@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2024692885736878539",
+    "created_at": "2026-02-20T20:12:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T21:12:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024940344018923651"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "恭喜",
+          "probability": 0.6438,
+          "start": 16,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1936969318191017984",
+          "start": 0,
+          "username": "MegomeKaze_920"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024940344018923651",
+    "in_reply_to_user_id": "1936969318191017984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024692885736878539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MegomeKaze_920 恭喜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2024692885736878539",
+        "created_at": "2026-02-20T20:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T21:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024940344018923651"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "恭喜",
+              "probability": 0.6438,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1936969318191017984",
+              "start": 0,
+              "username": "MegomeKaze_920"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024940344018923651",
+        "in_reply_to_user_id": "1936969318191017984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024692885736878539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MegomeKaze_920 恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936969318191017984",
+        "conversation_id": "2024692885736878539",
+        "created_at": "2026-02-20T03:49:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T04:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024692885736878539"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024692885736878539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 665,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "百fo了！！非常感谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 429,
+          "like_count": 3675,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1271
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T02:07:41.000Z",
+        "description": "低浮上↑ 中文｜한국어｜日本語｜English｜重焦重抑｜自傷od裸｜同類互fo｜05.30｜只发自己喜欢的，拍擦边的照片纯属自己喜欢｜不聊骚不约炮不线下",
+        "id": "1936969318191017984",
+        "location": "🐹",
+        "name": "げっしょく",
+        "pinned_tweet_id": "2024142792717644255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024012478586470400/e63x-sVw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 151,
+          "like_count": 635,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 570
+        },
+        "username": "MegomeKaze_920",
+        "verified": false
+      }
+    ]
+  }
+}

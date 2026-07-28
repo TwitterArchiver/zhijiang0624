@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2041341539889410451",
+    "created_at": "2026-04-07T04:16:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T05:16:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041369566820114780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1739391734491086848",
+          "start": 0,
+          "username": "IXXA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041369566820114780",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041341539889410451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IXXA00 很漂亮\n好看☺️👍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041341528900272129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFRNThdagAEizRo.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2041341539889410451",
+        "created_at": "2026-04-07T04:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T05:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041369566820114780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041369566820114780",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041341539889410451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 很漂亮\n好看☺️👍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041341528900272129"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "2041341539889410451",
+        "created_at": "2026-04-07T02:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T03:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041341539889410451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LmEp6cJXpr",
+              "end": 30,
+              "expanded_url": "https://x.com/IXXA00/status/2041341539889410451/photo/1",
+              "media_key": "3_2041341528900272129",
+              "start": 7,
+              "url": "https://t.co/LmEp6cJXpr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041341539889410451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "叫妈妈😡👊🏻 https://t.co/LmEp6cJXpr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 655,
+          "like_count": 9852,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2083
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我人没了",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla妈妈版",
+        "pinned_tweet_id": "2041341539889410451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6352,
+          "following_count": 4461,
+          "like_count": 37064,
+          "listed_count": 17,
+          "media_count": 2698,
+          "tweet_count": 37464
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我人没了",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla妈妈版",
+        "pinned_tweet_id": "2041341539889410451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6352,
+          "following_count": 4461,
+          "like_count": 37064,
+          "listed_count": 17,
+          "media_count": 2698,
+          "tweet_count": 37464
+        },
+        "username": "IXXA00",
+        "verified": true
+      }
+    ]
+  }
+}

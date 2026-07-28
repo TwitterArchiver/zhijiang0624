@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2044721651124994335",
+    "created_at": "2026-04-17T16:11:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T17:11:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045173235436958105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1648904599330504704",
+          "start": 0,
+          "username": "trigger67048125"
+        },
+        {
+          "end": 28,
+          "id": "1044140195568742400",
+          "start": 17,
+          "username": "jiojiolang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045173235436958105",
+    "in_reply_to_user_id": "1648904599330504704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045113000630395017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@trigger67048125 @jiojiolang 果然还是帝皇好\n读到这条帖子的下辈子转世到神圣泰拉效忠帝皇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2044721651124994335",
+        "created_at": "2026-04-17T16:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T17:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045173235436958105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1648904599330504704",
+              "start": 0,
+              "username": "trigger67048125"
+            },
+            {
+              "end": 28,
+              "id": "1044140195568742400",
+              "start": 17,
+              "username": "jiojiolang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045173235436958105",
+        "in_reply_to_user_id": "1648904599330504704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045113000630395017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@trigger67048125 @jiojiolang 果然还是帝皇好\n读到这条帖子的下辈子转世到神圣泰拉效忠帝皇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1648904599330504704",
+        "conversation_id": "2044721651124994335",
+        "created_at": "2026-04-17T12:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045113000630395017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "zhijiang0624"
+            },
+            {
+              "end": 25,
+              "id": "1044140195568742400",
+              "start": 14,
+              "username": "jiojiolang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045113000630395017",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045106573853520197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhijiang0624 @jiojiolang 色孽：你太变态了\n奸奇：你太狡猾了\n恐虐：你太残暴了\n纳垢：你太恶心了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 666,
+          "like_count": 10701,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 2180
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-20T04:21:16.000Z",
+        "description": "愛",
+        "id": "1648904599330504704",
+        "name": "trigger",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1648904702267125761/B4OhExLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 115,
+          "like_count": 955,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 490
+        },
+        "username": "trigger67048125",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-24T08:23:16.000Z",
+        "description": "我望着月亮，却只看见了你。",
+        "id": "1044140195568742400",
+        "location": "中国",
+        "name": "电子止痛药♡",
+        "pinned_tweet_id": "2043283801414176882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042402468605411330/-8bQnGNl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 180,
+          "like_count": 557,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 163
+        },
+        "username": "jiojiolang",
+        "verified": false
+      }
+    ]
+  }
+}

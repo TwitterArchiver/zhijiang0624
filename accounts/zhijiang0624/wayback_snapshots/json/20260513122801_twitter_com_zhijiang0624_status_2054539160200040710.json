@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2054539160200040710",
+    "created_at": "2026-05-13T12:28:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T13:28:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054539160200040710"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054539160200040710",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还记得我初中毕业那个暑假我就说我要打暑假工\n家里怎么都不同意\n后面放个稍微长一点的假就一直说我不知道帮忙挣点钱\n直到高二结束都是如此\n尽管那些暑假我都表示我可以去打暑假工积累经验\n……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2054539160200040710",
+        "created_at": "2026-05-13T12:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054539160200040710"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054539160200040710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还记得我初中毕业那个暑假我就说我要打暑假工\n家里怎么都不同意\n后面放个稍微长一点的假就一直说我不知道帮忙挣点钱\n直到高二结束都是如此\n尽管那些暑假我都表示我可以去打暑假工积累经验\n……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 684,
+          "like_count": 11685,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 2388
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      }
+    ]
+  }
+}

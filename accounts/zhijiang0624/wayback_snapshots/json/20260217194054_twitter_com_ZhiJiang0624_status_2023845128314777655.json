@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "1994332265120174188",
+    "created_at": "2026-02-17T19:40:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T20:40:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023845128314777655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1831391450283831299",
+          "start": 0,
+          "username": "yi0415_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023845128314777655",
+    "in_reply_to_user_id": "1831391450283831299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994332265120174188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yi0415_ 挺可爱的，没精神小妹那种混的气质"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1697,
+        "media_key": "3_1994332258149474304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61Kn1MaIAAmQmV.jpg",
+        "width": 999
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "1994332265120174188",
+        "created_at": "2026-02-17T19:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T20:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023845128314777655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1831391450283831299",
+              "start": 0,
+              "username": "yi0415_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023845128314777655",
+        "in_reply_to_user_id": "1831391450283831299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994332265120174188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yi0415_ 挺可爱的，没精神小妹那种混的气质"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994332258149474304"
+          ]
+        },
+        "author_id": "1831391450283831299",
+        "conversation_id": "1994332265120174188",
+        "created_at": "2025-11-28T09:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T10:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994332265120174188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/30pDLhF6Jl",
+              "end": 37,
+              "expanded_url": "https://x.com/yi0415_/status/1994332265120174188/photo/1",
+              "media_key": "3_1994332258149474304",
+              "start": 14,
+              "url": "https://t.co/30pDLhF6Jl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994332265120174188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 153,
+          "impression_count": 523475,
+          "like_count": 2105,
+          "quote_count": 1,
+          "reply_count": 66,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "我染粉毛怎么那么像精神小妹 https://t.co/30pDLhF6Jl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 419,
+          "like_count": 3424,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1195
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T17:58:57.000Z",
+        "description": "当朋友圈发别骂我 想发什么发什么 梦到什么发什么",
+        "id": "1831391450283831299",
+        "location": "我来自地狱",
+        "name": "怡",
+        "pinned_tweet_id": "1994332265120174188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015745496049123328/_CzscIKo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28931,
+          "following_count": 88,
+          "like_count": 1568,
+          "listed_count": 80,
+          "media_count": 311,
+          "tweet_count": 2149
+        },
+        "username": "yi0415_",
+        "verified": false
+      }
+    ]
+  }
+}

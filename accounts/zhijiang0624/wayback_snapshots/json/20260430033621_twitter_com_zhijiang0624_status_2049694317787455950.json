@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2049630284082200579",
+    "created_at": "2026-04-30T03:36:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T04:36:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049694317787455950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1851327101946953728",
+          "start": 0,
+          "username": "060105o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049694317787455950",
+    "in_reply_to_user_id": "1851327101946953728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049630284082200579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@060105o 这是什么？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049630278335987712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHG_4PUaAAAmymL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2049630284082200579",
+        "created_at": "2026-04-30T03:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T04:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049694317787455950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1851327101946953728",
+              "start": 0,
+              "username": "060105o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049694317787455950",
+        "in_reply_to_user_id": "1851327101946953728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049630284082200579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@060105o 这是什么？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049630278335987712"
+          ]
+        },
+        "author_id": "1851327101946953728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2049630284082200579",
+        "created_at": "2026-04-29T23:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T00:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049630284082200579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/54dEaq1N4p",
+              "end": 27,
+              "expanded_url": "https://x.com/060105o/status/2049630284082200579/photo/1",
+              "media_key": "3_2049630278335987712",
+              "start": 4,
+              "url": "https://t.co/54dEaq1N4p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049630284082200579",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好浓稠 https://t.co/54dEaq1N4p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 679,
+          "like_count": 11315,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 2288
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T18:16:07.000Z",
+        "description": "哇咔/双相情感障碍/自残/ 双性恋/生活推/疾病生活日记录/治愈/满怀希望就会所向披靡/希望可以和更多的人成为朋友 一起聊天 /(。•ω•。)ノ♡/树洞博主/即使你没有米但是你真诚有趣有分享生活的欲望你依然可以和我成为朋友/成为你的树洞 倾诉心中压力 为你而活 门槛🚪十块钱谢谢宝子们可怜我这路边一条",
+        "id": "1851327101946953728",
+        "location": "门槛10r  520米可打视频打电话",
+        "name": "哇咔",
+        "pinned_tweet_id": "2041868347529425188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855710973828702208/HGKYxt_T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 520,
+          "like_count": 6815,
+          "listed_count": 3,
+          "media_count": 1793,
+          "tweet_count": 9245
+        },
+        "username": "060105o",
+        "verified": false
+      }
+    ]
+  }
+}

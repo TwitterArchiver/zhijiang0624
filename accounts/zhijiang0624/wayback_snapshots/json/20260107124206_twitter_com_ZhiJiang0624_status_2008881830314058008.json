@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2008624419917439028",
+    "created_at": "2026-01-07T12:42:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T13:42:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008881830314058008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1784865103034380288",
+          "start": 0,
+          "username": "bai347312"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008881830314058008",
+    "in_reply_to_user_id": "1784865103034380288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008624419917439028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bai347312 没有什么是永久的，看开点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2008624419917439028",
+        "created_at": "2026-01-07T12:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T13:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008881830314058008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1784865103034380288",
+              "start": 0,
+              "username": "bai347312"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008881830314058008",
+        "in_reply_to_user_id": "1784865103034380288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008624419917439028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bai347312 没有什么是永久的，看开点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784865103034380288",
+        "conversation_id": "2008624419917439028",
+        "created_at": "2026-01-06T19:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T20:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008624419917439028"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008624419917439028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 360,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我到底該用什麼撐過這漫長的生命 每次一想到小貓不能陪我一輩子就很難過很絕望\n最後只得出一個結論 還是321跳更有性價比"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一个偶尔变得哲学或者厌世的重度自闭男生。理想大概就是想尽自己的绵薄之力尽量缝补这个世界支离破碎的一面吧",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 184,
+          "like_count": 693,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 458
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-29T08:39:53.000Z",
+        "description": "有精神病，我不想罵人 不喜歡可以滑走，脾氣不好一點就炸\n防走失@yi30744",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "yi30744"
+              }
+            ]
+          }
+        },
+        "id": "1784865103034380288",
+        "name": "遺灰2.0",
+        "pinned_tweet_id": "1973356395006402904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878688368722432000/g4uSON41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7470,
+          "following_count": 500,
+          "like_count": 2789,
+          "listed_count": 10,
+          "media_count": 232,
+          "tweet_count": 837
+        },
+        "username": "bai347312",
+        "verified": false
+      }
+    ]
+  }
+}

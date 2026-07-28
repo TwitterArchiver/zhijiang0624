@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2060441847667871947",
+    "created_at": "2026-05-30T04:19:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T05:19:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060576850104238112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2032313131746410497",
+          "start": 0,
+          "username": "shairnn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060576850104238112",
+    "in_reply_to_user_id": "2032313131746410497",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060441847667871947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shairnn 11"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 698,
+        "media_key": "3_2060441841317597187",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJgo8CAWUAMezFV.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2060441847667871947",
+        "created_at": "2026-05-30T04:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060576850104238112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2032313131746410497",
+              "start": 0,
+              "username": "shairnn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060576850104238112",
+        "in_reply_to_user_id": "2032313131746410497",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060441847667871947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shairnn 11"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060441841317597187"
+          ]
+        },
+        "author_id": "2032313131746410497",
+        "conversation_id": "2060441847667871947",
+        "created_at": "2026-05-29T19:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T20:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060441847667871947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TJBG9JZHyO",
+              "end": 92,
+              "expanded_url": "https://x.com/shairnn/status/2060441847667871947/photo/1",
+              "media_key": "3_2060441841317597187",
+              "start": 69,
+              "url": "https://t.co/TJBG9JZHyO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060441847667871947",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 151,
+          "impression_count": 200409,
+          "like_count": 413,
+          "quote_count": 62,
+          "reply_count": 2579,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "bunu çözersen, IQ seviyen ortalamanın üstündedir.\n\n çözebilir misin? https://t.co/TJBG9JZHyO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 706,
+          "like_count": 12430,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 2570
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-13T04:30:44.000Z",
+        "description": "Takip etmeyene kara büyü yapıyorum ☄️",
+        "id": "2032313131746410497",
+        "name": "Canan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055920137442672641/60kt4oGB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3025,
+          "following_count": 3089,
+          "like_count": 6975,
+          "listed_count": 0,
+          "media_count": 225,
+          "tweet_count": 6346
+        },
+        "username": "shairnn",
+        "verified": true
+      }
+    ]
+  }
+}

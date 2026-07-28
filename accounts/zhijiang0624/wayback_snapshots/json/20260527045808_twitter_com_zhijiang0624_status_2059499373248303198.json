@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2059249536636477708",
+    "created_at": "2026-05-27T04:58:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T05:58:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059499373248303198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "459144099",
+          "start": 0,
+          "username": "YasPhoto"
+        },
+        {
+          "end": 22,
+          "id": "1067385892703092738",
+          "start": 10,
+          "username": "yucari_1234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059499373248303198",
+    "in_reply_to_user_id": "459144099",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059249536636477708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YasPhoto @yucari_1234 初めて見たとき、本当にこれは絵だと思った。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2059249532039475200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPsif0aMAA53XA.jpg",
+        "width": 1334
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2059249536636477708",
+        "created_at": "2026-05-27T04:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059499373248303198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "459144099",
+              "start": 0,
+              "username": "YasPhoto"
+            },
+            {
+              "end": 22,
+              "id": "1067385892703092738",
+              "start": 10,
+              "username": "yucari_1234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059499373248303198",
+        "in_reply_to_user_id": "459144099",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059249536636477708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YasPhoto @yucari_1234 初めて見たとき、本当にこれは絵だと思った。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059249532039475200"
+          ]
+        },
+        "author_id": "459144099",
+        "conversation_id": "2059249536636477708",
+        "created_at": "2026-05-26T12:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059249536636477708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DnkAaFZUd7",
+              "end": 26,
+              "expanded_url": "https://x.com/YasPhoto/status/2059249536636477708/photo/1",
+              "media_key": "3_2059249532039475200",
+              "start": 3,
+              "url": "https://t.co/DnkAaFZUd7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059249536636477708",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 506,
+          "impression_count": 52091,
+          "like_count": 4748,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 137
+        },
+        "reply_settings": "everyone",
+        "text": "誓願 https://t.co/DnkAaFZUd7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 704,
+          "like_count": 12233,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 2539
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-09T10:05:00.000Z",
+        "description": "作品制作や趣味撮影、請負撮影（頒布用,写真集,ファンサイト,商用,ナイトワーク等）など自由に活動しております。撮影のご依頼等については下記リンクより。 展示歴⇨闇の王展/リアポ東京、エイチ展 等々。海外コンテストOneEyeland Photography Awards Silverなど複数受賞、国内展示会でも複数受賞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/3LU8KW9JWA9VX?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/ugANCTYm08"
+              }
+            ]
+          }
+        },
+        "id": "459144099",
+        "location": "関東中心に飛び回ってます",
+        "name": "YAS.",
+        "pinned_tweet_id": "1521829554373169152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1089664999918776324/X1w4S-0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34921,
+          "following_count": 1392,
+          "like_count": 55643,
+          "listed_count": 231,
+          "media_count": 3624,
+          "tweet_count": 26900
+        },
+        "url": "https://t.co/ugANCTYm08",
+        "username": "YasPhoto",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-27T11:53:22.000Z",
+        "description": "▼写真はハイライト▼被写体しながら週7飲酒のウイスキー検定2級。お酒と食べ物95%の148cm。H展、闇の王展、リアポ等。HACO CREATIVE所属。基本宅飲み。おつまみ作りながら飲むのが好き。推しはリンクウッドとグレンモーレンジィ。#TWLC #ウイつま #ウイスキー女子",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 124,
+                "start": 119,
+                "tag": "TWLC"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ウイつま"
+              },
+              {
+                "end": 139,
+                "start": 131,
+                "tag": "ウイスキー女子"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-ten.com",
+                "end": 23,
+                "expanded_url": "https://h-ten.com",
+                "start": 0,
+                "url": "https://t.co/d1eOqvh2RF"
+              }
+            ]
+          }
+        },
+        "id": "1067385892703092738",
+        "location": "樽のなか",
+        "name": "紫@闇の王/リアポ🍑H展🍑",
+        "pinned_tweet_id": "1411705452073689088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838263106876903424/5dQOmUJ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3308,
+          "following_count": 2708,
+          "like_count": 199900,
+          "listed_count": 32,
+          "media_count": 5842,
+          "tweet_count": 36718
+        },
+        "url": "https://t.co/d1eOqvh2RF",
+        "username": "yucari_1234",
+        "verified": true
+      }
+    ]
+  }
+}

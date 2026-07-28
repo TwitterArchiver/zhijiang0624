@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2023759457524871233",
+    "created_at": "2026-02-17T14:02:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T15:02:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023760090508222485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1919963459279888384",
+          "start": 0,
+          "username": "sinhrkP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023760090508222485",
+    "in_reply_to_user_id": "1919963459279888384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023759457524871233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sinhrkP 没钱的时候什么都想要，有钱的时候不知道想要什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2023759457524871233",
+        "created_at": "2026-02-17T14:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T15:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023760090508222485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1919963459279888384",
+              "start": 0,
+              "username": "sinhrkP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023760090508222485",
+        "in_reply_to_user_id": "1919963459279888384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023759457524871233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sinhrkP 没钱的时候什么都想要，有钱的时候不知道想要什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919963459279888384",
+        "conversation_id": "2023759457524871233",
+        "created_at": "2026-02-17T14:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T15:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023759457524871233"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023759457524871233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一有点钱发现我这两年根本就没给自己买过什么东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 407,
+          "like_count": 3307,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1156
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-07T03:52:33.000Z",
+        "description": "燥然と輝く街の灯り 対照的な僕を見下ろす｜可以叫咱小遥｜病み垢｜hrt25.8.19｜https://t.co/inqv1JzAbT｜#pjsk  #ADHD  #双極性障害｜最最最好的姐姐@AnSiYao520",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "pjsk"
+              },
+              {
+                "end": 79,
+                "start": 74,
+                "tag": "ADHD"
+              },
+              {
+                "end": 87,
+                "start": 81,
+                "tag": "双極性障害"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 106,
+                "start": 95,
+                "username": "AnSiYao520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/sinhrk",
+                "end": 66,
+                "expanded_url": "http://t.me/sinhrk",
+                "start": 43,
+                "url": "https://t.co/inqv1JzAbT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sinhrk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sinhrk",
+                "start": 0,
+                "url": "https://t.co/cPqMPK9OsO"
+              }
+            ]
+          }
+        },
+        "id": "1919963459279888384",
+        "location": "长春",
+        "name": "Tiina",
+        "pinned_tweet_id": "2020052304511345093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012033444151521280/g8iXZ5WS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1214,
+          "following_count": 1986,
+          "like_count": 5638,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 940
+        },
+        "url": "https://t.co/cPqMPK9OsO",
+        "username": "sinhrkP",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042917713086156806"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "conversation_id": "2042917720333914576",
+    "created_at": "2026-04-11T10:48:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T11:48:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042917720333914576"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RMIGZVhauO",
+          "end": 52,
+          "expanded_url": "https://x.com/zhijiang0624/status/2042917720333914576/photo/1",
+          "media_key": "3_2042917713086156806",
+          "start": 29,
+          "url": "https://t.co/RMIGZVhauO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042917720333914576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "杂种班主任都要毕业了还在用毕业证的事威胁我们\n卧槽泥马的 https://t.co/RMIGZVhauO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2042917713086156806",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFnm1hHakAYloef.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042917713086156806"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "conversation_id": "2042917720333914576",
+        "created_at": "2026-04-11T10:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042917720333914576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RMIGZVhauO",
+              "end": 52,
+              "expanded_url": "https://x.com/zhijiang0624/status/2042917720333914576/photo/1",
+              "media_key": "3_2042917713086156806",
+              "start": 29,
+              "url": "https://t.co/RMIGZVhauO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042917720333914576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "杂种班主任都要毕业了还在用毕业证的事威胁我们\n卧槽泥马的 https://t.co/RMIGZVhauO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 658,
+          "like_count": 10289,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 2144
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      }
+    ]
+  }
+}

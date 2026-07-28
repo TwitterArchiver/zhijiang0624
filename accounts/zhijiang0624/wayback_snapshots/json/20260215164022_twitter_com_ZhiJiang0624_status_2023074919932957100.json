@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2023034369825472630",
+    "created_at": "2026-02-15T16:40:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T17:40:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023074919932957100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1738379504161296384",
+          "start": 0,
+          "username": "Yyyyyyy56734525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023074919932957100",
+    "in_reply_to_user_id": "1738379504161296384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023034369825472630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yyyyyyy56734525 除夕快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2023034369825472630",
+        "created_at": "2026-02-15T16:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T17:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023074919932957100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738379504161296384",
+              "start": 0,
+              "username": "Yyyyyyy56734525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023074919932957100",
+        "in_reply_to_user_id": "1738379504161296384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023034369825472630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yyyyyyy56734525 除夕快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738379504161296384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2023034369825472630",
+        "created_at": "2026-02-15T13:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T14:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023034369825472630"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023034369825472630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 168,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我需要一瓶喝不完的水和威士忌 我需要一包抽不完的烟 我需要一辆迈巴赫 我需要覆盖率强的wifi 我需要止痛药和安眠药 我需要一间屋子 我需要平静"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 320,
+          "like_count": 2760,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 936
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-23T02:02:35.000Z",
+        "description": "🇬🇧 一只来自英国的艺术小猫  女s 接心理咨询",
+        "id": "1738379504161296384",
+        "name": "ukX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018834375807225856/hxTl34qx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 45,
+          "like_count": 180,
+          "listed_count": 3,
+          "media_count": 82,
+          "tweet_count": 755
+        },
+        "username": "Yyyyyyy56734525",
+        "verified": false
+      }
+    ]
+  }
+}

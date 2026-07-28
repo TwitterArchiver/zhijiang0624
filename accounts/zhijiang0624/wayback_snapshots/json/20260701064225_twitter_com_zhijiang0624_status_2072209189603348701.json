@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2072051245007708658",
+    "created_at": "2026-07-01T06:42:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T07:42:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072209189603348701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "36889519",
+          "start": 0,
+          "username": "RaminNasibov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072209189603348701",
+    "in_reply_to_user_id": "36889519",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072051245007708658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RaminNasibov 至少这些还在人类的想象之内\n而人类的群体中时常会出现不计其数的超乎人类想象的傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2072051245007708658",
+        "created_at": "2026-07-01T06:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T07:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072209189603348701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "36889519",
+              "start": 0,
+              "username": "RaminNasibov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072209189603348701",
+        "in_reply_to_user_id": "36889519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072051245007708658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RaminNasibov 至少这些还在人类的想象之内\n而人类的群体中时常会出现不计其数的超乎人类想象的傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "36889519",
+        "conversation_id": "2072051245007708658",
+        "created_at": "2026-06-30T20:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T21:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072051245007708658"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072051245007708658",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 54565,
+          "like_count": 1033,
+          "quote_count": 95,
+          "reply_count": 388,
+          "retweet_count": 176
+        },
+        "reply_settings": "everyone",
+        "text": "Such a boring planet: no dragons, fairies, vampires, or werewolves."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 721,
+          "like_count": 12902,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 2630
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-01T05:13:30.000Z",
+        "description": "Branding & Visual Identity Designer ✦ Available for new projects: ramin@nasibov.me",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nasibov.me",
+                "end": 23,
+                "expanded_url": "https://www.nasibov.me",
+                "start": 0,
+                "url": "https://t.co/iCqDSJzjlc"
+              }
+            ]
+          }
+        },
+        "id": "36889519",
+        "location": "Book a project →",
+        "name": "Ramin Nasibov",
+        "pinned_tweet_id": "2071899539527680446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006792793650323456/WI88G3rp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858275,
+          "following_count": 325834,
+          "like_count": 908925,
+          "listed_count": 3970,
+          "media_count": 76410,
+          "tweet_count": 92663
+        },
+        "url": "https://t.co/iCqDSJzjlc",
+        "username": "RaminNasibov",
+        "verified": true
+      }
+    ]
+  }
+}

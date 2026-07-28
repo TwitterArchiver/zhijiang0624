@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2026503859628290434",
+    "created_at": "2026-02-25T04:01:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T05:01:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026507714910892364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1687816320052592640",
+          "start": 0,
+          "username": "yuyuko233456"
+        },
+        {
+          "end": 26,
+          "id": "1230417860641472512",
+          "start": 14,
+          "username": "kylin200064"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026507714910892364",
+    "in_reply_to_user_id": "1687816320052592640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026506815337361552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyuko233456 @kylin200064 红之惨剧来了哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2026503859628290434",
+        "created_at": "2026-02-25T04:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T05:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026507714910892364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1687816320052592640",
+              "start": 0,
+              "username": "yuyuko233456"
+            },
+            {
+              "end": 26,
+              "id": "1230417860641472512",
+              "start": 14,
+              "username": "kylin200064"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026507714910892364",
+        "in_reply_to_user_id": "1687816320052592640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026506815337361552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyuko233456 @kylin200064 红之惨剧来了哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687816320052592640",
+        "conversation_id": "2026503859628290434",
+        "created_at": "2026-02-25T03:57:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T04:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026506815337361552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "ZhiJiang0624"
+            },
+            {
+              "end": 26,
+              "id": "1230417860641472512",
+              "start": 14,
+              "username": "kylin200064"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026506815337361552",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026506096781996514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhiJiang0624 @kylin200064 把你也吃了😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 463,
+          "like_count": 4002,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1369
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-05T13:22:33.000Z",
+        "description": "",
+        "id": "1687816320052592640",
+        "name": "幽幽子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024536120206434304/pe5aT7Vk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 573,
+          "like_count": 1234,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 511
+        },
+        "username": "yuyuko233456",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-20T09:04:25.000Z",
+        "description": "热衷于游戏的肥宅，不交朋友不聊天。非人类勿扰。",
+        "id": "1230417860641472512",
+        "name": "阿陵不是猫",
+        "pinned_tweet_id": "1889006030086111270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025955554913607680/xxorM-Ev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4308,
+          "following_count": 526,
+          "like_count": 277,
+          "listed_count": 13,
+          "media_count": 360,
+          "tweet_count": 3907
+        },
+        "username": "kylin200064",
+        "verified": false
+      }
+    ]
+  }
+}

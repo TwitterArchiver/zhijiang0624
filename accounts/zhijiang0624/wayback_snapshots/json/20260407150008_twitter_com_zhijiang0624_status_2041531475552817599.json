@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2041529648526549391",
+    "created_at": "2026-04-07T15:00:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T16:00:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041531475552817599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1558346182316896256",
+          "start": 0,
+          "username": "hoxer15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041531475552817599",
+    "in_reply_to_user_id": "1558346182316896256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041529648526549391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoxer15 哄哄你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2041529648526549391",
+        "created_at": "2026-04-07T15:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T16:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041531475552817599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1558346182316896256",
+              "start": 0,
+              "username": "hoxer15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041531475552817599",
+        "in_reply_to_user_id": "1558346182316896256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041529648526549391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoxer15 哄哄你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558346182316896256",
+        "conversation_id": "2041529648526549391",
+        "created_at": "2026-04-07T14:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T15:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041529648526549391"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041529648526549391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们哄我一下呗。没人哄就算了一会我自己就删了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 655,
+          "like_count": 9915,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 2096
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T06:54:23.000Z",
+        "description": "可以叫我小物/4i /ENTP/摩羯/头像是本人/没门",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hoxer",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hoxer",
+                "start": 0,
+                "url": "https://t.co/DmoM7w0LFv"
+              }
+            ]
+          }
+        },
+        "id": "1558346182316896256",
+        "location": "就那个哪呗",
+        "name": "人类是我的兼职",
+        "pinned_tweet_id": "2023236867341103534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035701620970037248/F4J5qIFq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1607,
+          "following_count": 210,
+          "like_count": 21949,
+          "listed_count": 1,
+          "media_count": 440,
+          "tweet_count": 11514
+        },
+        "url": "https://t.co/DmoM7w0LFv",
+        "username": "hoxer15",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-13T06:54:23.000Z",
+        "description": "可以叫我小物/4i /ENTP/摩羯/头像是本人/没门",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hoxer",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hoxer",
+                "start": 0,
+                "url": "https://t.co/DmoM7w0LFv"
+              }
+            ]
+          }
+        },
+        "id": "1558346182316896256",
+        "location": "就那个哪呗",
+        "name": "人类是我的兼职",
+        "pinned_tweet_id": "2023236867341103534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035701620970037248/F4J5qIFq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1607,
+          "following_count": 210,
+          "like_count": 21949,
+          "listed_count": 1,
+          "media_count": 440,
+          "tweet_count": 11514
+        },
+        "url": "https://t.co/DmoM7w0LFv",
+        "username": "hoxer15",
+        "verified": false
+      }
+    ]
+  }
+}

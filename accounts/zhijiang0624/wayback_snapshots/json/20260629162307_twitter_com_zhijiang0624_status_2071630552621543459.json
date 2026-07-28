@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2071630552621543459",
+    "created_at": "2026-06-29T16:23:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T17:23:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071630552621543459"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071630552621543459",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我理想中完美的伴侣：\n平时不需要什么理由就能拿起刀快乐地疯狂互砍\n砍完又能无缝衔接恩恩爱爱\n日常里给对方做菜时都会下毒，但是因为太了解对方所以在菜端上来时大眼瞪小眼，最后会心一笑，都把对方的毒菜倒掉然后重新做一顿正常的饭菜然后好好吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2071630552621543459",
+        "created_at": "2026-06-29T16:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T17:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071630552621543459"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071630552621543459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我理想中完美的伴侣：\n平时不需要什么理由就能拿起刀快乐地疯狂互砍\n砍完又能无缝衔接恩恩爱爱\n日常里给对方做菜时都会下毒，但是因为太了解对方所以在菜端上来时大眼瞪小眼，最后会心一笑，都把对方的毒菜倒掉然后重新做一顿正常的饭菜然后好好吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 712,
+          "like_count": 12844,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2623
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      }
+    ]
+  }
+}

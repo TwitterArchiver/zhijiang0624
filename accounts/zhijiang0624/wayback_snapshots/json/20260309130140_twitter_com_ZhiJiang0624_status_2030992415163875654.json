@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2030964044468011282",
+    "created_at": "2026-03-09T13:01:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T14:01:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030992415163875654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1697606014768709632",
+          "start": 0,
+          "username": "Jias227"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030992415163875654",
+    "in_reply_to_user_id": "1697606014768709632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030964044468011282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jias227 毕竟有的去了医院又不配合治疗，治疗进度条和医生展开拉锯战"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2030964044468011282",
+        "created_at": "2026-03-09T13:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T14:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030992415163875654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1697606014768709632",
+              "start": 0,
+              "username": "Jias227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030992415163875654",
+        "in_reply_to_user_id": "1697606014768709632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030964044468011282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jias227 毕竟有的去了医院又不配合治疗，治疗进度条和医生展开拉锯战"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697606014768709632",
+        "conversation_id": "2030964044468011282",
+        "created_at": "2026-03-09T11:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T12:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030964044468011282"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030964044468011282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拿我这小城市精神科没办法，上来就要给我开药，还问我是不是想治疗，真傻逼啊我要是不想治疗我去医院干啥啊，神经病啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n十九岁高中牲\n如果哪里说得有错还请麻烦指点一下谢谢。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 609,
+          "like_count": 8184,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1874
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-01T13:43:14.000Z",
+        "description": "这里是我的日记本 绿🚪许愿口令",
+        "id": "1697606014768709632",
+        "location": "耳机里的世界",
+        "name": "灵魂在拥抱中回暖",
+        "pinned_tweet_id": "2027718432918294575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022609839344750593/34lGhReN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 46,
+          "like_count": 80630,
+          "listed_count": 0,
+          "media_count": 248,
+          "tweet_count": 1315
+        },
+        "username": "Jias227",
+        "verified": false
+      }
+    ]
+  }
+}

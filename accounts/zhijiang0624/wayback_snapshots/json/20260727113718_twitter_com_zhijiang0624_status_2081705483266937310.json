@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2081688622915342471",
+    "created_at": "2026-07-27T11:37:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T12:37:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081705483266937310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1964265669362667520",
+          "start": 0,
+          "username": "zuiaiyiyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081705483266937310",
+    "in_reply_to_user_id": "1964265669362667520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081688622915342471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuiaiyiyi 这边自己拔牙不知道能不能排上号（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2081688622915342471",
+        "created_at": "2026-07-27T11:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081705483266937310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1964265669362667520",
+              "start": 0,
+              "username": "zuiaiyiyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081705483266937310",
+        "in_reply_to_user_id": "1964265669362667520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081688622915342471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuiaiyiyi 这边自己拔牙不知道能不能排上号（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964265669362667520",
+        "conversation_id": "2081688622915342471",
+        "created_at": "2026-07-27T10:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081688622915342471"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081688622915342471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 351,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我拿生姜抹过b你抹过吗\n我扣之后爽爽昏迷过20小时你昏过吗\n我试过用b开啤酒瓶（虽然没开开）你开过吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 757,
+          "like_count": 13773,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 2741
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T09:53:43.000Z",
+        "description": "止于推，只聊天。\n如果关注我，我很开心。\n回复看心情没礼貌我不回。\n标签纯引流，当真的那你这辈子有了。我会用ai修图，介意勿烦我。\n不加墙内联系方式，没有门槛，给一百万也不加vq\nx唯一亲友@羊奇羊https://t.co/uLfKv4PlwH\n纯擦着玩，🈚️收费内容，说菩萨可以，说我是福利姬死老冯",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/cuteyangqi",
+                "end": 122,
+                "expanded_url": "https://x.com/cuteyangqi",
+                "start": 99,
+                "url": "https://t.co/uLfKv4PlwH"
+              }
+            ]
+          }
+        },
+        "id": "1964265669362667520",
+        "location": "亚特兰蒂斯",
+        "name": "熠熠舞",
+        "pinned_tweet_id": "2049070365826228308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004200904413925379/m3cu8rDM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25342,
+          "following_count": 13,
+          "like_count": 21,
+          "listed_count": 67,
+          "media_count": 54,
+          "tweet_count": 199
+        },
+        "url": "",
+        "username": "zuiaiyiyi",
+        "verified": false
+      }
+    ]
+  }
+}

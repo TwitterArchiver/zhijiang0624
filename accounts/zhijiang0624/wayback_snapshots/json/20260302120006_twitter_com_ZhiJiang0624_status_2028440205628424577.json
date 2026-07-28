@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028440116478509056"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2028433045980860703",
+    "created_at": "2026-03-02T12:00:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T13:00:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028440205628424577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1829229897195368455",
+          "start": 0,
+          "username": "OVOTVTOVO_3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RQv97bERlh",
+          "end": 62,
+          "expanded_url": "https://x.com/ZhiJiang0624/status/2028440205628424577/photo/1",
+          "media_key": "3_2028440116478509056",
+          "start": 39,
+          "url": "https://t.co/RQv97bERlh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028440205628424577",
+    "in_reply_to_user_id": "1829229897195368455",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028433045980860703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OVOTVTOVO_3 万一是化学物理学家呢？\n例：碱性物质、酸性物质…… https://t.co/RQv97bERlh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_2028440116478509056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCZ3ie7agAAlsO0.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028440116478509056"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2028433045980860703",
+        "created_at": "2026-03-02T12:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T13:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028440205628424577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1829229897195368455",
+              "start": 0,
+              "username": "OVOTVTOVO_3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RQv97bERlh",
+              "end": 62,
+              "expanded_url": "https://x.com/ZhiJiang0624/status/2028440205628424577/photo/1",
+              "media_key": "3_2028440116478509056",
+              "start": 39,
+              "url": "https://t.co/RQv97bERlh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028440205628424577",
+        "in_reply_to_user_id": "1829229897195368455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028433045980860703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OVOTVTOVO_3 万一是化学物理学家呢？\n例：碱性物质、酸性物质…… https://t.co/RQv97bERlh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829229897195368455",
+        "conversation_id": "2028433045980860703",
+        "created_at": "2026-03-02T11:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T12:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028433045980860703"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028433045980860703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "物质这个词是穷比发明出来的吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 491,
+          "like_count": 4665,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1442
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T18:49:42.000Z",
+        "description": "？",
+        "id": "1829229897195368455",
+        "name": "用户2778（祺嘉马学长）",
+        "pinned_tweet_id": "2008187932621123964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024881177409343489/x5XYiqDM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 55,
+          "like_count": 2246,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 2824
+        },
+        "username": "OVOTVTOVO_3",
+        "verified": false
+      }
+    ]
+  }
+}

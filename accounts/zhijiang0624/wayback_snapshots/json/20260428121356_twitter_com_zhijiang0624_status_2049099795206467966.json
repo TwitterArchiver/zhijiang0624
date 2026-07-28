@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2048781495649927415",
+    "created_at": "2026-04-28T12:13:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T13:13:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049099795206467966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1919363955929362432",
+          "start": 0,
+          "username": "xiaomingmumu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049099795206467966",
+    "in_reply_to_user_id": "1919363955929362432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048781495649927415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaomingmumu 让自己快乐有什么大不了的？🤔\n保证不伤害到别人注意自身安全不就是对的吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2048781495649927415",
+        "created_at": "2026-04-28T12:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T13:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049099795206467966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1919363955929362432",
+              "start": 0,
+              "username": "xiaomingmumu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049099795206467966",
+        "in_reply_to_user_id": "1919363955929362432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048781495649927415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomingmumu 让自己快乐有什么大不了的？🤔\n保证不伤害到别人注意自身安全不就是对的吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919363955929362432",
+        "conversation_id": "2048781495649927415",
+        "created_at": "2026-04-27T15:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T16:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048781495649927415"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048781495649927415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6477,
+          "like_count": 179,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "从我学会自慰高潮的那一刻起，它就成了我发泄情绪的手段。我意识到酒精可以麻痹大脑的时候，喝酒也成了我汲取快感的方式。后来学了抽烟，也是一样。其实我完全就是一个被欲望支配的废物。有时候我在想，我这种人月抛以后会不会滥交啊。好想笑。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 675,
+          "like_count": 11219,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 2262
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T12:10:10.000Z",
+        "description": "操死全世界\n｜匿名https://t.co/NXKVyy5G1i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inridscent",
+                "end": 32,
+                "expanded_url": "https://ngl.link/inridscent",
+                "start": 9,
+                "url": "https://t.co/NXKVyy5G1i"
+              }
+            ]
+          }
+        },
+        "id": "1919363955929362432",
+        "name": "一根烂棉签",
+        "pinned_tweet_id": "2007795599199142093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007490886444429315/VErpiYVW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2941,
+          "following_count": 444,
+          "like_count": 18642,
+          "listed_count": 4,
+          "media_count": 465,
+          "tweet_count": 10246
+        },
+        "username": "xiaomingmumu",
+        "verified": false
+      }
+    ]
+  }
+}

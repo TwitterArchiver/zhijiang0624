@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2074811645029949674",
+    "created_at": "2026-07-08T11:30:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T12:30:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074818518021996998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1793964158658158592",
+          "start": 0,
+          "username": "benzi_mofashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074818518021996998",
+    "in_reply_to_user_id": "1793964158658158592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074811645029949674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@benzi_mofashi 建议上人工客服取消一下，万一出了什么问题就不好了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 302,
+        "media_key": "3_2074811636817551360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMs2MNxbYAAE7GP.png",
+        "width": 588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2074811645029949674",
+        "created_at": "2026-07-08T11:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074818518021996998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1793964158658158592",
+              "start": 0,
+              "username": "benzi_mofashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074818518021996998",
+        "in_reply_to_user_id": "1793964158658158592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074811645029949674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@benzi_mofashi 建议上人工客服取消一下，万一出了什么问题就不好了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074811636817551360"
+          ]
+        },
+        "author_id": "1793964158658158592",
+        "conversation_id": "2074811645029949674",
+        "created_at": "2026-07-08T11:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074811645029949674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/or00RPai8l",
+              "end": 41,
+              "expanded_url": "https://x.com/benzi_mofashi/status/2074811645029949674/photo/1",
+              "media_key": "3_2074811636817551360",
+              "start": 18,
+              "url": "https://t.co/or00RPai8l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074811645029949674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 697,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么突然有人送了我一年的蓝标……？ https://t.co/or00RPai8l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 741,
+          "like_count": 13282,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 2679
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T11:16:08.000Z",
+        "description": "B站新號：喵子魔法本",
+        "id": "1793964158658158592",
+        "location": "距離你-13cm",
+        "name": "本子魔法使",
+        "pinned_tweet_id": "1898579040673616289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891850937347743744/OFOuu5ia_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93276,
+          "following_count": 2382,
+          "like_count": 14592,
+          "listed_count": 155,
+          "media_count": 378,
+          "tweet_count": 577
+        },
+        "url": "",
+        "username": "benzi_mofashi",
+        "verified": true
+      }
+    ]
+  }
+}

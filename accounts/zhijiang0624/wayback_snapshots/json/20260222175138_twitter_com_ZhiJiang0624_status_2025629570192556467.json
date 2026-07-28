@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2025610916805616100",
+    "created_at": "2026-02-22T17:51:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T18:51:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025629570192556467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2022438221590990848",
+          "start": 0,
+          "username": "Miharuka_96"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025629570192556467",
+    "in_reply_to_user_id": "2022438221590990848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025610916805616100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miharuka_96 久病床前无孝子不是段子。\n请节哀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2025610916805616100",
+        "created_at": "2026-02-22T17:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T18:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025629570192556467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2022438221590990848",
+              "start": 0,
+              "username": "Miharuka_96"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025629570192556467",
+        "in_reply_to_user_id": "2022438221590990848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025610916805616100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miharuka_96 久病床前无孝子不是段子。\n请节哀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022438221590990848",
+        "conversation_id": "2025610916805616100",
+        "created_at": "2026-02-22T16:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T17:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025610916805616100"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025610916805616100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 314,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就是特别特别难过，他们也不想带外公去医院，他们只在乎他们今天办的酒席，所有人都去吃那个破酒席留老人在家没人管。我下班飞奔过去的时候老人就躺在床上瑟瑟发抖，被子也薄得要命，我真受不了了我看不得这种。希望明天工作结束了老板能快点发工资吧我真的气哭了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 436,
+          "like_count": 3748,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1289
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T22:30:27.000Z",
+        "description": "心的距离是遥不可及 | 我是小遥 之前的账号都鼠了 都来和我玩好不好🥺💖💖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/0vZb5MBZ5e"
+              }
+            ]
+          }
+        },
+        "id": "2022438221590990848",
+        "location": "旁边的网址是留言板",
+        "name": "遥（刘海剪毁版",
+        "pinned_tweet_id": "2023783513414406367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024494731917758464/aqquvn8u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 87,
+          "like_count": 973,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 318
+        },
+        "url": "https://t.co/0vZb5MBZ5e",
+        "username": "Miharuka_96",
+        "verified": false
+      }
+    ]
+  }
+}

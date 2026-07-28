@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2006677825194201178",
+    "created_at": "2026-01-01T13:14:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T14:14:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006715758827680213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1974096347923165188",
+          "start": 0,
+          "username": "naomiyeow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006715758827680213",
+    "in_reply_to_user_id": "1974096347923165188",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006677825194201178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@naomiyeow Go find him, but not to let him be with you again, but to vent his anger by scolding him. If you are willing to abandon morality, you can also lie in front of his current position and say that he tricked you into having an abortion🤓👆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2006677825194201178",
+        "created_at": "2026-01-01T13:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T14:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006715758827680213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1974096347923165188",
+              "start": 0,
+              "username": "naomiyeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006715758827680213",
+        "in_reply_to_user_id": "1974096347923165188",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006677825194201178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@naomiyeow Go find him, but not to let him be with you again, but to vent his anger by scolding him. If you are willing to abandon morality, you can also lie in front of his current position and say that he tricked you into having an abortion🤓👆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974096347923165188",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A film like Rogue One: A Star Wars Story",
+              "id": "86",
+              "name": "Movie"
+            },
+            "entity": {
+              "description": "scheduled to be released in a limited release on 15 January 2021, followed by streaming on Netflix on 29 January 2021.",
+              "id": "1346435942052102144",
+              "name": "The Dig (2021)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A movie genre like Action",
+              "id": "87",
+              "name": "Movie Genre"
+            },
+            "entity": {
+              "description": "Drama",
+              "id": "856976804749258752",
+              "name": "Drama films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A movie genre like Action",
+              "id": "87",
+              "name": "Movie Genre"
+            },
+            "entity": {
+              "description": "Drama",
+              "id": "856976804749258752",
+              "name": "Drama films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drama",
+              "id": "856976804749258752",
+              "name": "Drama films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Movies",
+              "id": "1072936713134071808",
+              "name": "Movies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          }
+        ],
+        "conversation_id": "2006677825194201178",
+        "created_at": "2026-01-01T10:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T11:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006677825194201178"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006677825194201178",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "who is out here telling me to talk to my ex who dumped me out of the blue and immediately went back to HIS ex like I was some placeholder"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一个偶尔变得哲学或者厌世的重度自闭男生。理想大概就是想尽自己的绵薄之力尽量缝补这个世界支离破碎的一面吧",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730476491866349568/7MFnijBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 162,
+          "like_count": 510,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 359
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-03T12:57:16.000Z",
+        "description": "♡   .  🧁   𝐣𝐞𝐥𝐥𝐲!     🪜 censored sh! \n ᛝ     𝘮𝘺 𝘣𝘢𝘥, 𝘺𝘰𝘶 𝘢𝘭𝘳𝘦𝘢𝘥𝘺 𝘥𝘰, 𝘥𝘰𝘯'𝘵 𝘺𝘰𝘶?! ◞   DDLC fanatic! 🇵🇭 ; 𝒎𝒊𝒏𝒐𝒓. 🌸ifb!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jellysukiki.straw.page",
+                "end": 23,
+                "expanded_url": "https://jellysukiki.straw.page",
+                "start": 0,
+                "url": "https://t.co/m76RRGG75Z"
+              }
+            ]
+          }
+        },
+        "id": "1974096347923165188",
+        "location": "-.- . .-   ♡",
+        "name": "☓ 🍥┆natsuki of shedtwt! 📰 ┆📎",
+        "pinned_tweet_id": "1995152456528076914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005670436336766976/YFJbD1IS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2495,
+          "following_count": 1380,
+          "like_count": 3820,
+          "listed_count": 23,
+          "media_count": 460,
+          "tweet_count": 1483
+        },
+        "url": "https://t.co/m76RRGG75Z",
+        "username": "naomiyeow",
+        "verified": false
+      }
+    ]
+  }
+}

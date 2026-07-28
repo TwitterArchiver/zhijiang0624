@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2048723712581751216",
+    "created_at": "2026-04-27T15:46:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T16:46:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048790781520138442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1991445770592219140",
+          "start": 0,
+          "username": "Sakurayukii77i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048790781520138442",
+    "in_reply_to_user_id": "1991445770592219140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048723712581751216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sakurayukii77i 有，我还在初中的时候二班有个女生怀孕两次退学了\n消息都传到隔壁初中了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2048723712581751216",
+        "created_at": "2026-04-27T15:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T16:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048790781520138442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991445770592219140",
+              "start": 0,
+              "username": "Sakurayukii77i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048790781520138442",
+        "in_reply_to_user_id": "1991445770592219140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048723712581751216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakurayukii77i 有，我还在初中的时候二班有个女生怀孕两次退学了\n消息都传到隔壁初中了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991445770592219140",
+        "conversation_id": "2048723712581751216",
+        "created_at": "2026-04-27T11:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T12:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048723712581751216"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048723712581751216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2080,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的有人初中就破处了么…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 670,
+          "like_count": 11141,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 2246
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T09:57:35.000Z",
+        "description": "你和雪有一个共同的特点",
+        "id": "1991445770592219140",
+        "location": "幻想乡｜🚪188/520/1314/5200（520可线下",
+        "name": "心裂了一道缝（坐标15",
+        "pinned_tweet_id": "1991448324319367613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991445945578647552/P-LIO0kK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5692,
+          "following_count": 12,
+          "like_count": 499,
+          "listed_count": 17,
+          "media_count": 295,
+          "tweet_count": 879
+        },
+        "username": "Sakurayukii77i",
+        "verified": false
+      }
+    ]
+  }
+}

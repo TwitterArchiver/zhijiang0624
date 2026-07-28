@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2023032866029056453",
+    "created_at": "2026-02-15T16:39:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T17:39:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023074646065893870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1779156934295232513",
+          "start": 0,
+          "username": "qyn20051031"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023074646065893870",
+    "in_reply_to_user_id": "1779156934295232513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023032866029056453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qyn20051031 除夕快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023032847439966208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBNBqACbMAAyIBc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2023032866029056453",
+        "created_at": "2026-02-15T16:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T17:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023074646065893870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1779156934295232513",
+              "start": 0,
+              "username": "qyn20051031"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023074646065893870",
+        "in_reply_to_user_id": "1779156934295232513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023032866029056453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qyn20051031 除夕快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023032847439966208"
+          ]
+        },
+        "author_id": "1779156934295232513",
+        "conversation_id": "2023032866029056453",
+        "created_at": "2026-02-15T13:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T14:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023032866029056453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rcJRiYe9Gy",
+              "end": 110,
+              "expanded_url": "https://x.com/qyn20051031/status/2023032866029056453/photo/1",
+              "media_key": "3_2023032847439966208",
+              "start": 87,
+              "url": "https://t.co/rcJRiYe9Gy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023032866029056453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 227,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在禁止任何人跟我聊天，因为你想一下，我的智商也很高，我的情商也很高，我品味也很好，你跟我聊几句话，我这个人又很神秘，两三天你就直接爱上我了，那我怎么办，我到时候怎么办？ https://t.co/rcJRiYe9Gy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 320,
+          "like_count": 2756,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 933
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T14:37:32.000Z",
+        "description": "求不得…",
+        "id": "1779156934295232513",
+        "location": "魂归天国",
+        "name": "谁叫你天天玩手机缺乏锻炼",
+        "pinned_tweet_id": "1982124099561533888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792404237454106624/C1AcrUdc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2547,
+          "following_count": 228,
+          "like_count": 288,
+          "listed_count": 7,
+          "media_count": 227,
+          "tweet_count": 1050
+        },
+        "username": "qyn20051031",
+        "verified": false
+      }
+    ]
+  }
+}

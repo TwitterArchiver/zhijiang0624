@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2072661547902816713",
+    "created_at": "2026-07-03T22:45:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T23:45:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073176287422951553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1863473278247141376",
+          "start": 0,
+          "username": "qaq5777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073176287422951553",
+    "in_reply_to_user_id": "1863473278247141376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072661547902816713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qaq5777 举例：\n我妈发癫要去刨我爷爷的坟，我爸也只是把我妈拦住了，别的啥也没说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2072661547902816713",
+        "created_at": "2026-07-03T22:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T23:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073176287422951553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1863473278247141376",
+              "start": 0,
+              "username": "qaq5777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073176287422951553",
+        "in_reply_to_user_id": "1863473278247141376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072661547902816713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qaq5777 举例：\n我妈发癫要去刨我爷爷的坟，我爸也只是把我妈拦住了，别的啥也没说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863473278247141376",
+        "conversation_id": "2072661547902816713",
+        "created_at": "2026-07-02T12:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072661547902816713"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072661547902816713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 161530,
+          "like_count": 1304,
+          "quote_count": 16,
+          "reply_count": 426,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "真诚发问\n\n是因为父亲太隐形了吗，所以感觉很多人在谈起家庭创伤时矛盾对象更多地指向母亲？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 723,
+          "like_count": 12935,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 2637
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T06:40:37.000Z",
+        "description": "如果你骂我 我就关机 然后去睡觉",
+        "id": "1863473278247141376",
+        "name": "不加冰",
+        "pinned_tweet_id": "2067902295594144087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005925336308146176/Hk0tumbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42906,
+          "following_count": 262,
+          "like_count": 13149,
+          "listed_count": 80,
+          "media_count": 247,
+          "tweet_count": 5747
+        },
+        "url": "",
+        "username": "qaq5777",
+        "verified": false
+      }
+    ]
+  }
+}

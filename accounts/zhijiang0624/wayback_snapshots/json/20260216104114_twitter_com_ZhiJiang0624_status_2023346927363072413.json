@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2023345289227297042",
+    "created_at": "2026-02-16T10:41:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T11:41:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023346927363072413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1652985793290604545",
+          "start": 0,
+          "username": "TuTri77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023346927363072413",
+    "in_reply_to_user_id": "1652985793290604545",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023345289227297042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TuTri77 你有很漂亮的建模哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2023345289227297042",
+        "created_at": "2026-02-16T10:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T11:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023346927363072413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1652985793290604545",
+              "start": 0,
+              "username": "TuTri77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023346927363072413",
+        "in_reply_to_user_id": "1652985793290604545",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023345289227297042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuTri77 你有很漂亮的建模哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652985793290604545",
+        "conversation_id": "2023345289227297042",
+        "created_at": "2026-02-16T10:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T11:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023345289227297042"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023345289227297042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我什么都没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 356,
+          "like_count": 3000,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 1053
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T10:38:28.000Z",
+        "description": "盗图死全家/我是高p/推广自辨/不要忘记我/vpn：https://t.co/VUGgYPMbud",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.dongtutu.com/#/register?cod",
+                "end": 49,
+                "expanded_url": "http://wwwwwl.dongtutu.com/#/register?cod",
+                "start": 26,
+                "url": "https://t.co/VUGgYPMbud"
+              }
+            ]
+          }
+        },
+        "id": "1652985793290604545",
+        "location": "🚪88",
+        "name": "nini",
+        "pinned_tweet_id": "1994020097422168520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999300458825809923/WgRgyNCa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12167,
+          "following_count": 256,
+          "like_count": 3220,
+          "listed_count": 24,
+          "media_count": 493,
+          "tweet_count": 1922
+        },
+        "username": "TuTri77",
+        "verified": false
+      }
+    ]
+  }
+}

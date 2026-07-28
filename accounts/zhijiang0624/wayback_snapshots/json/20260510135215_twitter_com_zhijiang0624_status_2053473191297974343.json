@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2053339773025079455",
+    "created_at": "2026-05-10T13:52:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T14:52:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053473191297974343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1966860635163291654",
+          "start": 0,
+          "username": "430Yang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053473191297974343",
+    "in_reply_to_user_id": "1966860635163291654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053339773025079455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@430Yang 一月两休没时间"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2053339773025079455",
+        "created_at": "2026-05-10T13:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T14:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053473191297974343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1966860635163291654",
+              "start": 0,
+              "username": "430Yang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053473191297974343",
+        "in_reply_to_user_id": "1966860635163291654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053339773025079455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@430Yang 一月两休没时间"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966860635163291654",
+        "conversation_id": "2053339773025079455",
+        "created_at": "2026-05-10T05:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T06:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053339773025079455"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053339773025079455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1074,
+          "impression_count": 372853,
+          "like_count": 1100,
+          "quote_count": 3,
+          "reply_count": 287,
+          "retweet_count": 170
+        },
+        "reply_settings": "everyone",
+        "text": "你以为你需要休息？\n其实，不是。\n你需要排出皮质醇。\n\n这是一个为期7天的方案，按步骤进行："
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 683,
+          "like_count": 11637,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 2369
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-13T13:45:21.000Z",
+        "description": "凌晨4:30的70后｜《早起引爆人生》作者｜阅读3000+本｜能量健康教练｜帮创业者精力充沛、心力强大、轻松高效｜健康活下去，比什么都重要",
+        "id": "1966860635163291654",
+        "name": "杨高能",
+        "pinned_tweet_id": "2025335291482128821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015675519745036289/O2GxvxgV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26451,
+          "following_count": 47,
+          "like_count": 1867,
+          "listed_count": 84,
+          "media_count": 619,
+          "tweet_count": 4046
+        },
+        "username": "430Yang",
+        "verified": true
+      }
+    ]
+  }
+}

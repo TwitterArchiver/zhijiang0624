@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2010130160511758414",
+    "created_at": "2026-01-11T18:47:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T19:47:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010423279396552924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1589809419822329857",
+          "start": 0,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010423279396552924",
+    "in_reply_to_user_id": "1589809419822329857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 51,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010130160511758414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianlvup 高薪（特殊）工作我不鸟你，普通工作爹我爱你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1097,
+        "media_key": "3_2010130157688999937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-VqunFaUAEBCWt.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2010130160511758414",
+        "created_at": "2026-01-11T18:47:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T19:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010423279396552924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010423279396552924",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010130160511758414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup 高薪（特殊）工作我不鸟你，普通工作爹我爱你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010130157688999937"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "conversation_id": "2010130160511758414",
+        "created_at": "2026-01-10T23:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T00:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010130160511758414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x5E2W9cTl3",
+              "end": 36,
+              "expanded_url": "https://x.com/jianlvup/status/2010130160511758414/photo/1",
+              "media_key": "3_2010130157688999937",
+              "start": 13,
+              "url": "https://t.co/x5E2W9cTl3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010130160511758414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 266504,
+          "like_count": 522,
+          "quote_count": 5,
+          "reply_count": 333,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "心高气傲的你会如何回应？ https://t.co/x5E2W9cTl3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一个偶尔变得哲学或者厌世的重度自闭男生。理想大概就是想尽自己的绵薄之力尽量缝补这个世界支离破碎的一面吧",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 261,
+          "like_count": 1130,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 590
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "逃生：@jianlvya\n搭档:@KawawaDiana8964\n奇怪的人  INTJ 欢迎交流",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "jianlvya"
+              },
+              {
+                "end": 32,
+                "start": 16,
+                "username": "KawawaDiana8964"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "新西兰（奇怪回复和转推多为广告哈❛˓◞˂̵✧)",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "2010130428129357923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004901762986389504/M3hchdWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15719,
+          "following_count": 1304,
+          "like_count": 71372,
+          "listed_count": 60,
+          "media_count": 2484,
+          "tweet_count": 5485
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

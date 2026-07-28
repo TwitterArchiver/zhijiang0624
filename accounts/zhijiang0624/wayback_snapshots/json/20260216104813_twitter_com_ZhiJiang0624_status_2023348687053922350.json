@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      }
+    ],
+    "conversation_id": "2023076737488482567",
+    "created_at": "2026-02-16T10:48:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T11:48:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023348687053922350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1955230719476998145",
+          "start": 0,
+          "username": "ykkkkkk109"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023348687053922350",
+    "in_reply_to_user_id": "1955230719476998145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023076737488482567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ykkkkkk109 还是那句话，\n说话不过脑，脑子装着屌。\n肆意散发自己的恶意闹麻了的不禁令人怀疑是不是有什么疾病才导致如此压抑😅\n总而言之，一眼腚针，傻逼来的。\n除夕快乐，早点忘掉不开心准备迎接明天的春节吧☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          }
+        ],
+        "conversation_id": "2023076737488482567",
+        "created_at": "2026-02-16T10:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T11:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023348687053922350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1955230719476998145",
+              "start": 0,
+              "username": "ykkkkkk109"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023348687053922350",
+        "in_reply_to_user_id": "1955230719476998145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023076737488482567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ykkkkkk109 还是那句话，\n说话不过脑，脑子装着屌。\n肆意散发自己的恶意闹麻了的不禁令人怀疑是不是有什么疾病才导致如此压抑😅\n总而言之，一眼腚针，傻逼来的。\n除夕快乐，早点忘掉不开心准备迎接明天的春节吧☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955230719476998145",
+        "conversation_id": "2023076737488482567",
+        "created_at": "2026-02-15T16:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T17:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023076737488482567"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023076737488482567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 20918,
+          "like_count": 247,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们男的是默认玩推特的都是反差婊福利姬吗😂真的吓哭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 356,
+          "like_count": 3003,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 1055
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-12T11:31:53.000Z",
+        "description": "双相 泛性恋 sw 女绿 三坑 ed 163 43 脾气特别差特别敏感自卑只会哭别来惹我 爱自嬷有娇妻病有精神病恶俗滥情喜欢口嗨善用屏蔽 话很多上推为了自嗨不要因为我的照片关注我 不收门槛不线下别问我ip不交朋友没兴趣和你认识",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wbxzygr",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wbxzygr",
+                "start": 0,
+                "url": "https://t.co/fHOLVfT5QV"
+              }
+            ]
+          }
+        },
+        "id": "1955230719476998145",
+        "location": "😔",
+        "name": "清水镜花",
+        "pinned_tweet_id": "2006647873165996143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018643807013879808/Gad1RRVz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 217,
+          "like_count": 5639,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 3990
+        },
+        "url": "https://t.co/fHOLVfT5QV",
+        "username": "ykkkkkk109",
+        "verified": false
+      }
+    ]
+  }
+}

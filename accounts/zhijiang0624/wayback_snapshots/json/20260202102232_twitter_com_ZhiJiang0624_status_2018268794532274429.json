@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2018247518044537097",
+    "created_at": "2026-02-02T10:22:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T11:22:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018268794532274429"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 13,
+          "normalized_text": "中国",
+          "probability": 0.9163,
+          "start": 12,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1881948378453741569",
+          "start": 0,
+          "username": "neteru_365"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018268794532274429",
+    "in_reply_to_user_id": "1881948378453741569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018247518044537097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neteru_365 中国の法定労働時間は8時間だよ。ただ、多くの民間企業が守らないだけだ。🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2018247518044537097",
+        "created_at": "2026-02-02T10:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T11:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018268794532274429"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "中国",
+              "probability": 0.9163,
+              "start": 12,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1881948378453741569",
+              "start": 0,
+              "username": "neteru_365"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018268794532274429",
+        "in_reply_to_user_id": "1881948378453741569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018247518044537097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neteru_365 中国の法定労働時間は8時間だよ。ただ、多くの民間企業が守らないだけだ。🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881948378453741569",
+        "conversation_id": "2018247518044537097",
+        "created_at": "2026-02-02T08:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T09:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018247518044537097"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018247518044537097",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2553,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "8時間も働くことをあと4日も続けるの？本当に？泣きそう。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 373,
+          "like_count": 1938,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 670
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T06:14:16.000Z",
+        "description": "32歳、穏やかに暮らすためアルバイトしながら関東で一人暮らし。友達も彼氏もいない。考え過ぎないように沢山ねてます。",
+        "id": "1881948378453741569",
+        "name": "ねてる",
+        "pinned_tweet_id": "2016222249196691521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004989256792698880/rfKsG3Pl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11390,
+          "following_count": 482,
+          "like_count": 14945,
+          "listed_count": 35,
+          "media_count": 59,
+          "tweet_count": 3589
+        },
+        "username": "neteru_365",
+        "verified": true
+      }
+    ]
+  }
+}

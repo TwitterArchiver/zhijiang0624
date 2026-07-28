@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2028982080491930087",
+    "created_at": "2026-03-04T08:09:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T09:09:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029107045727969375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1686671929540042752",
+          "start": 0,
+          "username": "Rinko_Boquette"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029107045727969375",
+    "in_reply_to_user_id": "1686671929540042752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028982080491930087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rinko_Boquette 加佐特出来了，迪迦呢出来管一下"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 819,
+        "media_key": "3_2028982074036895747",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HChkckKawAMJ_Uy.jpg",
+        "width": 614
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2028982080491930087",
+        "created_at": "2026-03-04T08:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T09:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029107045727969375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1686671929540042752",
+              "start": 0,
+              "username": "Rinko_Boquette"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029107045727969375",
+        "in_reply_to_user_id": "1686671929540042752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028982080491930087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_Boquette 加佐特出来了，迪迦呢出来管一下"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028982074036895747"
+          ]
+        },
+        "author_id": "1686671929540042752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2028982080491930087",
+        "created_at": "2026-03-03T23:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T00:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028982080491930087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yguiXFMDvw",
+              "end": 39,
+              "expanded_url": "https://x.com/Rinko_Boquette/status/2028982080491930087/photo/1",
+              "media_key": "3_2028982074036895747",
+              "start": 16,
+              "url": "https://t.co/yguiXFMDvw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028982080491930087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 277,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个也是老朋友了\n朋友，好吃😋 https://t.co/yguiXFMDvw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 535,
+          "like_count": 5636,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1602
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-02T09:37:41.000Z",
+        "description": "我烹饪了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "desu.life",
+                "end": 23,
+                "expanded_url": "http://desu.life",
+                "start": 0,
+                "url": "https://t.co/cqoLugYjEr"
+              }
+            ]
+          }
+        },
+        "id": "1686671929540042752",
+        "location": "我永远恨你，李若昕。我永远恨你，恨你，恨你。从我的身体里出去",
+        "name": "Rinko7614",
+        "pinned_tweet_id": "2026978184923959390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026671372752269317/sRa7xARI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 112,
+          "like_count": 757,
+          "listed_count": 1,
+          "media_count": 856,
+          "tweet_count": 3639
+        },
+        "url": "https://t.co/cqoLugYjEr",
+        "username": "Rinko_Boquette",
+        "verified": false
+      }
+    ]
+  }
+}

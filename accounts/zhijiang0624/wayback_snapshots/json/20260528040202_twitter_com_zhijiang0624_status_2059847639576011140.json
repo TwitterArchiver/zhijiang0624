@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2059847639576011140",
+    "created_at": "2026-05-28T04:02:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T05:02:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059847639576011140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1927283550950137856",
+          "start": 3,
+          "username": "Zzzmzmmmm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059847639576011140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059668677948297568",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @Zzzmzmmmm: 如果感覺遭別人黃謠很有成就感。那麼那個人的母親會遇到強姦犯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2059847639576011140",
+        "created_at": "2026-05-28T04:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059847639576011140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1927283550950137856",
+              "start": 3,
+              "username": "Zzzmzmmmm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059847639576011140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059668677948297568",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @Zzzmzmmmm: 如果感覺遭別人黃謠很有成就感。那麼那個人的母親會遇到強姦犯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927283550950137856",
+        "conversation_id": "2059668677948297568",
+        "created_at": "2026-05-27T16:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T17:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059668677948297568"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059668677948297568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 792,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "如果感覺遭別人黃謠很有成就感。那麼那個人的母親會遇到強姦犯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 708,
+          "like_count": 12320,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 2548
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-27T08:39:58.000Z",
+        "description": "-@luyaoyaoy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 1,
+                "username": "luyaoyaoy"
+              }
+            ]
+          }
+        },
+        "id": "1927283550950137856",
+        "location": "-",
+        "name": "Zzz",
+        "pinned_tweet_id": "2022082315929944532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056736343271911424/6FH7k8P3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5762,
+          "following_count": 58,
+          "like_count": 3813,
+          "listed_count": 6,
+          "media_count": 365,
+          "tweet_count": 1987
+        },
+        "username": "Zzzmzmmmm",
+        "verified": false
+      }
+    ]
+  }
+}

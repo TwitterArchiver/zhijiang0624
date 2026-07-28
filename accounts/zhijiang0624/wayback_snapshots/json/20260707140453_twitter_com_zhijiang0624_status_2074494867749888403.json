@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2074317568228397072",
+    "created_at": "2026-07-07T14:04:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T15:04:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074494867749888403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1577443392",
+          "start": 0,
+          "username": "guyutongxue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074494867749888403",
+    "in_reply_to_user_id": "1577443392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074317568228397072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guyutongxue 好厉害"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 616,
+        "media_key": "3_2074317557717413888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMl01BsaMAAJQh-.jpg",
+        "width": 1092
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2074317568228397072",
+        "created_at": "2026-07-07T14:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074494867749888403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1577443392",
+              "start": 0,
+              "username": "guyutongxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074494867749888403",
+        "in_reply_to_user_id": "1577443392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074317568228397072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guyutongxue 好厉害"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074317557717413888"
+          ]
+        },
+        "author_id": "1577443392",
+        "conversation_id": "2074317568228397072",
+        "created_at": "2026-07-07T02:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074317568228397072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y4jLJ2idvW",
+              "end": 61,
+              "expanded_url": "https://x.com/guyutongxue/status/2074317568228397072/photo/1",
+              "media_key": "3_2074317557717413888",
+              "start": 38,
+              "url": "https://t.co/y4jLJ2idvW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074317568228397072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1091,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "网上说说得了，现实里谁不想大晚上下班回家，穿上小裙子来一次四块砖的抱后腿呢 https://t.co/y4jLJ2idvW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 728,
+          "like_count": 13170,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 2664
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-08T11:39:02.000Z",
+        "description": "社畜 | 想成为可爱xnn | https://t.co/Lxi79jM3vD | ❤️@KR_Tangnat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "KR_Tangnat"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/guyutongxue",
+                "end": 39,
+                "expanded_url": "https://github.com/guyutongxue",
+                "start": 16,
+                "url": "https://t.co/Lxi79jM3vD"
+              }
+            ]
+          }
+        },
+        "id": "1577443392",
+        "name": "谷雨同学",
+        "pinned_tweet_id": "2027612295720018164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064556501981708288/IGZB5BTf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5458,
+          "following_count": 58,
+          "like_count": 900,
+          "listed_count": 21,
+          "media_count": 46,
+          "tweet_count": 179
+        },
+        "url": "",
+        "username": "guyutongxue",
+        "verified": false
+      }
+    ]
+  }
+}

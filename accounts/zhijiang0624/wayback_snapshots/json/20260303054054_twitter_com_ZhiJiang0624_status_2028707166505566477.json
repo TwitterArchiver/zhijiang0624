@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2028497735146762446",
+    "created_at": "2026-03-03T05:40:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T06:40:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028707166505566477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1997715357273030656",
+          "start": 0,
+          "username": "igaveuth3world"
+        },
+        {
+          "end": 24,
+          "id": "1831391450283831299",
+          "start": 16,
+          "username": "yi0415_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028707166505566477",
+    "in_reply_to_user_id": "1997715357273030656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028706301468168320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@igaveuth3world @yi0415_ 确实\n辛苦你搜索资料了\n谢谢你的看法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2028497735146762446",
+        "created_at": "2026-03-03T05:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T06:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028707166505566477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1997715357273030656",
+              "start": 0,
+              "username": "igaveuth3world"
+            },
+            {
+              "end": 24,
+              "id": "1831391450283831299",
+              "start": 16,
+              "username": "yi0415_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028707166505566477",
+        "in_reply_to_user_id": "1997715357273030656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028706301468168320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@igaveuth3world @yi0415_ 确实\n辛苦你搜索资料了\n谢谢你的看法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997715357273030656",
+        "conversation_id": "2028497735146762446",
+        "created_at": "2026-03-03T05:37:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T06:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028706301468168320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "ZhiJiang0624"
+            },
+            {
+              "end": 22,
+              "id": "1831391450283831299",
+              "start": 14,
+              "username": "yi0415_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028706301468168320",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028705171283591286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhiJiang0624 @yi0415_ 1. 我搜了一下 这个片段出自国内选秀节目 与韩娱无关\n2. 这个切片能被传播就说明它是一件发生几率极低的事情 如果司空见惯根本无人在意\n3. 手指划破去医院这种行为为什么要被定义为娘娘腔 女生是每个手指受伤都去医院吗 男生是每个手指受伤都不去医院吗 这跟性别无关\n4. 韩娱打封闭的人比比皆是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 506,
+          "like_count": 4913,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1476
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T17:10:41.000Z",
+        "description": "𝑰'𝒗𝒆 𝒈𝒐𝒏𝒆 𝒕𝒐 𝑾𝒐𝒏𝒅𝒆𝒓𝒍𝒂𝒏𝒅, 𝒏𝒐 𝒍𝒐𝒐𝒌𝒊𝒏𝒈 𝒃𝒂𝒄𝒌",
+        "id": "1997715357273030656",
+        "location": "绀碧大厦",
+        "name": ":3",
+        "pinned_tweet_id": "2026278989258428478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008006249619841024/ahjZ33s5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 33,
+          "like_count": 225,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 488
+        },
+        "username": "igaveuth3world",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T17:58:57.000Z",
+        "description": "",
+        "id": "1831391450283831299",
+        "location": "我来自地狱",
+        "name": "怡",
+        "pinned_tweet_id": "1994332265120174188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028008160771104768/XrH7oGlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30425,
+          "following_count": 93,
+          "like_count": 1760,
+          "listed_count": 83,
+          "media_count": 326,
+          "tweet_count": 2417
+        },
+        "username": "yi0415_",
+        "verified": false
+      }
+    ]
+  }
+}

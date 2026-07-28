@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2024793011801182554",
+    "created_at": "2026-02-20T20:10:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T21:10:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024939837019885672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1861732256924282880",
+          "start": 0,
+          "username": "kero_kero_kuwa_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024939837019885672",
+    "in_reply_to_user_id": "1861732256924282880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024793011801182554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kero_kero_kuwa_ コスプレは趣味なのか仕事なのか、生活の中のことを処理してから趣味を遊ぶのが普通です。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2024793011801182554",
+        "created_at": "2026-02-20T20:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T21:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024939837019885672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1861732256924282880",
+              "start": 0,
+              "username": "kero_kero_kuwa_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024939837019885672",
+        "in_reply_to_user_id": "1861732256924282880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024793011801182554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kero_kero_kuwa_ コスプレは趣味なのか仕事なのか、生活の中のことを処理してから趣味を遊ぶのが普通です。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861732256924282880",
+        "conversation_id": "2024793011801182554",
+        "created_at": "2026-02-20T10:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T11:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024793011801182554"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024793011801182554",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 223,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日は…定時で終わらせられなかった…暫く続くんだろな…激務…😌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 429,
+          "like_count": 3672,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1270
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-27T11:22:39.000Z",
+        "description": "2024/11/27〜|🚺20↑|コスプレ初心者🔰|毎日22:00〜コスプレ投稿|❗️実在しません❗️|絵垢▶︎@inonaka_oekaki |イベントでの写真（DM解放1ヶ月間）・撮影依頼（相互のみ）はDMにお願いします（※内容により返信できない場合もあります。ご了承ください）| 呼出→#井ノ中に見てもらい隊",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 157,
+                "start": 146,
+                "tag": "井ノ中に見てもらい隊"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "inonaka_oekaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/inonakakuwa",
+                "end": 23,
+                "expanded_url": "https://lit.link/inonakakuwa",
+                "start": 0,
+                "url": "https://t.co/Hj22iQWW5G"
+              }
+            ]
+          }
+        },
+        "id": "1861732256924282880",
+        "location": "着るタイプのオタク",
+        "name": "井ノ中くわ",
+        "pinned_tweet_id": "2020423293736755388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017999655758647296/ix7GENti_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3017,
+          "following_count": 210,
+          "like_count": 24683,
+          "listed_count": 20,
+          "media_count": 519,
+          "tweet_count": 3073
+        },
+        "url": "https://t.co/Hj22iQWW5G",
+        "username": "kero_kero_kuwa_",
+        "verified": true
+      }
+    ]
+  }
+}

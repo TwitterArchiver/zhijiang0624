@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2002693401079328867",
+    "created_at": "2026-01-10T12:32:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T13:32:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009966626385604778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1578279536642359300",
+          "start": 0,
+          "username": "baonianmianfei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009966626385604778",
+    "in_reply_to_user_id": "1578279536642359300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009956489860137388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baonianmianfei 是免费的，免费线路够用了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2002693401079328867",
+        "created_at": "2026-01-10T12:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T13:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009966626385604778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1578279536642359300",
+              "start": 0,
+              "username": "baonianmianfei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009966626385604778",
+        "in_reply_to_user_id": "1578279536642359300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009956489860137388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baonianmianfei 是免费的，免费线路够用了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1578279536642359300",
+        "conversation_id": "2002693401079328867",
+        "created_at": "2026-01-10T11:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T12:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009956489860137388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "ZhiJiang0624"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009956489860137388",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009547485308735845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhiJiang0624 它是免费的吗？但是我看要开会员哎，没事我找到了一个挺便宜的，谢谢谢谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一个偶尔变得哲学或者厌世的重度自闭男生。理想大概就是想尽自己的绵薄之力尽量缝补这个世界支离破碎的一面吧",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 247,
+          "like_count": 992,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 551
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-07T07:02:44.000Z",
+        "description": "你关注神经病干嘛",
+        "id": "1578279536642359300",
+        "name": "包年免费",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1623244574520139777/A4Y2Uf9n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 59,
+          "like_count": 2347,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 2068
+        },
+        "username": "baonianmianfei",
+        "verified": false
+      }
+    ]
+  }
+}

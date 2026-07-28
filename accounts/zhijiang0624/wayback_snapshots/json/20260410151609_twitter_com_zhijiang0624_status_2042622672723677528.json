@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2042580256843010270",
+    "created_at": "2026-04-10T15:16:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T16:16:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042622672723677528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1803419024560365568",
+          "start": 0,
+          "username": "Sariel_143"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042622672723677528",
+    "in_reply_to_user_id": "1803419024560365568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042580256843010270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sariel_143 连麦：你还记得曾经被你霸凌的那个人吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2042580256843010270",
+        "created_at": "2026-04-10T15:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T16:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042622672723677528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1803419024560365568",
+              "start": 0,
+              "username": "Sariel_143"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042622672723677528",
+        "in_reply_to_user_id": "1803419024560365568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042580256843010270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sariel_143 连麦：你还记得曾经被你霸凌的那个人吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803419024560365568",
+        "conversation_id": "2042580256843010270",
+        "created_at": "2026-04-10T12:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T13:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042580256843010270"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042580256843010270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到之前霸凌我把我搞得不人不鬼的人，今天过得非常不错貌似真当上了网红，那还说啥呢，天台见。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 654,
+          "like_count": 10189,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 2124
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T13:26:26.000Z",
+        "description": "(   ˶◝◡ ◜|◝◡ ◜˶   )\n\nᜊ(ˆ꜆ .  ̫ . ).  ̫ . ꜀ˆ) ᜊ",
+        "id": "1803419024560365568",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "她胃不好总吃辣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035677812007510016/aFiuXqIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 140,
+          "like_count": 1916,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 195
+        },
+        "username": "Sariel_143",
+        "verified": false
+      }
+    ]
+  }
+}

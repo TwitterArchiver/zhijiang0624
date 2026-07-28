@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2030200083783041352",
+    "created_at": "2026-03-07T08:38:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T09:38:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030201337741443422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1886524231724466176",
+          "start": 0,
+          "username": "XIANHUAys249"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030201337741443422",
+    "in_reply_to_user_id": "1886524231724466176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030200083783041352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XIANHUAys249 生命力就是\n对一切事物的认知都停留在最美好的一面\n每天只会思考回家吃什么\n在家想看电视就看了\n觉得这个世界真的很有乐趣\n所有的东西真的都很有新鲜感\n……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2030200083783041352",
+        "created_at": "2026-03-07T08:38:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T09:38:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030201337741443422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1886524231724466176",
+              "start": 0,
+              "username": "XIANHUAys249"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030201337741443422",
+        "in_reply_to_user_id": "1886524231724466176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030200083783041352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIANHUAys249 生命力就是\n对一切事物的认知都停留在最美好的一面\n每天只会思考回家吃什么\n在家想看电视就看了\n觉得这个世界真的很有乐趣\n所有的东西真的都很有新鲜感\n……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886524231724466176",
+        "conversation_id": "2030200083783041352",
+        "created_at": "2026-03-07T08:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T09:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030200083783041352"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030200083783041352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么是生命力，要怎么赋予生命力？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 570,
+          "like_count": 7082,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 1736
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T21:16:49.000Z",
+        "description": "我需要想象力，学习，创作，应对。",
+        "id": "1886524231724466176",
+        "name": "249",
+        "pinned_tweet_id": "2011306230690783741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997752776571682816/3ern9qYM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 167,
+          "like_count": 6221,
+          "listed_count": 2,
+          "media_count": 167,
+          "tweet_count": 1125
+        },
+        "username": "XIANHUAys249",
+        "verified": false
+      }
+    ]
+  }
+}

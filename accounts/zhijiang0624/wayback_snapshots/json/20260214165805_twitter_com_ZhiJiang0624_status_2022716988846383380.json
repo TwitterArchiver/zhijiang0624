@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2022711396358840720",
+    "created_at": "2026-02-14T16:58:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T17:58:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022716988846383380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1675133488524328961",
+          "start": 0,
+          "username": "Kietter387803"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022716988846383380",
+    "in_reply_to_user_id": "1675133488524328961",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022711396358840720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kietter387803 祝贺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2022711396358840720",
+        "created_at": "2026-02-14T16:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T17:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022716988846383380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1675133488524328961",
+              "start": 0,
+              "username": "Kietter387803"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022716988846383380",
+        "in_reply_to_user_id": "1675133488524328961",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022711396358840720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kietter387803 祝贺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675133488524328961",
+        "conversation_id": "2022711396358840720",
+        "created_at": "2026-02-14T16:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T17:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022711396358840720"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022711396358840720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "情人节我买衣服，和人一起\n和恋人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 308,
+          "like_count": 2477,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 804
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-01T13:25:30.000Z",
+        "description": "不是博主就是一个臭玩香水的。。。绝赞心悸应激患者，隐藏中二少女…☪️🔯喵呜～很喜欢你们，如果能多多看我就更喜欢了。正确的是，快点看着我啊…………@Linyue7523",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 72,
+                "username": "Linyue7523"
+              }
+            ]
+          }
+        },
+        "id": "1675133488524328961",
+        "location": "日本104-0045 tokyo, chuo city",
+        "name": "kiehésitent",
+        "pinned_tweet_id": "2016142502802415956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017536799367958529/5I3hycbV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6384,
+          "following_count": 1509,
+          "like_count": 24163,
+          "listed_count": 16,
+          "media_count": 3547,
+          "tweet_count": 21228
+        },
+        "username": "Kietter387803",
+        "verified": false
+      }
+    ]
+  }
+}

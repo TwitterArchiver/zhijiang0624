@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2042481146756546977",
+    "created_at": "2026-04-10T11:49:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T12:49:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042570687349690878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1647232207596179456",
+          "start": 0,
+          "username": "qingrangwoanxin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042570687349690878",
+    "in_reply_to_user_id": "1647232207596179456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042481146756546977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qingrangwoanxin 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042481134354022400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhZxSmbwAASyDr.jpg",
+        "width": 1524
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2042481146756546977",
+        "created_at": "2026-04-10T11:49:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042570687349690878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647232207596179456",
+              "start": 0,
+              "username": "qingrangwoanxin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042570687349690878",
+        "in_reply_to_user_id": "1647232207596179456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042481146756546977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingrangwoanxin 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042481134354022400"
+          ]
+        },
+        "author_id": "1647232207596179456",
+        "conversation_id": "2042481146756546977",
+        "created_at": "2026-04-10T05:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T06:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042481146756546977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PoBhbJdMB1",
+              "end": 49,
+              "expanded_url": "https://x.com/qingrangwoanxin/status/2042481146756546977/photo/1",
+              "media_key": "3_2042481134354022400",
+              "start": 26,
+              "url": "https://t.co/PoBhbJdMB1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042481146756546977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 2588,
+          "like_count": 301,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "看在今天是生日的份上\n勉为其难的摘下面具好了... https://t.co/PoBhbJdMB1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 654,
+          "like_count": 10118,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 2116
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T13:35:47.000Z",
+        "description": "cos/清水/唱见/女高/心理咨询/日删博主\n                      🚪门槛52/280/520/1314",
+        "id": "1647232207596179456",
+        "location": "请给我一个陪伴你的机会",
+        "name": "雨宫恋",
+        "pinned_tweet_id": "2006988210094973233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012558663521562626/DbKp7_6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10177,
+          "following_count": 1000,
+          "like_count": 7879,
+          "listed_count": 21,
+          "media_count": 46,
+          "tweet_count": 15644
+        },
+        "username": "qingrangwoanxin",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2055136710770721030",
+    "created_at": "2026-05-15T04:17:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T05:17:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055140374595895498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1991445770592219140",
+          "start": 0,
+          "username": "Sakurayukii77i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055140374595895498",
+    "in_reply_to_user_id": "1991445770592219140",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055136710770721030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sakurayukii77i 有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2055136710770721030",
+        "created_at": "2026-05-15T04:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T05:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055140374595895498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991445770592219140",
+              "start": 0,
+              "username": "Sakurayukii77i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055140374595895498",
+        "in_reply_to_user_id": "1991445770592219140",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055136710770721030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakurayukii77i 有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991445770592219140",
+        "conversation_id": "2055136710770721030",
+        "created_at": "2026-05-15T04:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T05:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055136710770721030"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055136710770721030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特已经没人在意我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 686,
+          "like_count": 11761,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 2409
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T09:57:35.000Z",
+        "description": "你和雪有一个共同的特点",
+        "id": "1991445770592219140",
+        "location": "幻想乡｜🚪188/520/1314/5200",
+        "name": "我的心裂了一道缝",
+        "pinned_tweet_id": "1991448324319367613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991445945578647552/P-LIO0kK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5933,
+          "following_count": 12,
+          "like_count": 498,
+          "listed_count": 19,
+          "media_count": 253,
+          "tweet_count": 363
+        },
+        "username": "Sakurayukii77i",
+        "verified": false
+      }
+    ]
+  }
+}

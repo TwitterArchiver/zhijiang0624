@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2022861884622319802",
+    "created_at": "2026-02-15T03:13:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T04:13:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022871795532185785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1799331977205796864",
+          "start": 0,
+          "username": "Xxxxx62778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022871795532185785",
+    "in_reply_to_user_id": "1799331977205796864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022861884622319802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xxxxx62778 没这么简单"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 978,
+        "media_key": "3_2022861812857999361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBKmGekakAE714w.jpg",
+        "width": 1077
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2022861884622319802",
+        "created_at": "2026-02-15T03:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T04:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022871795532185785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1799331977205796864",
+              "start": 0,
+              "username": "Xxxxx62778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022871795532185785",
+        "in_reply_to_user_id": "1799331977205796864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022861884622319802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxxxx62778 没这么简单"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022861812857999361"
+          ]
+        },
+        "author_id": "1799331977205796864",
+        "conversation_id": "2022861884622319802",
+        "created_at": "2026-02-15T02:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T03:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022861884622319802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/czBHgkyQBu",
+              "end": 31,
+              "expanded_url": "https://x.com/Xxxxx62778/status/2022861884622319802/photo/1",
+              "media_key": "3_2022861812857999361",
+              "start": 8,
+              "url": "https://t.co/czBHgkyQBu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022861884622319802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就这样嘲讽仇人 https://t.co/czBHgkyQBu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 318,
+          "like_count": 2582,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 833
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T06:45:56.000Z",
+        "description": "°. ⑅♡⑅ °. +. °. ⑅♡⑅ °. +. °.\n希望你因为拥有小咪的陪伴而幸福",
+        "id": "1799331977205796864",
+        "location": "⌯^⑅˶º ᵕ º˶^",
+        "name": "/•᷅‎‎•᷄\\୭⋆°✩ ๋࣭",
+        "pinned_tweet_id": "2013542676201967753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002547322463600640/hm5xe4nX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1890,
+          "following_count": 30,
+          "like_count": 24144,
+          "listed_count": 3,
+          "media_count": 3069,
+          "tweet_count": 8628
+        },
+        "username": "Xxxxx62778",
+        "verified": false
+      }
+    ]
+  }
+}

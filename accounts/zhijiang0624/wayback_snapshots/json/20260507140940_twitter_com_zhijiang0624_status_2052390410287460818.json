@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2052184298774839761",
+    "created_at": "2026-05-07T14:09:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T15:09:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052390410287460818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1796770446907748352",
+          "start": 0,
+          "username": "oodoudouoodu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052390410287460818",
+    "in_reply_to_user_id": "1796770446907748352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052184298774839761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oodoudouoodu 看着就绝望\n傻逼人类"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052184288427433984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHrSvMVa4AA6mcx.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052184288414801920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHrSvMSaIAAvjPS.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2052184298774839761",
+        "created_at": "2026-05-07T14:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052390410287460818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1796770446907748352",
+              "start": 0,
+              "username": "oodoudouoodu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052390410287460818",
+        "in_reply_to_user_id": "1796770446907748352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052184298774839761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oodoudouoodu 看着就绝望\n傻逼人类"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052184288427433984",
+            "3_2052184288414801920"
+          ]
+        },
+        "author_id": "1796770446907748352",
+        "conversation_id": "2052184298774839761",
+        "created_at": "2026-05-07T00:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T01:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052184298774839761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l2aj0mQFRz",
+              "end": 114,
+              "expanded_url": "https://x.com/oodoudouoodu/status/2052184298774839761/photo/1",
+              "media_key": "3_2052184288427433984",
+              "start": 91,
+              "url": "https://t.co/l2aj0mQFRz"
+            },
+            {
+              "display_url": "pic.x.com/l2aj0mQFRz",
+              "end": 114,
+              "expanded_url": "https://x.com/oodoudouoodu/status/2052184298774839761/photo/1",
+              "media_key": "3_2052184288414801920",
+              "start": 91,
+              "url": "https://t.co/l2aj0mQFRz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052184298774839761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5966,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已力竭 我已沉默 我已投降 我已绝望我已崩溃我已无助我已求佛我已倒下我已上吊我已归隐田园 我已贤者时刻我已无力招架 我已求天求地求爹娘 我已三十六计走为上计我已装疯卖傻一问三不知 https://t.co/l2aj0mQFRz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 684,
+          "like_count": 11618,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 2364
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T05:07:21.000Z",
+        "description": "我是那种坐在沙发上 眼泪哗哗流 但是不出声的那种 就是很唯美的 童话类型",
+        "id": "1796770446907748352",
+        "name": "香奈儿",
+        "pinned_tweet_id": "2025390060544331842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051479553605058560/nYf00OMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 70,
+          "like_count": 5137,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 1538
+        },
+        "username": "oodoudouoodu",
+        "verified": false
+      }
+    ]
+  }
+}

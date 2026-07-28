@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2023971242991108291",
+    "created_at": "2026-02-18T07:38:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T08:38:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024025666472038635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1879858352001597440",
+          "start": 0,
+          "username": "ChengGong97039"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024025666472038635",
+    "in_reply_to_user_id": "1879858352001597440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023971242991108291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChengGong97039 ！？这么强么这？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2023971230249062400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBaXHEabEAA5rnP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2023971242991108291",
+        "created_at": "2026-02-18T07:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T08:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024025666472038635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1879858352001597440",
+              "start": 0,
+              "username": "ChengGong97039"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024025666472038635",
+        "in_reply_to_user_id": "1879858352001597440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023971242991108291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChengGong97039 ！？这么强么这？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023971230249062400"
+          ]
+        },
+        "author_id": "1879858352001597440",
+        "conversation_id": "2023971242991108291",
+        "created_at": "2026-02-18T04:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T05:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023971242991108291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bVkRDA2H90",
+              "end": 30,
+              "expanded_url": "https://x.com/ChengGong97039/status/2023971242991108291/photo/1",
+              "media_key": "3_2023971230249062400",
+              "start": 7,
+              "url": "https://t.co/bVkRDA2H90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023971242991108291",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 764,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来点雷霆表情 https://t.co/bVkRDA2H90"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 419,
+          "like_count": 3490,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1215
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-16T11:48:59.000Z",
+        "description": "本人男，喜欢女孩子，就爱整点考斯普雷",
+        "id": "1879858352001597440",
+        "name": "城北徐公",
+        "pinned_tweet_id": "1906579004330549265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970319610881961984/sVHs_QBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1820,
+          "following_count": 51,
+          "like_count": 582,
+          "listed_count": 9,
+          "media_count": 146,
+          "tweet_count": 169
+        },
+        "username": "ChengGong97039",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2026537025441247655",
+    "created_at": "2026-02-25T15:09:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T16:09:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026675926193537528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1831391450283831299",
+          "start": 0,
+          "username": "yi0415_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026675926193537528",
+    "in_reply_to_user_id": "1831391450283831299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026537025441247655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yi0415_ ←（现实比网上更阴暗的家伙）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2026537025441247655",
+        "created_at": "2026-02-25T15:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T16:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026675926193537528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1831391450283831299",
+              "start": 0,
+              "username": "yi0415_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026675926193537528",
+        "in_reply_to_user_id": "1831391450283831299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026537025441247655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yi0415_ ←（现实比网上更阴暗的家伙）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831391450283831299",
+        "conversation_id": "2026537025441247655",
+        "created_at": "2026-02-25T05:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T06:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026537025441247655"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026537025441247655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3264,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人说网上都是大家的阴暗面 那你现生朋友也太好了 我甚至觉得还是伪装了 我同学发现我推特跟我撕逼 扬言要传出去 之前孤立我的同学还有霸凌我的同学在朋友圈发的可会伪装了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 465,
+          "like_count": 4052,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1375
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T17:58:57.000Z",
+        "description": "盗我图死妈了",
+        "id": "1831391450283831299",
+        "location": "我来自地狱",
+        "name": "怡",
+        "pinned_tweet_id": "1994332265120174188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026087664030748673/vNZGUA6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29105,
+          "following_count": 87,
+          "like_count": 1667,
+          "listed_count": 80,
+          "media_count": 308,
+          "tweet_count": 2266
+        },
+        "username": "yi0415_",
+        "verified": false
+      }
+    ]
+  }
+}

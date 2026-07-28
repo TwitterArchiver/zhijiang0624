@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2054809279346196869",
+    "created_at": "2026-05-14T07:09:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T08:09:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054821339987624048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1667779272478687232",
+          "start": 0,
+          "username": "MilkyWayDet_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054821339987624048",
+    "in_reply_to_user_id": "1667779272478687232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054809279346196869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MilkyWayDet_ 狠狠投诉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2054809279346196869",
+        "created_at": "2026-05-14T07:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T08:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054821339987624048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1667779272478687232",
+              "start": 0,
+              "username": "MilkyWayDet_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054821339987624048",
+        "in_reply_to_user_id": "1667779272478687232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054809279346196869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MilkyWayDet_ 狠狠投诉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667779272478687232",
+        "conversation_id": "2054809279346196869",
+        "created_at": "2026-05-14T06:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T07:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054809279346196869"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054809279346196869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 337,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小区保安作威作福到了我的头上，自我意识极强却意识不到自己是服务者，当自己是土皇帝。\n做事不合规，被我质问之后发生口角，居然敢拦着我不让我走，我硬挤开走了之后还要对我拍照录像。\n很遗憾，想挑软柿子捏挑错人了，我不仅不好惹，还特别闲，有的是精力和时间来投诉，历史投诉成功率是100%。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 687,
+          "like_count": 11724,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 2395
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T06:22:28.000Z",
+        "description": "我最近的梦想是成为史努比\n我的猫@mimi240628",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "mimi240628"
+              }
+            ]
+          }
+        },
+        "id": "1667779272478687232",
+        "location": "宇宙盡頭的餐廳",
+        "name": "銀河系超級偵探",
+        "pinned_tweet_id": "1959831951134839010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1685264169569042433/mihVUuV7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2301,
+          "following_count": 170,
+          "like_count": 19423,
+          "listed_count": 20,
+          "media_count": 1268,
+          "tweet_count": 3573
+        },
+        "username": "MilkyWayDet_",
+        "verified": false
+      }
+    ]
+  }
+}

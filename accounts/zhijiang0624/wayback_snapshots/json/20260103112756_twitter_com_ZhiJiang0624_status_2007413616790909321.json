@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Mental Health",
+          "id": "918217950783455232",
+          "name": "Mental health"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2007409661071528190",
+    "created_at": "2026-01-03T11:27:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T12:27:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007413616790909321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1921570742665355264",
+          "start": 0,
+          "username": "Y3TNR5A4pN95036"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007413616790909321",
+    "in_reply_to_user_id": "1921570742665355264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007409661071528190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y3TNR5A4pN95036 あなたの生活がますます良くなり、一日も早く心の健康が回復することを願っています。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2007409659314089986",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9vAcw4asAIS5wc.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Mental Health",
+              "id": "918217950783455232",
+              "name": "Mental health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2007409661071528190",
+        "created_at": "2026-01-03T11:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T12:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007413616790909321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1921570742665355264",
+              "start": 0,
+              "username": "Y3TNR5A4pN95036"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007413616790909321",
+        "in_reply_to_user_id": "1921570742665355264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007409661071528190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y3TNR5A4pN95036 あなたの生活がますます良くなり、一日も早く心の健康が回復することを願っています。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007409659314089986"
+          ]
+        },
+        "author_id": "1921570742665355264",
+        "conversation_id": "2007409661071528190",
+        "created_at": "2026-01-03T11:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T12:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007409661071528190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EIxtdquZYo",
+              "end": 28,
+              "expanded_url": "https://x.com/Y3TNR5A4pN95036/status/2007409661071528190/photo/1",
+              "media_key": "3_2007409659314089986",
+              "start": 5,
+              "url": "https://t.co/EIxtdquZYo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007409661071528190",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ヵヮィィ https://t.co/EIxtdquZYo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一个偶尔变得哲学或者厌世的重度自闭男生。理想大概就是想尽自己的绵薄之力尽量缝补这个世界支离破碎的一面吧",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 164,
+          "like_count": 561,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 402
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-11T14:19:33.000Z",
+        "description": "10 ¦ ♀  251🩷 → @7Fa8s   sub🗝→ @Y3A4p #病み垢 #ASD #HSP #OD #摂食 #希死念慮   168cm/47kg/骨格ナチュラル 🩷🤍目指せ40kg🤍🩷",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 37,
+                "tag": "病み垢"
+              },
+              {
+                "end": 46,
+                "start": 42,
+                "tag": "ASD"
+              },
+              {
+                "end": 51,
+                "start": 47,
+                "tag": "HSP"
+              },
+              {
+                "end": 55,
+                "start": 52,
+                "tag": "OD"
+              },
+              {
+                "end": 59,
+                "start": 56,
+                "tag": "摂食"
+              },
+              {
+                "end": 65,
+                "start": 60,
+                "tag": "希死念慮"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 21,
+                "start": 15,
+                "username": "7Fa8s"
+              },
+              {
+                "end": 36,
+                "start": 30,
+                "username": "Y3A4p"
+              }
+            ]
+          }
+        },
+        "id": "1921570742665355264",
+        "location": "きちがいでぶすなおんなのこ",
+        "name": "のんてゃ(15)",
+        "pinned_tweet_id": "2007333834698981762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007332893828493313/jj83ohMz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 104,
+          "like_count": 6324,
+          "listed_count": 2,
+          "media_count": 191,
+          "tweet_count": 705
+        },
+        "username": "Y3TNR5A4pN95036",
+        "verified": false
+      }
+    ]
+  }
+}

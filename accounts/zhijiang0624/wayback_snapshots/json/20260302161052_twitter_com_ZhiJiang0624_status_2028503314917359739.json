@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2028497735146762446",
+    "created_at": "2026-03-02T16:10:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T17:10:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028503314917359739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1831391450283831299",
+          "start": 0,
+          "username": "yi0415_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028503314917359739",
+    "in_reply_to_user_id": "1831391450283831299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028497735146762446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yi0415_ 因为韩片一般都是三级的？（我只找到过三级）而且日漫、AV属于大多数国人从小看到大的那种，可能看出了情怀\n再说娱乐方面，日娱影片有太多不适合引进的，因为在日本人的眼中，性爱作为一种艺术表达形式是可以被接受的，所以基本上都毕竟露骨；韩娱的话没怎么关注，男的冷白皮娘娘腔可能更受女生的追捧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2028497735146762446",
+        "created_at": "2026-03-02T16:10:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T17:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028503314917359739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1831391450283831299",
+              "start": 0,
+              "username": "yi0415_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028503314917359739",
+        "in_reply_to_user_id": "1831391450283831299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028497735146762446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yi0415_ 因为韩片一般都是三级的？（我只找到过三级）而且日漫、AV属于大多数国人从小看到大的那种，可能看出了情怀\n再说娱乐方面，日娱影片有太多不适合引进的，因为在日本人的眼中，性爱作为一种艺术表达形式是可以被接受的，所以基本上都毕竟露骨；韩娱的话没怎么关注，男的冷白皮娘娘腔可能更受女生的追捧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831391450283831299",
+        "conversation_id": "2028497735146762446",
+        "created_at": "2026-03-02T15:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T16:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028497735146762446"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028497735146762446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 475,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉大家都很少追日娱 反而日漫和av很多人追。感觉大家都追韩娱 反而很少有韩片。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 498,
+          "like_count": 4764,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1452
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T17:58:57.000Z",
+        "description": "",
+        "id": "1831391450283831299",
+        "location": "我来自地狱",
+        "name": "怡",
+        "pinned_tweet_id": "1994332265120174188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028008160771104768/XrH7oGlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29866,
+          "following_count": 91,
+          "like_count": 1748,
+          "listed_count": 85,
+          "media_count": 321,
+          "tweet_count": 2399
+        },
+        "username": "yi0415_",
+        "verified": false
+      }
+    ]
+  }
+}

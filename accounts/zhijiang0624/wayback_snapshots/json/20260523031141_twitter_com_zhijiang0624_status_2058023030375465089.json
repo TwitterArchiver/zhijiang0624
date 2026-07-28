@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2057882636089958404",
+    "created_at": "2026-05-23T03:11:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T04:11:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058023030375465089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1353169870691549184",
+          "start": 0,
+          "username": "iPaulCanada"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058023030375465089",
+    "in_reply_to_user_id": "1353169870691549184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057882636089958404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iPaulCanada 好厉害"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20320,
+        "height": 1920,
+        "media_key": "13_2057882548781330432",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057882548781330432/img/hTpKdhrYsuHbMt7y.jpg",
+        "public_metrics": {
+          "view_count": 205317
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057882548781330432/vid/avc1/720x1280/hXE5uhi2yNOj5BiK.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057882548781330432/vid/avc1/1080x1920/f45KUS7WrmkQSqWc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057882548781330432/pl/8rgsp1tBTe9yvJOO.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057882548781330432/vid/avc1/320x568/q_pC0FFO84HJb8o0.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057882548781330432/vid/avc1/480x852/TyAz76e25-HQxPDg.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2057882636089958404",
+        "created_at": "2026-05-23T03:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T04:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058023030375465089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1353169870691549184",
+              "start": 0,
+              "username": "iPaulCanada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058023030375465089",
+        "in_reply_to_user_id": "1353169870691549184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057882636089958404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iPaulCanada 好厉害"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057882548781330432"
+          ]
+        },
+        "author_id": "1353169870691549184",
+        "conversation_id": "2057882636089958404",
+        "created_at": "2026-05-22T17:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T18:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057882636089958404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ypFnVdkhr2",
+              "end": 84,
+              "expanded_url": "https://x.com/iPaulCanada/status/2057882636089958404/video/1",
+              "media_key": "13_2057882548781330432",
+              "start": 61,
+              "url": "https://t.co/ypFnVdkhr2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057882636089958404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 166,
+          "impression_count": 357954,
+          "like_count": 898,
+          "quote_count": 2,
+          "reply_count": 83,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "大爷穿着自己编织的蓑衣来卖樱桃，外面看似很潦草打开里面真的太华丽了，网友:大爷赶紧申请专利，防止被爱马仕或者巴黎世家盗用 https://t.co/ypFnVdkhr2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 698,
+          "like_count": 12062,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 2504
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-24T02:37:27.000Z",
+        "description": "自由万岁",
+        "id": "1353169870691549184",
+        "location": "the North Star",
+        "name": "iPaul",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1353172142502809601/a03iLOp7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188076,
+          "following_count": 615,
+          "like_count": 7574,
+          "listed_count": 724,
+          "media_count": 13195,
+          "tweet_count": 20110
+        },
+        "username": "iPaulCanada",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2024503757258838152",
+    "created_at": "2026-02-19T15:33:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T16:33:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024507523248902625"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 9,
+          "normalized_text": "恭喜",
+          "probability": 0.6438,
+          "start": 8,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1671821091738886144",
+          "start": 0,
+          "username": "_04x_d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024507523248902625",
+    "in_reply_to_user_id": "1671821091738886144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024503757258838152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_04x_d 恭喜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1115,
+        "media_key": "3_2024503749600055296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBh7bxlbkAAJVOm.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2024503757258838152",
+        "created_at": "2026-02-19T15:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T16:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024507523248902625"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "恭喜",
+              "probability": 0.6438,
+              "start": 8,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1671821091738886144",
+              "start": 0,
+              "username": "_04x_d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024507523248902625",
+        "in_reply_to_user_id": "1671821091738886144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024503757258838152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_04x_d 恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024503749600055296"
+          ]
+        },
+        "author_id": "1671821091738886144",
+        "conversation_id": "2024503757258838152",
+        "created_at": "2026-02-19T15:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T16:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024503757258838152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fTy7QIWqzg",
+              "end": 33,
+              "expanded_url": "https://x.com/_04x_d/status/2024503757258838152/photo/1",
+              "media_key": "3_2024503749600055296",
+              "start": 10,
+              "url": "https://t.co/fTy7QIWqzg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024503757258838152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "520fo！爱你们 https://t.co/fTy7QIWqzg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 423,
+          "like_count": 3633,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1258
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-22T10:04:27.000Z",
+        "description": "251 @_j14q1\n                                                                                          查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 4,
+                "username": "_j14q1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki71720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki71720",
+                "start": 0,
+                "url": "https://t.co/Ex198DUJ36"
+              }
+            ]
+          }
+        },
+        "id": "1671821091738886144",
+        "name": "死体",
+        "pinned_tweet_id": "2015420686177906843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013525475642019840/pScrwFXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 313,
+          "like_count": 9918,
+          "listed_count": 1,
+          "media_count": 371,
+          "tweet_count": 2286
+        },
+        "url": "https://t.co/Ex198DUJ36",
+        "username": "_04x_d",
+        "verified": false
+      }
+    ]
+  }
+}

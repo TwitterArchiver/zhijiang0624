@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2022358221126783222",
+    "created_at": "2026-02-14T02:39:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T03:39:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022500933633298805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1871643882053832704",
+          "start": 0,
+          "username": "pop1748057"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022500933633298805",
+    "in_reply_to_user_id": "1871643882053832704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022358221126783222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pop1748057 去找超雄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2022358221126783222",
+        "created_at": "2026-02-14T02:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T03:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022500933633298805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1871643882053832704",
+              "start": 0,
+              "username": "pop1748057"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022500933633298805",
+        "in_reply_to_user_id": "1871643882053832704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022358221126783222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pop1748057 去找超雄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871643882053832704",
+        "conversation_id": "2022358221126783222",
+        "created_at": "2026-02-13T17:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T18:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022358221126783222"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022358221126783222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8439,
+          "like_count": 131,
+          "quote_count": 2,
+          "reply_count": 29,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "想找一个同居之后会随时随地扇奶子扇逼的男朋友🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 294,
+          "like_count": 2361,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 770
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T19:47:41.000Z",
+        "description": "🥹什么都会发！",
+        "id": "1871643882053832704",
+        "name": "悲伤是爱的代价",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871644300020424704/1tzLd06o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 152,
+          "like_count": 1016,
+          "listed_count": 11,
+          "media_count": 16,
+          "tweet_count": 256
+        },
+        "username": "pop1748057",
+        "verified": false
+      }
+    ]
+  }
+}

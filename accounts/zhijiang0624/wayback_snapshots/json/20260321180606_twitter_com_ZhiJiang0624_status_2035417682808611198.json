@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2035145609477496869",
+    "created_at": "2026-03-21T18:06:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T19:06:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035417682808611198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1693265947778539520",
+          "start": 0,
+          "username": "Ghost_Gousite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035417682808611198",
+    "in_reply_to_user_id": "1693265947778539520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035145609477496869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ghost_Gousite 真好啊……\n祝你和叔叔阿姨的生活能一直幸福下去"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 502,
+        "media_key": "3_2035145604268269569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD5KJPiboAETGUn.jpg",
+        "width": 410
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2035145609477496869",
+        "created_at": "2026-03-21T18:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T19:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035417682808611198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1693265947778539520",
+              "start": 0,
+              "username": "Ghost_Gousite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035417682808611198",
+        "in_reply_to_user_id": "1693265947778539520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035145609477496869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ghost_Gousite 真好啊……\n祝你和叔叔阿姨的生活能一直幸福下去"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035145604268269569"
+          ]
+        },
+        "author_id": "1693265947778539520",
+        "conversation_id": "2035145609477496869",
+        "created_at": "2026-03-21T00:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T01:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035145609477496869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VChi6YKLNX",
+              "end": 33,
+              "expanded_url": "https://x.com/Ghost_Gousite/status/2035145609477496869/photo/1",
+              "media_key": "3_2035145604268269569",
+              "start": 10,
+              "url": "https://t.co/VChi6YKLNX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035145609477496869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 161782,
+          "like_count": 1552,
+          "quote_count": 1,
+          "reply_count": 67,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "一天中最开心的时刻 https://t.co/VChi6YKLNX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n07年纯种神经病\n如果哪里说得有错还请麻烦指点一下谢谢。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 606,
+          "like_count": 8749,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1925
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-20T14:17:25.000Z",
+        "description": "这里是狗斯特，爱好🐺Furry/🚗汽车/📱数码/📷摄影/🔫玩具枪， 只会讲中文，其它语言会使用翻译器",
+        "id": "1693265947778539520",
+        "name": "Ghost_狗斯特",
+        "pinned_tweet_id": "1934937624504156551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936688545277566976/O9VPNuiv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1803,
+          "following_count": 244,
+          "like_count": 2238,
+          "listed_count": 10,
+          "media_count": 159,
+          "tweet_count": 978
+        },
+        "username": "Ghost_Gousite",
+        "verified": false
+      }
+    ]
+  }
+}

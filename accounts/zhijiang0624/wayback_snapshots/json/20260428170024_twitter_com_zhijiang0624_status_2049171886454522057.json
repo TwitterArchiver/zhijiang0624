@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2049145484921758038",
+    "created_at": "2026-04-28T17:00:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T18:00:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049171886454522057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1476546742577504265",
+          "start": 0,
+          "username": "luoshuyao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049171886454522057",
+    "in_reply_to_user_id": "1476546742577504265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049145484921758038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luoshuyao 去别的地方住断联吧，我妈给我发消息打语音打电话我都懒得理了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1867,
+        "media_key": "3_2049134579240558592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_9CwSaYAAK0hX.jpg",
+        "width": 928
+      },
+      {
+        "height": 1095,
+        "media_key": "3_2049141459488735232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHADTPNaAAAUdYi.jpg",
+        "width": 903
+      },
+      {
+        "height": 1881,
+        "media_key": "3_2049141458939301888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHADTNKaUAADymJ.jpg",
+        "width": 935
+      },
+      {
+        "height": 1926,
+        "media_key": "3_2049141459086086144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHADTNtaEAATPlO.jpg",
+        "width": 910
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2049145484921758038",
+        "created_at": "2026-04-28T17:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T18:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049171886454522057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049171886454522057",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049145484921758038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 去别的地方住断联吧，我妈给我发消息打语音打电话我都懒得理了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049134579240558592",
+            "3_2049141459488735232",
+            "3_2049141458939301888",
+            "3_2049141459086086144"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2049145484921758038",
+        "created_at": "2026-04-28T15:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T16:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049145484921758038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uf3V8GFLYx",
+              "end": 130,
+              "expanded_url": "https://x.com/luoshuyao/status/2049145484921758038/photo/1",
+              "media_key": "3_2049134579240558592",
+              "start": 107,
+              "url": "https://t.co/uf3V8GFLYx"
+            },
+            {
+              "display_url": "pic.x.com/uf3V8GFLYx",
+              "end": 130,
+              "expanded_url": "https://x.com/luoshuyao/status/2049145484921758038/photo/1",
+              "media_key": "3_2049141459488735232",
+              "start": 107,
+              "url": "https://t.co/uf3V8GFLYx"
+            },
+            {
+              "display_url": "pic.x.com/uf3V8GFLYx",
+              "end": 130,
+              "expanded_url": "https://x.com/luoshuyao/status/2049145484921758038/photo/1",
+              "media_key": "3_2049141458939301888",
+              "start": 107,
+              "url": "https://t.co/uf3V8GFLYx"
+            },
+            {
+              "display_url": "pic.x.com/uf3V8GFLYx",
+              "end": 130,
+              "expanded_url": "https://x.com/luoshuyao/status/2049145484921758038/photo/1",
+              "media_key": "3_2049141459086086144",
+              "start": 107,
+              "url": "https://t.co/uf3V8GFLYx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049145484921758038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我妈今天又来找我借钱了。才四月份已经借出去上万了，现在还有8000块钱在别人手里。我也不是什么有钱人，借出去自己也没多少钱了。\n以前上学的时候我妈一给我打电话就是讲学习，现在工作了一联系我就是谈钱。我真的不理解。\n什么事都找我借钱，还不起钱了找我，弟弟学费不够找我，自己没钱用了也找我，哥哥欠银行钱还要我付钱垫上，明明他一月份还找我借了一千块钱现在还没还。\n他们一找我借钱就是以千为单位，还起来就是无限期。\n我妈去年还找我借了8000块钱还别人钱，直到年底了我说要买电脑才还我钱。我哥更狠，我还在上大学就好意思借我的生活费。\n我真的不知道我上班赚钱是为什么。为什么什么事都要拉我垫背。为什么他欠着钱还能活得那么潇洒，我有钱也不会花。就是因为我听话懂事吗？所以什么事情都压在我一个人身上。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 393,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我妈今天又来找我借钱了。才四月份已经借出去上万了，现在还有8000块钱在别人手里。我也不是什么有钱人，借出去自己也没多少钱了。\n以前上学的时候我妈一给我打电话就是讲学习，现在工作了一联系我就是谈钱。我真的不理解。 https://t.co/uf3V8GFLYx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 675,
+          "like_count": 11247,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 2269
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 283,
+          "like_count": 12009,
+          "listed_count": 2,
+          "media_count": 234,
+          "tweet_count": 2686
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

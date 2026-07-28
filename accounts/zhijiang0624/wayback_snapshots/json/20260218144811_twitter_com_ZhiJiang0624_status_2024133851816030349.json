@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2024130297374130213",
+    "created_at": "2026-02-18T14:48:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T15:48:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024133851816030349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1756299745583419392",
+          "start": 0,
+          "username": "1030n1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024133851816030349",
+    "in_reply_to_user_id": "1756299745583419392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024130297374130213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1030n1 火锅店或者烤串的应该还在"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2024130297374130213",
+        "created_at": "2026-02-18T14:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T15:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024133851816030349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1756299745583419392",
+              "start": 0,
+              "username": "1030n1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024133851816030349",
+        "in_reply_to_user_id": "1756299745583419392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024130297374130213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1030n1 火锅店或者烤串的应该还在"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756299745583419392",
+        "conversation_id": "2024130297374130213",
+        "created_at": "2026-02-18T14:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T15:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024130297374130213"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024130297374130213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个点出去我还能找到吃的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 420,
+          "like_count": 3521,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1224
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T12:51:18.000Z",
+        "description": "日常 | 非常平平无奇的宅女躺平（暂时）生活  上推只为发泄个人情绪 不聊天也不聊黄很烦别人找我聊天（女孩子除外）",
+        "id": "1756299745583419392",
+        "name": "riko",
+        "pinned_tweet_id": "2019240636730470547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011569627755921408/Amo0ewJk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 75,
+          "like_count": 1935,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 1128
+        },
+        "username": "1030n1",
+        "verified": false
+      }
+    ]
+  }
+}

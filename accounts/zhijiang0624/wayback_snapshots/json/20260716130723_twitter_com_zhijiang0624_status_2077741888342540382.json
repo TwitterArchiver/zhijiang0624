@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077741854003761152"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "conversation_id": "1987429432370602013",
+    "created_at": "2026-07-16T13:07:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T14:07:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077741888342540382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1038388973670789120",
+          "start": 0,
+          "username": "MinamiyaNagiya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jSyHRF0zeF",
+          "end": 53,
+          "expanded_url": "https://x.com/zhijiang0624/status/2077741888342540382/photo/1",
+          "media_key": "3_2077741854003761152",
+          "start": 30,
+          "url": "https://t.co/jSyHRF0zeF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077741888342540382",
+    "in_reply_to_user_id": "1038388973670789120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987429432370602013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MinamiyaNagiya 时隔多年，网友还是没放过你 https://t.co/jSyHRF0zeF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1512,
+        "media_key": "3_2077741854003761152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWfNTbbEAAxYFa.jpg",
+        "width": 1440
+      },
+      {
+        "height": 4080,
+        "media_key": "3_1987428823223455744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5TD_CCbUAAhGQp.jpg",
+        "width": 3060
+      },
+      {
+        "height": 4080,
+        "media_key": "3_1987428823227637764",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5TD_CDbIAQ2DvM.jpg",
+        "width": 3060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077741854003761152"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "conversation_id": "1987429432370602013",
+        "created_at": "2026-07-16T13:07:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077741888342540382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1038388973670789120",
+              "start": 0,
+              "username": "MinamiyaNagiya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jSyHRF0zeF",
+              "end": 53,
+              "expanded_url": "https://x.com/zhijiang0624/status/2077741888342540382/photo/1",
+              "media_key": "3_2077741854003761152",
+              "start": 30,
+              "url": "https://t.co/jSyHRF0zeF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077741888342540382",
+        "in_reply_to_user_id": "1038388973670789120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987429432370602013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinamiyaNagiya 时隔多年，网友还是没放过你 https://t.co/jSyHRF0zeF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987428823223455744",
+            "3_1987428823227637764"
+          ]
+        },
+        "author_id": "1038388973670789120",
+        "conversation_id": "1987429432370602013",
+        "created_at": "2025-11-09T07:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T08:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987429432370602013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fKAspy98zN",
+              "end": 96,
+              "expanded_url": "https://x.com/MinamiyaNagiya/status/1987429432370602013/photo/1",
+              "media_key": "3_1987428823223455744",
+              "start": 73,
+              "url": "https://t.co/fKAspy98zN"
+            },
+            {
+              "display_url": "pic.x.com/fKAspy98zN",
+              "end": 96,
+              "expanded_url": "https://x.com/MinamiyaNagiya/status/1987429432370602013/photo/1",
+              "media_key": "3_1987428823227637764",
+              "start": 73,
+              "url": "https://t.co/fKAspy98zN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987429432370602013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 37362,
+          "like_count": 306,
+          "quote_count": 0,
+          "reply_count": 42,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "再说我这是后背我捅死你们😡，没看见锁骨吗没看见锁骨吗没看见锁骨吗，哥们胸小点怎么了胸小点怎么了小点怎么了，捅死你们捅死你们捅死你们捅死你们🔪🔪🔪 https://t.co/fKAspy98zN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 761,
+          "like_count": 13591,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 2725
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-08T11:29:58.000Z",
+        "description": "不含糖不线下不互推不接诈骗推广不爱🇨🇳的别关注我丨讨厌AI图❌丨十分记仇，不友跨也不反跨，只雷低龄傻逼等非正常人丨cos是兴趣，门槛图包只是为了减轻玩cos的经济负担请理性消费丨梦想和所有遇到的美少女互fo丨🚪25送两个图包2选1丨最爱的妹妹@cici20120712，小号@Nagiya_Nya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "cici20120712"
+              },
+              {
+                "end": 148,
+                "start": 137,
+                "username": "Nagiya_Nya"
+              }
+            ]
+          }
+        },
+        "id": "1038388973670789120",
+        "location": "China",
+        "name": "凪夜Nagiya",
+        "pinned_tweet_id": "1847737690156065079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976204541663358976/l4zL1pRr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35802,
+          "following_count": 3472,
+          "like_count": 50434,
+          "listed_count": 128,
+          "media_count": 716,
+          "tweet_count": 19868
+        },
+        "url": "",
+        "username": "MinamiyaNagiya",
+        "verified": false
+      }
+    ]
+  }
+}

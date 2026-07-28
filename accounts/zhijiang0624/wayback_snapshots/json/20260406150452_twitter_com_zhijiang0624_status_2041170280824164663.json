@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2041167506627506275",
+    "created_at": "2026-04-06T15:04:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T16:04:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041170280824164663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2041166900621918209",
+          "start": 0,
+          "username": "shachongjime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041170280824164663",
+    "in_reply_to_user_id": "2041166900621918209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041167506627506275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shachongjime 很漂亮啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6966,
+        "height": 1280,
+        "media_key": "13_2041167444082049024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041167444082049024/img/bKM1jdDv8eI-uEkc.jpg",
+        "public_metrics": {
+          "view_count": 61
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041167444082049024/vid/avc1/320x568/ByTonzXHBkjDGQIN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041167444082049024/vid/avc1/480x852/kif-xAtev_hCV-Gq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041167444082049024/vid/avc1/720x1280/grZtVF2EmHAe9nbV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041167444082049024/pl/sIPyEdFgnH9LI9A_.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2041167506627506275",
+        "created_at": "2026-04-06T15:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041170280824164663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041166900621918209",
+              "start": 0,
+              "username": "shachongjime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041170280824164663",
+        "in_reply_to_user_id": "2041166900621918209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041167506627506275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shachongjime 很漂亮啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041167444082049024"
+          ]
+        },
+        "author_id": "2041166900621918209",
+        "conversation_id": "2041167506627506275",
+        "created_at": "2026-04-06T14:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T15:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041167506627506275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Odm1PoKVhS",
+              "end": 34,
+              "expanded_url": "https://x.com/shachongjime/status/2041167506627506275/video/1",
+              "media_key": "13_2041167444082049024",
+              "start": 11,
+              "url": "https://t.co/Odm1PoKVhS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041167506627506275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 277,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "天天就捣鼓这点破头发 https://t.co/Odm1PoKVhS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 653,
+          "like_count": 9734,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 2054
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T14:52:11.000Z",
+        "description": "",
+        "id": "2041166900621918209",
+        "name": "杀虫剂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041167225151979520/Xj1SWbE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 8,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "shachongjime",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2030622779788480823",
+    "created_at": "2026-03-08T13:51:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T14:51:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030642536122081726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2001714721330991109",
+          "start": 0,
+          "username": "Ravenxux"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030642536122081726",
+    "in_reply_to_user_id": "2001714721330991109",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030622779788480823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ravenxux 是\n小腿被烫伤\n伤口处理不当化脓发烂了\n夏天一到掀开创可贴就有一股臭味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2030622779788480823",
+        "created_at": "2026-03-08T13:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T14:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030642536122081726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2001714721330991109",
+              "start": 0,
+              "username": "Ravenxux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030642536122081726",
+        "in_reply_to_user_id": "2001714721330991109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030622779788480823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ravenxux 是\n小腿被烫伤\n伤口处理不当化脓发烂了\n夏天一到掀开创可贴就有一股臭味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001714721330991109",
+        "conversation_id": "2030622779788480823",
+        "created_at": "2026-03-08T12:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T13:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030622779788480823"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030622779788480823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 354,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "受伤之后用创可贴贴住 很久之后再掀开创可贴 闻一下伤口那个味道 是腐肉的味道吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 586,
+          "like_count": 7605,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1799
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T18:02:42.000Z",
+        "description": "女大学生 这是我的垃圾桶 啥都扔 不约 不聊天 暂时不加好友 骂我惹我会变得倒霉",
+        "id": "2001714721330991109",
+        "name": "Raven",
+        "pinned_tweet_id": "2024917928970215784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001715199091548160/mGxVxuCh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5442,
+          "following_count": 31,
+          "like_count": 2259,
+          "listed_count": 14,
+          "media_count": 80,
+          "tweet_count": 561
+        },
+        "username": "Ravenxux",
+        "verified": false
+      }
+    ]
+  }
+}

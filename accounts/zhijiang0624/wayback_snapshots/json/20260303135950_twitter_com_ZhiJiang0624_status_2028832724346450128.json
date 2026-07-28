@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2028823625894343116",
+    "created_at": "2026-03-03T13:59:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T14:59:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028832724346450128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1989965282799226880",
+          "start": 0,
+          "username": "DQadopt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028832724346450128",
+    "in_reply_to_user_id": "1989965282799226880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028823625894343116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DQadopt 好好清理……\n记得消毒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028823609700208641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCfUUugbUAEjWUk.jpg",
+        "width": 1446
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028823609519788033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCfUUt1aUAEGJO_.jpg",
+        "width": 1666
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2028823625894343116",
+        "created_at": "2026-03-03T13:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T14:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028832724346450128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028832724346450128",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028823625894343116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 好好清理……\n记得消毒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028823609700208641",
+            "3_2028823609519788033"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2028823625894343116",
+        "created_at": "2026-03-03T13:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T14:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028823625894343116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/myXbMAtviU",
+              "end": 158,
+              "expanded_url": "https://x.com/DQadopt/status/2028823625894343116/photo/1",
+              "media_key": "3_2028823609700208641",
+              "start": 135,
+              "url": "https://t.co/myXbMAtviU"
+            },
+            {
+              "display_url": "pic.x.com/myXbMAtviU",
+              "end": 158,
+              "expanded_url": "https://x.com/DQadopt/status/2028823625894343116/photo/1",
+              "media_key": "3_2028823609519788033",
+              "start": 135,
+              "url": "https://t.co/myXbMAtviU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028823625894343116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 623,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "先割后放血，刀片在肉里游走的感觉舒服极了，今天晚上真不开心啊，刷到前女友，又被喜欢的小鸟不耐烦了，不过能大方表达出来的小鸟她真是好啊\n一切都是我的问题吧，如果我足够优秀强大我的每个女朋友是不是就不会伤害并抛弃我了？如果我今晚能再洞悉小鸟的心思，是不是她就不会不耐烦了？ https://t.co/myXbMAtviU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 514,
+          "like_count": 5110,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1514
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 151,
+          "like_count": 781,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 1043
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

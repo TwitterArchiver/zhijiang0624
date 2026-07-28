@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077743618132250624"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "conversation_id": "2070236763923357929",
+    "created_at": "2026-07-16T13:14:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T14:14:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077743628211060844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1419927836085800960",
+          "start": 0,
+          "username": "lingboyu47"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IsnxTi6n0A",
+          "end": 43,
+          "expanded_url": "https://x.com/zhijiang0624/status/2077743628211060844/photo/1",
+          "media_key": "3_2077743618132250624",
+          "start": 20,
+          "url": "https://t.co/IsnxTi6n0A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077743628211060844",
+    "in_reply_to_user_id": "1419927836085800960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070236763923357929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingboyu47 经典咏流传说是 https://t.co/IsnxTi6n0A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1512,
+        "media_key": "3_2077743618132250624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWgz_UbkAAMv-w.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070236429725413376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLr1EHLbMAAtoAZ.jpg",
+        "width": 1982
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077743618132250624"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "conversation_id": "2070236763923357929",
+        "created_at": "2026-07-16T13:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077743628211060844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1419927836085800960",
+              "start": 0,
+              "username": "lingboyu47"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IsnxTi6n0A",
+              "end": 43,
+              "expanded_url": "https://x.com/zhijiang0624/status/2077743628211060844/photo/1",
+              "media_key": "3_2077743618132250624",
+              "start": 20,
+              "url": "https://t.co/IsnxTi6n0A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077743628211060844",
+        "in_reply_to_user_id": "1419927836085800960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070236763923357929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingboyu47 经典咏流传说是 https://t.co/IsnxTi6n0A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070236429725413376"
+          ]
+        },
+        "author_id": "1419927836085800960",
+        "conversation_id": "2070236763923357929",
+        "created_at": "2026-06-25T20:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T21:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070236763923357929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mZdbqgHVTz",
+              "end": 47,
+              "expanded_url": "https://x.com/lingboyu47/status/2070236763923357929/photo/1",
+              "media_key": "3_2070236429725413376",
+              "start": 24,
+              "url": "https://t.co/mZdbqgHVTz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070236763923357929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 4804,
+          "like_count": 91,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "听说有人管这叫阿尔卑斯……那么这会是原味的吗🤔 https://t.co/mZdbqgHVTz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 761,
+          "like_count": 13591,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 2726
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-27T07:50:05.000Z",
+        "description": "不善营业的卿叶\n偶尔会去漫展玩，不约不线下不涩涩不卖图包\n推特唯一小号：@lingxiao47",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "lingxiao47"
+              }
+            ]
+          }
+        },
+        "id": "1419927836085800960",
+        "location": "霍克斯Ⅳ",
+        "name": "叶子情人特调",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987753474411651072/IVU3NynL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5771,
+          "following_count": 147,
+          "like_count": 1319,
+          "listed_count": 21,
+          "media_count": 133,
+          "tweet_count": 572
+        },
+        "url": "",
+        "username": "lingboyu47",
+        "verified": false
+      }
+    ]
+  }
+}

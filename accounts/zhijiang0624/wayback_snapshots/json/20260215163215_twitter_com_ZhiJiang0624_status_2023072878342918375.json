@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2022980902939463846",
+    "created_at": "2026-02-15T16:32:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T17:32:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023072878342918375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1528686026608508929",
+          "start": 0,
+          "username": "AfraZ779"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023072878342918375",
+    "in_reply_to_user_id": "1528686026608508929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022980902939463846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AfraZ779 除夕快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2022980902939463846",
+        "created_at": "2026-02-15T16:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T17:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023072878342918375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1528686026608508929",
+              "start": 0,
+              "username": "AfraZ779"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023072878342918375",
+        "in_reply_to_user_id": "1528686026608508929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022980902939463846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AfraZ779 除夕快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528686026608508929",
+        "conversation_id": "2022980902939463846",
+        "created_at": "2026-02-15T10:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T11:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022980902939463846"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022980902939463846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3308,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "难道是夹腿过多后遗症？\n内裤一直都是湿湿的，哪怕我的排卵期已经过去了\n上次看到有人说夹腿多了就容易下面湿湿的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 320,
+          "like_count": 2737,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 913
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-23T10:35:47.000Z",
+        "description": "小狗日记 ✘ 享受当下 https://t.co/rxjoIgPOYt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/afraz799",
+                "end": 35,
+                "expanded_url": "https://ngl.link/afraz799",
+                "start": 12,
+                "url": "https://t.co/rxjoIgPOYt"
+              }
+            ]
+          }
+        },
+        "id": "1528686026608508929",
+        "location": "超级碎碎念",
+        "name": "AfraZ",
+        "pinned_tweet_id": "2020919003968045286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857002852989775872/dj8NYFiG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1260,
+          "following_count": 65,
+          "like_count": 315,
+          "listed_count": 6,
+          "media_count": 279,
+          "tweet_count": 911
+        },
+        "username": "AfraZ779",
+        "verified": false
+      }
+    ]
+  }
+}

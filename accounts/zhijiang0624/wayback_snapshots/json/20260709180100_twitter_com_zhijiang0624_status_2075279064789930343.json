@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2075279064789930343",
+    "created_at": "2026-07-09T18:01:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T19:01:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075279064789930343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1991711672684421121",
+          "start": 3,
+          "username": "pearl0812lucky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075279064789930343",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 358
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075027430390317223",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pearl0812lucky: 如果早点认识你就好了，在你小的时候，在你第一次难过的时候，在你第一次特别需要陪伴的时候，在你最需要爱的时候"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2075279064789930343",
+        "created_at": "2026-07-09T18:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T19:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075279064789930343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1991711672684421121",
+              "start": 3,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075279064789930343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 358
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075027430390317223",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pearl0812lucky: 如果早点认识你就好了，在你小的时候，在你第一次难过的时候，在你第一次特别需要陪伴的时候，在你最需要爱的时候"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2075027430390317223",
+        "created_at": "2026-07-09T01:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T02:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075027430390317223"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075027430390317223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 52634,
+          "like_count": 1859,
+          "quote_count": 29,
+          "reply_count": 95,
+          "retweet_count": 358
+        },
+        "reply_settings": "everyone",
+        "text": "如果早点认识你就好了，在你小的时候，在你第一次难过的时候，在你第一次特别需要陪伴的时候，在你最需要爱的时候"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 751,
+          "like_count": 13418,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 2701
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10395,
+          "following_count": 72,
+          "like_count": 8782,
+          "listed_count": 8,
+          "media_count": 191,
+          "tweet_count": 2056
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2022696295442583833",
+    "created_at": "2026-02-14T15:38:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T16:38:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022696968716423653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2014799643159494658",
+          "start": 0,
+          "username": "qiqin239298"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022696968716423653",
+    "in_reply_to_user_id": "2014799643159494658",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022696295442583833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiqin239298 打金铲铲，虽然我对这种类型的游戏确实没什么兴趣，不过不得不承认边打金铲铲边看番真的很能消磨时间"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2022696295442583833",
+        "created_at": "2026-02-14T15:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T16:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022696968716423653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2014799643159494658",
+              "start": 0,
+              "username": "qiqin239298"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022696968716423653",
+        "in_reply_to_user_id": "2014799643159494658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022696295442583833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiqin239298 打金铲铲，虽然我对这种类型的游戏确实没什么兴趣，不过不得不承认边打金铲铲边看番真的很能消磨时间"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014799643159494658",
+        "conversation_id": "2022696295442583833",
+        "created_at": "2026-02-14T15:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T16:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022696295442583833"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022696295442583833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道做什么事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 298,
+          "like_count": 2416,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 788
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-23T20:37:34.000Z",
+        "description": "08| Ftx 精神病|hsp 无害无需清洗可即食 od|sh|ed ht160 cw39 gw36 自毁倾向 社交障碍 休学 除非被吞了看不到基本都会回",
+        "id": "2014799643159494658",
+        "location": "可口美味的小衍",
+        "name": "反流性食管炎",
+        "pinned_tweet_id": "2020003072748216343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017542698757197824/Y9J32OS-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 155,
+          "like_count": 3189,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 338
+        },
+        "username": "qiqin239298",
+        "verified": false
+      }
+    ]
+  }
+}

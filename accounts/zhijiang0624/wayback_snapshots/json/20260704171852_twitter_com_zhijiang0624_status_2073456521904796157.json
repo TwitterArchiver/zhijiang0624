@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2069947230908448794",
+    "created_at": "2026-07-04T17:18:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T18:18:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073456521904796157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1423527896644087809",
+          "start": 0,
+          "username": "ruowq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073456521904796157",
+    "in_reply_to_user_id": "1423527896644087809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069947230908448794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruowq 在前一天洗了衣服原来还能这样解释吗，真是神奇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2069947230908448794",
+        "created_at": "2026-07-04T17:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073456521904796157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1423527896644087809",
+              "start": 0,
+              "username": "ruowq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073456521904796157",
+        "in_reply_to_user_id": "1423527896644087809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069947230908448794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruowq 在前一天洗了衣服原来还能这样解释吗，真是神奇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1423527896644087809",
+        "conversation_id": "2069947230908448794",
+        "created_at": "2026-06-25T00:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T01:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069947230908448794"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069947230908448794",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 851,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨日の自分洗濯してくれてて神"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 725,
+          "like_count": 12991,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 2646
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-06T06:14:40.000Z",
+        "description": "05神奈川",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/rnclv",
+                "end": 23,
+                "expanded_url": "https://lit.link/rnclv",
+                "start": 0,
+                "url": "https://t.co/G6mC6r0So2"
+              }
+            ]
+          }
+        },
+        "id": "1423527896644087809",
+        "location": "動画販売してます♩",
+        "name": "りうぅぅ",
+        "pinned_tweet_id": "2069692503104868867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067465219136466944/mBC3-PQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2350,
+          "following_count": 200,
+          "like_count": 116037,
+          "listed_count": 7,
+          "media_count": 2479,
+          "tweet_count": 35250
+        },
+        "url": "https://t.co/G6mC6r0So2",
+        "username": "ruowq",
+        "verified": false
+      }
+    ]
+  }
+}

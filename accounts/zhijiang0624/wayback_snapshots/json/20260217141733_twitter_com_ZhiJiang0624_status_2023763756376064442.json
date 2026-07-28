@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2020731526686900362",
+    "created_at": "2026-02-17T14:17:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T15:17:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023763756376064442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1421851995355369477",
+          "start": 0,
+          "username": "Aichijiandanxyz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023763756376064442",
+    "in_reply_to_user_id": "1421851995355369477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020731526686900362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aichijiandanxyz 老乡好厉害"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2020731526686900362",
+        "created_at": "2026-02-17T14:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T15:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023763756376064442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1421851995355369477",
+              "start": 0,
+              "username": "Aichijiandanxyz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023763756376064442",
+        "in_reply_to_user_id": "1421851995355369477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020731526686900362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aichijiandanxyz 老乡好厉害"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1421851995355369477",
+        "conversation_id": "2020731526686900362",
+        "created_at": "2026-02-09T05:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T06:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020731526686900362"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020731526686900362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8173,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "能不能别冤枉我，我从来没立过什么人设说我是北京人，在北京上学而已我也没觉得自己多了不起，有点小厉害吧，四川农村妹凭自己本事能去北京读书。\n我很爱四川也很开心自己是四川人啊，在北京的每一天都想回家，这个没有美食打车超级贵通勤特别长消费特别高很多灰尘的城市，我发推提到北京也很正常吧🤷🏻‍♀️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 409,
+          "like_count": 3317,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1163
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-01T15:15:33.000Z",
+        "description": "思维补丁，本体是🥚\n@eggyyybaby\n#煎蛋不想说话就唱歌吧\n#蛋喘",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 22,
+                "tag": "煎蛋不想说话就唱歌吧"
+              },
+              {
+                "end": 37,
+                "start": 34,
+                "tag": "蛋喘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "eggyyybaby"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cmespeed.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://cmespeed.com/#/register?code=qnpQSfop",
+                "start": 0,
+                "url": "https://t.co/NEXqoJ99mw"
+              }
+            ]
+          }
+        },
+        "id": "1421851995355369477",
+        "location": "🍳🪜→",
+        "name": "煎蛋棉被",
+        "pinned_tweet_id": "1844974218825400809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922277650879676418/p7_qBFWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20429,
+          "following_count": 328,
+          "like_count": 161491,
+          "listed_count": 58,
+          "media_count": 8015,
+          "tweet_count": 75821
+        },
+        "url": "https://t.co/NEXqoJ99mw",
+        "username": "Aichijiandanxyz",
+        "verified": false
+      }
+    ]
+  }
+}

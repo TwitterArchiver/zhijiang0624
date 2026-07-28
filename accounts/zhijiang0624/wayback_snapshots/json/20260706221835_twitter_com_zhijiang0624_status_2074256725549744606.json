@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2074179904393093268",
+    "created_at": "2026-07-06T22:18:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T23:18:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074256725549744606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2026954721601462272",
+          "start": 0,
+          "username": "whxsa11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074256725549744606",
+    "in_reply_to_user_id": "2026954721601462272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074179904393093268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whxsa11 那很好了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2074179904393093268].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2074179904393093268",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2074179904393093268"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2074179904393093268",
+        "created_at": "2026-07-06T22:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T23:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074256725549744606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2026954721601462272",
+              "start": 0,
+              "username": "whxsa11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074256725549744606",
+        "in_reply_to_user_id": "2026954721601462272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074179904393093268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whxsa11 那很好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 729,
+          "like_count": 13110,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 2663
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-26T09:37:32.000Z",
+        "description": "再见了",
+        "id": "2026954721601462272",
+        "name": "她不想死她也想去巴黎",
+        "pinned_tweet_id": "2073810161538679069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073079103343734784/Wa7e_Zzd_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 8,
+          "like_count": 250,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 317
+        },
+        "url": "",
+        "username": "whxsa11",
+        "verified": false
+      }
+    ]
+  }
+}

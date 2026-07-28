@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2017553473596956890",
+    "created_at": "2026-02-01T07:48:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T08:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017867613502902681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1796135976898895872",
+          "start": 0,
+          "username": "nwqllxq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017867613502902681",
+    "in_reply_to_user_id": "1796135976898895872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017553473596956890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nwqllxq クールに見える"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2017553456354234368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G__KLdlbEAAr2_u.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2017553473596956890",
+        "created_at": "2026-02-01T07:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T08:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017867613502902681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1796135976898895872",
+              "start": 0,
+              "username": "nwqllxq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017867613502902681",
+        "in_reply_to_user_id": "1796135976898895872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017553473596956890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nwqllxq クールに見える"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017553456354234368"
+          ]
+        },
+        "author_id": "1796135976898895872",
+        "conversation_id": "2017553473596956890",
+        "created_at": "2026-01-31T11:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T12:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017553473596956890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/17zIrBx4Ma",
+              "end": 38,
+              "expanded_url": "https://x.com/nwqllxq/status/2017553473596956890/photo/1",
+              "media_key": "3_2017553456354234368",
+              "start": 15,
+              "url": "https://t.co/17zIrBx4Ma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017553473596956890",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 773,
+          "impression_count": 149891,
+          "like_count": 13083,
+          "quote_count": 34,
+          "reply_count": 323,
+          "retweet_count": 367
+        },
+        "reply_settings": "everyone",
+        "text": "21歳でツインテールはあり？ https://t.co/17zIrBx4Ma"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "你他妈的到底是谁？！莫名其妙跑到我的脑子里来做些莫名其妙的事！草你妈杀了你！",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 353,
+          "like_count": 1765,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 642
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-30T11:06:15.000Z",
+        "description": "コスプレ┊︎身長172cm┊︎Twitch┊︎ サブ垢@geraneki_ ┊︎ファンティア➡️ https://t.co/6ZQqL2a2UK ┊︎ お仕事のご依頼はこちらで→gerarin.info@gmail.com ┊︎ 各SNSは下記リンクから飛べます",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "geraneki_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fantia.jp/fanclubs/530718",
+                "end": 72,
+                "expanded_url": "https://fantia.jp/fanclubs/530718",
+                "start": 49,
+                "url": "https://t.co/6ZQqL2a2UK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/gerarin",
+                "end": 23,
+                "expanded_url": "https://lit.link/gerarin",
+                "start": 0,
+                "url": "https://t.co/hB5XClJmHD"
+              }
+            ]
+          }
+        },
+        "id": "1796135976898895872",
+        "name": "げらりん",
+        "pinned_tweet_id": "2000245064820531451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999505735793913857/aMHNLZ-N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208814,
+          "following_count": 74,
+          "like_count": 987,
+          "listed_count": 592,
+          "media_count": 341,
+          "tweet_count": 1401
+        },
+        "url": "https://t.co/hB5XClJmHD",
+        "username": "nwqllxq",
+        "verified": true
+      }
+    ]
+  }
+}

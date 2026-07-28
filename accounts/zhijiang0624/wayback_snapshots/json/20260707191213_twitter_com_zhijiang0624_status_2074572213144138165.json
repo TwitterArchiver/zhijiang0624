@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "1947917734375002374",
+    "created_at": "2026-07-07T19:12:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T20:12:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074572213144138165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1859994685458239488",
+          "start": 0,
+          "username": "pu_xin68339"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074572213144138165",
+    "in_reply_to_user_id": "1859994685458239488",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947917734375002374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pu_xin68339 ？？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "1947917734375002374",
+        "created_at": "2026-07-07T19:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T20:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074572213144138165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1859994685458239488",
+              "start": 0,
+              "username": "pu_xin68339"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074572213144138165",
+        "in_reply_to_user_id": "1859994685458239488",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947917734375002374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pu_xin68339 ？？？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859994685458239488",
+        "conversation_id": "1947917734375002374",
+        "created_at": "2025-07-23T07:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T08:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947917734375002374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "upsn1.4619.xyz",
+              "end": 23,
+              "expanded_url": "https://upsn1.4619.xyz/",
+              "start": 0,
+              "unwound_url": "https://upsn1.4619.xyz/",
+              "url": "https://t.co/nNe9Yo6PzS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947917734375002374",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 706,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nNe9Yo6PzS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 734,
+          "like_count": 13207,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 2670
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-22T16:17:52.000Z",
+        "description": "此X记录我的日常吐槽及疑惑",
+        "id": "1859994685458239488",
+        "name": "林达",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041383814908583936/omsu8DHm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 19,
+          "like_count": 223,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 740
+        },
+        "url": "",
+        "username": "pu_xin68339",
+        "verified": false
+      }
+    ]
+  }
+}

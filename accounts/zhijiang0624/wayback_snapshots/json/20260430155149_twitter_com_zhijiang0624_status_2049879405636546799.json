@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2049876762809794705",
+    "created_at": "2026-04-30T15:51:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T16:51:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049879405636546799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1634944403872833536",
+          "start": 0,
+          "username": "wmy072011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049879405636546799",
+    "in_reply_to_user_id": "1634944403872833536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049876762809794705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wmy072011 已经很牛逼了\n我已经看都看不懂这是什么了\n密密麻麻得好可怕我靠"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2049876710506852352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHKgAesbcAA9i14.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2049876762809794705",
+        "created_at": "2026-04-30T15:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049879405636546799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1634944403872833536",
+              "start": 0,
+              "username": "wmy072011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049879405636546799",
+        "in_reply_to_user_id": "1634944403872833536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049876762809794705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmy072011 已经很牛逼了\n我已经看都看不懂这是什么了\n密密麻麻得好可怕我靠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049876710506852352"
+          ]
+        },
+        "author_id": "1634944403872833536",
+        "conversation_id": "2049876762809794705",
+        "created_at": "2026-04-30T15:41:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049876762809794705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dg5qxffWEa",
+              "end": 127,
+              "expanded_url": "https://x.com/wmy072011/status/2049876762809794705/photo/1",
+              "media_key": "3_2049876710506852352",
+              "start": 104,
+              "url": "https://t.co/Dg5qxffWEa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049876762809794705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好可惜。这个题我过程都是对的 但是到169/12这里我就以为要把数算出来 不能用分数 我除了好久发现除不尽 然后我就约等于了 我靠。气死了 原来直接写分数就行 我真的要哭了 难得第一次能把一道题完整地写下来 https://t.co/Dg5qxffWEa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 679,
+          "like_count": 11352,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 2293
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T15:48:24.000Z",
+        "description": "希望明天过的顺利",
+        "id": "1634944403872833536",
+        "name": "十二点",
+        "pinned_tweet_id": "2034682318695407936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808798311559929856/zxLxGTxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1223,
+          "following_count": 344,
+          "like_count": 40600,
+          "listed_count": 1,
+          "media_count": 1401,
+          "tweet_count": 13324
+        },
+        "username": "wmy072011",
+        "verified": false
+      }
+    ]
+  }
+}

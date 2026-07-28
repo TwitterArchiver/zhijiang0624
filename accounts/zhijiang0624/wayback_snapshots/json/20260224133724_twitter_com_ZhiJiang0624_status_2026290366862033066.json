@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2026259725499986090",
+    "created_at": "2026-02-24T13:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T14:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026290366862033066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2009620713460887553",
+          "start": 0,
+          "username": "HujiaoFen_sad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026290366862033066",
+    "in_reply_to_user_id": "2009620713460887553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026259725499986090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HujiaoFen_sad 图穷匕见了属于是"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026259723172081665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB64e45acAESrq-.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2026259725499986090",
+        "created_at": "2026-02-24T13:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T14:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026290366862033066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2009620713460887553",
+              "start": 0,
+              "username": "HujiaoFen_sad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026290366862033066",
+        "in_reply_to_user_id": "2009620713460887553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026259725499986090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HujiaoFen_sad 图穷匕见了属于是"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026259723172081665"
+          ]
+        },
+        "author_id": "2009620713460887553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026259725499986090",
+        "created_at": "2026-02-24T11:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T12:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026259725499986090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z1kk1uURuw",
+              "end": 23,
+              "expanded_url": "https://x.com/HujiaoFen_sad/status/2026259725499986090/photo/1",
+              "media_key": "3_2026259723172081665",
+              "start": 0,
+              "url": "https://t.co/Z1kk1uURuw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026259725499986090",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1354,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Z1kk1uURuw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 459,
+          "like_count": 3963,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1352
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T13:43:28.000Z",
+        "description": "无聊……我要看到血流成河\n🚪38 重度抑郁/LGBT友好/男の娘/自伤/平常都会回私信，我是个很温良的小男孩呀请来过我门槛谢谢泥૮ o̴̶̷᷄ ·̫ o̴̶̷̥᷅ ა",
+        "id": "2009620713460887553",
+        "location": "广东省",
+        "name": "我为你撑起蓝色雨伞",
+        "pinned_tweet_id": "2021651507595379051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017126866835169280/V_t4SvIS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 214,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 332
+        },
+        "username": "HujiaoFen_sad",
+        "verified": false
+      }
+    ]
+  }
+}

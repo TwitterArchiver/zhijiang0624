@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2072692810856427553",
+    "created_at": "2026-07-03T22:02:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T23:02:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073165513585516787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1845095784292941824",
+          "start": 0,
+          "username": "qims346179"
+        },
+        {
+          "end": 20,
+          "id": "2026954721601462272",
+          "start": 12,
+          "username": "whxsa11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073165513585516787",
+    "in_reply_to_user_id": "1845095784292941824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072966276125974646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qims346179 @whxsa11 我没招了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072966263220174848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSn1VabgAACwyj.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2072692810856427553",
+        "created_at": "2026-07-03T22:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T23:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073165513585516787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1845095784292941824",
+              "start": 0,
+              "username": "qims346179"
+            },
+            {
+              "end": 20,
+              "id": "2026954721601462272",
+              "start": 12,
+              "username": "whxsa11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073165513585516787",
+        "in_reply_to_user_id": "1845095784292941824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072966276125974646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qims346179 @whxsa11 我没招了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072966263220174848"
+          ]
+        },
+        "author_id": "1845095784292941824",
+        "conversation_id": "2072692810856427553",
+        "created_at": "2026-07-03T08:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T09:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072966276125974646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "zhijiang0624"
+            },
+            {
+              "end": 22,
+              "id": "2026954721601462272",
+              "start": 14,
+              "username": "whxsa11"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZFyfp9c42q",
+              "end": 57,
+              "expanded_url": "https://x.com/qims346179/status/2072966276125974646/photo/1",
+              "media_key": "3_2072966263220174848",
+              "start": 34,
+              "url": "https://t.co/ZFyfp9c42q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072966276125974646",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072706124198125836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhijiang0624 @whxsa11 你在抖音火了知道吗？ https://t.co/ZFyfp9c42q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 722,
+          "like_count": 12883,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 2633
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T13:34:57.000Z",
+        "description": "",
+        "id": "1845095784292941824",
+        "name": "秋木苏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845095819336466432/eD4Xkpdo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 13,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "qims346179",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-26T09:37:32.000Z",
+        "description": "那你去死啊别烦我",
+        "id": "2026954721601462272",
+        "location": "赶紧给我滚",
+        "name": "赶紧给我滚远点",
+        "pinned_tweet_id": "2072693697557536854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073079103343734784/Wa7e_Zzd_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 8,
+          "like_count": 239,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 296
+        },
+        "url": "",
+        "username": "whxsa11",
+        "verified": false
+      }
+    ]
+  }
+}

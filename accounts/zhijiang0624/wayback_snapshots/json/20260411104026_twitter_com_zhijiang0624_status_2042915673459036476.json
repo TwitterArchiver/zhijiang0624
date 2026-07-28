@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2042524206416695481",
+    "created_at": "2026-04-11T10:40:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T11:40:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042915673459036476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2027346225893404673",
+          "start": 0,
+          "username": "JDollyshit7786"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042915673459036476",
+    "in_reply_to_user_id": "2027346225893404673",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042915424371904526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JDollyshit7786 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2042524206416695481",
+        "created_at": "2026-04-11T10:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042915673459036476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2027346225893404673",
+              "start": 0,
+              "username": "JDollyshit7786"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042915673459036476",
+        "in_reply_to_user_id": "2027346225893404673",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042915424371904526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JDollyshit7786 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027346225893404673",
+        "conversation_id": "2042524206416695481",
+        "created_at": "2026-04-11T10:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042915424371904526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "zhijiang0624"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042915424371904526",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042915141512286493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhijiang0624 我有个朋友看了你这个话很不舒服，你删除吧，不然他就要干死我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 658,
+          "like_count": 10289,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 2143
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T11:33:12.000Z",
+        "description": "我想我们都是这个世界的溺水者，每个人都拼了命想爬上对岸，如果我先爬上去，就一定拼了命拉你上来，如果你能爬上去就替我去看看阳光与花/纯原创/无ai",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/momo48425",
+                "end": 23,
+                "expanded_url": "https://ngl.link/momo48425",
+                "start": 0,
+                "url": "https://t.co/EMXtIejyO4"
+              }
+            ]
+          }
+        },
+        "id": "2027346225893404673",
+        "location": "墓园",
+        "name": "阿撒托斯",
+        "pinned_tweet_id": "2042508537927209333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042158482053640192/TXTrVIha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 71,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 836
+        },
+        "url": "https://t.co/EMXtIejyO4",
+        "username": "JDollyshit7786",
+        "verified": false
+      }
+    ]
+  }
+}

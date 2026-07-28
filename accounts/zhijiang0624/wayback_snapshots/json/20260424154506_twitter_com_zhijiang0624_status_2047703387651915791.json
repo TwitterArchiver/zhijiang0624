@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2047684655869255870",
+    "created_at": "2026-04-24T15:45:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T16:45:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047703387651915791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1739391734491086848",
+          "start": 0,
+          "username": "IXXA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047703387651915791",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047684655869255870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IXXA00 主播一起来打鸣潮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047684639695986688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrWVKkaYAAp3lJ.jpg",
+        "width": 1370
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2047684655869255870",
+        "created_at": "2026-04-24T15:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047703387651915791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047703387651915791",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047684655869255870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 主播一起来打鸣潮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047684639695986688"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "2047684655869255870",
+        "created_at": "2026-04-24T14:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047684655869255870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/quGXveNYUQ",
+              "end": 49,
+              "expanded_url": "https://x.com/IXXA00/status/2047684655869255870/photo/1",
+              "media_key": "3_2047684639695986688",
+              "start": 26,
+              "url": "https://t.co/quGXveNYUQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047684655869255870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 267,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "驻波在拍这种照片的时候，一般不该有的东西都不会有。 https://t.co/quGXveNYUQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 662,
+          "like_count": 10863,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 2202
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "35yo/男/已婚人妻/敏感，脆弱，缺乏安全感，冷漠，焦虑，如果这样也没关系的话，那么请享受我给你的爱。/https://t.co/UDk836ufY8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ixxa00",
+                "end": 76,
+                "expanded_url": "https://ngl.link/ixxa00",
+                "start": 53,
+                "url": "https://t.co/UDk836ufY8"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "鞍山市",
+        "name": "i",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6708,
+          "following_count": 4411,
+          "like_count": 38548,
+          "listed_count": 18,
+          "media_count": 2777,
+          "tweet_count": 38586
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

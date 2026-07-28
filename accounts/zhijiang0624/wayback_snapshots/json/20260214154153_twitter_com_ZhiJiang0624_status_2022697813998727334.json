@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "1912884867475669379",
+    "created_at": "2026-02-14T15:41:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T16:41:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022697813998727334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1664188234015059968",
+          "start": 0,
+          "username": "diormywhoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022697813998727334",
+    "in_reply_to_user_id": "1664188234015059968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912884867475669379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@diormywhoo 祝你的发推数量能越来越少🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "1912884867475669379",
+        "created_at": "2026-02-14T15:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T16:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022697813998727334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1664188234015059968",
+              "start": 0,
+              "username": "diormywhoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022697813998727334",
+        "in_reply_to_user_id": "1664188234015059968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912884867475669379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@diormywhoo 祝你的发推数量能越来越少🙏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664188234015059968",
+        "conversation_id": "1912884867475669379",
+        "created_at": "2025-04-17T15:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T16:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912884867475669379"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912884867475669379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3683,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发推数量和我的精神状态成反比"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 299,
+          "like_count": 2418,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 790
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-01T08:33:06.000Z",
+        "description": "飲むでも飲み切れぬ壜で  不條理を凝視せよ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/misakidesuwa",
+                "end": 23,
+                "expanded_url": "https://ngl.link/misakidesuwa",
+                "start": 0,
+                "url": "https://t.co/37Qfw5QHBZ"
+              }
+            ]
+          }
+        },
+        "id": "1664188234015059968",
+        "location": "Colorado, USA",
+        "name": "偽物人間40号",
+        "pinned_tweet_id": "1912884867475669379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017524401923854337/dccbf2OU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 1348,
+          "like_count": 140221,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 26639
+        },
+        "url": "https://t.co/37Qfw5QHBZ",
+        "username": "diormywhoo",
+        "verified": false
+      }
+    ]
+  }
+}

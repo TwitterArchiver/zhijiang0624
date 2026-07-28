@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      }
+    ],
+    "conversation_id": "2023058646230552739",
+    "created_at": "2026-02-15T16:26:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T17:26:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023071528200601810"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 12,
+          "normalized_text": "日本",
+          "probability": 0.8274,
+          "start": 11,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1285630764185292800",
+          "start": 0,
+          "username": "Rin53__03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023071528200601810",
+    "in_reply_to_user_id": "1285630764185292800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023058646230552739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rin53__03 日本に大晦日があるかどうかわからないが、とにかく大晦日おめでとう！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          }
+        ],
+        "conversation_id": "2023058646230552739",
+        "created_at": "2026-02-15T16:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T17:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023071528200601810"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "日本",
+              "probability": 0.8274,
+              "start": 11,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1285630764185292800",
+              "start": 0,
+              "username": "Rin53__03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023071528200601810",
+        "in_reply_to_user_id": "1285630764185292800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023058646230552739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rin53__03 日本に大晦日があるかどうかわからないが、とにかく大晦日おめでとう！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1285630764185292800",
+        "conversation_id": "2023058646230552739",
+        "created_at": "2026-02-15T15:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T16:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023058646230552739"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023058646230552739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来週末、パーソナルカラー診断と\n顔タイプ診断行ってくる〜っ✌🏻\n自認イエベ春なんだけど\n顔タイプに関しては\n2択のどちらとも言えないような顔のパーツが多すぎて子供顔なこと以外分からん"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 320,
+          "like_count": 2722,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 897
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-21T17:41:29.000Z",
+        "description": "🗼| 20↑|153㎝|鳴潮|HoYovers|🌈🕒 Sub→@mmnkrng 💌mmnkrng@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "mmnkrng"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/rin5303",
+                "end": 23,
+                "expanded_url": "https://lit.link/rin5303",
+                "start": 0,
+                "url": "https://t.co/FPN3am1GXJ"
+              }
+            ]
+          }
+        },
+        "id": "1285630764185292800",
+        "location": "DMは写真と連絡事項のみ",
+        "name": "桃猫りんご",
+        "pinned_tweet_id": "1997510563417731139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007045613087772672/d37tABcw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3825,
+          "following_count": 409,
+          "like_count": 95615,
+          "listed_count": 114,
+          "media_count": 840,
+          "tweet_count": 33186
+        },
+        "url": "https://t.co/FPN3am1GXJ",
+        "username": "Rin53__03",
+        "verified": true
+      }
+    ]
+  }
+}

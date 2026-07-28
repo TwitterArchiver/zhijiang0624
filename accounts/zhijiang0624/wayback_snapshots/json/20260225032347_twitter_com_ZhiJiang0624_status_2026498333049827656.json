@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026498288384618499"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "conversation_id": "2026486406579638708",
+    "created_at": "2026-02-25T03:23:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T04:23:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026498333049827656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2022232330752925696",
+          "start": 0,
+          "username": "Meltss03"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eOP5Iq5InP",
+          "end": 88,
+          "expanded_url": "https://x.com/ZhiJiang0624/status/2026498333049827656/photo/1",
+          "media_key": "3_2026498288384618499",
+          "start": 65,
+          "url": "https://t.co/eOP5Iq5InP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026498333049827656",
+    "in_reply_to_user_id": "2022232330752925696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026486406579638708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meltss03 以后没路走了就去成都当男娘，被草之前嗑点药或者让自己窒息到意识模糊，神志不清的状态做什么都无所谓了\n咕咕咕咕 https://t.co/eOP5Iq5InP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2026498288384618499",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB-RdNkaMAMLWnI.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026498288384618499"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "conversation_id": "2026486406579638708",
+        "created_at": "2026-02-25T03:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T04:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026498333049827656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2022232330752925696",
+              "start": 0,
+              "username": "Meltss03"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eOP5Iq5InP",
+              "end": 88,
+              "expanded_url": "https://x.com/ZhiJiang0624/status/2026498333049827656/photo/1",
+              "media_key": "3_2026498288384618499",
+              "start": 65,
+              "url": "https://t.co/eOP5Iq5InP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026498333049827656",
+        "in_reply_to_user_id": "2022232330752925696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026486406579638708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meltss03 以后没路走了就去成都当男娘，被草之前嗑点药或者让自己窒息到意识模糊，神志不清的状态做什么都无所谓了\n咕咕咕咕 https://t.co/eOP5Iq5InP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022232330752925696",
+        "conversation_id": "2026486406579638708",
+        "created_at": "2026-02-25T02:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T03:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026486406579638708"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026486406579638708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男生被草的感觉是一开始挺疼的,就是感觉 肚子胀胀的很疼,反正第二天醒来就是那种 喉咙痛身底下痛,就是那种肌肉萎缩了, 然后不想动的那种剧痛,还有就是那种肚子 里特别胀的感觉,像是被卡车碾了似的,但是你还活着,还能动,缓几天就好,要是有人揉的话,那应该一天或者半天应该就能好。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 459,
+          "like_count": 3976,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1359
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T08:56:27.000Z",
+        "description": "骂我的，毁容，爆痘，挂科，破产，脱发，倒霉，变胖，变矮，替我全家挡灾，出门被车创死，体重发胖，脸上爆痘爆闭口，五官变得扭曲，脱发严重，烂脸烂皮肤，有狐臭口臭脚臭，全家破产，背负债务多而大，科科挂科，霉运缠身，各个器官衰竭，失明失聪变哑巴，成绩下滑，努力变失败，折寿一百年，大型考试全部挂科。骚逼小号@Shitan2778",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 149,
+                "username": "Shitan2778"
+              }
+            ]
+          }
+        },
+        "id": "2022232330752925696",
+        "name": "CO₂",
+        "pinned_tweet_id": "2024797552890073300",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 34,
+          "like_count": 727,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1155
+        },
+        "username": "Meltss03",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2055601877958766705",
+    "created_at": "2026-05-16T12:24:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T13:24:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055625500278853735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1901339878966636544",
+          "start": 0,
+          "username": "tteokki9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055625500278853735",
+    "in_reply_to_user_id": "1901339878966636544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055601877958766705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tteokki9 两个都有会负负得正吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2055601877958766705",
+        "created_at": "2026-05-16T12:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055625500278853735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1901339878966636544",
+              "start": 0,
+              "username": "tteokki9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055625500278853735",
+        "in_reply_to_user_id": "1901339878966636544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055601877958766705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tteokki9 两个都有会负负得正吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901339878966636544",
+        "conversation_id": "2055601877958766705",
+        "created_at": "2026-05-16T10:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T11:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055601877958766705"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055601877958766705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2153,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我发现我碰到的社交孤儿人设的男生都是原生家庭不好或者早期在学校被孤立的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 686,
+          "like_count": 11837,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 2426
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T18:28:59.000Z",
+        "description": "可以叫我小叽叽^o^ 随便发着玩@yokyo7lly",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "yokyo7lly"
+              }
+            ]
+          }
+        },
+        "id": "1901339878966636544",
+        "name": "椰叽",
+        "pinned_tweet_id": "1984659027478102138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005152049189797889/D1ONNjj1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6109,
+          "following_count": 86,
+          "like_count": 4267,
+          "listed_count": 5,
+          "media_count": 242,
+          "tweet_count": 2840
+        },
+        "username": "tteokki9",
+        "verified": false
+      }
+    ]
+  }
+}

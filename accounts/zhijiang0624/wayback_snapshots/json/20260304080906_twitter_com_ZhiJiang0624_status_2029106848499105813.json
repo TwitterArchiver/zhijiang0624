@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2029102860018041304",
+    "created_at": "2026-03-04T08:09:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T09:09:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029106848499105813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1989965282799226880",
+          "start": 0,
+          "username": "DQadopt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029106848499105813",
+    "in_reply_to_user_id": "1989965282799226880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029102860018041304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DQadopt 很可爱的猫\n（为什么我家里的猫就不愿意好好让我拍个照……？）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2433,
+        "height": 960,
+        "media_key": "13_2029102802077925379",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2029102802077925379/img/jr8QE89Q2IqHsR-Y.jpg",
+        "public_metrics": {
+          "view_count": 35
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029102802077925379/vid/avc1/320x426/XLajecOEnkMjkU0U.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029102802077925379/vid/avc1/480x640/zlT8-0tcNxrs1-pi.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029102802077925379/vid/avc1/720x960/94DbB0_kPOdWwqtM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2029102802077925379/pl/PcqfhzVFEt_xG5UA.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 2205,
+        "height": 960,
+        "media_key": "13_2029102802073731075",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2029102802073731075/img/S8zM8vmKfMLNDoIL.jpg",
+        "public_metrics": {
+          "view_count": 5
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029102802073731075/vid/avc1/320x426/KhI8wzzGxA31TJV3.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029102802073731075/vid/avc1/480x640/I3MTwzwIUp5pmlMd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029102802073731075/vid/avc1/720x960/1xCRkEeDf-XLHaUS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2029102802073731075/pl/o-IfzQ6pbWmMzV1G.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 1430,
+        "height": 960,
+        "media_key": "13_2029102802065395712",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2029102802065395712/img/lTWQtD_48gl_8MH5.jpg",
+        "public_metrics": {
+          "view_count": 5
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029102802065395712/vid/avc1/320x426/F7qZIYcTZeKIrA5H.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029102802065395712/vid/avc1/480x640/LqLHIfP9U3rGlNss.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029102802065395712/vid/avc1/720x960/9oulnVeV8OCRRuWF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2029102802065395712/pl/R-KrqJUreYms_oqv.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 2533,
+        "height": 960,
+        "media_key": "13_2029102802170163200",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2029102802170163200/img/Z4nEzCHj5the3fWz.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029102802170163200/vid/avc1/320x426/GAPyzDsHi2SyjjbP.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029102802170163200/vid/avc1/480x640/vBYfwyfT_jjQDa_q.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029102802170163200/vid/avc1/720x960/lbuM6xSXJB3LK041.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2029102802170163200/pl/nQzIK9JeiEAEcRpI.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2029102860018041304",
+        "created_at": "2026-03-04T08:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T09:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029106848499105813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029106848499105813",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029102860018041304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 很可爱的猫\n（为什么我家里的猫就不愿意好好让我拍个照……？）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2029102802077925379",
+            "13_2029102802073731075",
+            "13_2029102802065395712",
+            "13_2029102802170163200"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2029102860018041304",
+        "created_at": "2026-03-04T07:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T08:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029102860018041304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aQe1hBna3r",
+              "end": 98,
+              "expanded_url": "https://x.com/DQadopt/status/2029102860018041304/video/1",
+              "media_key": "13_2029102802077925379",
+              "start": 75,
+              "url": "https://t.co/aQe1hBna3r"
+            },
+            {
+              "display_url": "pic.x.com/aQe1hBna3r",
+              "end": 98,
+              "expanded_url": "https://x.com/DQadopt/status/2029102860018041304/video/1",
+              "media_key": "13_2029102802073731075",
+              "start": 75,
+              "url": "https://t.co/aQe1hBna3r"
+            },
+            {
+              "display_url": "pic.x.com/aQe1hBna3r",
+              "end": 98,
+              "expanded_url": "https://x.com/DQadopt/status/2029102860018041304/video/1",
+              "media_key": "13_2029102802065395712",
+              "start": 75,
+              "url": "https://t.co/aQe1hBna3r"
+            },
+            {
+              "display_url": "pic.x.com/aQe1hBna3r",
+              "end": 98,
+              "expanded_url": "https://x.com/DQadopt/status/2029102860018041304/video/1",
+              "media_key": "13_2029102802170163200",
+              "start": 75,
+              "url": "https://t.co/aQe1hBna3r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029102860018041304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 188,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来看看我的猫吧\n我的猫是一只公公，叫大冰\n我会叫他，小大冰/大冰冰/冰儿/冰冰/肥冰/猪冰/冰猪/胖冰/萌萌冰/冰宝宝/咕咕冰/圆圆冰/嘟嘟冰……. https://t.co/aQe1hBna3r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 535,
+          "like_count": 5635,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1601
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 163,
+          "like_count": 835,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 1106
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2030626047566197191",
+    "created_at": "2026-03-08T16:37:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T17:37:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030684352598987177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1252908934500954113",
+          "start": 0,
+          "username": "lajitongyoulaji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030684352598987177",
+    "in_reply_to_user_id": "1252908934500954113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030676859927536114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lajitongyoulaji 我不就是你眼前的一个例子吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2030626047566197191",
+        "created_at": "2026-03-08T16:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T17:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030684352598987177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1252908934500954113",
+              "start": 0,
+              "username": "lajitongyoulaji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030684352598987177",
+        "in_reply_to_user_id": "1252908934500954113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030676859927536114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lajitongyoulaji 我不就是你眼前的一个例子吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1252908934500954113",
+        "conversation_id": "2030626047566197191",
+        "created_at": "2026-03-08T16:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T17:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030676859927536114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "ZhiJiang0624"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030676859927536114",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030661946287198703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhiJiang0624 他们装的 我不信他们这么有个人素养"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 590,
+          "like_count": 7728,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1825
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-22T10:35:53.000Z",
+        "description": "想留下美好的回忆",
+        "id": "1252908934500954113",
+        "name": "垃圾桶里有垃圾",
+        "pinned_tweet_id": "1656759774128533510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020611612441292800/y_h2XZSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 6,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 220
+        },
+        "username": "lajitongyoulaji",
+        "verified": false
+      }
+    ]
+  }
+}

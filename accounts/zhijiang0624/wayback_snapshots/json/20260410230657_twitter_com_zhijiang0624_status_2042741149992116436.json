@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2042597389014610286",
+    "created_at": "2026-04-10T23:06:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T00:06:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042741149992116436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1952612167343374336",
+          "start": 0,
+          "username": "gugugubobi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042741149992116436",
+    "in_reply_to_user_id": "1952612167343374336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042597389014610286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gugugubobi 做好安全措施\n（预防感染无异意味）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2042597389014610286",
+        "created_at": "2026-04-10T23:06:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T00:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042741149992116436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1952612167343374336",
+              "start": 0,
+              "username": "gugugubobi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042741149992116436",
+        "in_reply_to_user_id": "1952612167343374336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042597389014610286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gugugubobi 做好安全措施\n（预防感染无异意味）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952612167343374336",
+        "conversation_id": "2042597389014610286",
+        "created_at": "2026-04-10T13:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042597389014610286"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042597389014610286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 16162,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽啊我掉下来一块子宫内膜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 654,
+          "like_count": 10248,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 2134
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-05T06:06:49.000Z",
+        "description": "ed 我想说什么就说什么 没有回复的义务 不加人 非单身但也没谈",
+        "id": "1952612167343374336",
+        "location": "永远的初心不改",
+        "name": "bobi",
+        "pinned_tweet_id": "2002371728643588513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952615390724628480/8sBaOw0g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6513,
+          "following_count": 274,
+          "like_count": 2047,
+          "listed_count": 16,
+          "media_count": 719,
+          "tweet_count": 6156
+        },
+        "username": "gugugubobi",
+        "verified": false
+      }
+    ]
+  }
+}

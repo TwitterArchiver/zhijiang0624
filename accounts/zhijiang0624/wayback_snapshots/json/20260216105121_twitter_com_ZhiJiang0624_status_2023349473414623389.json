@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      }
+    ],
+    "conversation_id": "2023162201138401732",
+    "created_at": "2026-02-16T10:51:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T11:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023349473414623389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1773020567479996416",
+          "start": 0,
+          "username": "Qiiii1472170"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023349473414623389",
+    "in_reply_to_user_id": "1773020567479996416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023162201138401732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiiii1472170 除夕快乐，早点忘掉不开心准备迎接明天的春节吧，出去走走看看以前从没注意到的地方，说不定会有意想不到的惊喜呢☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          }
+        ],
+        "conversation_id": "2023162201138401732",
+        "created_at": "2026-02-16T10:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T11:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023349473414623389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1773020567479996416",
+              "start": 0,
+              "username": "Qiiii1472170"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023349473414623389",
+        "in_reply_to_user_id": "1773020567479996416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023162201138401732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiiii1472170 除夕快乐，早点忘掉不开心准备迎接明天的春节吧，出去走走看看以前从没注意到的地方，说不定会有意想不到的惊喜呢☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773020567479996416",
+        "conversation_id": "2023162201138401732",
+        "created_at": "2026-02-15T22:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T23:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023162201138401732"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023162201138401732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爸爸妈妈对不起 我对不起你们 你们没有一个健全的女儿 没有一个有用的女儿 我给不了任何承诺 我是最没用的 我是废物 从23年就开始嗑药自杀 我没有成为一个正常人对不起 苟延残喘了那么久我也试着改变了试着和人交流但是我做不到 我发现我怎么样都是无用功 我不能在大年三十去死啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 357,
+          "like_count": 3007,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 1058
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T16:13:49.000Z",
+        "description": "短命鬼一个只是还在苦苦挣扎罢了",
+        "id": "1773020567479996416",
+        "name": "能不能给我一首歌的时间",
+        "pinned_tweet_id": "1954721186178539730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023154000909217792/MNYoWuLd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 382,
+          "like_count": 1584,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 700
+        },
+        "username": "Qiiii1472170",
+        "verified": false
+      }
+    ]
+  }
+}

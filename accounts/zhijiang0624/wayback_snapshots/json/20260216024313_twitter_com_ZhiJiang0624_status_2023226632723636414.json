@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2023226632723636414",
+    "created_at": "2026-02-16T02:43:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T03:43:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023226632723636414"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Zzzmzmmmm/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Zzzmzmmmm/status/2023225312377717245",
+          "start": 8,
+          "url": "https://t.co/eOPGSBO6yz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023226632723636414",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023225312377717245",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "除夕快乐Zzz https://t.co/eOPGSBO6yz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2023225277812461568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBPwq7CaUAASj2j.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2023226632723636414",
+        "created_at": "2026-02-16T02:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T03:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023226632723636414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Zzzmzmmmm/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Zzzmzmmmm/status/2023225312377717245",
+              "start": 8,
+              "url": "https://t.co/eOPGSBO6yz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023226632723636414",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023225312377717245",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "除夕快乐Zzz https://t.co/eOPGSBO6yz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023225277812461568"
+          ]
+        },
+        "author_id": "1927283550950137856",
+        "conversation_id": "2023225312377717245",
+        "created_at": "2026-02-16T02:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T03:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023225312377717245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/975hsIjplw",
+              "end": 26,
+              "expanded_url": "https://x.com/Zzzmzmmmm/status/2023225312377717245/photo/1",
+              "media_key": "3_2023225277812461568",
+              "start": 3,
+              "url": "https://t.co/975hsIjplw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023225312377717245",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "昨日 https://t.co/975hsIjplw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 339,
+          "like_count": 2874,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1010
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-27T08:39:58.000Z",
+        "description": "111 大号@luyaoyaoy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "luyaoyaoy"
+              }
+            ]
+          }
+        },
+        "id": "1927283550950137856",
+        "location": "中国",
+        "name": "Zzz",
+        "pinned_tweet_id": "2022082315929944532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021695487720796160/AEW8SrCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2777,
+          "following_count": 43,
+          "like_count": 1953,
+          "listed_count": 4,
+          "media_count": 174,
+          "tweet_count": 1192
+        },
+        "username": "Zzzmzmmmm",
+        "verified": false
+      }
+    ]
+  }
+}

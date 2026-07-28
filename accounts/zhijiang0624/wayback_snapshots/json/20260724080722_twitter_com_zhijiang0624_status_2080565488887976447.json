@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2080381501578055696",
+    "created_at": "2026-07-24T08:07:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T09:07:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080565488887976447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2058879697011019776",
+          "start": 0,
+          "username": "Zarathustra8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080565488887976447",
+    "in_reply_to_user_id": "2058879697011019776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080381501578055696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zarathustra8964 查拉图斯特拉老师，我还记得你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080381487787204608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7_8Nja4AAh9K-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2080381501578055696",
+        "created_at": "2026-07-24T08:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T09:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080565488887976447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2058879697011019776",
+              "start": 0,
+              "username": "Zarathustra8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080565488887976447",
+        "in_reply_to_user_id": "2058879697011019776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080381501578055696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zarathustra8964 查拉图斯特拉老师，我还记得你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080381487787204608"
+          ]
+        },
+        "author_id": "2058879697011019776",
+        "conversation_id": "2080381501578055696",
+        "created_at": "2026-07-23T19:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T20:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080381501578055696"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "拉拉"
+            },
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "les"
+            },
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "女同性恋"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J8NPflrVL8",
+              "end": 60,
+              "expanded_url": "https://x.com/Zarathustra8964/status/2080381501578055696/photo/1",
+              "media_key": "3_2080381487787204608",
+              "start": 37,
+              "url": "https://t.co/J8NPflrVL8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080381501578055696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2744,
+          "like_count": 83,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是查拉图斯特拉🥹有人记得我吗\n换号重生了\n#拉拉 #les #女同性恋 https://t.co/J8NPflrVL8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 761,
+          "like_count": 13718,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 2736
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T12:00:57.000Z",
+        "description": "在你的个人资料中添加简介",
+        "id": "2058879697011019776",
+        "name": "查拉图斯特拉.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058883784288927744/va7XxYIs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 144,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 58
+        },
+        "url": "",
+        "username": "Zarathustra8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2028501531071480234",
+    "created_at": "2026-03-03T06:22:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T07:22:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028717519767511343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1060084311502708736",
+          "start": 0,
+          "username": "dingingcingking"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028717519767511343",
+    "in_reply_to_user_id": "1060084311502708736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028501531071480234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dingingcingking 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028501519801499648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCavYoIbwAAqa1N.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028501519805583360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCavYoJaEAAmWdj.jpg",
+        "width": 1943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2028501531071480234",
+        "created_at": "2026-03-03T06:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T07:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028717519767511343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1060084311502708736",
+              "start": 0,
+              "username": "dingingcingking"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028717519767511343",
+        "in_reply_to_user_id": "1060084311502708736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028501531071480234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dingingcingking 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028501519801499648",
+            "3_2028501519805583360"
+          ]
+        },
+        "author_id": "1060084311502708736",
+        "conversation_id": "2028501531071480234",
+        "created_at": "2026-03-02T16:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T17:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028501531071480234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tRWUQQ6kiA",
+              "end": 29,
+              "expanded_url": "https://x.com/dingingcingking/status/2028501531071480234/photo/1",
+              "media_key": "3_2028501519801499648",
+              "start": 6,
+              "url": "https://t.co/tRWUQQ6kiA"
+            },
+            {
+              "display_url": "pic.x.com/tRWUQQ6kiA",
+              "end": 29,
+              "expanded_url": "https://x.com/dingingcingking/status/2028501531071480234/photo/1",
+              "media_key": "3_2028501519805583360",
+              "start": 6,
+              "url": "https://t.co/tRWUQQ6kiA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028501531071480234",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3147,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看气球日！ https://t.co/tRWUQQ6kiA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 507,
+          "like_count": 4954,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1486
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-07T08:19:30.000Z",
+        "description": "不接电报推广＇其他推广私聊合作  废话很多，偶尔掉落性感照片",
+        "id": "1060084311502708736",
+        "location": "  不知道",
+        "name": "dingingcingking",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1627253477146755072/ggLGz0ty_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66290,
+          "following_count": 261,
+          "like_count": 22547,
+          "listed_count": 144,
+          "media_count": 1302,
+          "tweet_count": 16988
+        },
+        "username": "dingingcingking",
+        "verified": false
+      }
+    ]
+  }
+}

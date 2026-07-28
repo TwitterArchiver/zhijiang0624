@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2024219713371591017",
+    "created_at": "2026-02-19T02:12:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T03:12:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024306031623549145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1551109509535657984",
+          "start": 0,
+          "username": "lingnai87261721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024306031623549145",
+    "in_reply_to_user_id": "1551109509535657984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024219713371591017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingnai87261721 可以说说怎么了吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2024219713371591017",
+        "created_at": "2026-02-19T02:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T03:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024306031623549145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1551109509535657984",
+              "start": 0,
+              "username": "lingnai87261721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024306031623549145",
+        "in_reply_to_user_id": "1551109509535657984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024219713371591017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingnai87261721 可以说说怎么了吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551109509535657984",
+        "conversation_id": "2024219713371591017",
+        "created_at": "2026-02-18T20:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T21:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024219713371591017"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024219713371591017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "救救我救救我救救我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 422,
+          "like_count": 3525,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1228
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-24T07:38:30.000Z",
+        "description": "我需要靠瘋狂愛上什麼來維持生命",
+        "id": "1551109509535657984",
+        "name": "綾奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885715699399806976/zmc5thmM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 197,
+          "like_count": 5019,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 173
+        },
+        "username": "lingnai87261721",
+        "verified": false
+      }
+    ]
+  }
+}

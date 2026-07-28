@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2052344411825271042",
+    "created_at": "2026-05-07T11:32:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T12:32:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052350883875438999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1894019500485603328",
+          "start": 0,
+          "username": "fs8G7srHMX74174"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052350883875438999",
+    "in_reply_to_user_id": "1894019500485603328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052344411825271042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fs8G7srHMX74174 可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2052344411825271042",
+        "created_at": "2026-05-07T11:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T12:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052350883875438999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1894019500485603328",
+              "start": 0,
+              "username": "fs8G7srHMX74174"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052350883875438999",
+        "in_reply_to_user_id": "1894019500485603328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052344411825271042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fs8G7srHMX74174 可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894019500485603328",
+        "conversation_id": "2052344411825271042",
+        "created_at": "2026-05-07T11:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T12:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052344411825271042"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052344411825271042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "准备过两月考完试后这个号就不用了 还是想做个正常人( ^ω^ )"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 680,
+          "like_count": 11566,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 2349
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-24T13:40:32.000Z",
+        "description": "不下海别问了 纯圈闲聊🚪20",
+        "id": "1894019500485603328",
+        "name": "sora",
+        "pinned_tweet_id": "2023381632745611563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929938244210438151/BEQrSKma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 60,
+          "like_count": 1432,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 411
+        },
+        "username": "fs8G7srHMX74174",
+        "verified": false
+      }
+    ]
+  }
+}

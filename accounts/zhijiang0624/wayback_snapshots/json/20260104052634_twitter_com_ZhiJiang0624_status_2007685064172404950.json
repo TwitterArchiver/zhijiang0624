@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2007543421880414603",
+    "created_at": "2026-01-04T05:26:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T06:26:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007685064172404950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1671821091738886144",
+          "start": 0,
+          "username": "_04x_d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007685064172404950",
+    "in_reply_to_user_id": "1671821091738886144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007543421880414603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_04x_d 不好意思没绷住"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2007543421880414603",
+        "created_at": "2026-01-04T05:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T06:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007685064172404950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1671821091738886144",
+              "start": 0,
+              "username": "_04x_d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007685064172404950",
+        "in_reply_to_user_id": "1671821091738886144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007543421880414603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_04x_d 不好意思没绷住"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671821091738886144",
+        "conversation_id": "2007543421880414603",
+        "created_at": "2026-01-03T20:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T21:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007543421880414603"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007543421880414603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 218,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操你妈的我不是中国人 别拉着我一起抬高你们自己国家行不行。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一个偶尔变得哲学或者厌世的重度自闭男生。理想大概就是想尽自己的绵薄之力尽量缝补这个世界支离破碎的一面吧",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 165,
+          "like_count": 576,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 413
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-22T10:04:27.000Z",
+        "description": "251  @_j14q1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 5,
+                "username": "_j14q1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki71720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki71720",
+                "start": 0,
+                "url": "https://t.co/Ex198DVgSE"
+              }
+            ]
+          }
+        },
+        "id": "1671821091738886144",
+        "name": "病みゆき死体16",
+        "pinned_tweet_id": "1991184503633834046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993648027316408320/8SXWbEL-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 239,
+          "like_count": 7960,
+          "listed_count": 0,
+          "media_count": 275,
+          "tweet_count": 1727
+        },
+        "url": "https://t.co/Ex198DVgSE",
+        "username": "_04x_d",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2043389768386404588",
+    "created_at": "2026-04-13T04:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T05:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043553978429170076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1368276610344837123",
+          "start": 0,
+          "username": "SagaKanroo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043553978429170076",
+    "in_reply_to_user_id": "1368276610344837123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043389768386404588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SagaKanroo 已请高人观看\n高人死了\n快请神人！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 630,
+        "media_key": "3_2043389725650694145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFuUIQ8XsAEbQ6X.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2043389768386404588",
+        "created_at": "2026-04-13T04:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T05:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043553978429170076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1368276610344837123",
+              "start": 0,
+              "username": "SagaKanroo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043553978429170076",
+        "in_reply_to_user_id": "1368276610344837123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043389768386404588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SagaKanroo 已请高人观看\n高人死了\n快请神人！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043389725650694145"
+          ]
+        },
+        "author_id": "1368276610344837123",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043389768386404588",
+        "created_at": "2026-04-12T18:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T19:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043389768386404588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jFe2TvT6Ne",
+              "end": 25,
+              "expanded_url": "https://x.com/SagaKanroo/status/2043389768386404588/photo/1",
+              "media_key": "3_2043389725650694145",
+              "start": 2,
+              "url": "https://t.co/jFe2TvT6Ne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043389768386404588",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 154,
+          "impression_count": 55281,
+          "like_count": 1535,
+          "quote_count": 2,
+          "reply_count": 39,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "🤨 https://t.co/jFe2TvT6Ne"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 660,
+          "like_count": 10402,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 2160
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-06T19:05:55.000Z",
+        "description": "「剛接觸人界的魅魔混血 目標是征服全人類的心❤」| 個人勢vtuber | 粵語、中文、ENG⭕日本語🆗️ | 居英中🇬🇧 | 🎨繪師ママ：@ ShowG_ts | 📧聯絡電郵：sagakanro1122@gmail.com | Fanart tag #天降甘露 | R18 Fanart tag #久旱逢甘雨",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 131,
+                "start": 126,
+                "tag": "天降甘露"
+              },
+              {
+                "end": 155,
+                "start": 149,
+                "tag": "久旱逢甘雨"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/sagakanr…",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/sagakanroo1122",
+                "start": 0,
+                "url": "https://t.co/hNduu9ItHq"
+              }
+            ]
+          }
+        },
+        "id": "1368276610344837123",
+        "name": "嵯峨甘露🎀｜twitch直播",
+        "pinned_tweet_id": "1996255209652129958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001850076180680704/NP9G0SRK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3820,
+          "following_count": 1058,
+          "like_count": 11276,
+          "listed_count": 9,
+          "media_count": 590,
+          "tweet_count": 4074
+        },
+        "url": "https://t.co/hNduu9ItHq",
+        "username": "SagaKanroo",
+        "verified": true
+      }
+    ]
+  }
+}

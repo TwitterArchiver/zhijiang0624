@@ -1,0 +1,449 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074742334345052160"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2073281249226195032",
+    "created_at": "2026-07-08T06:28:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T07:28:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074742376682365296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1994057690591739904",
+          "start": 0,
+          "username": "MLGB520MLGB"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ogdFAX1cVN",
+          "end": 44,
+          "expanded_url": "https://x.com/zhijiang0624/status/2074742376682365296/photo/1",
+          "media_key": "3_2074742334345052160",
+          "start": 21,
+          "url": "https://t.co/ogdFAX1cVN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074742376682365296",
+    "in_reply_to_user_id": "1994057690591739904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073281249226195032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MLGB520MLGB 不好意思没绷住 https://t.co/ogdFAX1cVN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1804,
+        "media_key": "3_2074742334345052160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMr3KR8aAAA0QOb.jpg",
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073281243509329920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMXGTmbakAA7Eu9.jpg",
+        "width": 1532
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074742334345052160"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073281249226195032",
+        "created_at": "2026-07-08T06:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074742376682365296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1994057690591739904",
+              "start": 0,
+              "username": "MLGB520MLGB"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ogdFAX1cVN",
+              "end": 44,
+              "expanded_url": "https://x.com/zhijiang0624/status/2074742376682365296/photo/1",
+              "media_key": "3_2074742334345052160",
+              "start": 21,
+              "url": "https://t.co/ogdFAX1cVN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074742376682365296",
+        "in_reply_to_user_id": "1994057690591739904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073281249226195032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MLGB520MLGB 不好意思没绷住 https://t.co/ogdFAX1cVN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073281243509329920"
+          ]
+        },
+        "author_id": "1994057690591739904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2073281249226195032",
+        "created_at": "2026-07-04T05:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T06:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073281249226195032"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 42,
+              "tag": "cosplay"
+            },
+            {
+              "end": 56,
+              "start": 51,
+              "tag": "toki"
+            },
+            {
+              "end": 69,
+              "start": 57,
+              "tag": "BlueArchive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wYLgqbbKGo",
+              "end": 93,
+              "expanded_url": "https://x.com/MLGB520MLGB/status/2073281249226195032/photo/1",
+              "media_key": "3_2073281243509329920",
+              "start": 70,
+              "url": "https://t.co/wYLgqbbKGo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073281249226195032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 6754,
+          "like_count": 123,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "都叫你们wifi一定要用好点的，这下卡了吧，我36D的巨乳没加载出来(*¯︶¯*)\n#cosplay #toki #BlueArchive https://t.co/wYLgqbbKGo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 737,
+          "like_count": 13235,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 2671
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-27T14:56:25.000Z",
+        "description": "麻乐隔壁是我cn，不是骂人的话 ｜dy/bilibili/x｜励志找到所有偷走小猫妙脆角的混蛋！",
+        "id": "1994057690591739904",
+        "location": "🚪99（只回口令爱你喵）",
+        "name": "猫老屁股松放屁响叮咚（麻乐隔壁）",
+        "pinned_tweet_id": "2068407586572099942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073335107726041088/hLAOxzu2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22494,
+          "following_count": 43,
+          "like_count": 4,
+          "listed_count": 66,
+          "media_count": 94,
+          "tweet_count": 271
+        },
+        "url": "",
+        "username": "MLGB520MLGB",
+        "verified": true
+      }
+    ]
+  }
+}

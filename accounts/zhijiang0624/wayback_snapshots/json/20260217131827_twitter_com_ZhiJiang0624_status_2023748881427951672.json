@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2023748881427951672",
+    "created_at": "2026-02-17T13:18:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T14:18:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023748881427951672"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2023748881427951672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "明明什么事都记不住了，但是曾经稍微熟一点的人的名字却依旧没有忘记。承认吧，你就是一个贱人。一点点对你的友好就能让你记不知道多久。别人对你的恶意你转头就忘，你对别人的伤害你记得一清二楚，你TM就是贱明白吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2023748881427951672",
+        "created_at": "2026-02-17T13:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T14:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023748881427951672"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023748881427951672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明明什么事都记不住了，但是曾经稍微熟一点的人的名字却依旧没有忘记。承认吧，你就是一个贱人。一点点对你的友好就能让你记不知道多久。别人对你的恶意你转头就忘，你对别人的伤害你记得一清二楚，你TM就是贱明白吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 406,
+          "like_count": 3278,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1152
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      }
+    ]
+  }
+}

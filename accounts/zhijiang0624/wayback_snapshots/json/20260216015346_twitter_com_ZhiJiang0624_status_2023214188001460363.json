@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2023065004430508323",
+    "created_at": "2026-02-16T01:53:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T02:53:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023214188001460363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1994821573203955714",
+          "start": 0,
+          "username": "UMI_KIRAkira_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023214188001460363",
+    "in_reply_to_user_id": "1994821573203955714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023065004430508323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UMI_KIRAkira_ 生日快乐！除夕快乐！双喜临门！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2023065002127810561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBNe5plaYAEo_pi.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2023065004430508323",
+        "created_at": "2026-02-16T01:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T02:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023214188001460363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1994821573203955714",
+              "start": 0,
+              "username": "UMI_KIRAkira_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023214188001460363",
+        "in_reply_to_user_id": "1994821573203955714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023065004430508323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UMI_KIRAkira_ 生日快乐！除夕快乐！双喜临门！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023065002127810561"
+          ]
+        },
+        "author_id": "1994821573203955714",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2023065004430508323",
+        "created_at": "2026-02-15T16:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T17:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023065004430508323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0S2kHoiByu",
+              "end": 29,
+              "expanded_url": "https://x.com/UMI_KIRAkira_/status/2023065004430508323/photo/1",
+              "media_key": "3_2023065002127810561",
+              "start": 6,
+              "url": "https://t.co/0S2kHoiByu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023065004430508323",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1097,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我20了。 https://t.co/0S2kHoiByu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 320,
+          "like_count": 2817,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 963
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T17:31:56.000Z",
+        "description": "无意义废话收集ing和生活猛猛搏斗中……\n如果你在现实生活里认识我希望你当做没看到自行避开🥲\n欢迎女生宝宝互fo",
+        "id": "1994821573203955714",
+        "location": "🚪52线上纯绿私信只收口令",
+        "name": "✮☆UMI_☆✭",
+        "pinned_tweet_id": "2016386031025877017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012433047384363010/CHe_Ej3Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 39,
+          "like_count": 2646,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 646
+        },
+        "username": "UMI_KIRAkira_",
+        "verified": false
+      }
+    ]
+  }
+}

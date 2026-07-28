@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2033780014953730245",
+    "created_at": "2026-03-17T11:09:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T12:09:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033863169849045078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1859994685458239488",
+          "start": 0,
+          "username": "pu_xin68339"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033863169849045078",
+    "in_reply_to_user_id": "1859994685458239488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033862686468149648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pu_xin68339 话说你06的为什么比我大两个年级？🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2033780014953730245",
+        "created_at": "2026-03-17T11:09:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T12:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033863169849045078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1859994685458239488",
+              "start": 0,
+              "username": "pu_xin68339"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033863169849045078",
+        "in_reply_to_user_id": "1859994685458239488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033862686468149648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pu_xin68339 话说你06的为什么比我大两个年级？🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859994685458239488",
+        "conversation_id": "2033780014953730245",
+        "created_at": "2026-03-17T11:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T12:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033862686468149648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "ZhiJiang0624"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033862686468149648",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033862324654903361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhiJiang0624 🥺好吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n十九岁高中牲\n如果哪里说得有错还请麻烦指点一下谢谢。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾，亦或是世界的彼方",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 612,
+          "like_count": 8502,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1902
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-22T16:17:52.000Z",
+        "description": "此X记录我的日常吐槽及疑惑 ｜06双子女｜大二在校生｜istj｜专升本｜终身学习者｜不婚主义｜（智性恋能轮到我吗🥺）",
+        "id": "1859994685458239488",
+        "name": "林达",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027723952039333893/P8T_hAO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 14,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 378
+        },
+        "username": "pu_xin68339",
+        "verified": false
+      }
+    ]
+  }
+}

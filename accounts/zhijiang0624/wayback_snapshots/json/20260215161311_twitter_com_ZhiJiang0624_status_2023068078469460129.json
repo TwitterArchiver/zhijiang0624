@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2022979799858442735",
+    "created_at": "2026-02-15T16:13:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T17:13:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023068078469460129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1942907786385604608",
+          "start": 0,
+          "username": "MeowChillECK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023068078469460129",
+    "in_reply_to_user_id": "1942907786385604608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023016739311878489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeowChillECK 偶尔一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2022979799858442735",
+        "created_at": "2026-02-15T16:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T17:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023068078469460129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1942907786385604608",
+              "start": 0,
+              "username": "MeowChillECK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023068078469460129",
+        "in_reply_to_user_id": "1942907786385604608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023016739311878489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeowChillECK 偶尔一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942907786385604608",
+        "conversation_id": "2022979799858442735",
+        "created_at": "2026-02-15T12:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T13:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023016739311878489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "ZhiJiang0624"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023016739311878489",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023002374475018255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhiJiang0624 那我就是那种看着别人过得不好，所以很开心的人6w6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 320,
+          "like_count": 2683,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 864
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T11:25:05.000Z",
+        "description": "喜欢狗  找我玩好吗",
+        "id": "1942907786385604608",
+        "name": "战利品公主",
+        "pinned_tweet_id": "2020492734235291781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002706169572499456/mqxHCNx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 57,
+          "like_count": 565,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 85
+        },
+        "username": "MeowChillECK",
+        "verified": false
+      }
+    ]
+  }
+}

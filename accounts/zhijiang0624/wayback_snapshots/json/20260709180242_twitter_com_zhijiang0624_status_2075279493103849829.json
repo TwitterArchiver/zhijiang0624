@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2075139734050164961",
+    "created_at": "2026-07-09T18:02:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T19:02:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075279493103849829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1121045426700832768",
+          "start": 0,
+          "username": "5uicide__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075279493103849829",
+    "in_reply_to_user_id": "1121045426700832768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075139734050164961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5uicide__ 人活着就是为了竭尽全力让死的时候尽可能少一些遗憾，但是人活着本身就一直在制造遗憾\n早死是对的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2075139734050164961",
+        "created_at": "2026-07-09T18:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T19:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075279493103849829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1121045426700832768",
+              "start": 0,
+              "username": "5uicide__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075279493103849829",
+        "in_reply_to_user_id": "1121045426700832768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075139734050164961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5uicide__ 人活着就是为了竭尽全力让死的时候尽可能少一些遗憾，但是人活着本身就一直在制造遗憾\n早死是对的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1121045426700832768",
+        "conversation_id": "2075139734050164961",
+        "created_at": "2026-07-09T08:47:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T09:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075139734050164961"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075139734050164961",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 127726,
+          "like_count": 2411,
+          "quote_count": 76,
+          "reply_count": 26,
+          "retweet_count": 318
+        },
+        "reply_settings": "everyone",
+        "text": "10代のうちに死んでおけばよかった"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 752,
+          "like_count": 13421,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 2704
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-24T13:37:12.000Z",
+        "description": "終わりつづける",
+        "id": "1121045426700832768",
+        "name": "不採用",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852679504118075392/4MsAW52q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10138,
+          "following_count": 453,
+          "like_count": 51602,
+          "listed_count": 34,
+          "media_count": 0,
+          "tweet_count": 378
+        },
+        "url": "",
+        "username": "5uicide__",
+        "verified": false
+      }
+    ]
+  }
+}

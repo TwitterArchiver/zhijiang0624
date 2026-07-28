@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2022239582134436283",
+    "created_at": "2026-02-13T14:43:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T15:43:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022320802247655523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1887893037365559296",
+          "start": 0,
+          "username": "k4p6mj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022320802247655523",
+    "in_reply_to_user_id": "1887893037365559296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022239582134436283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k4p6mj 要么有人陪，要么装作有人陪，要么不想让别人知道自己没人陪，是这三种可能性吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2022239582134436283",
+        "created_at": "2026-02-13T14:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T15:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022320802247655523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1887893037365559296",
+              "start": 0,
+              "username": "k4p6mj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022320802247655523",
+        "in_reply_to_user_id": "1887893037365559296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022239582134436283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k4p6mj 要么有人陪，要么装作有人陪，要么不想让别人知道自己没人陪，是这三种可能性吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887893037365559296",
+        "conversation_id": "2022239582134436283",
+        "created_at": "2026-02-13T09:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T10:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022239582134436283"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022239582134436283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 447,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我🪜到期了 我决定明天消失一天。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 292,
+          "like_count": 2324,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 757
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-07T15:56:06.000Z",
+        "description": "本账号使用者是一个脆弱的小宝宝。匿名提问：https://t.co/QF2Mffktbm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/user.35056445",
+                "end": 44,
+                "expanded_url": "https://tellonym.me/user.35056445",
+                "start": 21,
+                "url": "https://t.co/QF2Mffktbm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2781699",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2781699",
+                "start": 0,
+                "url": "https://t.co/sbXp9A6IEM"
+              }
+            ]
+          }
+        },
+        "id": "1887893037365559296",
+        "location": "🚪88纯绿",
+        "name": "化合物",
+        "pinned_tweet_id": "2014729880378998808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018005950712762368/BZ7d20ZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 100,
+          "like_count": 7097,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 5447
+        },
+        "url": "https://t.co/sbXp9A6IEM",
+        "username": "k4p6mj",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2029058042319520104",
+    "created_at": "2026-03-04T04:55:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T05:55:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029058042319520104"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2029058042319520104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在有三个选择了：\n1.跟着姐夫去浙江，工资月结；\n2.跟着表哥去江苏，工资按情况结；\n3.跟着堂哥去广东，情况未知。\n这个月就毕业了啊……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2029058042319520104",
+        "created_at": "2026-03-04T04:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T05:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029058042319520104"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029058042319520104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在有三个选择了：\n1.跟着姐夫去浙江，工资月结；\n2.跟着表哥去江苏，工资按情况结；\n3.跟着堂哥去广东，情况未知。\n这个月就毕业了啊……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 534,
+          "like_count": 5506,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1589
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      }
+    ]
+  }
+}

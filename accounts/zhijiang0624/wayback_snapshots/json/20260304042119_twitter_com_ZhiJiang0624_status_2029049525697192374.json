@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2028870191111983180",
+    "created_at": "2026-03-04T04:21:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T05:21:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029049525697192374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1417099624922370056",
+          "start": 0,
+          "username": "XinGZiSaMa_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029049525697192374",
+    "in_reply_to_user_id": "1417099624922370056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028870191111983180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XinGZiSaMa_8964 雷霆到不得不关注以后细细品鉴可能会有的雷霆故事了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 920,
+        "media_key": "3_2028870176264142848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCf-rQebwAAZvFA.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2028870191111983180",
+        "created_at": "2026-03-04T04:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T05:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029049525697192374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1417099624922370056",
+              "start": 0,
+              "username": "XinGZiSaMa_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029049525697192374",
+        "in_reply_to_user_id": "1417099624922370056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028870191111983180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XinGZiSaMa_8964 雷霆到不得不关注以后细细品鉴可能会有的雷霆故事了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028870176264142848"
+          ]
+        },
+        "author_id": "1417099624922370056",
+        "conversation_id": "2028870191111983180",
+        "created_at": "2026-03-03T16:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T17:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028870191111983180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/82dManGG3R",
+              "end": 67,
+              "expanded_url": "https://x.com/XinGZiSaMa_8964/status/2028870191111983180/photo/1",
+              "media_key": "3_2028870176264142848",
+              "start": 44,
+              "url": "https://t.co/82dManGG3R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028870191111983180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2973,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我服了为什么这条推文是我第一首10w浏览的推文。。。。\n我只是个被家人吵到的无辜小女孩 https://t.co/82dManGG3R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 534,
+          "like_count": 5455,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1581
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-19T12:31:06.000Z",
+        "description": "😈😈｜男高｜友跨｜koishi激推｜bangdream｜电吉他学习ing｜Guns N' Roses｜oder｜自残过一段时间但已戒｜双相｜日语学习中｜喜欢猫｜https://t.co/0yYZjwBLkU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingzisama",
+                "end": 103,
+                "expanded_url": "https://ngl.link/xingzisama",
+                "start": 80,
+                "url": "https://t.co/0yYZjwBLkU"
+              }
+            ]
+          }
+        },
+        "id": "1417099624922370056",
+        "location": "天堂",
+        "name": "性子sama🐾🎸",
+        "pinned_tweet_id": "2020530734738682150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010818938666733568/mI3QBzcv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 400,
+          "like_count": 50478,
+          "listed_count": 3,
+          "media_count": 1525,
+          "tweet_count": 9238
+        },
+        "username": "XinGZiSaMa_8964",
+        "verified": false
+      }
+    ]
+  }
+}

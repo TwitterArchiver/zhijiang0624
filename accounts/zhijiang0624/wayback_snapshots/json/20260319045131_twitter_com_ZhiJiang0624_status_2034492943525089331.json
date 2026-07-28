@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2034341498020634797",
+    "created_at": "2026-03-19T04:51:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T05:51:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034492943525089331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1752964869203361792",
+          "start": 0,
+          "username": "Minam1eL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034492943525089331",
+    "in_reply_to_user_id": "1752964869203361792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034341498020634797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minam1eL 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2034341491364311040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDtuztibsAA7y5L.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2034341498020634797",
+        "created_at": "2026-03-19T04:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T05:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034492943525089331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1752964869203361792",
+              "start": 0,
+              "username": "Minam1eL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034492943525089331",
+        "in_reply_to_user_id": "1752964869203361792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034341498020634797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minam1eL 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034341491364311040"
+          ]
+        },
+        "author_id": "1752964869203361792",
+        "conversation_id": "2034341498020634797",
+        "created_at": "2026-03-18T18:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T19:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034341498020634797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WO03xiIsHB",
+              "end": 33,
+              "expanded_url": "https://x.com/Minam1eL/status/2034341498020634797/photo/1",
+              "media_key": "3_2034341491364311040",
+              "start": 10,
+              "url": "https://t.co/WO03xiIsHB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034341498020634797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2690,
+          "like_count": 146,
+          "quote_count": 0,
+          "reply_count": 55,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "生日捏 20岁了哇 https://t.co/WO03xiIsHB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n07年纯种神经病\n如果哪里说得有错还请麻烦指点一下谢谢。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 612,
+          "like_count": 8605,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1913
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T07:59:36.000Z",
+        "description": "成为强者所需的条件",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/96388197",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/96388197",
+                "start": 0,
+                "url": "https://t.co/TdjnFaup8P"
+              }
+            ]
+          }
+        },
+        "id": "1752964869203361792",
+        "location": "Los Angeles, CA",
+        "name": "Minamiel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929455704643149824/ydnxtM1l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1070,
+          "following_count": 1071,
+          "like_count": 5200,
+          "listed_count": 3,
+          "media_count": 222,
+          "tweet_count": 2890
+        },
+        "url": "https://t.co/TdjnFaup8P",
+        "username": "Minam1eL",
+        "verified": false
+      }
+    ]
+  }
+}

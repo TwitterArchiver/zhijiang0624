@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2031324065877864964",
+    "created_at": "2026-03-10T11:37:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T12:37:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031333558334402951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2015808158413844480",
+          "start": 0,
+          "username": "fcbf8858"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031333558334402951",
+    "in_reply_to_user_id": "2015808158413844480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031324065877864964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fcbf8858 真好\n等你好消息"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2031324065877864964",
+        "created_at": "2026-03-10T11:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T12:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031333558334402951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2015808158413844480",
+              "start": 0,
+              "username": "fcbf8858"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031333558334402951",
+        "in_reply_to_user_id": "2015808158413844480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031324065877864964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fcbf8858 真好\n等你好消息"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015808158413844480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2031324065877864964",
+        "created_at": "2026-03-10T10:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T11:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031324065877864964"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031324065877864964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我老爸吃了没文化的亏，靠干苦力养活一家人，一直教育我好好学习用知识改变命运，比起他满手老茧和沧桑的面容，我这点学习压力算不上什么，我会考上理想大学的，等我好消息！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n十九岁高中牲\n如果哪里说得有错还请麻烦指点一下谢谢。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾，亦或是世界的彼方",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 616,
+          "like_count": 8527,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1893
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-26T15:25:21.000Z",
+        "description": "爱搞抽象的小滑头",
+        "id": "2015808158413844480",
+        "name": "旺仔小滑头",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021959969416130562/DCKBobLh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5309,
+          "following_count": 0,
+          "like_count": 6,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 19
+        },
+        "username": "fcbf8858",
+        "verified": true
+      }
+    ]
+  }
+}

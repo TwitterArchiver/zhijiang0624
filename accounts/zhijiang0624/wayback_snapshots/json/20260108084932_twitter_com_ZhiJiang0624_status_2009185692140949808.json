@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2009147730485235732",
+    "created_at": "2026-01-08T08:49:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T09:49:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009185692140949808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1866977652835315712",
+          "start": 0,
+          "username": "LukeSilver48868"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009185692140949808",
+    "in_reply_to_user_id": "1866977652835315712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009147730485235732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LukeSilver48868 誰かが君を愛してる"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 708,
+        "media_key": "3_2009147724541906945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-HtNeaa0AEy54t.jpg",
+        "width": 474
+      },
+      {
+        "height": 2010,
+        "media_key": "3_2009147724541906946",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-HtNeaa0AIHi8u.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2009147730485235732",
+        "created_at": "2026-01-08T08:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T09:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009185692140949808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1866977652835315712",
+              "start": 0,
+              "username": "LukeSilver48868"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009185692140949808",
+        "in_reply_to_user_id": "1866977652835315712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009147730485235732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LukeSilver48868 誰かが君を愛してる"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009147724541906945",
+            "3_2009147724541906946"
+          ]
+        },
+        "author_id": "1866977652835315712",
+        "conversation_id": "2009147730485235732",
+        "created_at": "2026-01-08T06:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T07:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009147730485235732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GVPovzB1Kt",
+              "end": 41,
+              "expanded_url": "https://x.com/LukeSilver48868/status/2009147730485235732/photo/1",
+              "media_key": "3_2009147724541906945",
+              "start": 18,
+              "url": "https://t.co/GVPovzB1Kt"
+            },
+            {
+              "display_url": "pic.x.com/GVPovzB1Kt",
+              "end": 41,
+              "expanded_url": "https://x.com/LukeSilver48868/status/2009147730485235732/photo/1",
+              "media_key": "3_2009147724541906946",
+              "start": 18,
+              "url": "https://t.co/GVPovzB1Kt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009147730485235732",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 604,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "メンヘラ地雷系だけど愛してくれる？ https://t.co/GVPovzB1Kt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一个偶尔变得哲学或者厌世的重度自闭男生。理想大概就是想尽自己的绵薄之力尽量缝补这个世界支离破碎的一面吧",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 192,
+          "like_count": 765,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 482
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-11T22:45:56.000Z",
+        "description": "面倒くさいぐらい付きまとうメンヘラ♀",
+        "id": "1866977652835315712",
+        "location": "フォロワーさんとだけ話す",
+        "name": "ま。",
+        "pinned_tweet_id": "2007141989364707442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956227179907571714/fVQo4ftC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4456,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 13,
+          "media_count": 12,
+          "tweet_count": 721
+        },
+        "username": "LukeSilver48868",
+        "verified": false
+      }
+    ]
+  }
+}

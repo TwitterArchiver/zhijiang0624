@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073178491999449088"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2072516202031898859",
+    "created_at": "2026-07-03T22:54:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T23:54:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073178501205922078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1589967071470915585",
+          "start": 0,
+          "username": "zovoe_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kR0M8mtm4r",
+          "end": 55,
+          "expanded_url": "https://x.com/zhijiang0624/status/2073178501205922078/photo/1",
+          "media_key": "3_2073178491999449088",
+          "start": 32,
+          "url": "https://t.co/kR0M8mtm4r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073178501205922078",
+    "in_reply_to_user_id": "1589967071470915585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072516202031898859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zovoe_ 我都不和人有人际来往了怎么还能中箭啊，搞什么啊 https://t.co/kR0M8mtm4r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 548,
+        "media_key": "3_2073178491999449088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMVo2rObcAAeKZC.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073178491999449088"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072516202031898859",
+        "created_at": "2026-07-03T22:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T23:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073178501205922078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1589967071470915585",
+              "start": 0,
+              "username": "zovoe_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kR0M8mtm4r",
+              "end": 55,
+              "expanded_url": "https://x.com/zhijiang0624/status/2073178501205922078/photo/1",
+              "media_key": "3_2073178491999449088",
+              "start": 32,
+              "url": "https://t.co/kR0M8mtm4r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073178501205922078",
+        "in_reply_to_user_id": "1589967071470915585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072516202031898859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zovoe_ 我都不和人有人际来往了怎么还能中箭啊，搞什么啊 https://t.co/kR0M8mtm4r"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589967071470915585",
+        "conversation_id": "2072516202031898859",
+        "created_at": "2026-07-02T03:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T04:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072516202031898859"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072516202031898859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 43664,
+          "like_count": 952,
+          "quote_count": 6,
+          "reply_count": 100,
+          "retweet_count": 116
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝 你得感谢有回避型依恋钝感力情感漠视这种词给你做挡箭牌 要不然能形容你的词只有臭傻逼了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 723,
+          "like_count": 12937,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 2638
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T13:04:36.000Z",
+        "description": "Pain, danger and love make me real again.",
+        "id": "1589967071470915585",
+        "name": "Zoeee",
+        "pinned_tweet_id": "1914963479620145555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589967253419835396/UL_AVZoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48206,
+          "following_count": 66,
+          "like_count": 746,
+          "listed_count": 128,
+          "media_count": 170,
+          "tweet_count": 793
+        },
+        "url": "",
+        "username": "zovoe_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "DC Extended Universe (DCEU)",
+          "id": "1080503141345374208",
+          "name": "DC Extended Universe"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "DC Extended Universe (DCEU)",
+          "id": "1080503141345374208",
+          "name": "DC Extended Universe"
+        }
+      }
+    ],
+    "conversation_id": "2011046058923868378",
+    "created_at": "2026-01-13T15:08:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T16:08:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011092909723165152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1881948378453741569",
+          "start": 0,
+          "username": "neteru_365"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011092909723165152",
+    "in_reply_to_user_id": "1881948378453741569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011046058923868378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neteru_365 私の高校は生徒会に参加したいと思っていましたが、面接があることを知って、行くことさえできませんでした。普通に面接に直面できる人は本当にスーパーマンです！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "DC Extended Universe (DCEU)",
+              "id": "1080503141345374208",
+              "name": "DC Extended Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "DC Extended Universe (DCEU)",
+              "id": "1080503141345374208",
+              "name": "DC Extended Universe"
+            }
+          }
+        ],
+        "conversation_id": "2011046058923868378",
+        "created_at": "2026-01-13T15:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T16:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011092909723165152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1881948378453741569",
+              "start": 0,
+              "username": "neteru_365"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011092909723165152",
+        "in_reply_to_user_id": "1881948378453741569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011046058923868378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neteru_365 私の高校は生徒会に参加したいと思っていましたが、面接があることを知って、行くことさえできませんでした。普通に面接に直面できる人は本当にスーパーマンです！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881948378453741569",
+        "conversation_id": "2011046058923868378",
+        "created_at": "2026-01-13T12:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T13:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011046058923868378"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2011046058923868378",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6606,
+          "like_count": 121,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "面接しんどいしんどいしんどいしんどいしんどいしんどいしんどいしんどいしんどいしんどいしんどいしんどいしんどいしんどいしんどいしんどいしんどいしんどいしんどいしんどいしんどいしんどい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一个偶尔变得哲学或者厌世的重度自闭男生。理想大概就是想尽自己的绵薄之力尽量缝补这个世界支离破碎的一面吧",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 270,
+          "like_count": 1227,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 575
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T06:14:16.000Z",
+        "description": "32歳、穏やかに暮らすためアルバイトしながら関東で一人暮らし。友達も恋人もいない。考え過ぎないように沢山ねてます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/neteru_365",
+                "end": 23,
+                "expanded_url": "https://note.com/neteru_365",
+                "start": 0,
+                "url": "https://t.co/8pKldda8X2"
+              }
+            ]
+          }
+        },
+        "id": "1881948378453741569",
+        "name": "ねてる",
+        "pinned_tweet_id": "1956228041304367566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004989256792698880/rfKsG3Pl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6447,
+          "following_count": 482,
+          "like_count": 13232,
+          "listed_count": 31,
+          "media_count": 85,
+          "tweet_count": 3123
+        },
+        "url": "https://t.co/8pKldda8X2",
+        "username": "neteru_365",
+        "verified": false
+      }
+    ]
+  }
+}

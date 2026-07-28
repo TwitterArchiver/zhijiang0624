@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2043362926808158715",
+    "created_at": "2026-04-13T10:21:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T11:21:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043635557478371411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1856703003677589504",
+          "start": 0,
+          "username": "wumouxk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043635557478371411",
+    "in_reply_to_user_id": "1856703003677589504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043628092804280323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wumouxk 知道"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2043628092804280323].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2043628092804280323",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2043628092804280323"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2043362926808158715",
+        "created_at": "2026-04-13T10:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T11:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043635557478371411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1856703003677589504",
+              "start": 0,
+              "username": "wumouxk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043635557478371411",
+        "in_reply_to_user_id": "1856703003677589504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043628092804280323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wumouxk 知道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 660,
+          "like_count": 10406,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 2162
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T14:25:26.000Z",
+        "description": "每天都好无聊，希望有人可以闯进我的生活\n难受，崩溃，与死亡",
+        "id": "1856703003677589504",
+        "location": "距离你5km",
+        "name": "好闲呐",
+        "pinned_tweet_id": "2036215812961476693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043113130990227456/HR1786at_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 256,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 109
+        },
+        "username": "wumouxk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2023980039935828189",
+    "created_at": "2026-02-18T14:04:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T15:04:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024122938664899053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1857119469757427712",
+          "start": 0,
+          "username": "When_tears"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024122938664899053",
+    "in_reply_to_user_id": "1857119469757427712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023980039935828189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@When_tears 怎么不加个等价交换？这样我木无限复活"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15000,
+        "height": 720,
+        "media_key": "13_2023979976400478208",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2023979976400478208/img/Q4ecB2k8h-Djcqxy.jpg",
+        "public_metrics": {
+          "view_count": 350
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023979976400478208/vid/avc1/480x270/uzVgjKB4un8y3zxH.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023979976400478208/vid/avc1/640x360/8wcxKSU5HZAbDL5I.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023979976400478208/vid/avc1/1280x720/A948tJQI-pGbNKy3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2023979976400478208/pl/FmtDBzOHUGX0IQN8.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2023980039935828189",
+        "created_at": "2026-02-18T14:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T15:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024122938664899053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1857119469757427712",
+              "start": 0,
+              "username": "When_tears"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024122938664899053",
+        "in_reply_to_user_id": "1857119469757427712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023980039935828189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@When_tears 怎么不加个等价交换？这样我木无限复活"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023979976400478208"
+          ]
+        },
+        "author_id": "1857119469757427712",
+        "conversation_id": "2023980039935828189",
+        "created_at": "2026-02-18T04:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T05:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023980039935828189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2z8cNRq462",
+              "end": 61,
+              "expanded_url": "https://x.com/When_tears/status/2023980039935828189/video/1",
+              "media_key": "13_2023979976400478208",
+              "start": 38,
+              "url": "https://t.co/2z8cNRq462"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023980039935828189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 866,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是，老公你听我解释，我真没想杀你全家，我就是想杀你妈，然后连锁采集忘关了 https://t.co/2z8cNRq462"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 420,
+          "like_count": 3517,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1223
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T17:52:53.000Z",
+        "description": "你好我是小红 纯绿🚪52 当朋友圈发 不回复除了口令之外的任何消息（女宝除外🥰）",
+        "id": "1857119469757427712",
+        "location": "距您487m",
+        "name": "唉",
+        "pinned_tweet_id": "2019310293512507629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937054760609222656/uscnCM4y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 112,
+          "like_count": 894,
+          "listed_count": 3,
+          "media_count": 170,
+          "tweet_count": 914
+        },
+        "username": "When_tears",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2038803087243272396",
+    "created_at": "2026-03-31T03:16:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T04:16:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038817597400154545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1851327101946953728",
+          "start": 0,
+          "username": "060105o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038817597400154545",
+    "in_reply_to_user_id": "1851327101946953728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038803087243272396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@060105o 不丢人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2038803087243272396",
+        "created_at": "2026-03-31T03:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T04:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038817597400154545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1851327101946953728",
+              "start": 0,
+              "username": "060105o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038817597400154545",
+        "in_reply_to_user_id": "1851327101946953728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038803087243272396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@060105o 不丢人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851327101946953728",
+        "conversation_id": "2038803087243272396",
+        "created_at": "2026-03-31T02:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T03:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038803087243272396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2038448034644934898",
+              "start": 34,
+              "url": "https://t.co/D7BoYyrZog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038803087243272396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038448034644934898",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "忘记我吧 我是个说出去丢人的存在 最好没有一个人注意到我 忘了我吧 https://t.co/D7BoYyrZog"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n07年纯种神经病\n如果哪里说得有错还请麻烦指点一下谢谢。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "Dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 622,
+          "like_count": 9258,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1985
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T18:16:07.000Z",
+        "description": "哇咔/双相情感障碍/自残/ 双性恋/生活推/疾病生活日记录/治愈/满怀希望就会所向披靡/希望可以和更多的人成为朋友 一起聊天 /(。•ω•。)ノ♡/树洞博主/即使你没有米但是你真诚有趣有分享生活的欲望你依然可以和我成为朋友/成为你的树洞 倾诉心中压力 为你而活 门槛🚪十块钱谢谢宝子们可怜我这路边一条",
+        "id": "1851327101946953728",
+        "location": "门槛10r  520米可打视频打电话",
+        "name": "哇咔",
+        "pinned_tweet_id": "1974600117425758366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855710973828702208/HGKYxt_T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1537,
+          "following_count": 513,
+          "like_count": 6770,
+          "listed_count": 3,
+          "media_count": 1758,
+          "tweet_count": 9131
+        },
+        "username": "060105o",
+        "verified": false
+      }
+    ]
+  }
+}

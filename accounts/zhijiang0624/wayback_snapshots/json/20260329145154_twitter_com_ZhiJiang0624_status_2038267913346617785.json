@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038267784162095105"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "conversation_id": "2038024614258016313",
+    "created_at": "2026-03-29T14:51:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T15:51:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038267913346617785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1194283796314509312",
+          "start": 0,
+          "username": "gana0w0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TzKyrAupDC",
+          "end": 64,
+          "expanded_url": "https://x.com/ZhiJiang0624/status/2038267913346617785/photo/1",
+          "media_key": "3_2038267784162095105",
+          "start": 41,
+          "url": "https://t.co/TzKyrAupDC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038267913346617785",
+    "in_reply_to_user_id": "1194283796314509312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038024614258016313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gana0w0 朋友朋友\n你参加过的\n只不过你想不起来那段时光了\n往日种种…… https://t.co/TzKyrAupDC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 355,
+        "media_key": "3_2038267784162095105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HElhwCAasAEZ-cG.jpg",
+        "width": 474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038267784162095105"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "conversation_id": "2038024614258016313",
+        "created_at": "2026-03-29T14:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T15:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038267913346617785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1194283796314509312",
+              "start": 0,
+              "username": "gana0w0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TzKyrAupDC",
+              "end": 64,
+              "expanded_url": "https://x.com/ZhiJiang0624/status/2038267913346617785/photo/1",
+              "media_key": "3_2038267784162095105",
+              "start": 41,
+              "url": "https://t.co/TzKyrAupDC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038267913346617785",
+        "in_reply_to_user_id": "1194283796314509312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038024614258016313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gana0w0 朋友朋友\n你参加过的\n只不过你想不起来那段时光了\n往日种种…… https://t.co/TzKyrAupDC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1194283796314509312",
+        "conversation_id": "2038024614258016313",
+        "created_at": "2026-03-28T22:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T23:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038024614258016313"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038024614258016313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 32338,
+          "like_count": 451,
+          "quote_count": 1,
+          "reply_count": 48,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我从来没参加过男生女生向前冲，我家却有一台冰箱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n07年纯种神经病\n如果哪里说得有错还请麻烦指点一下谢谢。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "Dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 618,
+          "like_count": 9191,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1979
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-12T16:00:27.000Z",
+        "description": "啥也没有",
+        "id": "1194283796314509312",
+        "name": "gana",
+        "pinned_tweet_id": "1729047749205893284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037029793020207106/4YO4Idrj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66714,
+          "following_count": 49,
+          "like_count": 9766,
+          "listed_count": 200,
+          "media_count": 1573,
+          "tweet_count": 6836
+        },
+        "username": "gana0w0",
+        "verified": false
+      }
+    ]
+  }
+}

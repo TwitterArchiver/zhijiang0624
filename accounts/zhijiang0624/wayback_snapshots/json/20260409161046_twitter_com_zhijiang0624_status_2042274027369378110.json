@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2042265951908102534",
+    "created_at": "2026-04-09T16:10:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T17:10:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042274027369378110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1859994685458239488",
+          "start": 0,
+          "username": "pu_xin68339"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042274027369378110",
+    "in_reply_to_user_id": "1859994685458239488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042265951908102534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pu_xin68339 还好吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2042265951908102534",
+        "created_at": "2026-04-09T16:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042274027369378110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1859994685458239488",
+              "start": 0,
+              "username": "pu_xin68339"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042274027369378110",
+        "in_reply_to_user_id": "1859994685458239488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042265951908102534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pu_xin68339 还好吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859994685458239488",
+        "conversation_id": "2042265951908102534",
+        "created_at": "2026-04-09T15:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042265951908102534"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042265951908102534",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 656,
+          "like_count": 10089,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 2112
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-22T16:17:52.000Z",
+        "description": "此X记录我的日常吐槽及疑惑 ｜某大专院校在校生｜不婚主义｜没有照片｜不加任何联系方式",
+        "id": "1859994685458239488",
+        "name": "林达",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041383814908583936/omsu8DHm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 18,
+          "like_count": 217,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 666
+        },
+        "username": "pu_xin68339",
+        "verified": false
+      }
+    ]
+  }
+}

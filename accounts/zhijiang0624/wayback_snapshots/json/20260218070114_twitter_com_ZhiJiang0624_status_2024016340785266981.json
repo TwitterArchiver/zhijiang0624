@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2023830709077729558",
+    "created_at": "2026-02-18T07:01:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T08:01:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024016340785266981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1803419024560365568",
+          "start": 0,
+          "username": "Sariel_143"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024016340785266981",
+    "in_reply_to_user_id": "1803419024560365568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024009787122610435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sariel_143 才发现锤几下就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2023830709077729558",
+        "created_at": "2026-02-18T07:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T08:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024016340785266981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1803419024560365568",
+              "start": 0,
+              "username": "Sariel_143"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024016340785266981",
+        "in_reply_to_user_id": "1803419024560365568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024009787122610435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sariel_143 才发现锤几下就好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803419024560365568",
+        "conversation_id": "2023830709077729558",
+        "created_at": "2026-02-18T06:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T07:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024009787122610435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "ZhiJiang0624"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024009787122610435",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023830709077729558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhiJiang0624 要不去医院看一下，看着文字就觉得好痛！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 419,
+          "like_count": 3458,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1205
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T13:26:26.000Z",
+        "description": "Still",
+        "id": "1803419024560365568",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "她胃不好总吃辣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022707113391460355/hoHWJu-a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 124,
+          "like_count": 315,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 69
+        },
+        "username": "Sariel_143",
+        "verified": false
+      }
+    ]
+  }
+}

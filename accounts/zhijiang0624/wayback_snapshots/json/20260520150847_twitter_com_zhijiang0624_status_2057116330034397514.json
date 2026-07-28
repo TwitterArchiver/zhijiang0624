@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057116322811858944"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2057012772857315705",
+    "created_at": "2026-05-20T15:08:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T16:08:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057116330034397514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1556198265061646336",
+          "start": 0,
+          "username": "hfymomoj"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2juqAsWW9z",
+          "end": 38,
+          "expanded_url": "https://x.com/zhijiang0624/status/2057116330034397514/photo/1",
+          "media_key": "3_2057116322811858944",
+          "start": 15,
+          "url": "https://t.co/2juqAsWW9z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057116330034397514",
+    "in_reply_to_user_id": "1556198265061646336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057012772857315705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hfymomoj ……\n草 https://t.co/2juqAsWW9z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057116322811858944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxYZYLb0AAkJDy.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057012765127237632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIv6NhvaYAA-iXb.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057116322811858944"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2057012772857315705",
+        "created_at": "2026-05-20T15:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T16:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057116330034397514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1556198265061646336",
+              "start": 0,
+              "username": "hfymomoj"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2juqAsWW9z",
+              "end": 38,
+              "expanded_url": "https://x.com/zhijiang0624/status/2057116330034397514/photo/1",
+              "media_key": "3_2057116322811858944",
+              "start": 15,
+              "url": "https://t.co/2juqAsWW9z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057116330034397514",
+        "in_reply_to_user_id": "1556198265061646336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057012772857315705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hfymomoj ……\n草 https://t.co/2juqAsWW9z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057012765127237632"
+          ]
+        },
+        "author_id": "1556198265061646336",
+        "conversation_id": "2057012772857315705",
+        "created_at": "2026-05-20T08:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T09:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057012772857315705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vZRYm4N5lM",
+              "end": 35,
+              "expanded_url": "https://x.com/hfymomoj/status/2057012772857315705/photo/1",
+              "media_key": "3_2057012765127237632",
+              "start": 12,
+              "url": "https://t.co/vZRYm4N5lM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057012772857315705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2301,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "术儿520还在上课呢… https://t.co/vZRYm4N5lM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 699,
+          "like_count": 12007,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 2490
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-07T08:39:24.000Z",
+        "description": "我是傻福 营业号在@Gniy666",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Gniy666"
+              }
+            ]
+          }
+        },
+        "id": "1556198265061646336",
+        "location": " 🚪520/1314",
+        "name": "治疗术",
+        "pinned_tweet_id": "1923963433491530106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015482573737381888/HVyMkmvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57749,
+          "following_count": 101,
+          "like_count": 4414,
+          "listed_count": 145,
+          "media_count": 180,
+          "tweet_count": 2528
+        },
+        "username": "hfymomoj",
+        "verified": false
+      }
+    ]
+  }
+}

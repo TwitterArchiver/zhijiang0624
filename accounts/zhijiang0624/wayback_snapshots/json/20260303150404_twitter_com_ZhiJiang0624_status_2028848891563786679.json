@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2028514987917103214",
+    "created_at": "2026-03-03T15:04:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T16:04:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028848891563786679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1556198265061646336",
+          "start": 0,
+          "username": "hfymomoj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028848891563786679",
+    "in_reply_to_user_id": "1556198265061646336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028514987917103214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hfymomoj 那不叫爱，那只是满足欲望的交易"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2028514987917103214",
+        "created_at": "2026-03-03T15:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T16:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028848891563786679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1556198265061646336",
+              "start": 0,
+              "username": "hfymomoj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028848891563786679",
+        "in_reply_to_user_id": "1556198265061646336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028514987917103214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hfymomoj 那不叫爱，那只是满足欲望的交易"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556198265061646336",
+        "conversation_id": "2028514987917103214",
+        "created_at": "2026-03-02T16:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T17:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028514987917103214"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028514987917103214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 15790,
+          "like_count": 307,
+          "quote_count": 5,
+          "reply_count": 27,
+          "retweet_count": 83
+        },
+        "reply_settings": "everyone",
+        "text": "别再用性这种作弊的方式得到爱了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 520,
+          "like_count": 5173,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1530
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-07T08:39:24.000Z",
+        "description": "发一些碎碎念 营业号私信在@Gniy666随缘互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Gniy666"
+              }
+            ]
+          }
+        },
+        "id": "1556198265061646336",
+        "location": " 让我明天有色彩",
+        "name": "治疗术",
+        "pinned_tweet_id": "1923963433491530106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015482573737381888/HVyMkmvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49850,
+          "following_count": 88,
+          "like_count": 2992,
+          "listed_count": 142,
+          "media_count": 150,
+          "tweet_count": 1848
+        },
+        "username": "hfymomoj",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2036526335867363333",
+    "created_at": "2026-03-25T07:20:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T08:20:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036704779397919118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1913884589724258304",
+          "start": 0,
+          "username": "CaTxTc_mini"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036704779397919118",
+    "in_reply_to_user_id": "1913884589724258304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036689821289345359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CaTxTc_mini 更后悔忘记买了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2036526335867363333",
+        "created_at": "2026-03-25T07:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T08:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036704779397919118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1913884589724258304",
+              "start": 0,
+              "username": "CaTxTc_mini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036704779397919118",
+        "in_reply_to_user_id": "1913884589724258304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036689821289345359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CaTxTc_mini 更后悔忘记买了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913884589724258304",
+        "conversation_id": "2036526335867363333",
+        "created_at": "2026-03-25T06:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T07:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036689821289345359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "ZhiJiang0624"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036689821289345359",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036526335867363333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhiJiang0624 奶酪棒是世界上最好吃的东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n07年纯种神经病\n如果哪里说得有错还请麻烦指点一下谢谢。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 610,
+          "like_count": 9028,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1952
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T09:17:16.000Z",
+        "description": "少女时代的生长痛是恨自己不够聪明 /@aaaaaaai_jiajia/南南@syxiaxiaoyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "aaaaaaai_jiajia"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "syxiaxiaoyu"
+              }
+            ]
+          }
+        },
+        "id": "1913884589724258304",
+        "location": "非男非女仅是沃尔玛购物袋",
+        "name": "柠檬酸辣无辜妈咪.",
+        "pinned_tweet_id": "2035017977612181729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036039865322942464/Fqk-6MmX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3850,
+          "following_count": 825,
+          "like_count": 45493,
+          "listed_count": 3,
+          "media_count": 251,
+          "tweet_count": 6892
+        },
+        "username": "CaTxTc_mini",
+        "verified": false
+      }
+    ]
+  }
+}

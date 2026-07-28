@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2055670548563374490",
+    "created_at": "2026-05-16T16:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T17:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055684914167922774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1543918989390532608",
+          "start": 0,
+          "username": "ouoicy77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055684914167922774",
+    "in_reply_to_user_id": "1543918989390532608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055670548563374490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ouoicy77 看哭11451419190810牢格林"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2055670548563374490",
+        "created_at": "2026-05-16T16:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055684914167922774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1543918989390532608",
+              "start": 0,
+              "username": "ouoicy77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055684914167922774",
+        "in_reply_to_user_id": "1543918989390532608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055670548563374490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ouoicy77 看哭11451419190810牢格林"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543918989390532608",
+        "conversation_id": "2055670548563374490",
+        "created_at": "2026-05-16T15:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T16:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055670548563374490"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055670548563374490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 384,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "就这样创造一个角色 让他经历所有常人不能想象的残酷 承受所有常人不能想象的痛苦 在最迷茫濒死的时候给他一点希望让他自以为抓住了光 然后在最接近幸福的时候狠狠把他踩回泥里"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 689,
+          "like_count": 11875,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 2436
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-04T11:25:54.000Z",
+        "description": "你破防的样子很可爱",
+        "id": "1543918989390532608",
+        "location": "除了互fo不扩列 非要扩给我521  无任何福利纯圈",
+        "name": "の",
+        "pinned_tweet_id": "1982968458557157589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920545101261996032/qHrE2K0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28487,
+          "following_count": 93,
+          "like_count": 5171,
+          "listed_count": 107,
+          "media_count": 229,
+          "tweet_count": 1163
+        },
+        "username": "ouoicy77",
+        "verified": false
+      }
+    ]
+  }
+}

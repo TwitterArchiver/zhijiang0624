@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2030610103452549590",
+    "created_at": "2026-03-08T12:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T13:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030623920253239641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2026850325492281344",
+          "start": 0,
+          "username": "Alexa4u2no"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030623920253239641",
+    "in_reply_to_user_id": "2026850325492281344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030614715660206307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alexa4u2no 是用尖嘴钳拔牙不小心夹碎了后的残余"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2030610103452549590",
+        "created_at": "2026-03-08T12:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T13:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030623920253239641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2026850325492281344",
+              "start": 0,
+              "username": "Alexa4u2no"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030623920253239641",
+        "in_reply_to_user_id": "2026850325492281344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030614715660206307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alexa4u2no 是用尖嘴钳拔牙不小心夹碎了后的残余"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026850325492281344",
+        "conversation_id": "2030610103452549590",
+        "created_at": "2026-03-08T12:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T13:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030614715660206307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "ZhiJiang0624"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030614715660206307",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030610103452549590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhiJiang0624 我去，这牙齿要小心啊，我们已经不是乳牙了😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 586,
+          "like_count": 7598,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1796
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-26T02:42:36.000Z",
+        "description": "我不愿再追逐",
+        "id": "2026850325492281344",
+        "location": "吃点啥呢",
+        "name": "alex4who",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026850593793572864/CKo6fn0t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 60,
+          "like_count": 1032,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 409
+        },
+        "username": "Alexa4u2no",
+        "verified": false
+      }
+    ]
+  }
+}

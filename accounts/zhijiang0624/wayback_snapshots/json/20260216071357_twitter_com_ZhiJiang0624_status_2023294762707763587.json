@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2023068323567878398",
+    "created_at": "2026-02-16T07:13:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T08:13:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023294762707763587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1845304648313323522",
+          "start": 0,
+          "username": "55juzi55_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023294762707763587",
+    "in_reply_to_user_id": "1845304648313323522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023068323567878398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@55juzi55_ 除夕快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2023068323567878398",
+        "created_at": "2026-02-16T07:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T08:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023294762707763587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1845304648313323522",
+              "start": 0,
+              "username": "55juzi55_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023294762707763587",
+        "in_reply_to_user_id": "1845304648313323522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023068323567878398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@55juzi55_ 除夕快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845304648313323522",
+        "conversation_id": "2023068323567878398",
+        "created_at": "2026-02-15T16:14:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T17:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023068323567878398"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023068323567878398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1715,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "除！夕！快！乐！！！（超大声）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 345,
+          "like_count": 2919,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1022
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T03:25:04.000Z",
+        "description": "‼️私信前请先关注丨优先回复🚪/有意思的/女孩子丨当朋友圈发丨直接发屌死全家丨🚪可加联系方式丨欢迎美女宝宝互关丨接陪玩丨喜欢帅哥美女丨礼貌一点互相尊重谢谢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/juzi.mood",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/juzi.mood",
+                "start": 0,
+                "url": "https://t.co/ymlXKHVLfK"
+              }
+            ]
+          }
+        },
+        "id": "1845304648313323522",
+        "location": "🚪98/188/520没什么实际区别",
+        "name": "欣欣",
+        "pinned_tweet_id": "2021138914254389481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924989316138467328/bwN8esp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 73,
+          "like_count": 1983,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1131
+        },
+        "url": "https://t.co/ymlXKHVLfK",
+        "username": "55juzi55_",
+        "verified": false
+      }
+    ]
+  }
+}

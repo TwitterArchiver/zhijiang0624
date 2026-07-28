@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055622850560806912",
+        "3_2055622850548236288",
+        "3_2055622850556653568",
+        "3_2055622850560798720"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "conversation_id": "2055623144464109820",
+    "created_at": "2026-05-16T12:15:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T13:15:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055623144464109820"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CKKCart7ga",
+          "end": 113,
+          "expanded_url": "https://x.com/zhijiang0624/status/2055623144464109820/photo/1",
+          "media_key": "3_2055622850560806912",
+          "start": 90,
+          "url": "https://t.co/CKKCart7ga"
+        },
+        {
+          "display_url": "pic.x.com/CKKCart7ga",
+          "end": 113,
+          "expanded_url": "https://x.com/zhijiang0624/status/2055623144464109820/photo/1",
+          "media_key": "3_2055622850548236288",
+          "start": 90,
+          "url": "https://t.co/CKKCart7ga"
+        },
+        {
+          "display_url": "pic.x.com/CKKCart7ga",
+          "end": 113,
+          "expanded_url": "https://x.com/zhijiang0624/status/2055623144464109820/photo/1",
+          "media_key": "3_2055622850556653568",
+          "start": 90,
+          "url": "https://t.co/CKKCart7ga"
+        },
+        {
+          "display_url": "pic.x.com/CKKCart7ga",
+          "end": 113,
+          "expanded_url": "https://x.com/zhijiang0624/status/2055623144464109820/photo/1",
+          "media_key": "3_2055622850560798720",
+          "start": 90,
+          "url": "https://t.co/CKKCart7ga"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055623144464109820",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我他妈走了三四个小时！\n妈的！\n因为不知道潮汐表这个东西\n白走了！\n白走了！\n呃啊啊啊啊！\n明明好不容易等到放假！\n退潮期！\n淤泥还很多我的鞋子走不动！\n我哭了！\n哇啊啊啊啊啊！ https://t.co/CKKCart7ga"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2055622850560806912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcKF2faUAAxGLu.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2055622850548236288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcKF2cagAAJmOW.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2055622850556653568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcKF2ea8AAmObv.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3200,
+        "media_key": "3_2055622850560798720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcKF2faMAAwmvf.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055622850560806912",
+            "3_2055622850548236288",
+            "3_2055622850556653568",
+            "3_2055622850560798720"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "conversation_id": "2055623144464109820",
+        "created_at": "2026-05-16T12:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055623144464109820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CKKCart7ga",
+              "end": 113,
+              "expanded_url": "https://x.com/zhijiang0624/status/2055623144464109820/photo/1",
+              "media_key": "3_2055622850560806912",
+              "start": 90,
+              "url": "https://t.co/CKKCart7ga"
+            },
+            {
+              "display_url": "pic.x.com/CKKCart7ga",
+              "end": 113,
+              "expanded_url": "https://x.com/zhijiang0624/status/2055623144464109820/photo/1",
+              "media_key": "3_2055622850548236288",
+              "start": 90,
+              "url": "https://t.co/CKKCart7ga"
+            },
+            {
+              "display_url": "pic.x.com/CKKCart7ga",
+              "end": 113,
+              "expanded_url": "https://x.com/zhijiang0624/status/2055623144464109820/photo/1",
+              "media_key": "3_2055622850556653568",
+              "start": 90,
+              "url": "https://t.co/CKKCart7ga"
+            },
+            {
+              "display_url": "pic.x.com/CKKCart7ga",
+              "end": 113,
+              "expanded_url": "https://x.com/zhijiang0624/status/2055623144464109820/photo/1",
+              "media_key": "3_2055622850560798720",
+              "start": 90,
+              "url": "https://t.co/CKKCart7ga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055623144464109820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈走了三四个小时！\n妈的！\n因为不知道潮汐表这个东西\n白走了！\n白走了！\n呃啊啊啊啊！\n明明好不容易等到放假！\n退潮期！\n淤泥还很多我的鞋子走不动！\n我哭了！\n哇啊啊啊啊啊！ https://t.co/CKKCart7ga"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 686,
+          "like_count": 11819,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 2421
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      }
+    ]
+  }
+}

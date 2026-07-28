@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2022993679007572237",
+    "created_at": "2026-02-15T16:34:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T17:34:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023073552979873848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1249569451587977218",
+          "start": 0,
+          "username": "fly_freedom66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023073552979873848",
+    "in_reply_to_user_id": "1249569451587977218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022993679007572237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fly_freedom66 除夕快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2022993679007572237",
+        "created_at": "2026-02-15T16:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T17:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023073552979873848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1249569451587977218",
+              "start": 0,
+              "username": "fly_freedom66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023073552979873848",
+        "in_reply_to_user_id": "1249569451587977218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022993679007572237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fly_freedom66 除夕快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1249569451587977218",
+        "conversation_id": "2022993679007572237",
+        "created_at": "2026-02-15T11:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T12:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022993679007572237"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022993679007572237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 291,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在特别伤心时候发的信息是期待被回复的 被安慰的 如果不被回复 不想说什么了 就这样吧 以后也不会发了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 320,
+          "like_count": 2748,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 925
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T05:25:58.000Z",
+        "description": "静静地 静静地",
+        "id": "1249569451587977218",
+        "location": "蛋挞之星",
+        "name": "突突突皇上（不淡淡地版）",
+        "pinned_tweet_id": "2020863710718308719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020093214427082765/J909nxmt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5654,
+          "following_count": 33,
+          "like_count": 947,
+          "listed_count": 7,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "fly_freedom66",
+        "verified": false
+      }
+    ]
+  }
+}

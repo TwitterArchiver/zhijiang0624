@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2074913647847936089",
+    "created_at": "2026-07-08T22:48:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T23:48:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074989152148595179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1987149235910025223",
+          "start": 0,
+          "username": "ZhiMao86135"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074989152148595179",
+    "in_reply_to_user_id": "1987149235910025223",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074913647847936089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhiMao86135 好好休息，早日想开"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2074913647847936089",
+        "created_at": "2026-07-08T22:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T23:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074989152148595179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1987149235910025223",
+              "start": 0,
+              "username": "ZhiMao86135"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074989152148595179",
+        "in_reply_to_user_id": "1987149235910025223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074913647847936089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhiMao86135 好好休息，早日想开"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987149235910025223",
+        "conversation_id": "2074913647847936089",
+        "created_at": "2026-07-08T17:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T18:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074913647847936089"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074913647847936089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 284,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我这次真的会停更很久，自残胳膊已经很难看了，我不想再更新了，我真的很缺爱很缺爱，我真的很后悔。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 747,
+          "like_count": 13326,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 2686
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-08T13:24:39.000Z",
+        "description": "无期限停更，如果回不了话可能是进医院了\n约拍私聊（只约拍正常正片/场照）\n约拍没作品就别私信我了，约拍发自己的作品\n不聊黄不发涩图不约炮知道吗，我上推特纯属被封号逼的\n发点自己喜欢的",
+        "id": "1987149235910025223",
+        "location": "中国",
+        "name": "芝芝芝芝芝芝士千层喵酱",
+        "pinned_tweet_id": "2074913647847936089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059658136815034368/g15O0uPR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5110,
+          "following_count": 10,
+          "like_count": 109,
+          "listed_count": 19,
+          "media_count": 137,
+          "tweet_count": 439
+        },
+        "url": "",
+        "username": "ZhiMao86135",
+        "verified": false
+      }
+    ]
+  }
+}

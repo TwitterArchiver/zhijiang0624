@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2030493572009762907",
+    "created_at": "2026-03-08T14:14:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T15:14:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030648385288667267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1824003279132794880",
+          "start": 0,
+          "username": "VzsKC39WrP30060"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030648385288667267",
+    "in_reply_to_user_id": "1824003279132794880",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030646935393349749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VzsKC39WrP30060 😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2030493572009762907",
+        "created_at": "2026-03-08T14:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T15:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030648385288667267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1824003279132794880",
+              "start": 0,
+              "username": "VzsKC39WrP30060"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030648385288667267",
+        "in_reply_to_user_id": "1824003279132794880",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030646935393349749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VzsKC39WrP30060 😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824003279132794880",
+        "conversation_id": "2030493572009762907",
+        "created_at": "2026-03-08T14:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T15:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030646935393349749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "ZhiJiang0624"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030646935393349749",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030644131450827219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhiJiang0624 这猪鼻班主任真傻逼啊，要是我们初中老师也是这样早就有第二个人跳了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 586,
+          "like_count": 7630,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1805
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T08:40:59.000Z",
+        "description": "",
+        "id": "1824003279132794880",
+        "name": "诱人的薯条",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824003404047491072/SEeC-R-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 155,
+          "like_count": 17340,
+          "listed_count": 0,
+          "media_count": 242,
+          "tweet_count": 2295
+        },
+        "username": "VzsKC39WrP30060",
+        "verified": false
+      }
+    ]
+  }
+}

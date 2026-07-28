@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2030077915954888981",
+    "created_at": "2026-03-07T02:40:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T03:40:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030111290748981704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1476546742577504265",
+          "start": 0,
+          "username": "luoshuyao"
+        },
+        {
+          "end": 27,
+          "id": "1591049718188081153",
+          "start": 11,
+          "username": "Fullcounter1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030111290748981704",
+    "in_reply_to_user_id": "1476546742577504265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030082847881711823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luoshuyao @Fullcounter1111 药物会给幻觉\n或者造成激素异常让情绪亢奋（过度快乐）\n原因的话……\n现实太痛苦，或者只是为了爽吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2030077915954888981",
+        "created_at": "2026-03-07T02:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T03:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030111290748981704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            },
+            {
+              "end": 27,
+              "id": "1591049718188081153",
+              "start": 11,
+              "username": "Fullcounter1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030111290748981704",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030082847881711823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao @Fullcounter1111 药物会给幻觉\n或者造成激素异常让情绪亢奋（过度快乐）\n原因的话……\n现实太痛苦，或者只是为了爽吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2030077915954888981",
+        "created_at": "2026-03-07T00:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T01:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030082847881711823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1591049718188081153",
+              "start": 0,
+              "username": "Fullcounter1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030082847881711823",
+        "in_reply_to_user_id": "1591049718188081153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030079648055578673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fullcounter1111 你觉得为什么一些人会这样做呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 563,
+          "like_count": 6841,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1715
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "INFP‖究极社恐‖什么都发，偶尔会平静的发疯。欢迎和所有人类交朋友，反社会反人类的物种除外。不键政，不聊H。目前已经是步入社会的苦命打工人。（但其实我一直感觉自己还是个孩子）\n欢迎互fo",
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027060681129009153/S2K_RWOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 158,
+          "like_count": 1444,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 386
+        },
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-11T12:47:02.000Z",
+        "description": "男 喜欢 动漫/游戏/音乐/足球/羽毛球/狗/女孩子/单马尾/白色贝雷帽",
+        "id": "1591049718188081153",
+        "name": "我有心吗",
+        "pinned_tweet_id": "1999374045780078953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016004904134098944/DCa-9CNm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 23,
+          "like_count": 298,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 3321
+        },
+        "username": "Fullcounter1111",
+        "verified": false
+      }
+    ]
+  }
+}

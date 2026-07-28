@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2009552221583884442",
+    "created_at": "2026-01-09T10:15:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T11:15:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009569641249849406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1822992709193179136",
+          "start": 0,
+          "username": "de_fang92352"
+        },
+        {
+          "end": 21,
+          "id": "1985319209501659136",
+          "start": 14,
+          "username": "253ESU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009569641249849406",
+    "in_reply_to_user_id": "1822992709193179136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009553470089519152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@de_fang92352 @253ESU 不，人之初，性本无，是环境的影响让人发生改变的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2009552221583884442",
+        "created_at": "2026-01-09T10:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T11:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009569641249849406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1822992709193179136",
+              "start": 0,
+              "username": "de_fang92352"
+            },
+            {
+              "end": 21,
+              "id": "1985319209501659136",
+              "start": 14,
+              "username": "253ESU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009569641249849406",
+        "in_reply_to_user_id": "1822992709193179136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009553470089519152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@de_fang92352 @253ESU 不，人之初，性本无，是环境的影响让人发生改变的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822992709193179136",
+        "conversation_id": "2009552221583884442",
+        "created_at": "2026-01-09T09:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T10:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009553470089519152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1985319209501659136",
+              "start": 0,
+              "username": "253ESU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009553470089519152",
+        "in_reply_to_user_id": "1985319209501659136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009552221583884442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@253ESU 其实这个时候我又要说了 人之初性本恶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一个偶尔变得哲学或者厌世的重度自闭男生。理想大概就是想尽自己的绵薄之力尽量缝补这个世界支离破碎的一面吧",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 241,
+          "like_count": 908,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 526
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-12T13:45:15.000Z",
+        "description": "汉堡门传人 看见就回 没回骂我 24年11月开始练的新手一个🤨",
+        "id": "1822992709193179136",
+        "location": "0.001km",
+        "name": "压力马斯内",
+        "pinned_tweet_id": "1895339844060262576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937066987290599424/jnaGY33d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 21,
+          "like_count": 10696,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1188
+        },
+        "username": "de_fang92352",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-03T12:13:11.000Z",
+        "description": "m，双性恋，纯纯精神病，喜欢身材好一点的男生，没有门槛不加好友！不露点，不语音，不拍视频，聊天看心情别催我，太烦的我会给你毕业！位置不是这个地方不在香港",
+        "id": "1985319209501659136",
+        "location": "Hong Kong",
+        "name": "梦",
+        "pinned_tweet_id": "2007888541205111080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985925454336049155/PhFmUP_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 3,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 142
+        },
+        "username": "253ESU",
+        "verified": false
+      }
+    ]
+  }
+}

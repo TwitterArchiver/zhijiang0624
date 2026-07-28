@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2011026648502808576"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "conversation_id": "2010994036258324913",
+    "created_at": "2026-01-13T10:44:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T11:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011026662323032300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1475871994780712963",
+          "start": 0,
+          "username": "lingshifeizhai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3e0Ndu28L8",
+          "end": 49,
+          "expanded_url": "https://x.com/ZhiJiang0624/status/2011026662323032300/photo/1",
+          "media_key": "3_2011026648502808576",
+          "start": 26,
+          "url": "https://t.co/3e0Ndu28L8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011026662323032300",
+    "in_reply_to_user_id": "1475871994780712963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010994036258324913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingshifeizhai 何意味是什么意思？ https://t.co/3e0Ndu28L8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2011026648502808576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-iaFPnasAAflZU.jpg",
+        "width": 922
+      },
+      {
+        "duration_ms": 5041,
+        "height": 910,
+        "media_key": "13_2010993974618832901",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2010993974618832901/img/BFcG4X1kJMYV6uJZ.jpg",
+        "public_metrics": {
+          "view_count": 33
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010993974618832901/vid/avc1/320x404/B-yUzDJobOJ5gO-R.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010993974618832901/vid/avc1/480x606/kbj0fznAqsb9VZSG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010993974618832901/vid/avc1/720x910/FVP97d_cM5nhUN4-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2010993974618832901/pl/SHnyJQUNeM2vnM8j.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011026648502808576"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "conversation_id": "2010994036258324913",
+        "created_at": "2026-01-13T10:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T11:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011026662323032300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1475871994780712963",
+              "start": 0,
+              "username": "lingshifeizhai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3e0Ndu28L8",
+              "end": 49,
+              "expanded_url": "https://x.com/ZhiJiang0624/status/2011026662323032300/photo/1",
+              "media_key": "3_2011026648502808576",
+              "start": 26,
+              "url": "https://t.co/3e0Ndu28L8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011026662323032300",
+        "in_reply_to_user_id": "1475871994780712963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010994036258324913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingshifeizhai 何意味是什么意思？ https://t.co/3e0Ndu28L8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2010993974618832901"
+          ]
+        },
+        "author_id": "1475871994780712963",
+        "conversation_id": "2010994036258324913",
+        "created_at": "2026-01-13T08:35:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T09:35:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010994036258324913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QOEDqk44oj",
+              "end": 142,
+              "expanded_url": "https://x.com/lingshifeizhai/status/2010994036258324913/video/1",
+              "media_key": "13_2010993974618832901",
+              "start": 119,
+              "url": "https://t.co/QOEDqk44oj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010994036258324913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃嗯～～哈哦呃嗯哈～！呼呃～！啊！嗯呃嗯～哈～唔呃咿！咕！啊呃咕唔！唔！呃啊哈！～咕呃～～噢～哈呃咕唔呃唔呼呃咿哈哈！～呃呼唔哼～哼呃嗯！哼！噢呃～唔呼～呃呃～！啊！嗯呃嗯～哈～唔呃咿！咕！啊呃咕唔！唔！呃哈哈！～呼呃嗯～咕～呼呃咕唔❤ https://t.co/QOEDqk44oj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一个偶尔变得哲学或者厌世的重度自闭男生。理想大概就是想尽自己的绵薄之力尽量缝补这个世界支离破碎的一面吧",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 269,
+          "like_count": 1170,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 592
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-28T16:51:27.000Z",
+        "description": "男，孩子不懂事拍着玩的。可以分享穿搭其他的不闲聊",
+        "id": "1475871994780712963",
+        "location": "🚪V我50",
+        "name": "||||||||||||||||||||||||||||||||||||||||||||||||||",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980183965693571076/NcxktjtK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 300,
+          "like_count": 2995,
+          "listed_count": 7,
+          "media_count": 10,
+          "tweet_count": 112
+        },
+        "username": "lingshifeizhai",
+        "verified": false
+      }
+    ]
+  }
+}

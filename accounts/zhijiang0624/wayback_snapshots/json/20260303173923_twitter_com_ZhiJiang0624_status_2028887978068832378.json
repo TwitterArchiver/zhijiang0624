@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2028886684247687504",
+    "created_at": "2026-03-03T17:39:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T18:39:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028887978068832378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1924586958854225922",
+          "start": 0,
+          "username": "yuqingru_qw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028887978068832378",
+    "in_reply_to_user_id": "1924586958854225922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028887841313571209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuqingru_qw 就是这样，短时间内关注太多就会这样，我也遇到过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2028886684247687504",
+        "created_at": "2026-03-03T17:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T18:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028887978068832378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1924586958854225922",
+              "start": 0,
+              "username": "yuqingru_qw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028887978068832378",
+        "in_reply_to_user_id": "1924586958854225922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028887841313571209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuqingru_qw 就是这样，短时间内关注太多就会这样，我也遇到过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924586958854225922",
+        "conversation_id": "2028886684247687504",
+        "created_at": "2026-03-03T17:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T18:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028887841313571209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "ZhiJiang0624"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028887841313571209",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028886857384415561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhiJiang0624 我不知道，感觉是一天里关注的人太多了被X怀疑我是机器人了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 529,
+          "like_count": 5339,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1565
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-19T22:04:39.000Z",
+        "description": "汉族/女/汉语言专业硕士/←/偶像列和毛/\n               大龄二次元爱打游戏，想到什么发什么\n我上X就是为了看看全世界的傻比段子！\n你爱你的国家，我也爱我的国家，不建政，你说啥都是你对只要别给我发牛子🙏🏼\n不卖图不加V没门槛我喜欢你记得每天按时吃饭",
+        "id": "1924586958854225922",
+        "name": "橙汁°",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028507271458865153/w-s_8GWK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 131,
+          "like_count": 1071,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 349
+        },
+        "username": "yuqingru_qw",
+        "verified": false
+      }
+    ]
+  }
+}

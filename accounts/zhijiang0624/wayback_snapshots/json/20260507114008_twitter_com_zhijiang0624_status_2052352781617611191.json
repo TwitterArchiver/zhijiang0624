@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2051923207842852975",
+    "created_at": "2026-05-07T11:40:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T12:40:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052352781617611191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1554534639293059073",
+          "start": 0,
+          "username": "Hoshikan_Uru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052352781617611191",
+    "in_reply_to_user_id": "1554534639293059073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051923207842852975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hoshikan_Uru 去看看更多的风景\n去帮帮更多有需要的人\n睡好觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2051923207842852975",
+        "created_at": "2026-05-07T11:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T12:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052352781617611191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1554534639293059073",
+              "start": 0,
+              "username": "Hoshikan_Uru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052352781617611191",
+        "in_reply_to_user_id": "1554534639293059073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051923207842852975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hoshikan_Uru 去看看更多的风景\n去帮帮更多有需要的人\n睡好觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554534639293059073",
+        "conversation_id": "2051923207842852975",
+        "created_at": "2026-05-06T07:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T08:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051923207842852975"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051923207842852975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 44478,
+          "like_count": 353,
+          "quote_count": 23,
+          "reply_count": 375,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "想问问推友们的理想都是什么或者因为什么而活着(｡&gt;∀&lt;｡)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 680,
+          "like_count": 11578,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 2352
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T18:28:47.000Z",
+        "description": "🌌   //   静谧 | 旅程 | 萌系 | 地理环境气象生态CogSci | 人文社科 | DS→CS→LLM   //   本垢 | 音乐图文日记本 | 润ちゃん的小屋   //   欢迎一起交流玩耍～   //    小可爱 @HotoCocoaOvO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "HotoCocoaOvO"
+              }
+            ]
+          }
+        },
+        "id": "1554534639293059073",
+        "location": "润之间",
+        "name": "星间润",
+        "pinned_tweet_id": "1768673073170088425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918283413758590977/S2LVoIWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 593,
+          "like_count": 19174,
+          "listed_count": 8,
+          "media_count": 601,
+          "tweet_count": 7019
+        },
+        "username": "Hoshikan_Uru",
+        "verified": false
+      }
+    ]
+  }
+}

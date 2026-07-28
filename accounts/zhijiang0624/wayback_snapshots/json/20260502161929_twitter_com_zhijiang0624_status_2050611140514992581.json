@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2050594432987312372",
+    "created_at": "2026-05-02T16:19:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T17:19:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050611140514992581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2003458782148591616",
+          "start": 0,
+          "username": "dipinchangdou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050611140514992581",
+    "in_reply_to_user_id": "2003458782148591616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050594432987312372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dipinchangdou 快手上也关注你了\n很好啊！\n缘分啊！\n必须关注一手！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 135651,
+        "height": 720,
+        "media_key": "7_2050593944715907072",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2050593944715907072/pu/img/eCl0Bvls2otJD-uy.jpg",
+        "public_metrics": {
+          "view_count": 1443
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050593944715907072/pu/vid/avc1/320x320/NE0sfA95dy7VshIO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050593944715907072/pu/vid/avc1/540x540/MrjvTShK8gNEuWla.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050593944715907072/pu/vid/avc1/720x720/12_YBWMe9RtMZZS2.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2050593944715907072/pu/pl/q7yRZGs9N2nCtXiI.m3u8?tag=12&v=64a"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2050594432987312372",
+        "created_at": "2026-05-02T16:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T17:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050611140514992581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2003458782148591616",
+              "start": 0,
+              "username": "dipinchangdou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050611140514992581",
+        "in_reply_to_user_id": "2003458782148591616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050594432987312372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dipinchangdou 快手上也关注你了\n很好啊！\n缘分啊！\n必须关注一手！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2050593944715907072"
+          ]
+        },
+        "author_id": "2003458782148591616",
+        "conversation_id": "2050594432987312372",
+        "created_at": "2026-05-02T15:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T16:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050594432987312372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7KaVnVezSp",
+              "end": 39,
+              "expanded_url": "https://x.com/dipinchangdou/status/2050594432987312372/video/1",
+              "media_key": "7_2050593944715907072",
+              "start": 16,
+              "url": "https://t.co/7KaVnVezSp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050594432987312372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 2302,
+          "like_count": 115,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "一点小故事\n虽然国内已经发过了 https://t.co/7KaVnVezSp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 682,
+          "like_count": 11455,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 2331
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-23T13:33:01.000Z",
+        "description": "随便画画\n\npixiv：23922114",
+        "id": "2003458782148591616",
+        "name": "抖频颤低",
+        "pinned_tweet_id": "2034725241105367508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003467341271826434/iyfMWB_9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1698,
+          "following_count": 12,
+          "like_count": 57,
+          "listed_count": 3,
+          "media_count": 12,
+          "tweet_count": 28
+        },
+        "username": "dipinchangdou",
+        "verified": false
+      }
+    ]
+  }
+}

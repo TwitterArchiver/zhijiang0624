@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2042908754036101311",
+    "created_at": "2026-04-11T11:00:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T12:00:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042920769718829423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1040062430171344897",
+          "start": 0,
+          "username": "lizisu2000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042920769718829423",
+    "in_reply_to_user_id": "1040062430171344897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042908754036101311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lizisu2000 想被认可\n想确认「无遮掩」的自己不是「丑陋」的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2042908754036101311",
+        "created_at": "2026-04-11T11:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T12:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042920769718829423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1040062430171344897",
+              "start": 0,
+              "username": "lizisu2000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042920769718829423",
+        "in_reply_to_user_id": "1040062430171344897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042908754036101311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lizisu2000 想被认可\n想确认「无遮掩」的自己不是「丑陋」的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1040062430171344897",
+        "conversation_id": "2042908754036101311",
+        "created_at": "2026-04-11T10:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042908754036101311"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042908754036101311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 624,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给喜欢的人分享大尺度照片我会很高兴，尤其是被夸后，这是什么心理"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 658,
+          "like_count": 10304,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 2145
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-13T02:19:41.000Z",
+        "description": "讨好型人格",
+        "id": "1040062430171344897",
+        "location": "🚪66",
+        "name": "栗子酥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885784306506924032/b6XBEVGI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169859,
+          "following_count": 23,
+          "like_count": 1664,
+          "listed_count": 249,
+          "media_count": 542,
+          "tweet_count": 1246
+        },
+        "username": "lizisu2000",
+        "verified": false
+      }
+    ]
+  }
+}

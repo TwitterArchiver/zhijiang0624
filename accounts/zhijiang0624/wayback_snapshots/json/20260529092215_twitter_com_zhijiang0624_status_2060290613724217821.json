@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2060021029330907148",
+    "created_at": "2026-05-29T09:22:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T10:22:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060290613724217821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2016536780502437888",
+          "start": 0,
+          "username": "Stormi_luv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060290613724217821",
+    "in_reply_to_user_id": "2016536780502437888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060021029330907148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stormi_luv 我发帖是因为我真的很无聊\n无人在意也无所谓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2060021029330907148",
+        "created_at": "2026-05-29T09:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060290613724217821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2016536780502437888",
+              "start": 0,
+              "username": "Stormi_luv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060290613724217821",
+        "in_reply_to_user_id": "2016536780502437888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060021029330907148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stormi_luv 我发帖是因为我真的很无聊\n无人在意也无所谓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016536780502437888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2060021029330907148",
+        "created_at": "2026-05-28T15:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060021029330907148"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060021029330907148",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 30751,
+          "like_count": 588,
+          "quote_count": 146,
+          "reply_count": 307,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "would you still tweet if you got zero likes on all your posts ???"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 707,
+          "like_count": 12403,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 2567
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-28T15:40:30.000Z",
+        "description": "calm vibes • kind talks\n\nbuilding a soft moots space 🤍",
+        "id": "2016536780502437888",
+        "name": "Stormi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017564153301671936/4sexUWRu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2631,
+          "following_count": 686,
+          "like_count": 3528,
+          "listed_count": 9,
+          "media_count": 73,
+          "tweet_count": 1178
+        },
+        "username": "Stormi_luv",
+        "verified": true
+      }
+    ]
+  }
+}

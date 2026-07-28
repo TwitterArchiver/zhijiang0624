@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2022687246525341893",
+    "created_at": "2026-02-15T01:43:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T02:43:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022849254881153496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1651603407957004289",
+          "start": 0,
+          "username": "dooo9768"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022849254881153496",
+    "in_reply_to_user_id": "1651603407957004289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022687246525341893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dooo9768 很难想象会有平时说孩子不愿意和家长交流，孩子真的到面前倾诉了又会用孩子心里的那根刺阴阳孩子的母亲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2022687246525341893",
+        "created_at": "2026-02-15T01:43:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T02:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022849254881153496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1651603407957004289",
+              "start": 0,
+              "username": "dooo9768"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022849254881153496",
+        "in_reply_to_user_id": "1651603407957004289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022687246525341893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dooo9768 很难想象会有平时说孩子不愿意和家长交流，孩子真的到面前倾诉了又会用孩子心里的那根刺阴阳孩子的母亲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1651603407957004289",
+        "conversation_id": "2022687246525341893",
+        "created_at": "2026-02-14T14:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T15:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022687246525341893"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022687246525341893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 215,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好想抱着妈妈狠狠的哭一场\n但现实是我的眼泪刚刚掉出来还没等凑到妈妈身边就会开始挨骂了\n我的真妈妈去哪了 我想要我妈妈抱抱我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 315,
+          "like_count": 2542,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 826
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-27T15:05:21.000Z",
+        "description": "要做自己包容的母亲，茁壮的孩子，温柔的伴侣",
+        "id": "1651603407957004289",
+        "name": "里里",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009276731539247104/DuIo5R8w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1608,
+          "following_count": 78,
+          "like_count": 9909,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 3846
+        },
+        "username": "dooo9768",
+        "verified": false
+      }
+    ]
+  }
+}

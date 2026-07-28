@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2059627025170903478",
+    "created_at": "2026-05-27T15:10:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T16:10:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059653453237116978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1510243706347028482",
+          "start": 0,
+          "username": "Qyunachii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059653453237116978",
+    "in_reply_to_user_id": "1510243706347028482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059627025170903478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qyunachii 我要一直坐着不让你压下去，然后瞬间起来让你体验下坠感，最后再坐下去让你——飞起来！\n（手动神鹰）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2059627025170903478",
+        "created_at": "2026-05-27T15:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059653453237116978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1510243706347028482",
+              "start": 0,
+              "username": "Qyunachii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059653453237116978",
+        "in_reply_to_user_id": "1510243706347028482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059627025170903478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qyunachii 我要一直坐着不让你压下去，然后瞬间起来让你体验下坠感，最后再坐下去让你——飞起来！\n（手动神鹰）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510243706347028482",
+        "conversation_id": "2059627025170903478",
+        "created_at": "2026-05-27T13:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059627025170903478"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059627025170903478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉我真的需要一个线下关系很好的朋友，严格来说我好像一个朋友都没有，需要一个能够陪我玩跷跷板的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 706,
+          "like_count": 12242,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 2541
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-02T13:12:25.000Z",
+        "description": "如果觉得被冒犯了那是我的猫发的，它有四个爪子打字比我快。如果你讨厌アトラス那我们就是好朋友。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chiqyuna",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chiqyuna",
+                "start": 0,
+                "url": "https://t.co/MzdDuzes1D"
+              }
+            ]
+          }
+        },
+        "id": "1510243706347028482",
+        "location": "四軒茶屋",
+        "name": "…",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047131412747444224/nLWdoqbB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 453,
+          "like_count": 6240,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1633
+        },
+        "url": "https://t.co/MzdDuzes1D",
+        "username": "Qyunachii",
+        "verified": false
+      }
+    ]
+  }
+}

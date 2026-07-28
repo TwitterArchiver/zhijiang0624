@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023294647725088768"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "conversation_id": "2023294659972493765",
+    "created_at": "2026-02-16T07:13:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T08:13:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023294659972493765"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/McAqDC4X0I",
+          "end": 69,
+          "expanded_url": "https://x.com/ZhiJiang0624/status/2023294659972493765/photo/1",
+          "media_key": "3_2023294647725088768",
+          "start": 46,
+          "url": "https://t.co/McAqDC4X0I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023294659972493765",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不是原生家庭伤害吗？你们那些红包是何意味？现在我不想好心情了，一个红包也没收到，看卖狗去了 https://t.co/McAqDC4X0I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2023294647725088768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBQvwyGaYAAZe1s.jpg",
+        "width": 2400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023294647725088768"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "conversation_id": "2023294659972493765",
+        "created_at": "2026-02-16T07:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T08:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023294659972493765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/McAqDC4X0I",
+              "end": 69,
+              "expanded_url": "https://x.com/ZhiJiang0624/status/2023294659972493765/photo/1",
+              "media_key": "3_2023294647725088768",
+              "start": 46,
+              "url": "https://t.co/McAqDC4X0I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023294659972493765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是原生家庭伤害吗？你们那些红包是何意味？现在我不想好心情了，一个红包也没收到，看卖狗去了 https://t.co/McAqDC4X0I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 345,
+          "like_count": 2918,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1021
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      }
+    ]
+  }
+}

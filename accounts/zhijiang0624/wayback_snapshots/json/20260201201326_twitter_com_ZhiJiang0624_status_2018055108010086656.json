@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2018016001691201797",
+    "created_at": "2026-02-01T20:13:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T21:13:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018055108010086656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1765768192675454976",
+          "start": 0,
+          "username": "qazxx200622"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018055108010086656",
+    "in_reply_to_user_id": "1765768192675454976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018016001691201797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qazxx200622 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19227,
+        "height": 1280,
+        "media_key": "7_2018015955004313601",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2018015955004313601/pu/img/j0zk2PJoXMkHj8Ko.jpg",
+        "public_metrics": {
+          "view_count": 3166
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018015955004313601/pu/vid/avc1/320x568/9_W74fFkDzutxlvJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018015955004313601/pu/vid/avc1/480x852/mR8qK0OQsHJ804KN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018015955004313601/pu/vid/avc1/720x1280/SDDddGfv_faPGT-7.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2018015955004313601/pu/pl/QEy8sSlcizaQu_nF.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2018016001691201797",
+        "created_at": "2026-02-01T20:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T21:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018055108010086656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1765768192675454976",
+              "start": 0,
+              "username": "qazxx200622"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018055108010086656",
+        "in_reply_to_user_id": "1765768192675454976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018016001691201797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qazxx200622 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2018015955004313601"
+          ]
+        },
+        "author_id": "1765768192675454976",
+        "conversation_id": "2018016001691201797",
+        "created_at": "2026-02-01T17:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T18:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018016001691201797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OsMPm01EUn",
+              "end": 68,
+              "expanded_url": "https://x.com/qazxx200622/status/2018016001691201797/video/1",
+              "media_key": "7_2018015955004313601",
+              "start": 45,
+              "url": "https://t.co/OsMPm01EUn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018016001691201797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 107,
+          "impression_count": 6116,
+          "like_count": 489,
+          "quote_count": 0,
+          "reply_count": 58,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "今天生日！（不知道为什么声音没有了~明明现场水声很大的！）发一个自摸小视频给大伙解解馋~ https://t.co/OsMPm01EUn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 371,
+          "like_count": 1890,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 659
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T15:55:26.000Z",
+        "description": "外网只有x账，和小号防走丢 @xixi200622 不是鸡！不线下！不卖视频和图包，发漏点是因为有点暴露p-不出原味-不接线上视频，平常会发点小照片和cos，大家喜欢请多多点赞哦~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "xixi200622"
+              }
+            ]
+          }
+        },
+        "id": "1765768192675454976",
+        "location": "北海道 札幌市（聊天🚪88）",
+        "name": "不汐汐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976186354687148035/FrT017KH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75947,
+          "following_count": 252,
+          "like_count": 126,
+          "listed_count": 291,
+          "media_count": 167,
+          "tweet_count": 679
+        },
+        "username": "qazxx200622",
+        "verified": false
+      }
+    ]
+  }
+}

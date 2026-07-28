@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2073354103011590418",
+    "created_at": "2026-07-04T21:37:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T22:37:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073521516290232499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1945600680510558208",
+          "start": 0,
+          "username": "ma_yu_0728"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073521516290232499",
+    "in_reply_to_user_id": "1945600680510558208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073354103011590418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ma_yu_0728 学医的啊……\n辛苦了🙏🏻"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16043,
+        "height": 646,
+        "media_key": "13_2073354066433126400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073354066433126400/img/CZkae63KBo66lPxr.jpg",
+        "public_metrics": {
+          "view_count": 275207
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073354066433126400/vid/avc1/534x270/LJ_-7Y-z3bHFyfc0.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073354066433126400/vid/avc1/712x360/zg39cOMSDJmkAwAs.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073354066433126400/vid/avc1/1280x646/UI60Y4KrrUm2w8xe.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073354066433126400/pl/lrdzS1p770oW4P75.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2073354103011590418",
+        "created_at": "2026-07-04T21:37:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T22:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073521516290232499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1945600680510558208",
+              "start": 0,
+              "username": "ma_yu_0728"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073521516290232499",
+        "in_reply_to_user_id": "1945600680510558208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073354103011590418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ma_yu_0728 学医的啊……\n辛苦了🙏🏻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073354066433126400"
+          ]
+        },
+        "author_id": "1945600680510558208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1243199082996219905",
+              "name": "Nursing & nurses"
+            }
+          }
+        ],
+        "conversation_id": "2073354103011590418",
+        "created_at": "2026-07-04T10:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T11:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073354103011590418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nYi4oEsbIV",
+              "end": 93,
+              "expanded_url": "https://x.com/ma_yu_0728/status/2073354103011590418/video/1",
+              "media_key": "13_2073354066433126400",
+              "start": 70,
+              "url": "https://t.co/nYi4oEsbIV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073354103011590418",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 255,
+          "impression_count": 563977,
+          "like_count": 3129,
+          "quote_count": 12,
+          "reply_count": 202,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "人手不足だから我慢しろって言われるけど\n今日も怒られたし夜勤ばっかで辛すぎる…\n\n看護師もうやめたいよぉぉぉぉ🥲\nお疲れ様の♡ください…😭 https://t.co/nYi4oEsbIV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 729,
+          "like_count": 13020,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 2653
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-16T21:45:37.000Z",
+        "description": "23  看護師　ｾﾝｼﾃｨﾌﾞ→ ＠q__q_i_1x\nすぐ🔑にする。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "q__q_i_1x"
+              }
+            ]
+          }
+        },
+        "id": "1945600680510558208",
+        "name": "まゆ",
+        "pinned_tweet_id": "2073066882761199785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069002415920279552/xmzRvWFD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1289,
+          "following_count": 20,
+          "like_count": 804,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 350
+        },
+        "url": "",
+        "username": "ma_yu_0728",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052243988279971840"
+      ],
+      "media_source_tweet_id": [
+        "2052244003652096510"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "conversation_id": "2052385820334801227",
+    "created_at": "2026-05-07T13:51:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T14:51:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052385820334801227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1996918310349557762",
+          "start": 3,
+          "username": "Guli1817513"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zbydXIGcDn",
+          "end": 56,
+          "expanded_url": "https://x.com/Guli1817513/status/2052244003652096510/photo/1",
+          "media_key": "3_2052243988279971840",
+          "start": 33,
+          "url": "https://t.co/zbydXIGcDn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052385820334801227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052244003652096510",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Guli1817513: 我想我的精神是一点一点被杀死的 https://t.co/zbydXIGcDn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1181,
+        "media_key": "3_2052243988279971840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHsJCLnb0AAk8Xf.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052243988279971840"
+          ],
+          "media_source_tweet_id": [
+            "2052244003652096510"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "conversation_id": "2052385820334801227",
+        "created_at": "2026-05-07T13:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052385820334801227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1996918310349557762",
+              "start": 3,
+              "username": "Guli1817513"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zbydXIGcDn",
+              "end": 56,
+              "expanded_url": "https://x.com/Guli1817513/status/2052244003652096510/photo/1",
+              "media_key": "3_2052243988279971840",
+              "start": 33,
+              "url": "https://t.co/zbydXIGcDn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052385820334801227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052244003652096510",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Guli1817513: 我想我的精神是一点一点被杀死的 https://t.co/zbydXIGcDn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052243988279971840"
+          ]
+        },
+        "author_id": "1996918310349557762",
+        "conversation_id": "2052244003652096510",
+        "created_at": "2026-05-07T04:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T05:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052244003652096510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zbydXIGcDn",
+              "end": 39,
+              "expanded_url": "https://x.com/Guli1817513/status/2052244003652096510/photo/1",
+              "media_key": "3_2052243988279971840",
+              "start": 16,
+              "url": "https://t.co/zbydXIGcDn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052244003652096510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3564,
+          "like_count": 110,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "我想我的精神是一点一点被杀死的 https://t.co/zbydXIGcDn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 682,
+          "like_count": 11610,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 2359
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-05T12:23:39.000Z",
+        "description": "我爱发啥发啥，我爱说啥说啥，不喜欢屏蔽。\n@MmXixi32400",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 21,
+                "username": "MmXixi32400"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/guli33050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/guli33050",
+                "start": 0,
+                "url": "https://t.co/vFNHmjljcQ"
+              }
+            ]
+          }
+        },
+        "id": "1996918310349557762",
+        "location": "地球",
+        "name": "Guli",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048409926104690688/tMrozmW0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 57,
+          "like_count": 1189,
+          "listed_count": 0,
+          "media_count": 460,
+          "tweet_count": 2545
+        },
+        "url": "https://t.co/vFNHmjljcQ",
+        "username": "Guli1817513",
+        "verified": false
+      }
+    ]
+  }
+}

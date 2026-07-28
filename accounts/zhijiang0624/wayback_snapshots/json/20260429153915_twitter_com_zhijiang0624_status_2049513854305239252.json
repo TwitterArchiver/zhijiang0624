@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2049346442746372584",
+    "created_at": "2026-04-29T15:39:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T16:39:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049513854305239252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "340107534",
+          "start": 0,
+          "username": "duanhjlt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049513854305239252",
+    "in_reply_to_user_id": "340107534",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049346442746372584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duanhjlt 我初中时候和我一个女同学聊天\n她说她以前去她爸爸的朋友家，当时那个人坐在沙发上把裤子脱着\n然后那个人还立着，让我那个同学去摸他的🐔\n我基本可以肯定我那个女同学没说谎\n因为她平时就很内向，人也很老实\n人类还是太他妈傻逼了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1989,
+        "media_key": "3_2049346432419893248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHC9uO4aEAAORwX.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2049346442746372584",
+        "created_at": "2026-04-29T15:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T16:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049513854305239252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "340107534",
+              "start": 0,
+              "username": "duanhjlt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049513854305239252",
+        "in_reply_to_user_id": "340107534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049346442746372584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duanhjlt 我初中时候和我一个女同学聊天\n她说她以前去她爸爸的朋友家，当时那个人坐在沙发上把裤子脱着\n然后那个人还立着，让我那个同学去摸他的🐔\n我基本可以肯定我那个女同学没说谎\n因为她平时就很内向，人也很老实\n人类还是太他妈傻逼了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049346432419893248"
+          ]
+        },
+        "author_id": "340107534",
+        "conversation_id": "2049346442746372584",
+        "created_at": "2026-04-29T04:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T05:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049346442746372584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KlXnrIWcSA",
+              "end": 38,
+              "expanded_url": "https://x.com/duanhjlt/status/2049346442746372584/photo/1",
+              "media_key": "3_2049346432419893248",
+              "start": 15,
+              "url": "https://t.co/KlXnrIWcSA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049346442746372584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 394453,
+          "like_count": 401,
+          "quote_count": 0,
+          "reply_count": 436,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "有哪些让你终身难忘的女同学？ https://t.co/KlXnrIWcSA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 678,
+          "like_count": 11303,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 2282
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-22T04:31:23.000Z",
+        "description": "让好奇心永远在线｜来都来了，点个关注吧，每天分享好玩儿的东西^_^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "domer.io",
+                "end": 23,
+                "expanded_url": "https://domer.io",
+                "start": 0,
+                "url": "https://t.co/4pSyFxcmSE"
+              }
+            ]
+          }
+        },
+        "id": "340107534",
+        "location": "Beijing👉",
+        "name": "Alexander",
+        "pinned_tweet_id": "2047987832845967628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972814827749011456/IuCjwNAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24542,
+          "following_count": 850,
+          "like_count": 648,
+          "listed_count": 93,
+          "media_count": 6306,
+          "tweet_count": 10302
+        },
+        "url": "https://t.co/4pSyFxcmSE",
+        "username": "duanhjlt",
+        "verified": true
+      }
+    ]
+  }
+}

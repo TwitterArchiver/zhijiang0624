@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2050610995790577982",
+    "created_at": "2026-05-02T16:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T17:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050610995790577982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1845491203124441093",
+          "start": 3,
+          "username": "yu_huacs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050610995790577982",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050534807436926978",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yu_huacs: 不是老天爷你搞错了吧，我应该是那种家里a10，日本溜子，中长发，打耳钉唇钉舌钉，纹塔菲，又瘦又胸大又美，凌晨三点开着GTR在跨海大桥上飙车的忧郁美少女啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2050610995790577982",
+        "created_at": "2026-05-02T16:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T17:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050610995790577982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1845491203124441093",
+              "start": 3,
+              "username": "yu_huacs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050610995790577982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050534807436926978",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yu_huacs: 不是老天爷你搞错了吧，我应该是那种家里a10，日本溜子，中长发，打耳钉唇钉舌钉，纹塔菲，又瘦又胸大又美，凌晨三点开着GTR在跨海大桥上飙车的忧郁美少女啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845491203124441093",
+        "conversation_id": "2050534807436926978",
+        "created_at": "2026-05-02T11:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T12:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050534807436926978"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050534807436926978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3012,
+          "like_count": 125,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "不是老天爷你搞错了吧，我应该是那种家里a10，日本溜子，中长发，打耳钉唇钉舌钉，纹塔菲，又瘦又胸大又美，凌晨三点开着GTR在跨海大桥上飙车的忧郁美少女啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 681,
+          "like_count": 11454,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 2330
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "公路车实习喷涂/技师 普通的oder scott addict rc pro 绿刃队版 双相精分患者 重度焦虑并发 什么圈子都玩一点点 一个看着像现充の死宅？    ？属性    异父异母的哥哥@lizzy_522  另一个我 @yuhuacs5570 我超级可爱的姐姐@aczizo82my",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 97,
+                "username": "lizzy_522"
+              },
+              {
+                "end": 126,
+                "start": 114,
+                "username": "yuhuacs5570"
+              },
+              {
+                "end": 146,
+                "start": 135,
+                "username": "aczizo82my"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu_huacs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yu_huacs",
+                "start": 0,
+                "url": "https://t.co/fGARwmdWCT"
+              }
+            ]
+          }
+        },
+        "id": "1845491203124441093",
+        "location": "寻心而去",
+        "name": "余华成霜",
+        "pinned_tweet_id": "2029682364067238377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036470524784910336/m6ce5LZ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1539,
+          "following_count": 1298,
+          "like_count": 110341,
+          "listed_count": 8,
+          "media_count": 2023,
+          "tweet_count": 18805
+        },
+        "url": "https://t.co/fGARwmdWCT",
+        "username": "yu_huacs",
+        "verified": false
+      }
+    ]
+  }
+}

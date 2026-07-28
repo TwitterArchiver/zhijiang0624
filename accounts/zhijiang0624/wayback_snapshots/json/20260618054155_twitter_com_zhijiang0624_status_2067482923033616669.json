@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2067409851316396433",
+    "created_at": "2026-06-18T05:41:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T06:41:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067482923033616669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1975041313403019264",
+          "start": 0,
+          "username": "maidinsara2gou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067482923033616669",
+    "in_reply_to_user_id": "1975041313403019264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067409851316396433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maidinsara2gou おめでとう！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2067409851316396433",
+        "created_at": "2026-06-18T05:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067482923033616669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1975041313403019264",
+              "start": 0,
+              "username": "maidinsara2gou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067482923033616669",
+        "in_reply_to_user_id": "1975041313403019264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067409851316396433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maidinsara2gou おめでとう！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975041313403019264",
+        "conversation_id": "2067409851316396433",
+        "created_at": "2026-06-18T00:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T01:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067409851316396433"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067409851316396433",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明日退院していいってー！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 710,
+          "like_count": 12635,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2610
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T03:32:26.000Z",
+        "description": "多色声、造語得意なボーカリスト@maidinsara。\n本垢乗っ取られた為今後はこちらで活動します。\n🎤pop'n music(ひみつの言葉・戦場のアップデート)、PIU等。過去お仕事詳細はURLへ。\n歌のご依頼等はこちらにDMください。\nDJMAX老人会、PIU、GITADORA民🥁。オカルト狂。ビスコ信者。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "maidinsara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "profiee.com/i/maidinsara77",
+                "end": 23,
+                "expanded_url": "https://profiee.com/i/maidinsara77",
+                "start": 0,
+                "url": "https://t.co/Qvx4TOIDnc"
+              }
+            ]
+          }
+        },
+        "id": "1975041313403019264",
+        "location": "東京都北区",
+        "name": "秣本瑳羅@こっちが新垢",
+        "pinned_tweet_id": "1975163687615754712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065829611695710208/89cpeuhS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 139,
+          "like_count": 257,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 263
+        },
+        "url": "https://t.co/Qvx4TOIDnc",
+        "username": "maidinsara2gou",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2025609002328195149",
+    "created_at": "2026-02-22T17:50:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T18:50:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025629278927548462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2022438221590990848",
+          "start": 0,
+          "username": "Miharuka_96"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025629278927548462",
+    "in_reply_to_user_id": "2022438221590990848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025609002328195149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miharuka_96 我的外婆不知道是不是早年作孽多，反正我是不怎么信我妈嘴里的版本。\n我外婆死的那一年，我去外婆家玩，妈妈因为照顾外婆好几天了累了睡着了，我的几个舅舅就不管外婆了。还是我路过外婆旁边听到外婆的声音才过去，知道外婆身上难受想捶捶背。\n别指望一个字面意思的皮包骨的老人能自己捶背。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2025609002328195149",
+        "created_at": "2026-02-22T17:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T18:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025629278927548462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2022438221590990848",
+              "start": 0,
+              "username": "Miharuka_96"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025629278927548462",
+        "in_reply_to_user_id": "2022438221590990848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025609002328195149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miharuka_96 我的外婆不知道是不是早年作孽多，反正我是不怎么信我妈嘴里的版本。\n我外婆死的那一年，我去外婆家玩，妈妈因为照顾外婆好几天了累了睡着了，我的几个舅舅就不管外婆了。还是我路过外婆旁边听到外婆的声音才过去，知道外婆身上难受想捶捶背。\n别指望一个字面意思的皮包骨的老人能自己捶背。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022438221590990848",
+        "conversation_id": "2025609002328195149",
+        "created_at": "2026-02-22T16:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T17:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025609002328195149"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025609002328195149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 292,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的特别特别生气了，我无法理解。外公绝对没做什么对不起他们的事，即使做了丧尽天良的事也不该这样对待吧。\n我靠他妈的谁能忍心看一个形容枯槁的老人活活饿s。甚至还是他们的至亲。我真的觉得很恶心很绝望我为什么现在才知道。\n去了一趟发现摆出来的食物都是坏的。好的都藏起来了。到底想干什么。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 436,
+          "like_count": 3746,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1288
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T22:30:27.000Z",
+        "description": "心的距离是遥不可及 | 我是小遥 之前的账号都鼠了 都来和我玩好不好🥺💖💖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/0vZb5MBZ5e"
+              }
+            ]
+          }
+        },
+        "id": "2022438221590990848",
+        "location": "旁边的网址是留言板",
+        "name": "遥（刘海剪毁版",
+        "pinned_tweet_id": "2023783513414406367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024494731917758464/aqquvn8u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 87,
+          "like_count": 973,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 318
+        },
+        "url": "https://t.co/0vZb5MBZ5e",
+        "username": "Miharuka_96",
+        "verified": false
+      }
+    ]
+  }
+}

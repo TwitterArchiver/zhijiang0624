@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2026075767688634819",
+    "created_at": "2026-02-24T04:36:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T05:36:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026154343284847059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1773020567479996416",
+          "start": 0,
+          "username": "Qiiii1472170"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026154343284847059",
+    "in_reply_to_user_id": "1773020567479996416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026153694761566323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiiii1472170 吸烟不是错，错的是根本不顾他人的感受\n就算是我们职校的厕所里有吸烟的人挡到路了，跟他说一声他还说声不好意思然后让开\n但是有的人就是不顾别人的感受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2026075767688634819",
+        "created_at": "2026-02-24T04:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T05:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026154343284847059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1773020567479996416",
+              "start": 0,
+              "username": "Qiiii1472170"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026154343284847059",
+        "in_reply_to_user_id": "1773020567479996416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026153694761566323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiiii1472170 吸烟不是错，错的是根本不顾他人的感受\n就算是我们职校的厕所里有吸烟的人挡到路了，跟他说一声他还说声不好意思然后让开\n但是有的人就是不顾别人的感受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773020567479996416",
+        "conversation_id": "2026075767688634819",
+        "created_at": "2026-02-24T04:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T05:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026153694761566323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "ZhiJiang0624"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026153694761566323",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026075767688634819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhiJiang0624 我真的特别讨厌抽烟的人，但是我不能讨厌我爸，所以我只能点赞那些骂烟鬼的评论"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 453,
+          "like_count": 3917,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1338
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T16:13:49.000Z",
+        "description": "短命鬼一个只是还在苦苦挣扎罢了",
+        "id": "1773020567479996416",
+        "name": "能不能给我一首歌的时间",
+        "pinned_tweet_id": "1954721186178539730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023154000909217792/MNYoWuLd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 382,
+          "like_count": 1659,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 701
+        },
+        "username": "Qiiii1472170",
+        "verified": false
+      }
+    ]
+  }
+}

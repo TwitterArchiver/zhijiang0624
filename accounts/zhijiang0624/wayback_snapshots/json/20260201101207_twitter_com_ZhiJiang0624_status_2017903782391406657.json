@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2017814666219790585",
+    "created_at": "2026-02-01T10:12:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T11:12:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017903782391406657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3806073433",
+          "start": 0,
+          "username": "yabaaata"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017903782391406657",
+    "in_reply_to_user_id": "3806073433",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017814666219790585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yabaaata きれいな花ですね。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16554,
+        "height": 720,
+        "media_key": "7_1754886417778356225",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1754886417778356225/pu/img/eCgDfyQYxcNSqlpB.jpg",
+        "public_metrics": {
+          "view_count": 37683771
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1754886417778356225/pu/vid/avc1/320x422/On48invckUYe5_ga.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1754886417778356225/pu/vid/avc1/480x634/D0yAG07kBnIx8r5F.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1754886417778356225/pu/vid/avc1/544x720/lQlCW90mjBe9L1r_.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1754886417778356225/pu/pl/e7o8dv5iorJE-A7c.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2017814666219790585",
+        "created_at": "2026-02-01T10:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T11:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017903782391406657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3806073433",
+              "start": 0,
+              "username": "yabaaata"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017903782391406657",
+        "in_reply_to_user_id": "3806073433",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017814666219790585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yabaaata きれいな花ですね。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1754886417778356225"
+          ],
+          "media_source_tweet_id": [
+            "1754886443133018498"
+          ]
+        },
+        "author_id": "3806073433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2017814666219790585",
+        "created_at": "2026-02-01T04:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T05:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017814666219790585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/31T1ionAza",
+              "end": 58,
+              "expanded_url": "https://x.com/i/status/1754886443133018498/video/1",
+              "media_key": "7_1754886417778356225",
+              "start": 35,
+              "url": "https://t.co/31T1ionAza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017814666219790585",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 619,
+          "impression_count": 1831021,
+          "like_count": 10652,
+          "quote_count": 39,
+          "reply_count": 165,
+          "retweet_count": 381
+        },
+        "reply_settings": "everyone",
+        "text": "スイレンの花をアオミドロから解放した瞬間、想像の100倍美しかった\n\nhttps://t.co/31T1ionAza"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "你他妈的到底是谁？！莫名其妙跑到我的脑子里来做些莫名其妙的事！草你妈杀了你！",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 355,
+          "like_count": 1804,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 652
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-06T18:45:10.000Z",
+        "description": "World information🇯🇵 I hope one day we can see a more peaceful world.平和な日本に感謝🙏🥲",
+        "id": "3806073433",
+        "name": "素晴らしい世界🌎",
+        "pinned_tweet_id": "1929705090283135142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765954442145525760/Y9ntk8SJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80717,
+          "following_count": 19,
+          "like_count": 345,
+          "listed_count": 129,
+          "media_count": 182,
+          "tweet_count": 185
+        },
+        "username": "yabaaata",
+        "verified": false
+      }
+    ]
+  }
+}

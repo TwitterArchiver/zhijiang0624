@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2011091782747226112"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "conversation_id": "2010812560497410108",
+    "created_at": "2026-01-13T15:03:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T16:03:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011091792247357523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1857335218673483776",
+          "start": 0,
+          "username": "xiaoyv_zero"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zKTzjBJo42",
+          "end": 64,
+          "expanded_url": "https://x.com/ZhiJiang0624/status/2011091792247357523/photo/1",
+          "media_key": "3_2011091782747226112",
+          "start": 41,
+          "url": "https://t.co/zKTzjBJo42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011091792247357523",
+    "in_reply_to_user_id": "1857335218673483776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010812560497410108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyv_zero 回到过去也改变不了什么，不如在现在尽情歧视那些糖精白菜 https://t.co/zKTzjBJo42"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 545,
+        "media_key": "3_2011091782747226112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-jVUjlbAAA71U2.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011091782747226112"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "conversation_id": "2010812560497410108",
+        "created_at": "2026-01-13T15:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T16:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011091792247357523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1857335218673483776",
+              "start": 0,
+              "username": "xiaoyv_zero"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zKTzjBJo42",
+              "end": 64,
+              "expanded_url": "https://x.com/ZhiJiang0624/status/2011091792247357523/photo/1",
+              "media_key": "3_2011091782747226112",
+              "start": 41,
+              "url": "https://t.co/zKTzjBJo42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011091792247357523",
+        "in_reply_to_user_id": "1857335218673483776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010812560497410108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyv_zero 回到过去也改变不了什么，不如在现在尽情歧视那些糖精白菜 https://t.co/zKTzjBJo42"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2010812560497410108",
+        "created_at": "2026-01-12T20:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T21:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010812560497410108"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010812560497410108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 590,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "傲慢之罪.....我的初中时期一直都是在讨厌这个世界讨厌那些低趣味的同龄人，然后我觉得我之所以被我原生家庭弄得这么痛苦，是因为如果他们不这样对我，我跟学校里面那群傻逼一样的低趣味精虫上脑恶心，但是我发现我的痛苦只是无意义的痛苦....而且靠讨厌他们来让自己舒服点也很蠢...我只想回到过去改变"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一个偶尔变得哲学或者厌世的重度自闭男生。理想大概就是想尽自己的绵薄之力尽量缝补这个世界支离破碎的一面吧",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 270,
+          "like_count": 1218,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 573
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "17//叫我小雨就好了//无🚪但需要资助//要互关或者加好友请私信然后我看成分//月亮计划 车万 主播女孩 十二神器 还有一些老ip//主推老唐桑丘 宝子哥 李箱 糖糖超天酱 车万杂食//od//cos//低智碎碎念//自伤//我是精神病请谅解//好闺蜜@ace_sana_ @fuyunxian//小弟@AiXipi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 127,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 148,
+                "start": 138,
+                "username": "fuyunxian"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "AiXipi"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "雨",
+        "pinned_tweet_id": "2008700125376590152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991578115949359106/84qVlhCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3464,
+          "following_count": 530,
+          "like_count": 5783,
+          "listed_count": 5,
+          "media_count": 255,
+          "tweet_count": 3118
+        },
+        "username": "xiaoyv_zero",
+        "verified": false
+      }
+    ]
+  }
+}

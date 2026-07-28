@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2041179336620032358",
+    "created_at": "2026-04-06T15:42:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T16:42:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041179870496240015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1859994685458239488",
+          "start": 0,
+          "username": "pu_xin68339"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041179870496240015",
+    "in_reply_to_user_id": "1859994685458239488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041179336620032358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pu_xin68339 写东西复盘生活、或者只是发呆\n有没有意义是你说了算的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2041179336620032358",
+        "created_at": "2026-04-06T15:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041179870496240015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1859994685458239488",
+              "start": 0,
+              "username": "pu_xin68339"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041179870496240015",
+        "in_reply_to_user_id": "1859994685458239488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041179336620032358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pu_xin68339 写东西复盘生活、或者只是发呆\n有没有意义是你说了算的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859994685458239488",
+        "conversation_id": "2041179336620032358",
+        "created_at": "2026-04-06T15:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041179336620032358"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041179336620032358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想一下，如果上课不听课，不用手机娱乐，能拿来做什么有意义的事情？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 652,
+          "like_count": 9799,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 2074
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-22T16:17:52.000Z",
+        "description": "此X记录我的日常吐槽及疑惑 ｜06｜不婚主义｜没有照片｜Istj",
+        "id": "1859994685458239488",
+        "name": "林达",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027723952039333893/P8T_hAO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 18,
+          "like_count": 216,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 626
+        },
+        "username": "pu_xin68339",
+        "verified": false
+      }
+    ]
+  }
+}

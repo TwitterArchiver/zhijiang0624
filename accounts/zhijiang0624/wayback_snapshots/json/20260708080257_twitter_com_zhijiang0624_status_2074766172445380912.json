@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2074702187104489708",
+    "created_at": "2026-07-08T08:02:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T09:02:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074766172445380912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1656290626743447552",
+          "start": 0,
+          "username": "dmmsell"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074766172445380912",
+    "in_reply_to_user_id": "1656290626743447552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074702187104489708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dmmsell 我一个月两千块人民币，换算成日元大概也就一万多円……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2074702187104489708",
+        "created_at": "2026-07-08T08:02:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T09:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074766172445380912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1656290626743447552",
+              "start": 0,
+              "username": "dmmsell"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074766172445380912",
+        "in_reply_to_user_id": "1656290626743447552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074702187104489708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dmmsell 我一个月两千块人民币，换算成日元大概也就一万多円……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1656290626743447552",
+        "conversation_id": "2074702187104489708",
+        "created_at": "2026-07-08T03:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T04:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074702187104489708"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074702187104489708",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 393953,
+          "like_count": 3878,
+          "quote_count": 47,
+          "reply_count": 184,
+          "retweet_count": 376
+        },
+        "reply_settings": "everyone",
+        "text": "日本おかしいよ。\n1日8時間、週5日も働いて\n手取り16万円程度しか貰えないのに\n生活保護が15万円貰えるって？\nやってらんないよ。\nふさげんな"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 740,
+          "like_count": 13256,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 2674
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-10T13:30:41.000Z",
+        "description": "日本に生まれたことを誇りに思っています❗️Xは様々な情報で溢れていますが正しい情報を取得し発信していきます📣（フォローは基本お返ししています）",
+        "id": "1656290626743447552",
+        "name": "櫻子🍡🇯🇵",
+        "pinned_tweet_id": "2013340422974906491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966256075327311872/AhdxaEto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25046,
+          "following_count": 1036,
+          "like_count": 175,
+          "listed_count": 68,
+          "media_count": 0,
+          "tweet_count": 225
+        },
+        "url": "",
+        "username": "dmmsell",
+        "verified": true
+      }
+    ]
+  }
+}

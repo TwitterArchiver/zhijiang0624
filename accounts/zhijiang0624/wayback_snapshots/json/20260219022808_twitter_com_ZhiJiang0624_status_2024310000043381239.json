@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2024136176660369553",
+    "created_at": "2026-02-19T02:28:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T03:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024310000043381239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1936969318191017984",
+          "start": 0,
+          "username": "MegomeKaze_920"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024310000043381239",
+    "in_reply_to_user_id": "1936969318191017984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024136176660369553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MegomeKaze_920 当自己正义、理智、冷酷，浓缩俩字就是装货，我是送快递的，那就是大件货和小贱货"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2024136176660369553",
+        "created_at": "2026-02-19T02:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T03:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024310000043381239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1936969318191017984",
+              "start": 0,
+              "username": "MegomeKaze_920"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024310000043381239",
+        "in_reply_to_user_id": "1936969318191017984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024136176660369553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MegomeKaze_920 当自己正义、理智、冷酷，浓缩俩字就是装货，我是送快递的，那就是大件货和小贱货"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936969318191017984",
+        "conversation_id": "2024136176660369553",
+        "created_at": "2026-02-18T14:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T15:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024136176660369553"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024136176660369553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1526,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "健全的傻逼我真的求求你了，不要来打扰我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 422,
+          "like_count": 3538,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1235
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T02:07:41.000Z",
+        "description": "低浮上↑ 中文｜한국어｜日本語｜English｜重焦重抑｜自傷od裸｜同類互fo｜05.30｜只发自己喜欢的，拍擦边的照片纯属自己喜欢｜不聊骚不约炮不线下",
+        "id": "1936969318191017984",
+        "location": "🐹",
+        "name": "げっしょく",
+        "pinned_tweet_id": "2024142792717644255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024012478586470400/e63x-sVw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 120,
+          "like_count": 610,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 555
+        },
+        "username": "MegomeKaze_920",
+        "verified": false
+      }
+    ]
+  }
+}

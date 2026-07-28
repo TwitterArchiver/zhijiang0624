@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2023444449725239759",
+    "created_at": "2026-02-16T17:14:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T18:14:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023445893220098379"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2023445893220098379",
+    "in_reply_to_user_id": "1730214580184604672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023445146462024035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的父亲不作为，我的左脸因为一个人永久变形、做手术麻醉师的不尽职给我造成的伤害他都选择了息事宁人。在我小时候，他们都不让我和同龄人玩，又因为家住的地方偏僻，我放假都跟失踪了一样，所以我和同学们的关系都也只是那样。有一次我在明确表达了我很孤独，我的母亲就是那样跟我说的（有关读书），"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2023444449725239759",
+        "created_at": "2026-02-16T17:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T18:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023445893220098379"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023445893220098379",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023445146462024035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的父亲不作为，我的左脸因为一个人永久变形、做手术麻醉师的不尽职给我造成的伤害他都选择了息事宁人。在我小时候，他们都不让我和同龄人玩，又因为家住的地方偏僻，我放假都跟失踪了一样，所以我和同学们的关系都也只是那样。有一次我在明确表达了我很孤独，我的母亲就是那样跟我说的（有关读书），"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2023444449725239759",
+        "created_at": "2026-02-16T17:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T18:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023445146462024035"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023445146462024035",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023444449725239759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为我的大姐在初中没毕业的时候就受到亲戚的不少压力，出去打工了。我的二姐因为重男轻女，在我做手术父母都在照顾我的情况下奶奶没有守约去家里做饭的情况下被饿晕过一次，现在她以做饭为爱好也许就是因为那时候的事。我从小学就开始被灌输各种极端的思想譬如人际交往完全不重要，我只需要读死书就好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 399,
+          "like_count": 3160,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1130
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      }
+    ]
+  }
+}

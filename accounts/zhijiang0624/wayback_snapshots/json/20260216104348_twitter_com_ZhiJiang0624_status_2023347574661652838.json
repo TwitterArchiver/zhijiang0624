@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      }
+    ],
+    "conversation_id": "2023311202726883616",
+    "created_at": "2026-02-16T10:43:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T11:43:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023347574661652838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1913156900306264064",
+          "start": 0,
+          "username": "Ririkayric0407"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023347574661652838",
+    "in_reply_to_user_id": "1913156900306264064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023311202726883616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ririkayric0407 除夕快乐，忘掉不开心准备迎接明天的春节吧☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          }
+        ],
+        "conversation_id": "2023311202726883616",
+        "created_at": "2026-02-16T10:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T11:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023347574661652838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1913156900306264064",
+              "start": 0,
+              "username": "Ririkayric0407"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023347574661652838",
+        "in_reply_to_user_id": "1913156900306264064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023311202726883616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ririkayric0407 除夕快乐，忘掉不开心准备迎接明天的春节吧☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913156900306264064",
+        "conversation_id": "2023311202726883616",
+        "created_at": "2026-02-16T08:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T09:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023311202726883616"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023311202726883616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "收钱了也不开心😔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 356,
+          "like_count": 3002,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 1054
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T09:06:12.000Z",
+        "description": "我是小可呀！女孩子们互关起来｜擦边纯爱好｜🚪52 给的越多我越喜欢你谢谢｜精神分裂女鬼求善待｜173 50kg｜脾气很差的社会闲散人员一位呀",
+        "id": "1913156900306264064",
+        "name": "可儿这个萌",
+        "pinned_tweet_id": "2016855942126805442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017695635965878272/E279NCly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 33,
+          "like_count": 952,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 608
+        },
+        "username": "Ririkayric0407",
+        "verified": false
+      }
+    ]
+  }
+}

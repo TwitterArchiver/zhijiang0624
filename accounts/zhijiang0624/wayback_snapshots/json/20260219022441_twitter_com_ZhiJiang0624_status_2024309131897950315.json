@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2024085361228390822",
+    "created_at": "2026-02-19T02:24:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T03:24:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024309131897950315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1622587760514158593",
+          "start": 0,
+          "username": "ForlikOOO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024309131897950315",
+    "in_reply_to_user_id": "1622587760514158593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024085361228390822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ForlikOOO 所谓看见别人过得好比自己过得不好还难受也就如此了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2024085361228390822",
+        "created_at": "2026-02-19T02:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T03:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024309131897950315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1622587760514158593",
+              "start": 0,
+              "username": "ForlikOOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024309131897950315",
+        "in_reply_to_user_id": "1622587760514158593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024085361228390822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ForlikOOO 所谓看见别人过得好比自己过得不好还难受也就如此了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622587760514158593",
+        "conversation_id": "2024085361228390822",
+        "created_at": "2026-02-18T11:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T12:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024085361228390822"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024085361228390822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8471,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我对象给我送点奢侈品我就被讨厌我的女的说成卖b的了。神了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 422,
+          "like_count": 3535,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1233
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-06T13:27:34.000Z",
+        "description": "◉‿◉我的碎碎念垃圾箱。有对象感情非常好。随缘看私信，发弔拉黑，搞暧昧约炮恋爱尬聊的不回复。没有门槛，不喜欢建立在利益关系上的社交，不熟也别来找我要联系方式。",
+        "id": "1622587760514158593",
+        "location": "München, Bayern",
+        "name": "Cyclo",
+        "pinned_tweet_id": "2023046627758596236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997310784519409664/YzWyhr7Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 106,
+          "like_count": 25276,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1553
+        },
+        "username": "ForlikOOO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2023830709077729558",
+    "created_at": "2026-02-17T18:43:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T19:43:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023830709077729558"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2023830709077729558",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好痛好痛好痛好痛好痛好痛好痛好痛好痛好痛好痛好痛好痛好痛好痛好痛\n\n前段时间放假回家我妈硬要我把所有东西都带上，太重了导致手腕扭了、用力方式不当导致肌肉受伤。\n\n好痛好痛好痛好痛好痛好痛好痛好痛好痛好痛好痛好痛好痛好痛好痛好痛\n\n他妈的怎么还在痛啊！都这么多天了！啊啊啊啊啊！😭😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2023830709077729558",
+        "created_at": "2026-02-17T18:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T19:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023830709077729558"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023830709077729558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好痛好痛好痛好痛好痛好痛好痛好痛好痛好痛好痛好痛好痛好痛好痛好痛\n\n前段时间放假回家我妈硬要我把所有东西都带上，太重了导致手腕扭了、用力方式不当导致肌肉受伤。\n\n好痛好痛好痛好痛好痛好痛好痛好痛好痛好痛好痛好痛好痛好痛好痛好痛\n\n他妈的怎么还在痛啊！都这么多天了！啊啊啊啊啊！😭😭😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 416,
+          "like_count": 3380,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1176
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      }
+    ]
+  }
+}

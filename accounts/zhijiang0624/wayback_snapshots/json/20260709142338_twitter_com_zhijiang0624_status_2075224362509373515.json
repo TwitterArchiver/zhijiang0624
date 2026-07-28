@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2074932638629126349",
+    "created_at": "2026-07-09T14:23:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T15:23:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075224362509373515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1779774601100189696",
+          "start": 0,
+          "username": "doll7799"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075224362509373515",
+    "in_reply_to_user_id": "1779774601100189696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074932638629126349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doll7799 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1355,
+        "media_key": "3_2074932591837470720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMukMuVaYAApUAH.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074932598351265792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMukNGmbAAAPTRU.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074932591787212800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMukMuJbgAATNdx.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074932598347075584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMukNGlbEAAvPTI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2074932638629126349",
+        "created_at": "2026-07-09T14:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T15:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075224362509373515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1779774601100189696",
+              "start": 0,
+              "username": "doll7799"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075224362509373515",
+        "in_reply_to_user_id": "1779774601100189696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074932638629126349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doll7799 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074932591837470720",
+            "3_2074932598351265792",
+            "3_2074932591787212800",
+            "3_2074932598347075584"
+          ]
+        },
+        "author_id": "1779774601100189696",
+        "conversation_id": "2074932638629126349",
+        "created_at": "2026-07-08T19:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T20:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074932638629126349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BNIJNr6wKY",
+              "end": 87,
+              "expanded_url": "https://x.com/doll7799/status/2074932638629126349/photo/1",
+              "media_key": "3_2074932591837470720",
+              "start": 64,
+              "url": "https://t.co/BNIJNr6wKY"
+            },
+            {
+              "display_url": "pic.x.com/BNIJNr6wKY",
+              "end": 87,
+              "expanded_url": "https://x.com/doll7799/status/2074932638629126349/photo/1",
+              "media_key": "3_2074932598351265792",
+              "start": 64,
+              "url": "https://t.co/BNIJNr6wKY"
+            },
+            {
+              "display_url": "pic.x.com/BNIJNr6wKY",
+              "end": 87,
+              "expanded_url": "https://x.com/doll7799/status/2074932638629126349/photo/1",
+              "media_key": "3_2074932591787212800",
+              "start": 64,
+              "url": "https://t.co/BNIJNr6wKY"
+            },
+            {
+              "display_url": "pic.x.com/BNIJNr6wKY",
+              "end": 87,
+              "expanded_url": "https://x.com/doll7799/status/2074932638629126349/photo/1",
+              "media_key": "3_2074932598347075584",
+              "start": 64,
+              "url": "https://t.co/BNIJNr6wKY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074932638629126349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 13847,
+          "like_count": 201,
+          "quote_count": 0,
+          "reply_count": 86,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个人过19岁生日(._.)找了个陪拍给我拍照，因为现实真的找不到能陪我生日的人了，家里没人现实也没朋友，我们死宅就是这样的… https://t.co/BNIJNr6wKY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 746,
+          "like_count": 13369,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 2688
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T07:31:54.000Z",
+        "description": "@doll070707 \n匿名提问 https://t.co/2lBKx6Awd7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "doll070707"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ydd67887",
+                "end": 41,
+                "expanded_url": "https://ngl.link/ydd67887",
+                "start": 18,
+                "url": "https://t.co/2lBKx6Awd7"
+              }
+            ]
+          }
+        },
+        "id": "1779774601100189696",
+        "location": "扩列52聊一辈子",
+        "name": "yd 🕯",
+        "pinned_tweet_id": "2046660872882340270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872455514799656960/xf5T8x33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5405,
+          "following_count": 10,
+          "like_count": 2775,
+          "listed_count": 23,
+          "media_count": 256,
+          "tweet_count": 1136
+        },
+        "url": "",
+        "username": "doll7799",
+        "verified": true
+      }
+    ]
+  }
+}

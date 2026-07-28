@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2056165826206851129",
+    "created_at": "2026-05-18T00:20:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T01:20:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056168083061100873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1702654232166584320",
+          "start": 0,
+          "username": "6girl_15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056168083061100873",
+    "in_reply_to_user_id": "1702654232166584320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056165826206851129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6girl_15 お誕生日おめでとう"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056165822104834048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIj369HbkAAW3xp.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2056165826206851129",
+        "created_at": "2026-05-18T00:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T01:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056168083061100873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1702654232166584320",
+              "start": 0,
+              "username": "6girl_15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056168083061100873",
+        "in_reply_to_user_id": "1702654232166584320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056165826206851129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6girl_15 お誕生日おめでとう"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056165822104834048"
+          ]
+        },
+        "author_id": "1702654232166584320",
+        "conversation_id": "2056165826206851129",
+        "created_at": "2026-05-18T00:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T01:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056165826206851129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yc9xqc4YBP",
+              "end": 26,
+              "expanded_url": "https://x.com/6girl_15/status/2056165826206851129/photo/1",
+              "media_key": "3_2056165822104834048",
+              "start": 3,
+              "url": "https://t.co/yc9xqc4YBP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056165826206851129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爆誕 https://t.co/yc9xqc4YBP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 694,
+          "like_count": 11939,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 2464
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-15T12:03:14.000Z",
+        "description": "とある学生の病み垢￤07￤￤♀︎￤自傷￤独占欲￤希死念慮￤承認欲求￤醜形恐怖症￤自発苦手￤低浮上￤ﾂｲｹｼ常習犯￤ﾌｫﾛﾊﾞ99%￤鏡対応￤ｱｲｺﾝ拾い画￤DM×￤🖤 @4ntI_p0d_a7 ☁@munou_daoまぶ!! @morimotoNa697 🐾 @no3_qqx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 84,
+                "username": "4ntI_p0d_a7"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "munou_dao"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "username": "morimotoNa697"
+              },
+              {
+                "end": 138,
+                "start": 130,
+                "username": "no3_qqx"
+              }
+            ]
+          }
+        },
+        "id": "1702654232166584320",
+        "location": "存在しません",
+        "name": "わかな。",
+        "pinned_tweet_id": "2046499270271119775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909733202278989825/eWU9w9bS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1249,
+          "following_count": 808,
+          "like_count": 32572,
+          "listed_count": 56,
+          "media_count": 45,
+          "tweet_count": 14456
+        },
+        "username": "6girl_15",
+        "verified": false
+      }
+    ]
+  }
+}

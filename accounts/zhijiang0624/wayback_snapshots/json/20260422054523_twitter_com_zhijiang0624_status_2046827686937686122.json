@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2046827686937686122",
+    "created_at": "2026-04-22T05:45:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T06:45:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046827686937686122"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2046827686937686122",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刷到了好多说“你死后会怎么怎么样”的视频\n说朋友亲人怎样伤心怎样难过怎样遗憾\n那股恶心的幸福、理想性的味险些让我想吐\n假如那人生前真的拥有这些的话还会想死吗？\n爱自己的父母、关心自己的朋友？\n真恶心\n恶心\n恶心\n恶心\n恶心\n恶心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2046827686937686122",
+        "created_at": "2026-04-22T05:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T06:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046827686937686122"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046827686937686122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷到了好多说“你死后会怎么怎么样”的视频\n说朋友亲人怎样伤心怎样难过怎样遗憾\n那股恶心的幸福、理想性的味险些让我想吐\n假如那人生前真的拥有这些的话还会想死吗？\n爱自己的父母、关心自己的朋友？\n真恶心\n恶心\n恶心\n恶心\n恶心\n恶心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 663,
+          "like_count": 10842,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 2190
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2009227277390012506",
+    "created_at": "2026-01-08T11:36:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T12:36:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009227644743889393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1592865779241734144",
+          "start": 0,
+          "username": "yuanyuan774"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009227644743889393",
+    "in_reply_to_user_id": "1592865779241734144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009227277390012506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanyuan774 虽然但是，辛苦你了，为了不被盗视频而辛苦加水印的你，辛苦你了🙏🏻"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6050,
+        "height": 720,
+        "media_key": "13_2009227178785865728",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2009227178785865728/img/Moyd1nNDjC56bgNW.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009227178785865728/vid/avc1/456x270/BCqmurzfboLPH5lZ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009227178785865728/vid/avc1/608x360/GfwBkKwsktFPO2v0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009227178785865728/vid/avc1/1216x720/gcORvImFioNbBPSZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2009227178785865728/pl/3x8uatUUVqwN2LTs.m3u8"
+          }
+        ],
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2009227277390012506",
+        "created_at": "2026-01-08T11:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T12:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009227644743889393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592865779241734144",
+              "start": 0,
+              "username": "yuanyuan774"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009227644743889393",
+        "in_reply_to_user_id": "1592865779241734144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009227277390012506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanyuan774 虽然但是，辛苦你了，为了不被盗视频而辛苦加水印的你，辛苦你了🙏🏻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2009227178785865728"
+          ]
+        },
+        "author_id": "1592865779241734144",
+        "conversation_id": "2009227277390012506",
+        "created_at": "2026-01-08T11:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T12:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009227277390012506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y2EWXepzUu",
+              "end": 32,
+              "expanded_url": "https://x.com/yuanyuan774/status/2009227277390012506/video/1",
+              "media_key": "13_2009227178785865728",
+              "start": 9,
+              "url": "https://t.co/y2EWXepzUu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009227277390012506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老公的专属捏捏🥺 https://t.co/y2EWXepzUu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一个偶尔变得哲学或者厌世的重度自闭男生。理想大概就是想尽自己的绵薄之力尽量缝补这个世界支离破碎的一面吧",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 209,
+          "like_count": 824,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 503
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T13:03:00.000Z",
+        "description": "小号 转喜欢看的片的。@CaTwTuoo。 关评推广自辩，除口令以外不看私信，52000好友位，",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "CaTwTuoo"
+              }
+            ]
+          }
+        },
+        "id": "1592865779241734144",
+        "location": "🥕",
+        "name": "你是不是欠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006600139784228864/G9KATkPW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31884,
+          "following_count": 250,
+          "like_count": 25595,
+          "listed_count": 43,
+          "media_count": 1363,
+          "tweet_count": 25943
+        },
+        "username": "yuanyuan774",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2049471472541073565",
+    "created_at": "2026-04-29T15:34:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T16:34:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049512614158631098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2021505488337416192",
+          "start": 0,
+          "username": "5chyms"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049512614158631098",
+    "in_reply_to_user_id": "2021505488337416192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049512241511444928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5chyms 可能是我之前想跳河的时候自己退了\n那天把所有联系方式软件删了、账号也清空好友群聊什么的也处于待注销状态了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2049512241511444928].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2049512241511444928",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2049512241511444928"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2049471472541073565",
+        "created_at": "2026-04-29T15:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T16:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049512614158631098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2021505488337416192",
+              "start": 0,
+              "username": "5chyms"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049512614158631098",
+        "in_reply_to_user_id": "2021505488337416192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049512241511444928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5chyms 可能是我之前想跳河的时候自己退了\n那天把所有联系方式软件删了、账号也清空好友群聊什么的也处于待注销状态了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 678,
+          "like_count": 11300,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 2281
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-11T08:44:15.000Z",
+        "description": "我始终都在这里。 https://t.co/E5w4a5cLsw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "b23.tv/Z4qoVLc",
+                "end": 32,
+                "expanded_url": "https://b23.tv/Z4qoVLc",
+                "start": 9,
+                "url": "https://t.co/E5w4a5cLsw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "acg.rip",
+                "end": 23,
+                "expanded_url": "http://acg.rip",
+                "start": 0,
+                "url": "https://t.co/7lyUL1iWac"
+              }
+            ]
+          }
+        },
+        "id": "2021505488337416192",
+        "location": "Japan",
+        "name": "花漫阳春",
+        "pinned_tweet_id": "2049449386644767095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048795042991738880/UMh5OtPf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 635,
+          "like_count": 3136,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 443
+        },
+        "url": "https://t.co/7lyUL1iWac",
+        "username": "5chyms",
+        "verified": true
+      }
+    ]
+  }
+}

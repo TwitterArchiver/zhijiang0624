@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2028864270252007512",
+    "created_at": "2026-03-03T17:04:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T18:04:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028879204281192905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1765970135938985984",
+          "start": 0,
+          "username": "CarlotaHan48282"
+        },
+        {
+          "end": 24,
+          "id": "1910749531161190400",
+          "start": 17,
+          "username": "r0x_ht"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028879204281192905",
+    "in_reply_to_user_id": "1765970135938985984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028878955097547231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CarlotaHan48282 @r0x_ht 试过，之后撒尿的时候感觉尿道里面有针扎一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2028864270252007512",
+        "created_at": "2026-03-03T17:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T18:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028879204281192905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1765970135938985984",
+              "start": 0,
+              "username": "CarlotaHan48282"
+            },
+            {
+              "end": 24,
+              "id": "1910749531161190400",
+              "start": 17,
+              "username": "r0x_ht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028879204281192905",
+        "in_reply_to_user_id": "1765970135938985984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028878955097547231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CarlotaHan48282 @r0x_ht 试过，之后撒尿的时候感觉尿道里面有针扎一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765970135938985984",
+        "conversation_id": "2028864270252007512",
+        "created_at": "2026-03-03T17:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T18:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028878955097547231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "ZhiJiang0624"
+            },
+            {
+              "end": 21,
+              "id": "1910749531161190400",
+              "start": 14,
+              "username": "r0x_ht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028878955097547231",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028866642084876439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhiJiang0624 @r0x_ht 意思你试过？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 529,
+          "like_count": 5289,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1557
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-08T05:17:58.000Z",
+        "description": "06反差学妹 性瘾患者 来x寻找刺激 找一个固定炮友不影响各自的生活那种。",
+        "id": "1765970135938985984",
+        "location": "6.1km",
+        "name": "baby思（大学生）",
+        "pinned_tweet_id": "2027671960877220193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972613410039750656/QOxE7zYw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 5,
+          "like_count": 6812,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 343
+        },
+        "username": "CarlotaHan48282",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-11T17:39:32.000Z",
+        "description": "可爱又可爱",
+        "id": "1910749531161190400",
+        "location": "🚪18 ",
+        "name": "Miko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974949239118876672/NZ4Hm47I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30782,
+          "following_count": 9,
+          "like_count": 394,
+          "listed_count": 61,
+          "media_count": 107,
+          "tweet_count": 244
+        },
+        "username": "r0x_ht",
+        "verified": false
+      }
+    ]
+  }
+}

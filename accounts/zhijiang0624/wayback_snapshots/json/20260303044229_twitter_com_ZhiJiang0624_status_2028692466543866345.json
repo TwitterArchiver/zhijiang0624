@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2028497735146762446",
+    "created_at": "2026-03-03T04:42:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T05:42:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028692466543866345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1763508366931017728",
+          "start": 0,
+          "username": "Arieliskiyo"
+        },
+        {
+          "end": 21,
+          "id": "1831391450283831299",
+          "start": 13,
+          "username": "yi0415_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028692466543866345",
+    "in_reply_to_user_id": "1763508366931017728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028685714863554665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Arieliskiyo @yi0415_ 所以才说是好像，我也只是刷视频看见过一眼，并没有仔细了解过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2028497735146762446",
+        "created_at": "2026-03-03T04:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T05:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028692466543866345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1763508366931017728",
+              "start": 0,
+              "username": "Arieliskiyo"
+            },
+            {
+              "end": 21,
+              "id": "1831391450283831299",
+              "start": 13,
+              "username": "yi0415_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028692466543866345",
+        "in_reply_to_user_id": "1763508366931017728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028685714863554665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arieliskiyo @yi0415_ 所以才说是好像，我也只是刷视频看见过一眼，并没有仔细了解过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763508366931017728",
+        "conversation_id": "2028497735146762446",
+        "created_at": "2026-03-03T04:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T05:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028685714863554665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "ZhiJiang0624"
+            },
+            {
+              "end": 22,
+              "id": "1831391450283831299",
+              "start": 14,
+              "username": "yi0415_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028685714863554665",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028505339801555169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhiJiang0624 @yi0415_ 说韩娱娘的我只能说猜猜我欧巴和吴京谁真的当过兵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 505,
+          "like_count": 4881,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1470
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T10:15:46.000Z",
+        "description": "LOVE STRATKIDS AND TAEHYUN.",
+        "id": "1763508366931017728",
+        "location": "Seoul, Republic of Korea",
+        "name": "Kiyo TH",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858670452081913857/nAmmnDc-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 300,
+          "like_count": 2612,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 848
+        },
+        "username": "Arieliskiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T17:58:57.000Z",
+        "description": "",
+        "id": "1831391450283831299",
+        "location": "我来自地狱",
+        "name": "怡",
+        "pinned_tweet_id": "1994332265120174188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028008160771104768/XrH7oGlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30402,
+          "following_count": 92,
+          "like_count": 1760,
+          "listed_count": 84,
+          "media_count": 324,
+          "tweet_count": 2413
+        },
+        "username": "yi0415_",
+        "verified": false
+      }
+    ]
+  }
+}

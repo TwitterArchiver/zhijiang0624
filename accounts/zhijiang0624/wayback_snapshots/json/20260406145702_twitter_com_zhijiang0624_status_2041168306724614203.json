@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2041006562395984299",
+    "created_at": "2026-04-06T14:57:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T15:57:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041168306724614203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1818230195876507648",
+          "start": 0,
+          "username": "Shuiyv29"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041168306724614203",
+    "in_reply_to_user_id": "1818230195876507648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041006562395984299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shuiyv29 有些时候是不清楚自己到底怎么受伤了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2041006562395984299",
+        "created_at": "2026-04-06T14:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T15:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041168306724614203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1818230195876507648",
+              "start": 0,
+              "username": "Shuiyv29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041168306724614203",
+        "in_reply_to_user_id": "1818230195876507648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041006562395984299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shuiyv29 有些时候是不清楚自己到底怎么受伤了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818230195876507648",
+        "conversation_id": "2041006562395984299",
+        "created_at": "2026-04-06T04:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T05:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041006562395984299"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041006562395984299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚摸到手肘那里有个凸起，于是以为是蚊子包用力抠了好多下，但是越抠越痛打开手电筒一看是个口子，我都不知道什么时候弄的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 651,
+          "like_count": 9704,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 2049
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T10:20:54.000Z",
+        "description": "没有免费陪聊的义务。纯💚🚪168       睡鱼下一次哭可不可以是因为幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuiyv29292",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuiyv29292",
+                "start": 0,
+                "url": "https://t.co/Cnt30Cj3qk"
+              }
+            ]
+          }
+        },
+        "id": "1818230195876507648",
+        "location": "床",
+        "name": "睡鱼",
+        "pinned_tweet_id": "1975180716242792521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030486219906506752/Z3cq9R6F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 232,
+          "like_count": 14044,
+          "listed_count": 1,
+          "media_count": 385,
+          "tweet_count": 5081
+        },
+        "url": "https://t.co/Cnt30Cj3qk",
+        "username": "Shuiyv29",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2024743412961071360",
+    "created_at": "2026-02-20T09:49:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T10:49:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024783540353954272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1773041626581221376",
+          "start": 0,
+          "username": "Nikikiki8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024783540353954272",
+    "in_reply_to_user_id": "1773041626581221376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024743412961071360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nikikiki8964 早恋不是时间的早，而是在还无法负责的时候放纵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2024743412961071360",
+        "created_at": "2026-02-20T09:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T10:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024783540353954272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1773041626581221376",
+              "start": 0,
+              "username": "Nikikiki8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024783540353954272",
+        "in_reply_to_user_id": "1773041626581221376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024743412961071360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nikikiki8964 早恋不是时间的早，而是在还无法负责的时候放纵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773041626581221376",
+        "conversation_id": "2024743412961071360",
+        "created_at": "2026-02-20T07:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T08:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024743412961071360"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024743412961071360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我从未被禁止早恋，我的高中相对来说还算开明，家庭从初中就鼓励我尝试恋爱，我没有“变成”现在这样，本就是天生的无爱者，说来说去还是对失去一种对世界的感知而愤愤不平罢了，我觉得自己像天生色盲/无嗅觉/失聪，比别人少了一种人类标配能力，这一点也没有换成其他的能力，就仅仅是失去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 426,
+          "like_count": 3652,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1262
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T17:37:30.000Z",
+        "description": "个人想法储存站｜同人女｜虚拟性恋尊厌｜回关交友随缘｜有事提问箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%A5%BF%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%A5%BF%E7%93%9C%E6%8A%95%E6%89%8B",
+                "start": 0,
+                "url": "https://t.co/ujX5HCo8rR"
+              }
+            ]
+          }
+        },
+        "id": "1773041626581221376",
+        "location": "匿名提问箱→",
+        "name": "赛博葵花鹦鹉",
+        "pinned_tweet_id": "1983110926908961278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018744150007730176/OEgu-nth_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1551,
+          "following_count": 108,
+          "like_count": 85846,
+          "listed_count": 7,
+          "media_count": 62,
+          "tweet_count": 245
+        },
+        "url": "https://t.co/ujX5HCo8rR",
+        "username": "Nikikiki8964",
+        "verified": false
+      }
+    ]
+  }
+}

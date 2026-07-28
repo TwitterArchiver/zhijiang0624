@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2030994391440273408"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "conversation_id": "2030965957905273212",
+    "created_at": "2026-03-09T13:09:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T14:09:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030994419202298312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2004977573332492288",
+          "start": 0,
+          "username": "gzi1068795"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4mEfGTmpsM",
+          "end": 70,
+          "expanded_url": "https://x.com/ZhiJiang0624/status/2030994419202298312/photo/1",
+          "media_key": "16_2030994391440273408",
+          "start": 47,
+          "url": "https://t.co/4mEfGTmpsM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030994419202298312",
+    "in_reply_to_user_id": "2004977573332492288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030967676701655283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gzi1068795 不知道为什么对世界的善意也会被贬低\n已经线上线下被说好多次排狗后面了 https://t.co/4mEfGTmpsM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "16_2030994391440273408",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HC-Ko2qbsAA5wlm.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HC-Ko2qbsAA5wlm.mp4"
+          }
+        ],
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2030994391440273408"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "conversation_id": "2030965957905273212",
+        "created_at": "2026-03-09T13:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T14:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030994419202298312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2004977573332492288",
+              "start": 0,
+              "username": "gzi1068795"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4mEfGTmpsM",
+              "end": 70,
+              "expanded_url": "https://x.com/ZhiJiang0624/status/2030994419202298312/photo/1",
+              "media_key": "16_2030994391440273408",
+              "start": 47,
+              "url": "https://t.co/4mEfGTmpsM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030994419202298312",
+        "in_reply_to_user_id": "2004977573332492288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030967676701655283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gzi1068795 不知道为什么对世界的善意也会被贬低\n已经线上线下被说好多次排狗后面了 https://t.co/4mEfGTmpsM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004977573332492288",
+        "conversation_id": "2030965957905273212",
+        "created_at": "2026-03-09T11:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T12:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030967676701655283"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030967676701655283",
+        "in_reply_to_user_id": "2004977573332492288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030965957905273212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有真正的暖男是不会排在狗的后面的，除非你是那种口头上说着好话，但私底下嗯……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n十九岁高中牲\n如果哪里说得有错还请麻烦指点一下谢谢。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 609,
+          "like_count": 8212,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1876
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T18:09:14.000Z",
+        "description": "🇨🇳/22 ↑/我是女的，男的别来，我只和女孩子玩/来这是为了搞同人 / 绘画练习中/觉得不适随意屏蔽不用告知/自己开心最重要/日本語が話せないため翻訳ツールを使っています。もし表現に誤解があったらごめんなさい！",
+        "id": "2004977573332492288",
+        "location": "東京 豊島区",
+        "name": "Ukiyo",
+        "pinned_tweet_id": "2018943353199755380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022497308412432384/0gRJHPR-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 236,
+          "like_count": 10054,
+          "listed_count": 1,
+          "media_count": 256,
+          "tweet_count": 4496
+        },
+        "username": "gzi1068795",
+        "verified": false
+      }
+    ]
+  }
+}

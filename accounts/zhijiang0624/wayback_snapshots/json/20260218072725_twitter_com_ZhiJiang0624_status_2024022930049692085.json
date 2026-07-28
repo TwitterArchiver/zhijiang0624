@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2024006097246269616",
+    "created_at": "2026-02-18T07:27:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T08:27:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024022930049692085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "747567071110782976",
+          "start": 0,
+          "username": "Chun_Lis_Thighs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024022930049692085",
+    "in_reply_to_user_id": "747567071110782976",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024006097246269616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chun_Lis_Thighs People who make right and wrong decisions have their own judgments, and those who think they are pointing and doing nothing are really stupid."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2024006097246269616",
+        "created_at": "2026-02-18T07:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T08:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024022930049692085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "747567071110782976",
+              "start": 0,
+              "username": "Chun_Lis_Thighs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024022930049692085",
+        "in_reply_to_user_id": "747567071110782976",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024006097246269616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chun_Lis_Thighs People who make right and wrong decisions have their own judgments, and those who think they are pointing and doing nothing are really stupid."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "747567071110782976",
+        "conversation_id": "2024006097246269616",
+        "created_at": "2026-02-18T06:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T07:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024006097246269616"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024006097246269616",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Don’t ask me a question about myself and tell me that I’m wrong when I give you an answer. It pisses me off. Then don’t ask the question. You don’t know me better than I know myself. It’s the height of arrogance to tell me that I don’t know myself. Fucking ridiculous"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 419,
+          "like_count": 3474,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1210
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-27T23:07:33.000Z",
+        "description": "You may have invaded my mind and my body but there is a thing a saiyan always keeps.33  🇰🇷🇺🇸",
+        "id": "747567071110782976",
+        "name": "🌿",
+        "pinned_tweet_id": "1706523796310544435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017060605362880513/Ujo8anGW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 2473,
+          "like_count": 13925,
+          "listed_count": 6,
+          "media_count": 3541,
+          "tweet_count": 88820
+        },
+        "username": "Chun_Lis_Thighs",
+        "verified": false
+      }
+    ]
+  }
+}

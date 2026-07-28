@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2023052780769047003",
+    "created_at": "2026-02-15T16:26:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T17:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023071324856561701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1667779272478687232",
+          "start": 0,
+          "username": "MilkyWayDet_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023071324856561701",
+    "in_reply_to_user_id": "1667779272478687232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023052780769047003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MilkyWayDet_ 除夕快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2023052780769047003",
+        "created_at": "2026-02-15T16:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T17:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023071324856561701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1667779272478687232",
+              "start": 0,
+              "username": "MilkyWayDet_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023071324856561701",
+        "in_reply_to_user_id": "1667779272478687232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023052780769047003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MilkyWayDet_ 除夕快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667779272478687232",
+        "conversation_id": "2023052780769047003",
+        "created_at": "2026-02-15T15:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T16:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023052780769047003"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023052780769047003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 327,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一天的交流经历两个极端\n\n对最敏感的朋友说：\n不要担心我不知道该怎么面对你的情绪\n你就算倾诉什么也不会对我造成负担\n\n对最傻白甜的朋友说：\n既然你也觉得自己钝感力十足，那我就要告诉你，这不是你的缺点不需要改\n我真的希望你这一辈子都这么钝感力十足，继续傻傻地单纯下去，你会永远幸福"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 320,
+          "like_count": 2719,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 894
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T06:22:28.000Z",
+        "description": "🦦 我只是一个脆弱敏感好吃懒做的小女孩",
+        "id": "1667779272478687232",
+        "location": "宇宙盡頭的餐廳",
+        "name": "銀河系超級偵探",
+        "pinned_tweet_id": "1992609947197329828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1685264169569042433/mihVUuV7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1755,
+          "following_count": 132,
+          "like_count": 15068,
+          "listed_count": 19,
+          "media_count": 1086,
+          "tweet_count": 2849
+        },
+        "username": "MilkyWayDet_",
+        "verified": false
+      }
+    ]
+  }
+}

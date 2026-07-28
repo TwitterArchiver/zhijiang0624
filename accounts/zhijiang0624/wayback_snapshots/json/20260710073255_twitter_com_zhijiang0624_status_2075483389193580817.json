@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2075467518798655791",
+    "created_at": "2026-07-10T07:32:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T08:32:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075483389193580817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1571778557243985926",
+          "start": 0,
+          "username": "luohuan0319"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075483389193580817",
+    "in_reply_to_user_id": "1571778557243985926",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075467518798655791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luohuan0319 好厉害啊……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2075467518798655791",
+        "created_at": "2026-07-10T07:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T08:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075483389193580817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1571778557243985926",
+              "start": 0,
+              "username": "luohuan0319"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075483389193580817",
+        "in_reply_to_user_id": "1571778557243985926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075467518798655791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luohuan0319 好厉害啊……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571778557243985926",
+        "conversation_id": "2075467518798655791",
+        "created_at": "2026-07-10T06:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T07:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075467518798655791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luohuan0319/st…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/luohuan0319/status/2075226906711269823",
+              "start": 59,
+              "url": "https://t.co/IawdznwkCf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075467518798655791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1349,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075226906711269823",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢大家的点赞\n但那个  我是本校直升保研究生，不是考研，所以私信里没有什么考研经验分享给大家🥺祝考研的朋友顺利上岸 https://t.co/IawdznwkCf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 756,
+          "like_count": 13483,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 2712
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-19T08:29:49.000Z",
+        "description": "万籁生山，一星在水。",
+        "id": "1571778557243985926",
+        "location": "北京市，海淀区",
+        "name": "洛欢",
+        "pinned_tweet_id": "2075240536441819466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938296228053454848/Dz2Lb0S3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1880,
+          "following_count": 871,
+          "like_count": 16481,
+          "listed_count": 1,
+          "media_count": 470,
+          "tweet_count": 2954
+        },
+        "url": "",
+        "username": "luohuan0319",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2023438960027160576",
+    "created_at": "2026-02-16T16:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T17:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023441433630568616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1913156900306264064",
+          "start": 0,
+          "username": "Ririkayric0407"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023441433630568616",
+    "in_reply_to_user_id": "1913156900306264064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023438960027160576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ririkayric0407 我姐夫的父亲也是养了个小三，被发现后他家里闹翻天了😂；我四叔更牛逼，养了个小三，然后和原配离了和小三结婚了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2023438960027160576",
+        "created_at": "2026-02-16T16:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T17:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023441433630568616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1913156900306264064",
+              "start": 0,
+              "username": "Ririkayric0407"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023441433630568616",
+        "in_reply_to_user_id": "1913156900306264064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023438960027160576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ririkayric0407 我姐夫的父亲也是养了个小三，被发现后他家里闹翻天了😂；我四叔更牛逼，养了个小三，然后和原配离了和小三结婚了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913156900306264064",
+        "conversation_id": "2023438960027160576",
+        "created_at": "2026-02-16T16:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T17:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023438960027160576"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023438960027160576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爸在外面养小三都他妈不舍得给老子转一分钱抚养费也从来都没给过 老子他妈今年16岁生日一过就起诉你😂😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 398,
+          "like_count": 3154,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1119
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T09:06:12.000Z",
+        "description": "我是小可呀！女孩子们互关起来｜擦边纯爱好｜🚪52 给的越多我越喜欢你谢谢｜精神分裂女鬼求善待｜173 50kg｜脾气很差的社会闲散人员一位呀",
+        "id": "1913156900306264064",
+        "name": "可儿这个萌",
+        "pinned_tweet_id": "2016855942126805442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017695635965878272/E279NCly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 34,
+          "like_count": 956,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 615
+        },
+        "username": "Ririkayric0407",
+        "verified": false
+      }
+    ]
+  }
+}

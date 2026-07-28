@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "1997663355054498273",
+    "created_at": "2026-03-03T11:30:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T12:30:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028795179545849873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1736013613922729984",
+          "start": 0,
+          "username": "LING_bdnit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028795179545849873",
+    "in_reply_to_user_id": "1736013613922729984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997663355054498273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LING_bdnit 休息时我将研究这份清单"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "1997663355054498273",
+        "created_at": "2026-03-03T11:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T12:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028795179545849873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1736013613922729984",
+              "start": 0,
+              "username": "LING_bdnit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028795179545849873",
+        "in_reply_to_user_id": "1736013613922729984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997663355054498273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LING_bdnit 休息时我将研究这份清单"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736013613922729984",
+        "conversation_id": "1997663355054498273",
+        "created_at": "2025-12-07T13:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T14:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997663355054498273"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997663355054498273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3276,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拉清单，什么内容都有。可以在下面推荐你喜欢的哦\n1.源代码\n2.00年代的想象力\n3.恋爱寄生虫\n4.Z.A.T.O\n5.焦虑1983\n6.凯瑟琳fullbody\n7.破 地狱\n8.一出好戏\n9.历年纪\n10.十日神话\n11.信号Signalis\n12.who is Lila?\n13.发条橙\n14.粉红色的火烈鸟\n15.柳条人\n16.着魔\n17.绣湖\n18.下水道的美人鱼\n（下接"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 513,
+          "like_count": 5061,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1505
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-16T13:21:22.000Z",
+        "description": "｜这是人类的落日。｜\n\n🇨🇳潮汕人｜精神深圳人｜好姬友:@vonlinne2003｜正宗18岁高二JK｜OCD+DPDR｜🏳️‍🌈双性恋｜#三体 #Starmania #ギルガメッシュ #叶文洁 #milet #凯尔希｜宗教学 精神病学 天文学 精神药理学｜与拜老爷闽南台湾潮汕老保势不两立｜不键政日常推｜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 69,
+                "tag": "三体"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "tag": "Starmania"
+              },
+              {
+                "end": 92,
+                "start": 84,
+                "tag": "ギルガメッシュ"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "叶文洁"
+              },
+              {
+                "end": 104,
+                "start": 98,
+                "tag": "milet"
+              },
+              {
+                "end": 109,
+                "start": 105,
+                "tag": "凯尔希"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "vonlinne2003"
+              }
+            ]
+          }
+        },
+        "id": "1736013613922729984",
+        "location": "已然遥远的理想乡 Lost Camelot",
+        "name": "泠栀子没有在小红书骂不给猫吃进口猫粮就是虐猫的逆天养猫人是傻逼并且给我两只臭猫收拾烂摊子帮邻居洗地毯",
+        "pinned_tweet_id": "1997663355054498273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006604352165998592/t2B1EGc8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 1098,
+          "like_count": 272132,
+          "listed_count": 3,
+          "media_count": 533,
+          "tweet_count": 6125
+        },
+        "username": "LING_bdnit",
+        "verified": false
+      }
+    ]
+  }
+}

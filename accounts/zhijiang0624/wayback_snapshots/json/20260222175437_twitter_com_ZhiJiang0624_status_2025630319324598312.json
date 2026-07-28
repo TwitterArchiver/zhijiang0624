@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2025276815783460882",
+    "created_at": "2026-02-22T17:54:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T18:54:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025630319324598312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1699685199863316480",
+          "start": 0,
+          "username": "caomeix04231621"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025630319324598312",
+    "in_reply_to_user_id": "1699685199863316480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025276815783460882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caomeix04231621 我也想职校毕业就去打工了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025276805817696256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBs6hkaaAAAzbMv.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025276805817729024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBs6hkaagAAw44M.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025276805809405954",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBs6hkYbgAIqHXN.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2025276815783460882",
+        "created_at": "2026-02-22T17:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T18:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025630319324598312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1699685199863316480",
+              "start": 0,
+              "username": "caomeix04231621"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025630319324598312",
+        "in_reply_to_user_id": "1699685199863316480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025276815783460882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeix04231621 我也想职校毕业就去打工了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025276805817696256",
+            "3_2025276805817729024",
+            "3_2025276805809405954"
+          ]
+        },
+        "author_id": "1699685199863316480",
+        "conversation_id": "2025276815783460882",
+        "created_at": "2026-02-21T18:29:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T19:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025276815783460882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lJqIQDNyd3",
+              "end": 141,
+              "expanded_url": "https://x.com/caomeix04231621/status/2025276815783460882/photo/1",
+              "media_key": "3_2025276805817696256",
+              "start": 118,
+              "url": "https://t.co/lJqIQDNyd3"
+            },
+            {
+              "display_url": "pic.x.com/lJqIQDNyd3",
+              "end": 141,
+              "expanded_url": "https://x.com/caomeix04231621/status/2025276815783460882/photo/1",
+              "media_key": "3_2025276805817729024",
+              "start": 118,
+              "url": "https://t.co/lJqIQDNyd3"
+            },
+            {
+              "display_url": "pic.x.com/lJqIQDNyd3",
+              "end": 141,
+              "expanded_url": "https://x.com/caomeix04231621/status/2025276815783460882/photo/1",
+              "media_key": "3_2025276805809405954",
+              "start": 118,
+              "url": "https://t.co/lJqIQDNyd3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025276815783460882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6144,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我怕自己又忘记争吵，所以趁热打铁记录。因为出去工作的事，不能再心软被她说服了。其实正如她问的，我能不能在外面存活，我也觉得是问号。我害怕，再加上她说的不会给我钱租房兜底。可我想活下去的，我不要郁郁寡欢，不要躲在房间酗酒自残，盘算自杀。 https://t.co/lJqIQDNyd3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 438,
+          "like_count": 3752,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1292
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-07T07:25:18.000Z",
+        "description": "你爱文字里的我，其实是爱你自己｜🚪88纯绿｜不接推广置顶｜接稿",
+        "id": "1699685199863316480",
+        "name": "椰椰椰椰奶小羊",
+        "pinned_tweet_id": "1986448254595441064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014335575164416000/XrvAEtX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63476,
+          "following_count": 332,
+          "like_count": 9343,
+          "listed_count": 113,
+          "media_count": 493,
+          "tweet_count": 9392
+        },
+        "username": "caomeix04231621",
+        "verified": false
+      }
+    ]
+  }
+}

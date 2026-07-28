@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2077421991246848324",
+    "created_at": "2026-07-15T15:56:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T16:56:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077421991246848324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2042940551385743360",
+          "start": 3,
+          "username": "tyuuburari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077421991246848324",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076994240056623144",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tyuuburari: めちゃくちゃ不謹慎なことは承知の上で言うけど\nクソデカイ病気とかになって余命宣告されたい。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2077421991246848324",
+        "created_at": "2026-07-15T15:56:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077421991246848324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2042940551385743360",
+              "start": 3,
+              "username": "tyuuburari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077421991246848324",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076994240056623144",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tyuuburari: めちゃくちゃ不謹慎なことは承知の上で言うけど\nクソデカイ病気とかになって余命宣告されたい。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042940551385743360",
+        "conversation_id": "2076994240056623144",
+        "created_at": "2026-07-14T11:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T12:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076994240056623144"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076994240056623144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 20285,
+          "like_count": 940,
+          "quote_count": 9,
+          "reply_count": 8,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "めちゃくちゃ不謹慎なことは承知の上で言うけど\nクソデカイ病気とかになって余命宣告されたい。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 761,
+          "like_count": 13562,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 2723
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T12:19:30.000Z",
+        "description": "15さい：病み垢\n児童養護施設now\n\n親：いない\nDM返せないことのほうが多いです。",
+        "id": "2042940551385743360",
+        "location": "第一希望はお姉ちゃんのところ",
+        "name": "アネモネ",
+        "pinned_tweet_id": "2076130082155077984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065981312671080448/AMFq9Nuu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 406,
+          "like_count": 1576,
+          "listed_count": 4,
+          "media_count": 11,
+          "tweet_count": 1162
+        },
+        "url": "",
+        "username": "tyuuburari",
+        "verified": false
+      }
+    ]
+  }
+}

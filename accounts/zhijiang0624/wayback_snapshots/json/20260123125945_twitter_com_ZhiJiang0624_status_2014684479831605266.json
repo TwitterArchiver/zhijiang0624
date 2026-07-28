@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014684127149342720"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2014005053204414481",
+    "created_at": "2026-01-23T12:59:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T13:59:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014684479831605266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "90724193",
+          "start": 0,
+          "username": "caramel_meme"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yntIlsxj1Y",
+          "end": 76,
+          "expanded_url": "https://x.com/ZhiJiang0624/status/2014684479831605266/photo/1",
+          "media_key": "3_2014684127149342720",
+          "start": 53,
+          "url": "https://t.co/yntIlsxj1Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014684479831605266",
+    "in_reply_to_user_id": "90724193",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014005053204414481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caramel_meme 残念ながら今あなたの歌を聞いて、私は早くこんなに良い歌を発見するべきです🙏🏻 https://t.co/yntIlsxj1Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2014684127149342720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_WYihVawAA9Dq9.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014684127149342720"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2014005053204414481",
+        "created_at": "2026-01-23T12:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T13:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014684479831605266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "90724193",
+              "start": 0,
+              "username": "caramel_meme"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yntIlsxj1Y",
+              "end": 76,
+              "expanded_url": "https://x.com/ZhiJiang0624/status/2014684479831605266/photo/1",
+              "media_key": "3_2014684127149342720",
+              "start": 53,
+              "url": "https://t.co/yntIlsxj1Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014684479831605266",
+        "in_reply_to_user_id": "90724193",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014005053204414481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caramel_meme 残念ながら今あなたの歌を聞いて、私は早くこんなに良い歌を発見するべきです🙏🏻 https://t.co/yntIlsxj1Y"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "90724193",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Nail Polish",
+              "id": "856605935296405504",
+              "name": "Nails"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nail Polish",
+              "id": "856605935296405504",
+              "name": "Nails"
+            }
+          }
+        ],
+        "conversation_id": "2014005053204414481",
+        "created_at": "2026-01-21T15:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T16:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014005053204414481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/misato24/statu…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/misato24/status/2013600926846554134",
+              "start": 105,
+              "url": "https://t.co/89fRdLquGb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014005053204414481",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 647,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013600926846554134",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ネイルすごく好評で褒めてもらえたー！\nネイルってこんなにテンション上がるものなんですね😆✨\nこれからもケアとか続けていきたいなと思っております！\nほんとにほんとにありがとう🥰\nライブでもよろしくお願いします！ https://t.co/89fRdLquGb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "你他妈的到底是谁？！莫名其妙跑到我的脑子里来做些莫名其妙的事！草你妈杀了你！",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 340,
+          "like_count": 1616,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 625
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-17T21:29:33.000Z",
+        "description": "綾倉盟/めめ太です。【Meme in Wonderland.】主催。同人や商業で歌っています。呟き、頑張ります…！フォロー大歓迎です！フォロー返し、リプは気まぐれです…みなさまからの返信は全部拝見しております！ありがとうございます！  memenica@gmail.com 歌のお仕事・ご依頼、お待ちしております！",
+        "id": "90724193",
+        "location": "地球",
+        "name": "綾倉盟/めめたぁ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/989157744895606784/8SLZ-1Hm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3554,
+          "following_count": 524,
+          "like_count": 19,
+          "listed_count": 87,
+          "media_count": 22,
+          "tweet_count": 348
+        },
+        "username": "caramel_meme",
+        "verified": false
+      }
+    ]
+  }
+}

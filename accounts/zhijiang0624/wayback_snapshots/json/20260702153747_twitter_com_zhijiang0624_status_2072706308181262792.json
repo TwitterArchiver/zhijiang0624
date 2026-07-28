@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2072658506449129859",
+    "created_at": "2026-07-02T15:37:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T16:37:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072706308181262792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1652985793290604545",
+          "start": 0,
+          "username": "TuTri77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072706308181262792",
+    "in_reply_to_user_id": "1652985793290604545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072658506449129859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TuTri77 收腹了吗？\n没有的话就瘦过头了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2072658434596409344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOP3WbWEAAh3B2.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2072658506449129859",
+        "created_at": "2026-07-02T15:37:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072706308181262792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1652985793290604545",
+              "start": 0,
+              "username": "TuTri77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072706308181262792",
+        "in_reply_to_user_id": "1652985793290604545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072658506449129859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuTri77 收腹了吗？\n没有的话就瘦过头了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072658434596409344"
+          ]
+        },
+        "author_id": "1652985793290604545",
+        "conversation_id": "2072658506449129859",
+        "created_at": "2026-07-02T12:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072658506449129859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DplOSb9HUf",
+              "end": 23,
+              "expanded_url": "https://x.com/TuTri77/status/2072658506449129859/photo/1",
+              "media_key": "3_2072658434596409344",
+              "start": 0,
+              "url": "https://t.co/DplOSb9HUf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072658506449129859",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 758,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DplOSb9HUf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 722,
+          "like_count": 12910,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 2632
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T10:38:28.000Z",
+        "description": "世界是孕育痛苦的子宫 https://t.co/TmlcYNAd4j",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nini96993",
+                "end": 34,
+                "expanded_url": "https://ngl.link/nini96993",
+                "start": 11,
+                "url": "https://t.co/TmlcYNAd4j"
+              }
+            ]
+          }
+        },
+        "id": "1652985793290604545",
+        "location": "🚪88纯绿",
+        "name": "nini",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929674445811712/AaZ5P8FQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12384,
+          "following_count": 268,
+          "like_count": 3432,
+          "listed_count": 22,
+          "media_count": 604,
+          "tweet_count": 2542
+        },
+        "url": "",
+        "username": "TuTri77",
+        "verified": false
+      }
+    ]
+  }
+}

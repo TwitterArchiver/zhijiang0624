@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2060190541682446411",
+    "created_at": "2026-05-29T04:29:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T05:29:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060216895002091793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1739391734491086848",
+          "start": 0,
+          "username": "IXXA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060216895002091793",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060190541682446411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IXXA00 我说照全身镜的时候不穿衣服全裸的样子真的很丑吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2060190541682446411",
+        "created_at": "2026-05-29T04:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060216895002091793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060216895002091793",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060190541682446411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 我说照全身镜的时候不穿衣服全裸的样子真的很丑吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2060190541682446411",
+        "created_at": "2026-05-29T02:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060190541682446411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Diamond_Kokoro…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/Diamond_Kokoro/status/2060000397251555716",
+              "start": 38,
+              "url": "https://t.co/I9J8zqoW02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060190541682446411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 402,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060000397251555716",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我必须穿衣服，遮盖我的手腕和脚腕。\n我不允许我自己恶心的身体被任何人看到。 https://t.co/I9J8zqoW02"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 707,
+          "like_count": 12382,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 2560
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "睡死在黎明永远不会到来的夜里。/接塔罗牌分析。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2059406531930751083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7112,
+          "following_count": 4503,
+          "like_count": 40675,
+          "listed_count": 18,
+          "media_count": 2973,
+          "tweet_count": 40485
+        },
+        "username": "IXXA00",
+        "verified": true
+      }
+    ]
+  }
+}

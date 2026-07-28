@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2035667422972400083",
+    "created_at": "2026-03-22T20:15:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T21:15:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035812727848108256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1986085289635491840",
+          "start": 0,
+          "username": "KkJLXOOmo151229"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035812727848108256",
+    "in_reply_to_user_id": "1986085289635491840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035805693073383850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KkJLXOOmo151229 品鉴之后会发的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2035667422972400083",
+        "created_at": "2026-03-22T20:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T21:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035812727848108256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1986085289635491840",
+              "start": 0,
+              "username": "KkJLXOOmo151229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035812727848108256",
+        "in_reply_to_user_id": "1986085289635491840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035805693073383850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KkJLXOOmo151229 品鉴之后会发的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986085289635491840",
+        "conversation_id": "2035667422972400083",
+        "created_at": "2026-03-22T19:47:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T20:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035805693073383850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "ZhiJiang0624"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035805693073383850",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035667422972400083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhiJiang0624 求品后感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n07年纯种神经病\n如果哪里说得有错还请麻烦指点一下谢谢。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 607,
+          "like_count": 8850,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1936
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-05T14:57:01.000Z",
+        "description": "爱因爱太过沉重而拒绝理解爱",
+        "id": "1986085289635491840",
+        "location": "夜之城",
+        "name": "winkky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035093419006271488/DeJ5zYY8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 23,
+          "like_count": 1080,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 318
+        },
+        "username": "KkJLXOOmo151229",
+        "verified": false
+      }
+    ]
+  }
+}

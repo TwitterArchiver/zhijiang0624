@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2008112758836081144",
+    "created_at": "2026-01-05T10:58:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T11:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008131105782948107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1980992351930863616",
+          "start": 0,
+          "username": "liaojieta1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008131105782948107",
+    "in_reply_to_user_id": "1980992351930863616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008112758836081144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liaojieta1 因为人总是喜欢新鲜感，虽然我认为那很无聊就是了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2008112758836081144",
+        "created_at": "2026-01-05T10:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T11:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008131105782948107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1980992351930863616",
+              "start": 0,
+              "username": "liaojieta1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008131105782948107",
+        "in_reply_to_user_id": "1980992351930863616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008112758836081144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liaojieta1 因为人总是喜欢新鲜感，虽然我认为那很无聊就是了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980992351930863616",
+        "conversation_id": "2008112758836081144",
+        "created_at": "2026-01-05T09:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T10:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008112758836081144"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008112758836081144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我有点sm属性的 ， 然后前个月在社交软件上认识了他 ，聊得很来，于是动了实践的想法，在周末的时候我去找他了 ，实践了，本来说好不进去的 ，但是还是进去了，然后进去没有任何感觉， 做完了，我们躺在床上，我靠在他身上刷视频， 然后突然聊到情感问题 ，我开玩笑问他你别搞多人啊，他说圈内只有我一个，我问他那圈外呢，别搞啊。 他突然和我说他有女朋友，交往了一年多。\n感觉那一刻真的晴天霹雳了 ，我质问他为什么不和我说有女朋友，当时我全身发软，没办法思考了。然后我直接就走了。 \n救命 ，现在已经断了 ，我不理解为什么他有女朋友了还来找我 ，我这两天感觉要死了， 我感觉我是小三 ，救命，我最讨厌小三了，但是我在不知不觉中当了小三，很崩溃。\n为什么男的有了对象还要找，我永远恨他。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3856,
+          "like_count": 122,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有点sm属性的 ， 然后前个月在社交软件上认识了他 ，聊得很来，于是动了实践的想法，在周末的时候我去找他了 ，实践了，本来说好不进去的 ，但是还是进去了，然后进去没有任何感觉， 做完了，我们躺在床上，我靠在他身上刷视频， 然后突然聊到情感问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一个偶尔变得哲学或者厌世的重度自闭男生。理想大概就是想尽自己的绵薄之力尽量缝补这个世界支离破碎的一面吧",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 168,
+          "like_count": 626,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 434
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-22T13:39:26.000Z",
+        "description": "“禁止共情”",
+        "id": "1980992351930863616",
+        "name": "我也不太了解她",
+        "pinned_tweet_id": "2004053322395951489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980992553794035712/p0W79iJU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16411,
+          "following_count": 9,
+          "like_count": 7,
+          "listed_count": 15,
+          "media_count": 18,
+          "tweet_count": 168
+        },
+        "username": "liaojieta1",
+        "verified": true
+      }
+    ]
+  }
+}

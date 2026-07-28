@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057138745233801216",
+        "3_2057138745397370881"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1972974707822735505",
+    "created_at": "2026-05-20T16:38:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T17:38:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057138853190984191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1223195507901849601",
+          "start": 0,
+          "username": "axunkaOri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SH2ZJZW4K0",
+          "end": 68,
+          "expanded_url": "https://x.com/zhijiang0624/status/2057138853190984191/photo/1",
+          "media_key": "3_2057138745233801216",
+          "start": 45,
+          "url": "https://t.co/SH2ZJZW4K0"
+        },
+        {
+          "display_url": "pic.x.com/SH2ZJZW4K0",
+          "end": 68,
+          "expanded_url": "https://x.com/zhijiang0624/status/2057138853190984191/photo/1",
+          "media_key": "3_2057138745397370881",
+          "start": 45,
+          "url": "https://t.co/SH2ZJZW4K0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057138853190984191",
+    "in_reply_to_user_id": "1223195507901849601",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972974707822735505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@axunkaOri ……………………？？？？？\n姐我求你了\n你放的是卡提希娅的《逆潮》 https://t.co/SH2ZJZW4K0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057138745233801216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxsyiNagAA6vW0.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057138745397370881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxsyi0aYAE6ufl.jpg",
+        "width": 922
+      },
+      {
+        "duration_ms": 266733,
+        "height": 2160,
+        "media_key": "13_1972972702232358912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1972972702232358912/img/PBJSjcZHgk0tKqJo.jpg",
+        "public_metrics": {
+          "view_count": 458630
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972972702232358912/vid/avc1/480x270/Dssk4zHaVvX0Utue.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972972702232358912/vid/avc1/640x360/K6WG4XYwt_I6Bg10.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972972702232358912/vid/avc1/1920x1080/BcgDu5lfbC06G5W4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1972972702232358912/pl/3vmud6Ead8oE_12d.m3u8"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972972702232358912/vid/avc1/3840x2160/eP-HBTLPBzLyZIwA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972972702232358912/vid/avc1/1280x720/c-_1PLF6LK6s9vgS.mp4"
+          }
+        ],
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057138745233801216",
+            "3_2057138745397370881"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1972974707822735505",
+        "created_at": "2026-05-20T16:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T17:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057138853190984191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1223195507901849601",
+              "start": 0,
+              "username": "axunkaOri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SH2ZJZW4K0",
+              "end": 68,
+              "expanded_url": "https://x.com/zhijiang0624/status/2057138853190984191/photo/1",
+              "media_key": "3_2057138745233801216",
+              "start": 45,
+              "url": "https://t.co/SH2ZJZW4K0"
+            },
+            {
+              "display_url": "pic.x.com/SH2ZJZW4K0",
+              "end": 68,
+              "expanded_url": "https://x.com/zhijiang0624/status/2057138853190984191/photo/1",
+              "media_key": "3_2057138745397370881",
+              "start": 45,
+              "url": "https://t.co/SH2ZJZW4K0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057138853190984191",
+        "in_reply_to_user_id": "1223195507901849601",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972974707822735505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axunkaOri ……………………？？？？？\n姐我求你了\n你放的是卡提希娅的《逆潮》 https://t.co/SH2ZJZW4K0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1972972702232358912"
+          ]
+        },
+        "author_id": "1223195507901849601",
+        "conversation_id": "1972974707822735505",
+        "created_at": "2025-09-30T10:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T11:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972974707822735505"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 45,
+              "tag": "Iuno"
+            },
+            {
+              "end": 54,
+              "start": 51,
+              "tag": "鳴潮"
+            },
+            {
+              "end": 70,
+              "start": 55,
+              "tag": "WutheringWaves"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/szARIZ7XcW",
+              "end": 94,
+              "expanded_url": "https://x.com/axunkaOri/status/1972974707822735505/video/1",
+              "media_key": "13_1972972702232358912",
+              "start": 71,
+              "url": "https://t.co/szARIZ7XcW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972974707822735505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 7207,
+          "impression_count": 919114,
+          "like_count": 17389,
+          "quote_count": 4,
+          "reply_count": 141,
+          "retweet_count": 1107
+        },
+        "reply_settings": "everyone",
+        "text": "「尤诺」PV | 天才亦诅咒 \n那是被千万次窥见的，绝对正确的，不具备任何价值的未来。\n\n#Iuno #鳴潮\n#WutheringWaves https://t.co/szARIZ7XcW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 699,
+          "like_count": 12024,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 2499
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-31T10:45:47.000Z",
+        "description": "✨🔮我是阿薰⸝⸝'ᜊ'⸝⸝ 被网络文盲攻击那位就是我😞｜05年普通女孩｜💖dyb站wb@阿薰kaOri✨｜🛒薰门🚪vx和视频获取🔗下载微店搜：阿薰能量站｜用心拍作品📷｜任何改进建议欢迎留言💌｜求求大人们多支持🥺您的支持就是对我最大的鼓励🔮✨（不约不裸不线下）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "k.youshop10.com/5Rlf-Zoa",
+                "end": 23,
+                "expanded_url": "https://k.youshop10.com/5Rlf-Zoa",
+                "start": 0,
+                "url": "https://t.co/5LCvS3MiEj"
+              }
+            ]
+          }
+        },
+        "id": "1223195507901849601",
+        "location": "下载微店app搜：阿薰能量站",
+        "name": "✨🔮阿薰kaOri🔮✨",
+        "pinned_tweet_id": "2036391849066373142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951596079625224192/bZVw0Zhk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543848,
+          "following_count": 589,
+          "like_count": 317,
+          "listed_count": 1934,
+          "media_count": 874,
+          "tweet_count": 1635
+        },
+        "url": "https://t.co/5LCvS3MiEj",
+        "username": "axunkaOri",
+        "verified": true
+      }
+    ]
+  }
+}

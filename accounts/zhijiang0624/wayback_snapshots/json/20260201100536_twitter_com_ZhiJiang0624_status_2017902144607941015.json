@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2017897018912542912",
+    "created_at": "2026-02-01T10:05:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T11:05:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017902144607941015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1881948378453741569",
+          "start": 0,
+          "username": "neteru_365"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017902144607941015",
+    "in_reply_to_user_id": "1881948378453741569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017897018912542912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neteru_365 あなたはよくやっています。私はあなたが独立して生活する意識を持っていることがうらやましいです。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2017897018912542912",
+        "created_at": "2026-02-01T10:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T11:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017902144607941015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1881948378453741569",
+              "start": 0,
+              "username": "neteru_365"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017902144607941015",
+        "in_reply_to_user_id": "1881948378453741569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017897018912542912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neteru_365 あなたはよくやっています。私はあなたが独立して生活する意識を持っていることがうらやましいです。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881948378453741569",
+        "conversation_id": "2017897018912542912",
+        "created_at": "2026-02-01T09:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T10:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017897018912542912"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017897018912542912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3864,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "私みたいな人間が働こうとしてる時点で偉いので、誰かに褒められたい気持ち。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "你他妈的到底是谁？！莫名其妙跑到我的脑子里来做些莫名其妙的事！草你妈杀了你！",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 354,
+          "like_count": 1798,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 650
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T06:14:16.000Z",
+        "description": "32歳、穏やかに暮らすためアルバイトしながら関東で一人暮らし。友達も彼氏もいない。考え過ぎないように沢山ねてます。",
+        "id": "1881948378453741569",
+        "name": "ねてる",
+        "pinned_tweet_id": "2016222249196691521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004989256792698880/rfKsG3Pl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11167,
+          "following_count": 478,
+          "like_count": 14913,
+          "listed_count": 34,
+          "media_count": 59,
+          "tweet_count": 3568
+        },
+        "username": "neteru_365",
+        "verified": true
+      }
+    ]
+  }
+}

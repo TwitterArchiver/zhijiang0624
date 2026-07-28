@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2021553806279159828",
+    "created_at": "2026-02-11T17:22:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T18:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021635901642989914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1921570742665355264",
+          "start": 0,
+          "username": "Nontya_zzZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021635901642989914",
+    "in_reply_to_user_id": "1921570742665355264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021553806279159828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nontya_zzZ 消毒に注意する"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2021553806279159828].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2021553806279159828",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2021553806279159828"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2021553806279159828",
+        "created_at": "2026-02-11T17:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T18:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021635901642989914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1921570742665355264",
+              "start": 0,
+              "username": "Nontya_zzZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021635901642989914",
+        "in_reply_to_user_id": "1921570742665355264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021553806279159828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nontya_zzZ 消毒に注意する"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 386,
+          "like_count": 2211,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 710
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-11T14:19:33.000Z",
+        "description": "10  ¦  ♀  ¦  病み垢  ¦  ASD  ¦  HSP  ¦  🐿🦟  ¦  OD  168cm/46kg 251＆ペア画→ @7Fa8s ちゃん  双子🩷→ @nn_lxs2 ちゃん さぶ垢🗝→ @Y3A4p  ひだりきき  目指せ42kg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 68,
+                "username": "7Fa8s"
+              },
+              {
+                "end": 93,
+                "start": 85,
+                "username": "nn_lxs2"
+              },
+              {
+                "end": 110,
+                "start": 104,
+                "username": "Y3A4p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/9tn475uvardiae…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/9tn475uvardiae7?t=V1DrsL&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/RFaH2j2prl"
+              }
+            ]
+          }
+        },
+        "id": "1921570742665355264",
+        "location": "🩷両思い中🩷・最期まで〆ジを愛すおんなのこ🩷 ",
+        "name": "のんてゃ(15)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017575693316657152/ciwb_GN0_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 416,
+          "like_count": 21303,
+          "listed_count": 13,
+          "media_count": 398,
+          "tweet_count": 1703
+        },
+        "url": "https://t.co/RFaH2j2prl",
+        "username": "Nontya_zzZ",
+        "verified": false
+      }
+    ]
+  }
+}

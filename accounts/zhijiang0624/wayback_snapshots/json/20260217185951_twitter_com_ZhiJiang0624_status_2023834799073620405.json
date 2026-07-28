@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2019826699903676776",
+    "created_at": "2026-02-17T18:59:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T19:59:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023834799073620405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1881666260423061504",
+          "start": 0,
+          "username": "SuikO_OzzZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023834799073620405",
+    "in_reply_to_user_id": "1881666260423061504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019826699903676776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuikO_OzzZ 那就根据两者的优缺点做选择来养，或者两者都要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2019826699903676776",
+        "created_at": "2026-02-17T18:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T19:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023834799073620405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1881666260423061504",
+              "start": 0,
+              "username": "SuikO_OzzZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023834799073620405",
+        "in_reply_to_user_id": "1881666260423061504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019826699903676776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuikO_OzzZ 那就根据两者的优缺点做选择来养，或者两者都要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881666260423061504",
+        "conversation_id": "2019826699903676776",
+        "created_at": "2026-02-06T17:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T18:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019826699903676776"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019826699903676776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "os：好想养猫。好想养狗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 416,
+          "like_count": 3396,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1178
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-21T11:33:41.000Z",
+        "description": "(OvO)",
+        "id": "1881666260423061504",
+        "location": "距离你0m",
+        "name": "@",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999710758104629249/pl0ay9Kx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 83,
+          "like_count": 1007,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 48
+        },
+        "username": "SuikO_OzzZ",
+        "verified": false
+      }
+    ]
+  }
+}

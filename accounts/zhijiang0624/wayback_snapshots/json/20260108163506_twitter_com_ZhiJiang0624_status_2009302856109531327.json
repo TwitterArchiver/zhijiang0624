@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2008579951151477102",
+    "created_at": "2026-01-08T16:35:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T17:35:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009302856109531327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1432720089057476612",
+          "start": 0,
+          "username": "zona0320"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009302856109531327",
+    "in_reply_to_user_id": "1432720089057476612",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008579951151477102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zona0320 真好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2008579951151477102",
+        "created_at": "2026-01-08T16:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T17:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009302856109531327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1432720089057476612",
+              "start": 0,
+              "username": "zona0320"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009302856109531327",
+        "in_reply_to_user_id": "1432720089057476612",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008579951151477102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zona0320 真好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1432720089057476612",
+        "conversation_id": "2008579951151477102",
+        "created_at": "2026-01-06T16:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T17:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008579951151477102"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008579951151477102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 50738,
+          "like_count": 966,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我媽在我低落自厭時：你能不能有點行動？\n\n我爸在我低落自厭時：要不要去吃壽司？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一个偶尔变得哲学或者厌世的重度自闭男生。理想大概就是想尽自己的绵薄之力尽量缝补这个世界支离破碎的一面吧",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 229,
+          "like_count": 869,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 515
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-31T15:01:27.000Z",
+        "description": "無情的AOT轉推機器／Artworks will be posted at @draw_or_dieee／無言フォロー失礼します／嘔吐文移轉至 @throwupeveryday／非單。跟作業在一起了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 38,
+                "username": "draw_or_dieee"
+              },
+              {
+                "end": 88,
+                "start": 72,
+                "username": "throwupeveryday"
+              }
+            ]
+          }
+        },
+        "id": "1432720089057476612",
+        "name": "東北武器",
+        "pinned_tweet_id": "1966273671565386014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1432777149895753729/2HAI5ML8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4905,
+          "following_count": 1417,
+          "like_count": 101996,
+          "listed_count": 6,
+          "media_count": 547,
+          "tweet_count": 18076
+        },
+        "username": "zona0320",
+        "verified": false
+      }
+    ]
+  }
+}

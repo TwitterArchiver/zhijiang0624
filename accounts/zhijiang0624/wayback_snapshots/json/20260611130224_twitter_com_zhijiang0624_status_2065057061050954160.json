@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2065057061050954160",
+    "created_at": "2026-06-11T13:02:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T14:02:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065057061050954160"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065057061050954160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "笑死了\n笑死了笑死了\n笑死了笑死了笑死了\n又打视频又打电话我还以为怎么了\n感情还是让我躯体化套餐\n你一个曾经纯到浙江玩的还教我一个纯打工的怎么上班\n以前禁我足现在又让我多社交\n不过这次我就不跟你计较了\n好歹你也是有用一次\n至少让我知道了我还有一些酒精过敏\n下个月开始美美酗酒😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2065057061050954160",
+        "created_at": "2026-06-11T13:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T14:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065057061050954160"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065057061050954160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑死了\n笑死了笑死了\n笑死了笑死了笑死了\n又打视频又打电话我还以为怎么了\n感情还是让我躯体化套餐\n你一个曾经纯到浙江玩的还教我一个纯打工的怎么上班\n以前禁我足现在又让我多社交\n不过这次我就不跟你计较了\n好歹你也是有用一次\n至少让我知道了我还有一些酒精过敏\n下个月开始美美酗酒😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 701,
+          "like_count": 12489,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2587
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      }
+    ]
+  }
+}

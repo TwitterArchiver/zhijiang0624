@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077744395089313792"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "conversation_id": "2077291289125769267",
+    "created_at": "2026-07-16T13:17:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T14:17:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077744425372098561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1808604308163940352",
+          "start": 0,
+          "username": "cici20120712"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NpSSnf3vI5",
+          "end": 45,
+          "expanded_url": "https://x.com/zhijiang0624/status/2077744425372098561/photo/1",
+          "media_key": "3_2077744395089313792",
+          "start": 22,
+          "url": "https://t.co/NpSSnf3vI5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077744425372098561",
+    "in_reply_to_user_id": "1808604308163940352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077291289125769267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cici20120712 三叠纪的牢帖子 https://t.co/NpSSnf3vI5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1512,
+        "media_key": "3_2077744395089313792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWhhNtbgAAAQ75.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077744395089313792"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "conversation_id": "2077291289125769267",
+        "created_at": "2026-07-16T13:17:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077744425372098561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1808604308163940352",
+              "start": 0,
+              "username": "cici20120712"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NpSSnf3vI5",
+              "end": 45,
+              "expanded_url": "https://x.com/zhijiang0624/status/2077744425372098561/photo/1",
+              "media_key": "3_2077744395089313792",
+              "start": 22,
+              "url": "https://t.co/NpSSnf3vI5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077744425372098561",
+        "in_reply_to_user_id": "1808604308163940352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077291289125769267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cici20120712 三叠纪的牢帖子 https://t.co/NpSSnf3vI5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808604308163940352",
+        "conversation_id": "2077291289125769267",
+        "created_at": "2026-07-15T07:16:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077291289125769267"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077291289125769267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7863,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢长发男……\n做爱的时候可以叼着头发玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 761,
+          "like_count": 13591,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 2727
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-03T20:50:59.000Z",
+        "description": "底边coser，偶尔会配音或者画画，大部分时间在睡觉，小号@ci20120712",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "ci20120712"
+              }
+            ]
+          }
+        },
+        "id": "1808604308163940352",
+        "name": "魔法少女凛瓷瓷",
+        "pinned_tweet_id": "2064496772102373752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831679763368353792/JCLSUlMG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71645,
+          "following_count": 112,
+          "like_count": 1106,
+          "listed_count": 188,
+          "media_count": 811,
+          "tweet_count": 1490
+        },
+        "url": "",
+        "username": "cici20120712",
+        "verified": false
+      }
+    ]
+  }
+}

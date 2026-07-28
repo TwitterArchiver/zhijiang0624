@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2081373083395641597",
+    "created_at": "2026-07-26T15:34:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T16:34:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081402722549653751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1421851995355369477",
+          "start": 0,
+          "username": "Aichijiandanxyz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081402722549653751",
+    "in_reply_to_user_id": "1421851995355369477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081373083395641597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aichijiandanxyz 这么强？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 730,
+        "media_key": "3_2081373080266612736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKFyfZaIAAYrdH.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2081373083395641597",
+        "created_at": "2026-07-26T15:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T16:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081402722549653751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1421851995355369477",
+              "start": 0,
+              "username": "Aichijiandanxyz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081402722549653751",
+        "in_reply_to_user_id": "1421851995355369477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081373083395641597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aichijiandanxyz 这么强？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081373080266612736"
+          ]
+        },
+        "author_id": "1421851995355369477",
+        "conversation_id": "2081373083395641597",
+        "created_at": "2026-07-26T13:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081373083395641597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f67Ssfdxey",
+              "end": 32,
+              "expanded_url": "https://x.com/Aichijiandanxyz/status/2081373083395641597/photo/1",
+              "media_key": "3_2081373080266612736",
+              "start": 9,
+              "url": "https://t.co/f67Ssfdxey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081373083395641597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 421,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁懂一下这个毅力 https://t.co/f67Ssfdxey"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 758,
+          "like_count": 13743,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 2738
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-01T15:15:33.000Z",
+        "description": "思维补丁，本体是🥚\n\n@eggyyybaby\n#煎蛋不想说话就唱歌吧\n#蛋喘",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 23,
+                "tag": "煎蛋不想说话就唱歌吧"
+              },
+              {
+                "end": 38,
+                "start": 35,
+                "tag": "蛋喘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "eggyyybaby"
+              }
+            ]
+          }
+        },
+        "id": "1421851995355369477",
+        "location": "🍳",
+        "name": "煎蛋棉被",
+        "pinned_tweet_id": "1844974218825400809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922277650879676418/p7_qBFWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20635,
+          "following_count": 330,
+          "like_count": 160136,
+          "listed_count": 59,
+          "media_count": 8687,
+          "tweet_count": 79783
+        },
+        "url": "",
+        "username": "Aichijiandanxyz",
+        "verified": false
+      }
+    ]
+  }
+}

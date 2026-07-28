@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2022296222456045696",
+    "created_at": "2026-02-14T10:45:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T11:45:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022623116867043569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1799331977205796864",
+          "start": 0,
+          "username": "Xxxxx62778"
+        },
+        {
+          "end": 23,
+          "id": "1704739962812596224",
+          "start": 12,
+          "username": "huhu169282"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022623116867043569",
+    "in_reply_to_user_id": "1799331977205796864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022566096184971696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xxxxx62778 @huhu169282 厉害"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2022296222456045696",
+        "created_at": "2026-02-14T10:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T11:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022623116867043569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1799331977205796864",
+              "start": 0,
+              "username": "Xxxxx62778"
+            },
+            {
+              "end": 23,
+              "id": "1704739962812596224",
+              "start": 12,
+              "username": "huhu169282"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022623116867043569",
+        "in_reply_to_user_id": "1799331977205796864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022566096184971696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxxxx62778 @huhu169282 厉害"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799331977205796864",
+        "conversation_id": "2022296222456045696",
+        "created_at": "2026-02-14T06:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T07:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022566096184971696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1704739962812596224",
+              "start": 0,
+              "username": "huhu169282"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022566096184971696",
+        "in_reply_to_user_id": "1704739962812596224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1429,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022296222456045696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huhu169282 说实话之前我从来没观察过，直到有一天扒开发现原来我的不对称！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 299,
+          "like_count": 2407,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 785
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T06:45:56.000Z",
+        "description": "°. ⑅♡⑅ °. +. °. ⑅♡⑅ °. +. °.\n希望你因为拥有小咪的陪伴而幸福",
+        "id": "1799331977205796864",
+        "location": "⌯^⑅˶º ᵕ º˶^",
+        "name": "/•᷅‎‎•᷄\\୭⋆°✩ ๋࣭",
+        "pinned_tweet_id": "2013542676201967753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002547322463600640/hm5xe4nX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1862,
+          "following_count": 30,
+          "like_count": 23921,
+          "listed_count": 3,
+          "media_count": 2966,
+          "tweet_count": 8392
+        },
+        "username": "Xxxxx62778",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-21T06:11:07.000Z",
+        "description": "只需关注眼前",
+        "id": "1704739962812596224",
+        "name": "虎子^ ^",
+        "pinned_tweet_id": "2019380434958971308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985762895796584451/XuqKWqWe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4130,
+          "following_count": 78,
+          "like_count": 3177,
+          "listed_count": 4,
+          "media_count": 376,
+          "tweet_count": 1428
+        },
+        "username": "huhu169282",
+        "verified": false
+      }
+    ]
+  }
+}

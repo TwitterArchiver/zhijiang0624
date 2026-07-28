@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      }
+    ],
+    "conversation_id": "2056379548825157789",
+    "created_at": "2026-05-18T14:50:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T15:50:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056386912722866550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2049847240764932096",
+          "start": 0,
+          "username": "yamixir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056386912722866550",
+    "in_reply_to_user_id": "2049847240764932096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056379548825157789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yamixir 二日前、歩いて海まで4時間かかって、途中で3元のスポーツドリンクを4本買ったんだけど、そのうち3本は「1元楽享」だったから、夢を見ているみたいだった。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          }
+        ],
+        "conversation_id": "2056379548825157789",
+        "created_at": "2026-05-18T14:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T15:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056386912722866550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2049847240764932096",
+              "start": 0,
+              "username": "yamixir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056386912722866550",
+        "in_reply_to_user_id": "2049847240764932096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056379548825157789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yamixir 二日前、歩いて海まで4時間かかって、途中で3元のスポーツドリンクを4本買ったんだけど、そのうち3本は「1元楽享」だったから、夢を見ているみたいだった。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049847240764932096",
+        "conversation_id": "2056379548825157789",
+        "created_at": "2026-05-18T14:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T15:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056379548825157789"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056379548825157789",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 197,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "なんかいいことないかな"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 696,
+          "like_count": 11971,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 2478
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-30T13:45:48.000Z",
+        "description": "ねぇ、私だけ見てて\n逃げないでね\n\n大好きすぎる可愛いお姉様@koruki_syoujo \n\nブログ・お布施\n\nhttps://t.co/wslEisvB0p\n\nヘルプpay namako_808",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "koruki_syoujo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ofuse.me/5dc26005",
+                "end": 79,
+                "expanded_url": "https://ofuse.me/5dc26005",
+                "start": 56,
+                "url": "https://t.co/wslEisvB0p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/2V46HCHOVLIEZ?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/7tZ7wqB44Q"
+              }
+            ]
+          }
+        },
+        "id": "2049847240764932096",
+        "location": "あなたの後ろ",
+        "name": "Dr.病みちゃん",
+        "pinned_tweet_id": "2053715891196744104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049849288684183552/PoiVerbG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 50,
+          "like_count": 3116,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 1135
+        },
+        "url": "https://t.co/7tZ7wqB44Q",
+        "username": "yamixir",
+        "verified": false
+      }
+    ]
+  }
+}

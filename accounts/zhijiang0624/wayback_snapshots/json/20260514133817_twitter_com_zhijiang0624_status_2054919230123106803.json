@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2054919230123106803",
+    "created_at": "2026-05-14T13:38:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T14:38:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054919230123106803"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ckyoa2/status/…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/ckyoa2/status/2054531752652406995",
+          "start": 59,
+          "url": "https://t.co/wF6X5NB9DJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054919230123106803",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054531752652406995",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实我都一直有一个疑惑\n初中还是小学来着\n有个作文还是什么故事\n一个同学有个外国笔友/网友\n那么\n那个同学是翻墙了？ https://t.co/wF6X5NB9DJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2054919230123106803",
+        "created_at": "2026-05-14T13:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T14:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054919230123106803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ckyoa2/status/…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/ckyoa2/status/2054531752652406995",
+              "start": 59,
+              "url": "https://t.co/wF6X5NB9DJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054919230123106803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054531752652406995",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我都一直有一个疑惑\n初中还是小学来着\n有个作文还是什么故事\n一个同学有个外国笔友/网友\n那么\n那个同学是翻墙了？ https://t.co/wF6X5NB9DJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968368047988817923",
+        "conversation_id": "2054531752652406995",
+        "created_at": "2026-05-13T11:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T12:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054531752652406995"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054531752652406995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 141976,
+          "like_count": 716,
+          "quote_count": 5,
+          "reply_count": 587,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "我当时来玩推特天真的以为能交到很多外国朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 687,
+          "like_count": 11738,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 2404
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T17:34:58.000Z",
+        "description": "爱我",
+        "id": "1968368047988817923",
+        "name": "ck",
+        "pinned_tweet_id": "2050829752718774480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049487138509774849/xVB5Hbzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5454,
+          "following_count": 4,
+          "like_count": 259,
+          "listed_count": 13,
+          "media_count": 37,
+          "tweet_count": 176
+        },
+        "username": "ckyoa2",
+        "verified": false
+      }
+    ]
+  }
+}

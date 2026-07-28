@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2023236381968126034",
+    "created_at": "2026-02-16T04:18:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T05:18:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023250568983216623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1868968470517555200",
+          "start": 0,
+          "username": "BailiKoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023250568983216623",
+    "in_reply_to_user_id": "1868968470517555200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023236381968126034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BailiKoi 除夕快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023236369599062016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBP6wjKaYAAV2bd.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2023236381968126034",
+        "created_at": "2026-02-16T04:18:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T05:18:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023250568983216623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1868968470517555200",
+              "start": 0,
+              "username": "BailiKoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023250568983216623",
+        "in_reply_to_user_id": "1868968470517555200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023236381968126034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BailiKoi 除夕快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023236369599062016"
+          ]
+        },
+        "author_id": "1868968470517555200",
+        "conversation_id": "2023236381968126034",
+        "created_at": "2026-02-16T03:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T04:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023236381968126034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wGgisBKWdY",
+              "end": 91,
+              "expanded_url": "https://x.com/BailiKoi/status/2023236381968126034/photo/1",
+              "media_key": "3_2023236369599062016",
+              "start": 68,
+              "url": "https://t.co/wGgisBKWdY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023236381968126034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 3130,
+          "like_count": 301,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "好好勤快点是吧，有用杂鱼私聊许愿再更一期，给没用东西们看高人，那说啥呢😡高人来了！索拉里斯最高峰在此(晚上应该还有一更，那么除夕快乐) https://t.co/wGgisBKWdY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 345,
+          "like_count": 2901,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1016
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-17T10:36:41.000Z",
+        "description": "谢谢喜欢，我是女生，不喜欢开性别玩笑。拍的照片您喜欢的话可以夸夸点个赞转发，我会很开心！最后祝您天天开心。\n多余人格：@BaiShirly\n图包以及杂谈@HeiliKoi\nfanbox：https://t.co/kPgcl55yf7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "BaiShirly"
+              },
+              {
+                "end": 85,
+                "start": 76,
+                "username": "HeiliKoi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bailikoi.fanbox.cc",
+                "end": 116,
+                "expanded_url": "http://bailikoi.fanbox.cc",
+                "start": 93,
+                "url": "https://t.co/kPgcl55yf7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/cw/BailiKoi309",
+                "end": 23,
+                "expanded_url": "https://www.patreon.com/cw/BailiKoi309",
+                "start": 0,
+                "url": "https://t.co/CZIkLUlXNB"
+              }
+            ]
+          }
+        },
+        "id": "1868968470517555200",
+        "location": "紅魔館",
+        "name": "白栎Shirly",
+        "pinned_tweet_id": "2011692999127015882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017194497302794240/bKS3tYXw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190755,
+          "following_count": 250,
+          "like_count": 329,
+          "listed_count": 643,
+          "media_count": 482,
+          "tweet_count": 760
+        },
+        "url": "https://t.co/CZIkLUlXNB",
+        "username": "BailiKoi",
+        "verified": true
+      }
+    ]
+  }
+}

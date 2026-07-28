@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010079448734068736"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "conversation_id": "2009967836509417769",
+    "created_at": "2026-01-10T20:01:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T21:01:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010079458435510770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1663516164306382852",
+          "start": 0,
+          "username": "DouBao8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pThTH6ei9u",
+          "end": 56,
+          "expanded_url": "https://x.com/ZhiJiang0624/status/2010079458435510770/photo/1",
+          "media_key": "3_2010079448734068736",
+          "start": 33,
+          "url": "https://t.co/pThTH6ei9u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010079458435510770",
+    "in_reply_to_user_id": "1663516164306382852",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009967836509417769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DouBao8964 我不开玩笑我妈真带着我和我二姐一起自杀过 https://t.co/pThTH6ei9u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 748,
+        "media_key": "3_2010079448734068736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-U8m9gbcAAeNpN.jpg",
+        "width": 748
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010079448734068736"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "conversation_id": "2009967836509417769",
+        "created_at": "2026-01-10T20:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T21:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010079458435510770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1663516164306382852",
+              "start": 0,
+              "username": "DouBao8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pThTH6ei9u",
+              "end": 56,
+              "expanded_url": "https://x.com/ZhiJiang0624/status/2010079458435510770/photo/1",
+              "media_key": "3_2010079448734068736",
+              "start": 33,
+              "url": "https://t.co/pThTH6ei9u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010079458435510770",
+        "in_reply_to_user_id": "1663516164306382852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009967836509417769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DouBao8964 我不开玩笑我妈真带着我和我二姐一起自杀过 https://t.co/pThTH6ei9u"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663516164306382852",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2009967836509417769",
+        "created_at": "2026-01-10T12:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T13:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009967836509417769"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009967836509417769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5584,
+          "like_count": 177,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "东亚人逃不过的\n烂人真心：你爸他虽然喝酒赌博家暴，但他还是爱你的\n圣人私心：妈妈辛辛苦苦为这个家操了一辈子你就不能理解吗\n恨明月为何不独照我：有了弟弟/妹妹，你们不再像小时候那样爱我\n强制爱：我们都是为了你好\n真正的恨海晴天：我曾经也想抱着你们一起死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一个偶尔变得哲学或者厌世的重度自闭男生。理想大概就是想尽自己的绵薄之力尽量缝补这个世界支离破碎的一面吧",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 251,
+          "like_count": 1027,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 562
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-30T12:02:42.000Z",
+        "description": "此豆包非彼豆包 老公@callme_mom_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "callme_mom_"
+              }
+            ]
+          }
+        },
+        "id": "1663516164306382852",
+        "name": "豆包",
+        "pinned_tweet_id": "2008456580128535032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005501477104889856/F2ohZri8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10620,
+          "following_count": 83,
+          "like_count": 14016,
+          "listed_count": 5,
+          "media_count": 322,
+          "tweet_count": 6050
+        },
+        "username": "DouBao8964",
+        "verified": false
+      }
+    ]
+  }
+}

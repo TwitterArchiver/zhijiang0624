@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "1997226417004970280",
+    "created_at": "2026-01-30T19:44:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T20:44:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017323103714713634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "124082532",
+          "start": 0,
+          "username": "jun_ichikawa_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017323103714713634",
+    "in_reply_to_user_id": "124082532",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997226417004970280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jun_ichikawa_ あなたの音楽はとても素敵ですが、それだけファンの数が少ないことに驚きました"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "1997226417004970280",
+        "created_at": "2026-01-30T19:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T20:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017323103714713634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "124082532",
+              "start": 0,
+              "username": "jun_ichikawa_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017323103714713634",
+        "in_reply_to_user_id": "124082532",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997226417004970280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jun_ichikawa_ あなたの音楽はとても素敵ですが、それだけファンの数が少ないことに驚きました"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "124082532",
+        "conversation_id": "1997226417004970280",
+        "created_at": "2025-12-06T08:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T09:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997226417004970280"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997226417004970280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 369,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "「転んでもただでは起きない」という一点において、僕は自分に自信がある"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "你他妈的到底是谁？！莫名其妙跑到我的脑子里来做些莫名其妙的事！草你妈杀了你！",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 346,
+          "like_count": 1666,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 633
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-18T05:50:48.000Z",
+        "description": "作曲家・（株）Julydex代表取締役・洗足音楽大学講師 サウンドトラックや楽曲提供など  お問い合わせは公式サイトよりお願いします https://t.co/GJtWxWb7KA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "julydex.com",
+                "end": 90,
+                "expanded_url": "https://julydex.com",
+                "start": 67,
+                "url": "https://t.co/GJtWxWb7KA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "julydex.com",
+                "end": 23,
+                "expanded_url": "https://julydex.com/",
+                "start": 0,
+                "url": "https://t.co/HHgEO41z9U"
+              }
+            ]
+          }
+        },
+        "id": "124082532",
+        "location": "神奈川県",
+        "name": "市川淳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905246559715164160/D_x59uq1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1784,
+          "following_count": 350,
+          "like_count": 1208,
+          "listed_count": 64,
+          "media_count": 55,
+          "tweet_count": 1914
+        },
+        "url": "https://t.co/HHgEO41z9U",
+        "username": "jun_ichikawa_",
+        "verified": true
+      }
+    ]
+  }
+}

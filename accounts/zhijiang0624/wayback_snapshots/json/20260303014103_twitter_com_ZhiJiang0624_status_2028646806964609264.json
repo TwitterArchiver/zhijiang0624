@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2028590260217602486",
+    "created_at": "2026-03-03T01:41:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T02:41:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028646806964609264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1540063687469404161",
+          "start": 0,
+          "username": "cosplay_riji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028646806964609264",
+    "in_reply_to_user_id": "1540063687469404161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028590260217602486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cosplay_riji 头孢加酒的来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2028590260217602486",
+        "created_at": "2026-03-03T01:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T02:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028646806964609264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1540063687469404161",
+              "start": 0,
+              "username": "cosplay_riji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028646806964609264",
+        "in_reply_to_user_id": "1540063687469404161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028590260217602486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cosplay_riji 头孢加酒的来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540063687469404161",
+        "conversation_id": "2028590260217602486",
+        "created_at": "2026-03-02T21:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T22:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028590260217602486"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028590260217602486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1577,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我：不太得劲，来点cider\n我：还是不太得劲，来颗头孢\n懒得倒水直接cider顺一顺\n我的喉咙：遵命\n\n咽下去第一秒\n我的脑子：？不对"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 504,
+          "like_count": 4846,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1463
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-23T20:06:17.000Z",
+        "description": "已婚｜没把男娘｜我的可爱老婆@xixi_epicene\n｜⚠️偶有🔞或阴暗发言｜⚠️地雷女/舔狗/键政魔怔人勿入",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "xixi_epicene"
+              }
+            ]
+          }
+        },
+        "id": "1540063687469404161",
+        "name": "Xixi-cosplay-diary",
+        "pinned_tweet_id": "2004689890760642683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011967789125550081/1GHhLFJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22230,
+          "following_count": 14,
+          "like_count": 15072,
+          "listed_count": 59,
+          "media_count": 335,
+          "tweet_count": 8973
+        },
+        "username": "cosplay_riji",
+        "verified": false
+      }
+    ]
+  }
+}

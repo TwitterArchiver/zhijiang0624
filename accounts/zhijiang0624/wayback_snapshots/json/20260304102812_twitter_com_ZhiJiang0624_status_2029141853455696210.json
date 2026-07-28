@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2029141853455696210",
+    "created_at": "2026-03-04T10:28:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T11:28:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029141853455696210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1858393719080366080",
+          "start": 3,
+          "username": "me6pjHT2Rf29076"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029141853455696210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029117487674212531",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @me6pjHT2Rf29076: 和很多人比我一点都不惨……\n我好像不配抑郁\n不配说自己抑郁\n天天说自己不开心\n都没洗过胃\n没因为自残或者自杀进过医院\n割手从来不深\n没跳过楼……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2029141853455696210",
+        "created_at": "2026-03-04T10:28:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T11:28:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029141853455696210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1858393719080366080",
+              "start": 3,
+              "username": "me6pjHT2Rf29076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029141853455696210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029117487674212531",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @me6pjHT2Rf29076: 和很多人比我一点都不惨……\n我好像不配抑郁\n不配说自己抑郁\n天天说自己不开心\n都没洗过胃\n没因为自残或者自杀进过医院\n割手从来不深\n没跳过楼……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858393719080366080",
+        "conversation_id": "2029117487674212531",
+        "created_at": "2026-03-04T08:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T09:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029117487674212531"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029117487674212531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "和很多人比我一点都不惨……\n我好像不配抑郁\n不配说自己抑郁\n天天说自己不开心\n都没洗过胃\n没因为自残或者自杀进过医院\n割手从来不深\n没跳过楼……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 536,
+          "like_count": 5702,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1608
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-18T06:16:13.000Z",
+        "description": "可愛的小貓一隻\n優點：無\n缺點：缺愛，沒安全感（以及你能想到的任何可能存在的缺點）\n某些男的，開黃腔的那些，給我滾～～～",
+        "id": "1858393719080366080",
+        "name": "Camellia",
+        "pinned_tweet_id": "2013151319121416284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002633549674168320/FEfSHM8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 81,
+          "like_count": 710,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1485
+        },
+        "username": "me6pjHT2Rf29076",
+        "verified": false
+      }
+    ]
+  }
+}

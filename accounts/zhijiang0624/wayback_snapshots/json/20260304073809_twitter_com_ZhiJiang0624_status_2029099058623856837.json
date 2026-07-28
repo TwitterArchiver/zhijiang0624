@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2029090580387774597",
+    "created_at": "2026-03-04T07:38:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T08:38:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029099058623856837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1889273834479693824",
+          "start": 0,
+          "username": "xvxnuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029099058623856837",
+    "in_reply_to_user_id": "1889273834479693824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029090580387774597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xvxnuo 这太难了长官😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 961,
+        "media_key": "3_2029090577384718336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCjHISobwAA7fdt.jpg",
+        "width": 1425
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2029090580387774597",
+        "created_at": "2026-03-04T07:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T08:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029099058623856837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1889273834479693824",
+              "start": 0,
+              "username": "xvxnuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029099058623856837",
+        "in_reply_to_user_id": "1889273834479693824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029090580387774597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xvxnuo 这太难了长官😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029090577384718336"
+          ]
+        },
+        "author_id": "1889273834479693824",
+        "conversation_id": "2029090580387774597",
+        "created_at": "2026-03-04T07:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T08:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029090580387774597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kXxSmN17gv",
+              "end": 34,
+              "expanded_url": "https://x.com/xvxnuo/status/2029090580387774597/photo/1",
+              "media_key": "3_2029090577384718336",
+              "start": 11,
+              "url": "https://t.co/kXxSmN17gv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029090580387774597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有人立刻考上985 https://t.co/kXxSmN17gv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 531,
+          "like_count": 5573,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1594
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T11:22:47.000Z",
+        "description": "我和你有什么好说的",
+        "id": "1889273834479693824",
+        "name": "诺诺许",
+        "pinned_tweet_id": "2025518516611473895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028697022442950656/BJpWpaNb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 33,
+          "like_count": 15702,
+          "listed_count": 4,
+          "media_count": 101,
+          "tweet_count": 3910
+        },
+        "username": "xvxnuo",
+        "verified": false
+      }
+    ]
+  }
+}

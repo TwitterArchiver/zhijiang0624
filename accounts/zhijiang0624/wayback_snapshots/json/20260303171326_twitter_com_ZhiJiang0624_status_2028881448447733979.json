@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2028878541732172068",
+    "created_at": "2026-03-03T17:13:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T18:13:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028881448447733979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1935372590060843008",
+          "start": 0,
+          "username": "luobotoujunior"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028881448447733979",
+    "in_reply_to_user_id": "1935372590060843008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028878541732172068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luobotoujunior 饺子闻着Q哥味儿就来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2028878541732172068",
+        "created_at": "2026-03-03T17:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T18:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028881448447733979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1935372590060843008",
+              "start": 0,
+              "username": "luobotoujunior"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028881448447733979",
+        "in_reply_to_user_id": "1935372590060843008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028878541732172068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luobotoujunior 饺子闻着Q哥味儿就来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935372590060843008",
+        "conversation_id": "2028878541732172068",
+        "created_at": "2026-03-03T17:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T18:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028878541732172068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "萝卜鸭儿’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1jGXg…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1jGXgeBAOwzKZ",
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 银趴",
+              "unwound_url": "https://twitter.com/i/spaces/1jGXgeBAOwzKZ/peek",
+              "url": "https://t.co/13tJkt7cUr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028878541732172068",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/13tJkt7cUr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 528,
+          "like_count": 5303,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1558
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T16:22:54.000Z",
+        "description": "纯卖的，过🚪可线下",
+        "id": "1935372590060843008",
+        "location": "0.01km",
+        "name": "萝卜鸭儿",
+        "pinned_tweet_id": "2007753604074213851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016289988095442944/XVz0Oj3J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4217,
+          "following_count": 322,
+          "like_count": 3293,
+          "listed_count": 10,
+          "media_count": 170,
+          "tweet_count": 1291
+        },
+        "username": "luobotoujunior",
+        "verified": false
+      }
+    ]
+  }
+}

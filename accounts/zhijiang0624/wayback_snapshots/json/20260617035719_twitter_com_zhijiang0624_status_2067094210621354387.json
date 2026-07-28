@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2067035105261195755",
+    "created_at": "2026-06-17T03:57:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T04:57:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067094210621354387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1953485481691516928",
+          "start": 0,
+          "username": "khb3i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067094210621354387",
+    "in_reply_to_user_id": "1953485481691516928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067035105261195755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@khb3i 道长，这样做那个脏东西真的会离开吗？😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067035095136100352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-Vd6faYAAPKki.jpg",
+        "width": 1560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2067035105261195755",
+        "created_at": "2026-06-17T03:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T04:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067094210621354387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1953485481691516928",
+              "start": 0,
+              "username": "khb3i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067094210621354387",
+        "in_reply_to_user_id": "1953485481691516928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067035105261195755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@khb3i 道长，这样做那个脏东西真的会离开吗？😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067035095136100352"
+          ]
+        },
+        "author_id": "1953485481691516928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2067035105261195755",
+        "created_at": "2026-06-17T00:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T01:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067035105261195755"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ki7L9H8J0A",
+              "end": 32,
+              "expanded_url": "https://x.com/khb3i/status/2067035105261195755/photo/1",
+              "media_key": "3_2067035095136100352",
+              "start": 9,
+              "url": "https://t.co/ki7L9H8J0A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067035105261195755",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 236,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#cosplay https://t.co/ki7L9H8J0A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 707,
+          "like_count": 12581,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2603
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-07T15:56:52.000Z",
+        "description": "绞尽脑汁想不出来",
+        "id": "1953485481691516928",
+        "name": "悲伤的农村入",
+        "pinned_tweet_id": "1953491435665428810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062345881366753280/plj-aCJa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 3,
+          "like_count": 89,
+          "listed_count": 2,
+          "media_count": 4,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "khb3i",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2040677022587134336",
+    "created_at": "2026-04-05T08:59:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T09:59:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040715865549849064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1960704294396813316",
+          "start": 0,
+          "username": "jing7141"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040715865549849064",
+    "in_reply_to_user_id": "1960704294396813316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040709141925429585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jing7141 挣了钱得去尝尝……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2040677022587134336",
+        "created_at": "2026-04-05T08:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T09:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040715865549849064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1960704294396813316",
+              "start": 0,
+              "username": "jing7141"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040715865549849064",
+        "in_reply_to_user_id": "1960704294396813316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040709141925429585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jing7141 挣了钱得去尝尝……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960704294396813316",
+        "conversation_id": "2040677022587134336",
+        "created_at": "2026-04-05T08:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T09:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040709141925429585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "zhijiang0624"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040709141925429585",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040677022587134336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhijiang0624 浙江温州浙江温州江南皮革厂倒闭了hhhh（没有）我妈妈说山野聆风的火锅很好吃，还有一家店叫一恒一素🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "只是一个傻逼傻逼大傻逼————！",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 642,
+          "like_count": 9535,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 2036
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-27T14:01:56.000Z",
+        "description": "京田就是得过且过的京田",
+        "id": "1960704294396813316",
+        "name": "京田",
+        "pinned_tweet_id": "1998474378577932648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039642522558050304/ECW6uVHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 170,
+          "like_count": 6865,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 1595
+        },
+        "username": "jing7141",
+        "verified": false
+      }
+    ]
+  }
+}

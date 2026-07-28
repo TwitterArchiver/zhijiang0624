@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2074165632590094778",
+    "created_at": "2026-07-06T16:36:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T17:36:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074170642535178333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1986827678067146752",
+          "start": 0,
+          "username": "xxiaoyi0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074170642535178333",
+    "in_reply_to_user_id": "1986827678067146752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074165632590094778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxiaoyi0721 怎么没同意进群申请……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074165629834432512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjqpqObEAAP06x.jpg",
+        "width": 1616
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2074165632590094778",
+        "created_at": "2026-07-06T16:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074170642535178333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1986827678067146752",
+              "start": 0,
+              "username": "xxiaoyi0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074170642535178333",
+        "in_reply_to_user_id": "1986827678067146752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074165632590094778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxiaoyi0721 怎么没同意进群申请……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074165629834432512"
+          ]
+        },
+        "author_id": "1986827678067146752",
+        "conversation_id": "2074165632590094778",
+        "created_at": "2026-07-06T16:16:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074165632590094778"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sIDukGZK8j",
+              "end": 23,
+              "expanded_url": "https://x.com/xxiaoyi0721/status/2074165632590094778/photo/1",
+              "media_key": "3_2074165629834432512",
+              "start": 0,
+              "url": "https://t.co/sIDukGZK8j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074165632590094778",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 222,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/sIDukGZK8j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 728,
+          "like_count": 13096,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 2662
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T16:07:11.000Z",
+        "description": "隐秘角落发发日常大号@xiaxiaoyi0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 10,
+                "username": "xiaxiaoyi0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/yunmanage/bind…",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/yunmanage/bindWeChat",
+                "start": 0,
+                "url": "https://t.co/Dpa5XUpj3W"
+              }
+            ]
+          }
+        },
+        "id": "1986827678067146752",
+        "location": "距離你1KM",
+        "name": "xiao yi",
+        "pinned_tweet_id": "2002025163114639459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986827784162066432/e5dCOVzS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6287,
+          "following_count": 14,
+          "like_count": 206,
+          "listed_count": 20,
+          "media_count": 56,
+          "tweet_count": 185
+        },
+        "url": "https://t.co/Dpa5XUpj3W",
+        "username": "xxiaoyi0721",
+        "verified": false
+      }
+    ]
+  }
+}

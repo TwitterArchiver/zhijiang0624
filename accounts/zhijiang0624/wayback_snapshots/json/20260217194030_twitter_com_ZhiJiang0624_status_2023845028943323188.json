@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2023843756307550635",
+    "created_at": "2026-02-17T19:40:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T20:40:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023845028943323188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1831391450283831299",
+          "start": 0,
+          "username": "yi0415_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023845028943323188",
+    "in_reply_to_user_id": "1831391450283831299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023843756307550635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yi0415_ 不知道该回复什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2023843756307550635",
+        "created_at": "2026-02-17T19:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T20:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023845028943323188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1831391450283831299",
+              "start": 0,
+              "username": "yi0415_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023845028943323188",
+        "in_reply_to_user_id": "1831391450283831299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023843756307550635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yi0415_ 不知道该回复什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831391450283831299",
+        "conversation_id": "2023843756307550635",
+        "created_at": "2026-02-17T19:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T20:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023843756307550635"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023843756307550635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不回复我的真是给你们脸了 以后给0人热情聊天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 419,
+          "like_count": 3423,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1194
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T17:58:57.000Z",
+        "description": "当朋友圈发别骂我 想发什么发什么 梦到什么发什么",
+        "id": "1831391450283831299",
+        "location": "我来自地狱",
+        "name": "怡",
+        "pinned_tweet_id": "1994332265120174188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015745496049123328/_CzscIKo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28931,
+          "following_count": 88,
+          "like_count": 1568,
+          "listed_count": 80,
+          "media_count": 311,
+          "tweet_count": 2149
+        },
+        "username": "yi0415_",
+        "verified": false
+      }
+    ]
+  }
+}

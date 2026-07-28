@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2071819043632554346",
+    "created_at": "2026-07-04T21:24:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T22:24:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073518355248717990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1773020567479996416",
+          "start": 0,
+          "username": "Qiiii1472170"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073518355248717990",
+    "in_reply_to_user_id": "1773020567479996416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073495828963156452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiiii1472170 已经耗尽了……（力竭）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2071819043632554346",
+        "created_at": "2026-07-04T21:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T22:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073518355248717990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1773020567479996416",
+              "start": 0,
+              "username": "Qiiii1472170"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073518355248717990",
+        "in_reply_to_user_id": "1773020567479996416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073495828963156452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiiii1472170 已经耗尽了……（力竭）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773020567479996416",
+        "conversation_id": "2071819043632554346",
+        "created_at": "2026-07-04T19:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T20:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073495828963156452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "zhijiang0624"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073495828963156452",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071819043632554346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhijiang0624 分红"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 728,
+          "like_count": 13005,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 2650
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T16:13:49.000Z",
+        "description": "这个号不玩了我只是一个普通女孩",
+        "id": "1773020567479996416",
+        "name": "缠绕我脸上悲伤应该怎么卸妆",
+        "pinned_tweet_id": "1954721186178539730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028437183166812160/At_nlGrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 394,
+          "like_count": 1846,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 758
+        },
+        "url": "",
+        "username": "Qiiii1472170",
+        "verified": false
+      }
+    ]
+  }
+}

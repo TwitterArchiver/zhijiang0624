@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2054616165909995808",
+    "created_at": "2026-05-14T03:43:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T04:43:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054769526286504112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2011397954033385472",
+          "start": 0,
+          "username": "yureiyks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054769526286504112",
+    "in_reply_to_user_id": "2011397954033385472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054616165909995808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yureiyks 开头那一下我没看清楚真的有点吓到我\n确实很漂亮"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15300,
+        "height": 1280,
+        "media_key": "13_2054616040059944960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054616040059944960/img/zd6lCESpP4Gt_lNa.jpg",
+        "public_metrics": {
+          "view_count": 49328
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054616040059944960/vid/avc1/320x568/2bHTEBSAJ284FLvf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054616040059944960/vid/avc1/480x852/8cTl1eL1JQ9ajOAf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054616040059944960/vid/avc1/720x1280/lZl0vzIADzgUgJlk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054616040059944960/pl/z3tggoWLYwsoPyu5.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2054616165909995808",
+        "created_at": "2026-05-14T03:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T04:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054769526286504112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2011397954033385472",
+              "start": 0,
+              "username": "yureiyks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054769526286504112",
+        "in_reply_to_user_id": "2011397954033385472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054616165909995808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yureiyks 开头那一下我没看清楚真的有点吓到我\n确实很漂亮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054616040059944960"
+          ]
+        },
+        "author_id": "2011397954033385472",
+        "conversation_id": "2054616165909995808",
+        "created_at": "2026-05-13T17:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T18:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054616165909995808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8g4AiRpU8I",
+              "end": 23,
+              "expanded_url": "https://x.com/yureiyks/status/2054616165909995808/video/1",
+              "media_key": "13_2054616040059944960",
+              "start": 0,
+              "url": "https://t.co/8g4AiRpU8I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054616165909995808",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 605,
+          "impression_count": 112539,
+          "like_count": 3728,
+          "quote_count": 16,
+          "reply_count": 56,
+          "retweet_count": 174
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8g4AiRpU8I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 686,
+          "like_count": 11703,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 2394
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-14T11:20:35.000Z",
+        "description": "🐈‍⬛🐈‍⬛🐈‍⬛",
+        "id": "2011397954033385472",
+        "name": "Yūrei 幽霊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011400249890537472/SzuN0KCW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62815,
+          "following_count": 523,
+          "like_count": 1954,
+          "listed_count": 112,
+          "media_count": 731,
+          "tweet_count": 1750
+        },
+        "username": "yureiyks",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2007297805887701323",
+    "created_at": "2026-01-03T11:06:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T12:06:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007408325898743829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1715418222701531136",
+          "start": 0,
+          "username": "shen_shi88371"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007408325898743829",
+    "in_reply_to_user_id": "1715418222701531136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007297805887701323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shen_shi88371 要不猜猜它的头像为什么是东雪莲？😂😂😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2007297805887701323",
+        "created_at": "2026-01-03T11:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T12:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007408325898743829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1715418222701531136",
+              "start": 0,
+              "username": "shen_shi88371"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007408325898743829",
+        "in_reply_to_user_id": "1715418222701531136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007297805887701323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shen_shi88371 要不猜猜它的头像为什么是东雪莲？😂😂😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715418222701531136",
+        "conversation_id": "2007297805887701323",
+        "created_at": "2026-01-03T03:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T04:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007297805887701323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/weidafuxing896…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/weidafuxing8964/status/2006777028075467105",
+              "start": 131,
+              "url": "https://t.co/e0LBD4hklK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007297805887701323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 31497,
+          "like_count": 377,
+          "quote_count": 2,
+          "reply_count": 81,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006777028075467105",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "x上批判毛泽东，把他说的如恶魔一般，杀了无数人。却又闭口不谈，在旧中国那制度下默默无闻死去的人们，他们甚至不配被做数字统计，而只配和死亡率放到一起。从东南工厂中的包身工，华中土地中的佃农，再到那彝族大山中的奴隶，人民的血泪比那政治灾难所流的血多上一万倍又不止。 https://t.co/e0LBD4hklK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一个偶尔变得哲学或者厌世的重度自闭男生。理想大概就是想尽自己的绵薄之力尽量缝补这个世界支离破碎的一面吧",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 164,
+          "like_count": 559,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 396
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-20T17:22:41.000Z",
+        "description": "无",
+        "id": "1715418222701531136",
+        "name": "绅士手杖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943991246311370755/IwtiW0hl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 335,
+          "like_count": 2620,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 1747
+        },
+        "username": "shen_shi88371",
+        "verified": false
+      }
+    ]
+  }
+}

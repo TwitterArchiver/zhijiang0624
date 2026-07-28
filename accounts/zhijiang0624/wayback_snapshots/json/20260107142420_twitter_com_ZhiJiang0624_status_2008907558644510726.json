@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2008600412623171702",
+    "created_at": "2026-01-07T14:24:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T15:24:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008907558644510726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1700917352064561152",
+          "start": 0,
+          "username": "jing1234560"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008907558644510726",
+    "in_reply_to_user_id": "1700917352064561152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008903648559169909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jing1234560 【请输入文本】"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2008600412623171702",
+        "created_at": "2026-01-07T14:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T15:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008907558644510726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1700917352064561152",
+              "start": 0,
+              "username": "jing1234560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008907558644510726",
+        "in_reply_to_user_id": "1700917352064561152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008903648559169909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jing1234560 【请输入文本】"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700917352064561152",
+        "conversation_id": "2008600412623171702",
+        "created_at": "2026-01-07T14:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T15:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008903648559169909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "ZhiJiang0624"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008903648559169909",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008699872665628941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhiJiang0624 崩铁家庭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一个偶尔变得哲学或者厌世的重度自闭男生。理想大概就是想尽自己的绵薄之力尽量缝补这个世界支离破碎的一面吧",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 187,
+          "like_count": 702,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 463
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T17:01:20.000Z",
+        "description": "🌈卧槽尼玛我的人生怎么变成县城小太妹了 过门请私信🚪88块钱 小号@xingyi1234560 推广自辨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "xingyi1234560"
+              }
+            ]
+          }
+        },
+        "id": "1700917352064561152",
+        "location": "在苞米地里务农",
+        "name": "恋痛症Z",
+        "pinned_tweet_id": "1998406402038272193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784554850753400832/oPoWwB4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5401,
+          "following_count": 124,
+          "like_count": 9868,
+          "listed_count": 10,
+          "media_count": 248,
+          "tweet_count": 4972
+        },
+        "username": "jing1234560",
+        "verified": false
+      }
+    ]
+  }
+}

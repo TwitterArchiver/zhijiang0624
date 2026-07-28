@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2023668848763732278",
+    "created_at": "2026-02-17T11:48:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T12:48:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023726128712630274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1981381547594043396",
+          "start": 0,
+          "username": "donttouchme3322"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023726128712630274",
+    "in_reply_to_user_id": "1981381547594043396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023668994859762106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@donttouchme3322 感觉调酒师都好厉害，那么多配方都记得住😵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2023668848763732278",
+        "created_at": "2026-02-17T11:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T12:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023726128712630274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1981381547594043396",
+              "start": 0,
+              "username": "donttouchme3322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023726128712630274",
+        "in_reply_to_user_id": "1981381547594043396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023668994859762106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@donttouchme3322 感觉调酒师都好厉害，那么多配方都记得住😵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981381547594043396",
+        "conversation_id": "2023668848763732278",
+        "created_at": "2026-02-17T08:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T09:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023668994859762106"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023668994859762106",
+        "in_reply_to_user_id": "1981381547594043396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023668848763732278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁能想到此女以前当了三年调酒师🚬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 406,
+          "like_count": 3257,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 1147
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-23T15:25:59.000Z",
+        "description": "碎碎念(ᇂ_ᇂ|||)高强度冲浪\n欢迎和我互动！清水日常推\n喜欢礼貌好玩的人，发牛子约炮的别来了。\n我觉得我挺幽默的，幽默女人最好命。\n我不是🚪姐…不聊骚不磕炮…\n匿名提问：https://t.co/6wYsRJnYiG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/badsheep",
+                "end": 110,
+                "expanded_url": "https://ngl.link/badsheep",
+                "start": 87,
+                "url": "https://t.co/6wYsRJnYiG"
+              }
+            ]
+          }
+        },
+        "id": "1981381547594043396",
+        "name": "小烂",
+        "pinned_tweet_id": "2021962571230908534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017469723781566464/O7mQvpP3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 99,
+          "like_count": 485,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 723
+        },
+        "username": "donttouchme3322",
+        "verified": false
+      }
+    ]
+  }
+}

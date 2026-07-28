@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035814999046995968",
+        "3_2035814999344754688"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "conversation_id": "2035689596974248051",
+    "created_at": "2026-03-22T20:25:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T21:25:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035815153619595694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2004977573332492288",
+          "start": 0,
+          "username": "gzi1068795"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/X0zjIDRHcW",
+          "end": 55,
+          "expanded_url": "https://x.com/ZhiJiang0624/status/2035815153619595694/photo/1",
+          "media_key": "3_2035814999046995968",
+          "start": 32,
+          "url": "https://t.co/X0zjIDRHcW"
+        },
+        {
+          "display_url": "pic.x.com/X0zjIDRHcW",
+          "end": 55,
+          "expanded_url": "https://x.com/ZhiJiang0624/status/2035815153619595694/photo/1",
+          "media_key": "3_2035814999344754688",
+          "start": 32,
+          "url": "https://t.co/X0zjIDRHcW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035815153619595694",
+    "in_reply_to_user_id": "2004977573332492288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035689596974248051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gzi1068795 我问的一些鬼东西，是真的不常用这东西啊 https://t.co/X0zjIDRHcW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2035814999046995968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HECq9JabwAAkHDc.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2035814999344754688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HECq9KhbMAAetXW.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035689590699565056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEA45a6boAA4V0_.jpg",
+        "width": 972
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035814999046995968",
+            "3_2035814999344754688"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "conversation_id": "2035689596974248051",
+        "created_at": "2026-03-22T20:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T21:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035815153619595694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2004977573332492288",
+              "start": 0,
+              "username": "gzi1068795"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X0zjIDRHcW",
+              "end": 55,
+              "expanded_url": "https://x.com/ZhiJiang0624/status/2035815153619595694/photo/1",
+              "media_key": "3_2035814999046995968",
+              "start": 32,
+              "url": "https://t.co/X0zjIDRHcW"
+            },
+            {
+              "display_url": "pic.x.com/X0zjIDRHcW",
+              "end": 55,
+              "expanded_url": "https://x.com/ZhiJiang0624/status/2035815153619595694/photo/1",
+              "media_key": "3_2035814999344754688",
+              "start": 32,
+              "url": "https://t.co/X0zjIDRHcW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035815153619595694",
+        "in_reply_to_user_id": "2004977573332492288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035689596974248051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gzi1068795 我问的一些鬼东西，是真的不常用这东西啊 https://t.co/X0zjIDRHcW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035689590699565056"
+          ]
+        },
+        "author_id": "2004977573332492288",
+        "conversation_id": "2035689596974248051",
+        "created_at": "2026-03-22T12:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T13:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035689596974248051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Hm61ePP23",
+              "end": 40,
+              "expanded_url": "https://x.com/gzi1068795/status/2035689596974248051/photo/1",
+              "media_key": "3_2035689590699565056",
+              "start": 17,
+              "url": "https://t.co/5Hm61ePP23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035689596974248051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1149,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "每天在问AI这种东西(。-ω-) https://t.co/5Hm61ePP23"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n07年纯种神经病\n如果哪里说得有错还请麻烦指点一下谢谢。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 607,
+          "like_count": 8855,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1938
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T18:09:14.000Z",
+        "description": "🇨🇳/22 ↑/我是女的，男的别来，我只和女孩子玩/来这是为了搞同人 / 绘画练习中/觉得不适随意屏蔽不用告知/自己开心最重要/日本語が話せないため翻訳ツールを使っています。もし表現に誤解があったらごめんなさい！",
+        "id": "2004977573332492288",
+        "location": "東京 豊島区",
+        "name": "Ukiyo",
+        "pinned_tweet_id": "2018943353199755380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022497308412432384/0gRJHPR-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 307,
+          "like_count": 14634,
+          "listed_count": 1,
+          "media_count": 351,
+          "tweet_count": 6861
+        },
+        "username": "gzi1068795",
+        "verified": false
+      }
+    ]
+  }
+}

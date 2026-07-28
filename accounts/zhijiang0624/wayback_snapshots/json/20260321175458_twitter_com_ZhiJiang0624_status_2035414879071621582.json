@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2035250568583946265",
+    "created_at": "2026-03-21T17:54:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T18:54:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035414879071621582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1912326279468122112",
+          "start": 0,
+          "username": "opitia255274"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035414879071621582",
+    "in_reply_to_user_id": "1912326279468122112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035250568583946265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@opitia255274 银行里不也都是钱\n没见谁去拿呀\n什么乐色\n少发点这些鬼东西\n别腌臜了咱的眼睛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_2035250557255131136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD6pmT4boAA9yCg.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2035250568583946265",
+        "created_at": "2026-03-21T17:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T18:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035414879071621582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1912326279468122112",
+              "start": 0,
+              "username": "opitia255274"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035414879071621582",
+        "in_reply_to_user_id": "1912326279468122112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035250568583946265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@opitia255274 银行里不也都是钱\n没见谁去拿呀\n什么乐色\n少发点这些鬼东西\n别腌臜了咱的眼睛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035250557255131136"
+          ]
+        },
+        "author_id": "1912326279468122112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2035250568583946265",
+        "created_at": "2026-03-21T07:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T08:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035250568583946265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LB4ssLly6L",
+              "end": 42,
+              "expanded_url": "https://x.com/opitia255274/status/2035250568583946265/photo/1",
+              "media_key": "3_2035250557255131136",
+              "start": 19,
+              "url": "https://t.co/LB4ssLly6L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035250568583946265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 180347,
+          "like_count": 1792,
+          "quote_count": 5,
+          "reply_count": 157,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "有病一样。人家爱穿啥穿啥，关你屁事啊 https://t.co/LB4ssLly6L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n07年纯种神经病\n如果哪里说得有错还请麻烦指点一下谢谢。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 606,
+          "like_count": 8736,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1923
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-16T02:05:00.000Z",
+        "description": "仙人，梦想笑了",
+        "id": "1912326279468122112",
+        "name": "戒撸的仙人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031743553861492736/uGr3ETpU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2924,
+          "following_count": 257,
+          "like_count": 6767,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 2421
+        },
+        "username": "opitia255274",
+        "verified": false
+      }
+    ]
+  }
+}

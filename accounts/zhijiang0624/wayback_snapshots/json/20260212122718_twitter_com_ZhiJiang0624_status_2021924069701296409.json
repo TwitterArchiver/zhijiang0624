@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2021715859236942179",
+    "created_at": "2026-02-12T12:27:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T13:27:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021924069701296409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1517113519522873344",
+          "start": 0,
+          "username": "xxNYAS_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021924069701296409",
+    "in_reply_to_user_id": "1517113519522873344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021715859236942179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxNYAS_ 可是那样连过去仅剩的美好回忆都会失去，想想就觉得好绝望"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2021715859236942179",
+        "created_at": "2026-02-12T12:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T13:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021924069701296409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1517113519522873344",
+              "start": 0,
+              "username": "xxNYAS_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021924069701296409",
+        "in_reply_to_user_id": "1517113519522873344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021715859236942179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxNYAS_ 可是那样连过去仅剩的美好回忆都会失去，想想就觉得好绝望"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1517113519522873344",
+        "conversation_id": "2021715859236942179",
+        "created_at": "2026-02-11T22:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T23:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021715859236942179"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021715859236942179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1725,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "有沒有吃了能失憶的藥 我想忘記好多事情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 285,
+          "like_count": 2246,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 720
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-21T12:10:42.000Z",
+        "description": "💉にゃんぱいあスキ/♀/AB型/うお座.雙魚/🧊🩹🩶⛓️🌧️❄️🥛🤍",
+        "id": "1517113519522873344",
+        "location": "ダンボール",
+        "name": "やすいなら.",
+        "pinned_tweet_id": "1864162686642344133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002762730193723392/3dQSwBek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2132,
+          "following_count": 1129,
+          "like_count": 19034,
+          "listed_count": 8,
+          "media_count": 491,
+          "tweet_count": 3985
+        },
+        "username": "xxNYAS_",
+        "verified": false
+      }
+    ]
+  }
+}

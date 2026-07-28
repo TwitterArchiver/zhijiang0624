@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044357497495171072"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2044357543280210114",
+    "created_at": "2026-04-15T10:09:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T11:09:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044357543280210114"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YaIGSFPdU2",
+          "end": 100,
+          "expanded_url": "https://x.com/zhijiang0624/status/2044357543280210114/photo/1",
+          "media_key": "3_2044357497495171072",
+          "start": 77,
+          "url": "https://t.co/YaIGSFPdU2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044357543280210114",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "明天放一天假啊……\n19岁的我得到了一月两休、一月两千多的工作（目前，以后还会涨，可能？）\n我未来的路我不想看\n我也看不到\n也算是自己选的路\n咎由自取罢 https://t.co/YaIGSFPdU2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2044357497495171072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF8EUAAbMAAXShg.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044357497495171072"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2044357543280210114",
+        "created_at": "2026-04-15T10:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T11:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044357543280210114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YaIGSFPdU2",
+              "end": 100,
+              "expanded_url": "https://x.com/zhijiang0624/status/2044357543280210114/photo/1",
+              "media_key": "3_2044357497495171072",
+              "start": 77,
+              "url": "https://t.co/YaIGSFPdU2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044357543280210114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天放一天假啊……\n19岁的我得到了一月两休、一月两千多的工作（目前，以后还会涨，可能？）\n我未来的路我不想看\n我也看不到\n也算是自己选的路\n咎由自取罢 https://t.co/YaIGSFPdU2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 665,
+          "like_count": 10553,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 2164
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      }
+    ]
+  }
+}

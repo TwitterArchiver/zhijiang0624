@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2025469665775157539",
+    "created_at": "2026-02-22T17:18:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T18:18:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025621116820287720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1643876228397686785",
+          "start": 0,
+          "username": "xiaoxin77725"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025621116820287720",
+    "in_reply_to_user_id": "1643876228397686785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025469665775157539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoxin77725 你应该向我支付阅读这段文字的费用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2025469665775157539",
+        "created_at": "2026-02-22T17:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T18:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025621116820287720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1643876228397686785",
+              "start": 0,
+              "username": "xiaoxin77725"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025621116820287720",
+        "in_reply_to_user_id": "1643876228397686785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025469665775157539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoxin77725 你应该向我支付阅读这段文字的费用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643876228397686785",
+        "conversation_id": "2025469665775157539",
+        "created_at": "2026-02-22T07:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T08:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025469665775157539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoxin77725/s…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/xiaoxin77725/status/2023437110322278725",
+              "start": 54,
+              "url": "https://t.co/oCMsJE1p16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025469665775157539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 152,
+          "impression_count": 26582,
+          "like_count": 1292,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023437110322278725",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好日子像尿一样流走了，留下来的骚味熏了我一辈子，我的尿是如此的骚，我的人生是如此的糟。我的幸福是如此的短。 https://t.co/oCMsJE1p16"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 436,
+          "like_count": 3732,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1286
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-06T07:20:26.000Z",
+        "description": "兴趣使然 感谢关注 一个爱拍照的普通人 ins：https://t.co/fWHCX8yx66 此账号仅分享个人照片一个用途（x只有@xiaoxin77725这一个账号注意辨别谨防被骗）什么都不卖别问了真的很烦⚠️禁止ai /搬运/任何形式的二改二创p图项目发牛子拉黑。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 66,
+                "username": "xiaoxin77725"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "xiaoxin.star",
+                "end": 47,
+                "expanded_url": "http://xiaoxin.star",
+                "start": 24,
+                "url": "https://t.co/fWHCX8yx66"
+              }
+            ]
+          }
+        },
+        "id": "1643876228397686785",
+        "location": "不收口令/不卖图包/不线下/不推广/不加联系",
+        "name": "小新 star",
+        "pinned_tweet_id": "1917415241723568359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916904530903764993/n9gQYM_E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53774,
+          "following_count": 311,
+          "like_count": 1026,
+          "listed_count": 263,
+          "media_count": 93,
+          "tweet_count": 149
+        },
+        "username": "xiaoxin77725",
+        "verified": false
+      }
+    ]
+  }
+}

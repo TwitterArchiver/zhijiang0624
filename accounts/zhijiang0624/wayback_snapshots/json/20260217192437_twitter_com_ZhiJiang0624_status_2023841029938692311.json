@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2023800896891793587",
+    "created_at": "2026-02-17T19:24:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T20:24:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023841029938692311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1773041626581221376",
+          "start": 0,
+          "username": "Nikikiki8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023841029938692311",
+    "in_reply_to_user_id": "1773041626581221376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023840330517504310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nikikiki8964 所以你不缺鼓励，也不缺精神胜利。\n你不是有方向而没有勇气迈步子的人，你也不是阿Q，你只是暂时没了方向不知道该怎么走。多和朋友聊聊，多融入世界了解更多学习更多，找到一个适合的方向，这就是你所需要的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2023800896891793587",
+        "created_at": "2026-02-17T19:24:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T20:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023841029938692311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1773041626581221376",
+              "start": 0,
+              "username": "Nikikiki8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023841029938692311",
+        "in_reply_to_user_id": "1773041626581221376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023840330517504310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nikikiki8964 所以你不缺鼓励，也不缺精神胜利。\n你不是有方向而没有勇气迈步子的人，你也不是阿Q，你只是暂时没了方向不知道该怎么走。多和朋友聊聊，多融入世界了解更多学习更多，找到一个适合的方向，这就是你所需要的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773041626581221376",
+        "conversation_id": "2023800896891793587",
+        "created_at": "2026-02-17T19:21:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T20:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023840330517504310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "ZhiJiang0624"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023840330517504310",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023837716690202679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhiJiang0624 我也并不能从这种社达式比较里获得精神胜利的快乐，看到别人更差的生活只觉得更想死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 417,
+          "like_count": 3408,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1186
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T17:37:30.000Z",
+        "description": "个人想法储存站｜同人女｜虚拟性恋尊厌｜回关交友随缘｜有事提问箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%A5%BF%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%A5%BF%E7%93%9C%E6%8A%95%E6%89%8B",
+                "start": 0,
+                "url": "https://t.co/ujX5HCo8rR"
+              }
+            ]
+          }
+        },
+        "id": "1773041626581221376",
+        "location": "匿名提问箱→",
+        "name": "赛博葵花鹦鹉",
+        "pinned_tweet_id": "1983110926908961278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018744150007730176/OEgu-nth_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1548,
+          "following_count": 116,
+          "like_count": 85398,
+          "listed_count": 7,
+          "media_count": 65,
+          "tweet_count": 264
+        },
+        "url": "https://t.co/ujX5HCo8rR",
+        "username": "Nikikiki8964",
+        "verified": false
+      }
+    ]
+  }
+}

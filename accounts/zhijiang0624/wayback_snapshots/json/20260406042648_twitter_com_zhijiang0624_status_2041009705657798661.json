@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2040913376638124270",
+    "created_at": "2026-04-06T04:26:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T05:26:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041009705657798661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2985409589",
+          "start": 0,
+          "username": "picapicacomic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041009705657798661",
+    "in_reply_to_user_id": "2985409589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040913376638124270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@picapicacomic 我觉得行（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2040913376638124270",
+        "created_at": "2026-04-06T04:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T05:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041009705657798661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2985409589",
+              "start": 0,
+              "username": "picapicacomic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041009705657798661",
+        "in_reply_to_user_id": "2985409589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040913376638124270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@picapicacomic 我觉得行（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2985409589",
+        "conversation_id": "2040913376638124270",
+        "created_at": "2026-04-05T22:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T23:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040913376638124270"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040913376638124270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 113812,
+          "like_count": 684,
+          "quote_count": 0,
+          "reply_count": 72,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "大家冷靜一下👀\n\n我們沒有被盜號\n也沒有幫別人打廣告\n\n現在推的——\n全部都是嗶咔自己的平台\n\n我是真的😭\n真的不用逼我脫衣證明吧？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "只是一个傻逼傻逼大傻逼————！",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 641,
+          "like_count": 9598,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 2045
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-19T09:01:10.000Z",
+        "description": "嗶咔漫畫讓你可以輕鬆看到不同的本子，介面美觀易用，分類齊全，每天更新，紳士必備！\n\nhttps://t.co/o61BdbFOAJ\n\n嗶咔的聊天平台・泡泡：\nhttps://t.co/r7J9NQD8rL\n嗶咔的耽美花園漫畫平台・花咔：\nhttps://t.co/MYO3CKbXyb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "manhuabika.com",
+                "end": 65,
+                "expanded_url": "https://manhuabika.com",
+                "start": 42,
+                "url": "https://t.co/o61BdbFOAJ"
+              },
+              {
+                "display_url": "t.me/bubble_app_cha…",
+                "end": 102,
+                "expanded_url": "https://t.me/bubble_app_channel",
+                "start": 79,
+                "url": "https://t.co/r7J9NQD8rL"
+              },
+              {
+                "display_url": "t.me/+cPZ8iXJwWpg5Y…",
+                "end": 142,
+                "expanded_url": "https://t.me/+cPZ8iXJwWpg5Yzhh",
+                "start": 119,
+                "url": "https://t.co/MYO3CKbXyb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "manhuabika.com",
+                "end": 23,
+                "expanded_url": "https://manhuabika.com",
+                "start": 0,
+                "url": "https://t.co/o61BdbFOAJ"
+              }
+            ]
+          }
+        },
+        "id": "2985409589",
+        "name": "嗶咔漫畫",
+        "pinned_tweet_id": "1420702683573329924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1215146980898267137/tDynWR0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507708,
+          "following_count": 2,
+          "like_count": 2723,
+          "listed_count": 668,
+          "media_count": 183,
+          "tweet_count": 1474
+        },
+        "url": "https://t.co/o61BdbFOAJ",
+        "username": "picapicacomic",
+        "verified": true
+      }
+    ]
+  }
+}

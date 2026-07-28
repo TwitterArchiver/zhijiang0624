@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2057112483937284408",
+    "created_at": "2026-05-20T16:22:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T17:22:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057135000777285664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1910694944223956992",
+          "start": 0,
+          "username": "babycatnoby"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057135000777285664",
+    "in_reply_to_user_id": "1910694944223956992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057112483937284408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@babycatnoby 我是四川人\n有点辣\n别的忘了反正我不爱吃就对了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2057112483937284408",
+        "created_at": "2026-05-20T16:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T17:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057135000777285664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910694944223956992",
+              "start": 0,
+              "username": "babycatnoby"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057135000777285664",
+        "in_reply_to_user_id": "1910694944223956992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057112483937284408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@babycatnoby 我是四川人\n有点辣\n别的忘了反正我不爱吃就对了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910694944223956992",
+        "conversation_id": "2057112483937284408",
+        "created_at": "2026-05-20T14:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057112483937284408"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057112483937284408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 365,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没吃过折耳根，到底是什么味道，好想尝尝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 699,
+          "like_count": 12019,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 2497
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-11T14:02:39.000Z",
+        "description": "爱是她的灵魂\n📬 https://t.co/6riqitLE1f",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/babygirl87557",
+                "end": 32,
+                "expanded_url": "https://ngl.link/babygirl87557",
+                "start": 9,
+                "url": "https://t.co/6riqitLE1f"
+              }
+            ]
+          }
+        },
+        "id": "1910694944223956992",
+        "name": "一一呢",
+        "pinned_tweet_id": "2053466125871243669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055901782455496704/NaaqbyCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1401,
+          "following_count": 25,
+          "like_count": 571,
+          "listed_count": 5,
+          "media_count": 35,
+          "tweet_count": 477
+        },
+        "username": "babycatnoby",
+        "verified": false
+      }
+    ]
+  }
+}

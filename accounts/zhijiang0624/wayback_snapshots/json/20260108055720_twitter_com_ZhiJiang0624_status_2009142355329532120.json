@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "1857397019343507897",
+    "created_at": "2026-01-08T05:57:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T06:57:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009142355329532120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1832834649493762048",
+          "start": 0,
+          "username": "1n_fhtagn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009142355329532120",
+    "in_reply_to_user_id": "1832834649493762048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857397019343507897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1n_fhtagn 因为错的是世界，承受痛苦的是人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "1857397019343507897",
+        "created_at": "2026-01-08T05:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T06:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009142355329532120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1832834649493762048",
+              "start": 0,
+              "username": "1n_fhtagn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009142355329532120",
+        "in_reply_to_user_id": "1832834649493762048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857397019343507897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1n_fhtagn 因为错的是世界，承受痛苦的是人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832834649493762048",
+        "conversation_id": "1857397019343507897",
+        "created_at": "2024-11-15T12:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T13:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857397019343507897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/8964_Y/status/…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/8964_Y/status/1857371615274881102",
+              "start": 19,
+              "url": "https://t.co/proMpL7Isl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857397019343507897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 634,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857371615274881102",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么病的是这个社会，吃药的却是我？ https://t.co/proMpL7Isl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一个偶尔变得哲学或者厌世的重度自闭男生。理想大概就是想尽自己的绵薄之力尽量缝补这个世界支离破碎的一面吧",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 189,
+          "like_count": 740,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 472
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T17:34:06.000Z",
+        "description": "受到致命伤害时持续使生命值不低于1，9秒后强制退出战场，开启技能后立即恢复所有生命；攻击力+330%，攻击距离+2，攻击目标数+3，生命上限+5000，逐渐失去生命（60秒后到达最大生命20%/秒）；持续时间无限",
+        "id": "1832834649493762048",
+        "name": "雪山葵",
+        "pinned_tweet_id": "1994098169114943839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008939015182184448/nPg-KqQx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3933,
+          "following_count": 1266,
+          "like_count": 30784,
+          "listed_count": 8,
+          "media_count": 3900,
+          "tweet_count": 16944
+        },
+        "username": "1n_fhtagn",
+        "verified": false
+      }
+    ]
+  }
+}

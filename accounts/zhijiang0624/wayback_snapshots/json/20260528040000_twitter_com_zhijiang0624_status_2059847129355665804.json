@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2059646121652449501",
+    "created_at": "2026-05-28T04:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T05:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059847129355665804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1777373512904454145",
+          "start": 0,
+          "username": "zhaominizhao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059847129355665804",
+    "in_reply_to_user_id": "1777373512904454145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059646121652449501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhaominizhao 哟，还有优惠券"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2059646121652449501",
+        "created_at": "2026-05-28T04:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059847129355665804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1777373512904454145",
+              "start": 0,
+              "username": "zhaominizhao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059847129355665804",
+        "in_reply_to_user_id": "1777373512904454145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059646121652449501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhaominizhao 哟，还有优惠券"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777373512904454145",
+        "conversation_id": "2059646121652449501",
+        "created_at": "2026-05-27T14:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T15:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059646121652449501"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059646121652449501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 17281,
+          "like_count": 92,
+          "quote_count": 1,
+          "reply_count": 92,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "想不到我们07年的今年已经17岁了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 708,
+          "like_count": 12319,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 2547
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T16:31:35.000Z",
+        "description": "喜欢碎碎念的小女子(^⁃⩊⁃^)੭｜心情小记",
+        "id": "1777373512904454145",
+        "location": "叔叔我们不约",
+        "name": "mini昭",
+        "pinned_tweet_id": "2054936681103639004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049295405507395584/4pWad1t1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3198,
+          "following_count": 107,
+          "like_count": 8493,
+          "listed_count": 7,
+          "media_count": 509,
+          "tweet_count": 5992
+        },
+        "username": "zhaominizhao",
+        "verified": false
+      }
+    ]
+  }
+}

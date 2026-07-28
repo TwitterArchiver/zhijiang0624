@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2006681765390463193",
+    "created_at": "2026-01-01T11:53:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T12:53:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006695184290165047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1880947236462616576",
+          "start": 0,
+          "username": "RuthanneSo92628"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006695184290165047",
+    "in_reply_to_user_id": "1880947236462616576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006681765390463193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RuthanneSo92628 绿茶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2006681765390463193",
+        "created_at": "2026-01-01T11:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T12:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006695184290165047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1880947236462616576",
+              "start": 0,
+              "username": "RuthanneSo92628"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006695184290165047",
+        "in_reply_to_user_id": "1880947236462616576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006681765390463193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RuthanneSo92628 绿茶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880947236462616576",
+        "conversation_id": "2006681765390463193",
+        "created_at": "2026-01-01T10:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T11:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006681765390463193"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006681765390463193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2198,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们都用的什么梯子呀？我的梯子顶我一天伙食费了怪心疼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一个偶尔变得哲学或者厌世的重度自闭男生。理想大概就是想尽自己的绵薄之力尽量缝补这个世界支离破碎的一面吧",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730476491866349568/7MFnijBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 162,
+          "like_count": 501,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 354
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T11:55:54.000Z",
+        "description": "就不介绍了，都是自家人，就一个目的分享无聊的日常生活，寻找聊得来的搭子，全高中最沙雕的女人，有公的让我撩一下？（有🚪可验）",
+        "id": "1880947236462616576",
+        "name": "奥特之母",
+        "pinned_tweet_id": "2003469672428241219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905696285153460224/Adq5QrZF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63131,
+          "following_count": 0,
+          "like_count": 100,
+          "listed_count": 88,
+          "media_count": 306,
+          "tweet_count": 1430
+        },
+        "username": "RuthanneSo92628",
+        "verified": false
+      }
+    ]
+  }
+}

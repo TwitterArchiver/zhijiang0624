@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2023344105250767009",
+    "created_at": "2026-02-16T10:35:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T11:35:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023345379388101005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1955519990473629696",
+          "start": 0,
+          "username": "yezibalubalu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023345379388101005",
+    "in_reply_to_user_id": "1955519990473629696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023344105250767009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yezibalubalu 温馨提示，这样做的时候请确保房间内空调已开启了一段时间，或者被窝里有什么暖和了一下。不然冰冷的被窝直接要你半条命"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_2023344098544078848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBRcvMwaUAAUc4e.jpg",
+        "width": 1706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2023344105250767009",
+        "created_at": "2026-02-16T10:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T11:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023345379388101005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1955519990473629696",
+              "start": 0,
+              "username": "yezibalubalu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023345379388101005",
+        "in_reply_to_user_id": "1955519990473629696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023344105250767009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yezibalubalu 温馨提示，这样做的时候请确保房间内空调已开启了一段时间，或者被窝里有什么暖和了一下。不然冰冷的被窝直接要你半条命"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023344098544078848"
+          ]
+        },
+        "author_id": "1955519990473629696",
+        "conversation_id": "2023344105250767009",
+        "created_at": "2026-02-16T10:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T11:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023344105250767009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wad25b1AmC",
+              "end": 45,
+              "expanded_url": "https://x.com/yezibalubalu/status/2023344105250767009/photo/1",
+              "media_key": "3_2023344098544078848",
+              "start": 22,
+              "url": "https://t.co/Wad25b1AmC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023344105250767009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抹完全身的身体乳\n光溜溜钻进被窝最舒服\n😋 https://t.co/Wad25b1AmC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 356,
+          "like_count": 2995,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 1050
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-13T06:41:30.000Z",
+        "description": "06-西安·京津冀 //infp //小叶@mumubalubalu //提问https://t.co/CPnqC2JOxO 『一个小女孩日常生活』",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 21,
+                "username": "mumubalubalu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yezibalubalu",
+                "end": 62,
+                "expanded_url": "http://ngl.link/yezibalubalu",
+                "start": 39,
+                "url": "https://t.co/CPnqC2JOxO"
+              }
+            ]
+          }
+        },
+        "id": "1955519990473629696",
+        "location": "🚪288/666/3333",
+        "name": "叶子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955522023633063937/cvSEckQY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5234,
+          "following_count": 174,
+          "like_count": 602,
+          "listed_count": 15,
+          "media_count": 43,
+          "tweet_count": 685
+        },
+        "username": "yezibalubalu",
+        "verified": false
+      }
+    ]
+  }
+}

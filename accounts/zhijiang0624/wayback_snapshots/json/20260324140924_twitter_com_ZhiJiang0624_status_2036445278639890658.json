@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2036418928008897014",
+    "created_at": "2026-03-24T14:09:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T15:09:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036445278639890658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1762309555386769408",
+          "start": 0,
+          "username": "O_DROP_DEAD_O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036445278639890658",
+    "in_reply_to_user_id": "1762309555386769408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036418928008897014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@O_DROP_DEAD_O 你还好吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2036418928008897014",
+        "created_at": "2026-03-24T14:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T15:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036445278639890658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1762309555386769408",
+              "start": 0,
+              "username": "O_DROP_DEAD_O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036445278639890658",
+        "in_reply_to_user_id": "1762309555386769408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036418928008897014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@O_DROP_DEAD_O 你还好吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762309555386769408",
+        "conversation_id": "2036418928008897014",
+        "created_at": "2026-03-24T12:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T13:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036418928008897014"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036418928008897014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不过嗯也还行我明天出门可能也被车撞死呀，可我也不是坏人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n07年纯种神经病\n如果哪里说得有错还请麻烦指点一下谢谢。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 610,
+          "like_count": 8950,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1942
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T02:52:13.000Z",
+        "description": "Hope I can drop dead😋\n呼呼呼呼呼biubiubiuboomboomboomdamnyoudeadbitchfuckingdierightmeow!",
+        "id": "1762309555386769408",
+        "name": "Calling",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924121102449614848/X2tFTgBV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 351,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 785
+        },
+        "username": "O_DROP_DEAD_O",
+        "verified": false
+      }
+    ]
+  }
+}

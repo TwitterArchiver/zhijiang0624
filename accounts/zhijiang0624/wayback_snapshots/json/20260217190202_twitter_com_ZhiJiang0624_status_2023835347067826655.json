@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2015348565191627170",
+    "created_at": "2026-02-17T19:02:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T20:02:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023835347067826655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2012633763298082816",
+          "start": 0,
+          "username": "Vaiile50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023835347067826655",
+    "in_reply_to_user_id": "2012633763298082816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015348565191627170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vaiile50 祝你早日想通，过上自己想要的生活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2015348565191627170",
+        "created_at": "2026-02-17T19:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T20:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023835347067826655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012633763298082816",
+              "start": 0,
+              "username": "Vaiile50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023835347067826655",
+        "in_reply_to_user_id": "2012633763298082816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015348565191627170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vaiile50 祝你早日想通，过上自己想要的生活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012633763298082816",
+        "conversation_id": "2015348565191627170",
+        "created_at": "2026-01-25T08:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T09:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015348565191627170"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015348565191627170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我希望我可以学得开始对自己宽容一点，就算没有恋爱，就算有讨厌的人，就算偶尔会刻薄也是正常的，我不能总是这么焦虑没有恋人这件事，在我准备好之前在被焦虑心情控制的情况下擅自决定开始一段关系，对那个人也是不公平的，我知道的，我希望我可以想通，然后平静下来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 416,
+          "like_count": 3397,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1179
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T21:11:59.000Z",
+        "description": "是容易感到焦虑不安的人",
+        "id": "2012633763298082816",
+        "name": "Aiile",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015351009220943872/ZO19lcP8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 64,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 12
+        },
+        "username": "Vaiile50",
+        "verified": false
+      }
+    ]
+  }
+}

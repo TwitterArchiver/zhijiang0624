@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057133622004781056"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "conversation_id": "2056785719939723333",
+    "created_at": "2026-05-20T16:17:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T17:17:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057133692515242338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1556198265061646336",
+          "start": 0,
+          "username": "hfymomoj"
+        },
+        {
+          "end": 18,
+          "id": "1923957668831780864",
+          "start": 10,
+          "username": "Gniy666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VTauclFZpa",
+          "end": 53,
+          "expanded_url": "https://x.com/zhijiang0624/status/2057133692515242338/photo/1",
+          "media_key": "3_2057133622004781056",
+          "start": 30,
+          "url": "https://t.co/VTauclFZpa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057133692515242338",
+    "in_reply_to_user_id": "1556198265061646336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056785719939723333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hfymomoj @Gniy666 谢谢\n抑郁给我笑没了 https://t.co/VTauclFZpa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "3_2057133622004781056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxoIUsbkAA7Q9J.jpg",
+        "width": 230
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057133622004781056"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "conversation_id": "2056785719939723333",
+        "created_at": "2026-05-20T16:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T17:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057133692515242338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1556198265061646336",
+              "start": 0,
+              "username": "hfymomoj"
+            },
+            {
+              "end": 18,
+              "id": "1923957668831780864",
+              "start": 10,
+              "username": "Gniy666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VTauclFZpa",
+              "end": 53,
+              "expanded_url": "https://x.com/zhijiang0624/status/2057133692515242338/photo/1",
+              "media_key": "3_2057133622004781056",
+              "start": 30,
+              "url": "https://t.co/VTauclFZpa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057133692515242338",
+        "in_reply_to_user_id": "1556198265061646336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056785719939723333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hfymomoj @Gniy666 谢谢\n抑郁给我笑没了 https://t.co/VTauclFZpa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556198265061646336",
+        "conversation_id": "2056785719939723333",
+        "created_at": "2026-05-19T17:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T18:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056785719939723333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1923957668831780864",
+              "start": 19,
+              "username": "Gniy666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056785719939723333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 14304,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 45,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "比她好看的没她骚，比她骚的没她好看👉🏻@Gniy666"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 699,
+          "like_count": 12015,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 2495
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-07T08:39:24.000Z",
+        "description": "我是傻福 营业号在@Gniy666",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Gniy666"
+              }
+            ]
+          }
+        },
+        "id": "1556198265061646336",
+        "location": " 🚪520/1314",
+        "name": "治疗术",
+        "pinned_tweet_id": "1923963433491530106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015482573737381888/HVyMkmvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57772,
+          "following_count": 101,
+          "like_count": 4414,
+          "listed_count": 145,
+          "media_count": 180,
+          "tweet_count": 2529
+        },
+        "username": "hfymomoj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-18T04:24:00.000Z",
+        "description": "原创博主 让我明天更有色彩 （＾ω＾）只回口令/ IG :hfyqvq 碎碎念@hfymomoj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 39,
+                "username": "hfymomoj"
+              }
+            ]
+          }
+        },
+        "id": "1923957668831780864",
+        "location": "🚪520/1314/5200",
+        "name": "Duvet",
+        "pinned_tweet_id": "2035002154298352006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998696875462217728/R9_kWZ7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167184,
+          "following_count": 90,
+          "like_count": 1119,
+          "listed_count": 478,
+          "media_count": 73,
+          "tweet_count": 435
+        },
+        "username": "Gniy666",
+        "verified": true
+      }
+    ]
+  }
+}

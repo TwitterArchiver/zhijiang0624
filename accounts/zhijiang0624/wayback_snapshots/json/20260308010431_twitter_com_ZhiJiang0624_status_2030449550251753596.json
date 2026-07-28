@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2030317056000958805",
+    "created_at": "2026-03-08T01:04:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T02:04:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030449550251753596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1521495865067806720",
+          "start": 0,
+          "username": "ikbjnakoxw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030449550251753596",
+    "in_reply_to_user_id": "1521495865067806720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030317056000958805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ikbjnakoxw 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2030316981740781568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC0iia4aQAA33CE.jpg",
+        "width": 782
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2030317056000958805",
+        "created_at": "2026-03-08T01:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T02:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030449550251753596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1521495865067806720",
+              "start": 0,
+              "username": "ikbjnakoxw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030449550251753596",
+        "in_reply_to_user_id": "1521495865067806720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030317056000958805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ikbjnakoxw 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030316981740781568"
+          ]
+        },
+        "author_id": "1521495865067806720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2030317056000958805",
+        "created_at": "2026-03-07T16:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T17:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030317056000958805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6g9zxjgbTr",
+              "end": 32,
+              "expanded_url": "https://x.com/ikbjnakoxw/status/2030317056000958805/photo/1",
+              "media_key": "3_2030316981740781568",
+              "start": 9,
+              "url": "https://t.co/6g9zxjgbTr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030317056000958805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1444,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天十九岁！！！ https://t.co/6g9zxjgbTr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 577,
+          "like_count": 7297,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1758
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-03T14:24:30.000Z",
+        "description": "喜欢小猫 | 07 | ENFJ | 互关来找我加v自用VPN https://t.co/WeDqHK0DMZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kugou2.cloud/#/register?cod…",
+                "end": 55,
+                "expanded_url": "https://kugou2.cloud/#/register?code=Mey2uFxm",
+                "start": 32,
+                "url": "https://t.co/WeDqHK0DMZ"
+              }
+            ]
+          }
+        },
+        "id": "1521495865067806720",
+        "location": "天上人间",
+        "name": "悲伤煎蛋🍳",
+        "pinned_tweet_id": "1943684022535586107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025250714600275968/lGxf8CEI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7385,
+          "following_count": 327,
+          "like_count": 7508,
+          "listed_count": 14,
+          "media_count": 476,
+          "tweet_count": 4880
+        },
+        "username": "ikbjnakoxw",
+        "verified": false
+      }
+    ]
+  }
+}

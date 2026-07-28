@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2027552710984405236",
+    "created_at": "2026-02-28T10:40:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T11:40:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027695273418649810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1949220315336470529",
+          "start": 0,
+          "username": "wimzylens0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027695273418649810",
+    "in_reply_to_user_id": "1949220315336470529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027552710984405236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wimzylens0 第一句有点撞枪，敏感肌是这样的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1818,
+        "media_key": "3_2027552706404196352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCNQcayaoAATTnI.jpg",
+        "width": 1185
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027552708593651712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCNQci8bEAADez7.jpg",
+        "width": 831
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2027552710984405236",
+        "created_at": "2026-02-28T10:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T11:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027695273418649810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1949220315336470529",
+              "start": 0,
+              "username": "wimzylens0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027695273418649810",
+        "in_reply_to_user_id": "1949220315336470529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027552710984405236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wimzylens0 第一句有点撞枪，敏感肌是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027552706404196352",
+            "3_2027552708593651712"
+          ]
+        },
+        "author_id": "1949220315336470529",
+        "conversation_id": "2027552710984405236",
+        "created_at": "2026-02-28T01:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T02:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027552710984405236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6vkjx1cUBf",
+              "end": 31,
+              "expanded_url": "https://x.com/wimzylens0/status/2027552710984405236/photo/1",
+              "media_key": "3_2027552706404196352",
+              "start": 8,
+              "url": "https://t.co/6vkjx1cUBf"
+            },
+            {
+              "display_url": "pic.x.com/6vkjx1cUBf",
+              "end": 31,
+              "expanded_url": "https://x.com/wimzylens0/status/2027552710984405236/photo/1",
+              "media_key": "3_2027552708593651712",
+              "start": 8,
+              "url": "https://t.co/6vkjx1cUBf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027552710984405236",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 353,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "(*｀へ´*) https://t.co/6vkjx1cUBf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 475,
+          "like_count": 4392,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1395
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-26T21:28:55.000Z",
+        "description": "Dreams shattered into gummy bears | \n🧸超可爱的妹妹：@caliE694030",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "caliE694030"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wimzylens.blogspot.com",
+                "end": 23,
+                "expanded_url": "https://wimzylens.blogspot.com",
+                "start": 0,
+                "url": "https://t.co/KTkSJFMGJZ"
+              }
+            ]
+          }
+        },
+        "id": "1949220315336470529",
+        "location": "dream",
+        "name": "Lens Zzz",
+        "pinned_tweet_id": "1994583508883575161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012321108067065856/ReA9O-1b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 176,
+          "like_count": 10403,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 693
+        },
+        "url": "https://t.co/KTkSJFMGJZ",
+        "username": "wimzylens0",
+        "verified": false
+      }
+    ]
+  }
+}

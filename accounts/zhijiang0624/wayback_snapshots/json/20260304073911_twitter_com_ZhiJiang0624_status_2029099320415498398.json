@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2029079983419998598",
+    "created_at": "2026-03-04T07:39:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T08:39:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029099320415498398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1880947070837964800",
+          "start": 0,
+          "username": "Guillermin45548"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029099320415498398",
+    "in_reply_to_user_id": "1880947070837964800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029079983419998598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Guillermin45548 说句不好听的\n那么多高学历的都找不到个好工作，凭什么轮到你？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2029079983419998598",
+        "created_at": "2026-03-04T07:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T08:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029099320415498398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1880947070837964800",
+              "start": 0,
+              "username": "Guillermin45548"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029099320415498398",
+        "in_reply_to_user_id": "1880947070837964800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029079983419998598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Guillermin45548 说句不好听的\n那么多高学历的都找不到个好工作，凭什么轮到你？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880947070837964800",
+        "conversation_id": "2029079983419998598",
+        "created_at": "2026-03-04T06:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T07:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029079983419998598"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029079983419998598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1421,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我经常看到有人发帖说国内大环境不好，自己在国外发展的多么多么好，然后有人要带我去国外工作，大家又觉得国外不太平我会被骗，劝我不要去，那到底国外就业环境怎么样啊？我还要不要考虑出去？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 531,
+          "like_count": 5576,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1595
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T11:55:14.000Z",
+        "description": "07年中专不读生，辍学后无社交试图在网上找些存在感，日常记录碎碎念，大家的情绪垃圾桶，祝天天开心～",
+        "id": "1880947070837964800",
+        "name": "瑶瑶睡不着💤",
+        "pinned_tweet_id": "2028661571522863516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008146294750240768/atsWlS0c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10346,
+          "following_count": 58,
+          "like_count": 816,
+          "listed_count": 9,
+          "media_count": 247,
+          "tweet_count": 1209
+        },
+        "username": "Guillermin45548",
+        "verified": false
+      }
+    ]
+  }
+}

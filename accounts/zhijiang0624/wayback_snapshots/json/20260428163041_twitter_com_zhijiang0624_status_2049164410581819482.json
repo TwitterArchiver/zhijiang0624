@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2049019304666869833",
+    "created_at": "2026-04-28T16:30:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T17:30:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049164410581819482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2039585804595441664",
+          "start": 0,
+          "username": "Onlymilff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049164410581819482",
+    "in_reply_to_user_id": "2039585804595441664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049019304666869833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Onlymilff 姐子还是整点儿别的方法吧\n我一个男的看着都觉得痛"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20062,
+        "height": 720,
+        "media_key": "13_2049019077184921600",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049019077184921600/img/BYLT5ZVN4LN3-OmL.jpg",
+        "public_metrics": {
+          "view_count": 376348
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049019077184921600/vid/avc1/480x270/4327KqpXJ9XtW0Tr.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049019077184921600/vid/avc1/640x360/6fey6RjBaqZeC74c.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049019077184921600/vid/avc1/1280x720/jlexPagePH2aA7CZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049019077184921600/pl/lknjT5UoZCKyIvQp.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2049019304666869833",
+        "created_at": "2026-04-28T16:30:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T17:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049164410581819482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2039585804595441664",
+              "start": 0,
+              "username": "Onlymilff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049164410581819482",
+        "in_reply_to_user_id": "2039585804595441664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049019304666869833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Onlymilff 姐子还是整点儿别的方法吧\n我一个男的看着都觉得痛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049019077184921600"
+          ]
+        },
+        "author_id": "2039585804595441664",
+        "conversation_id": "2049019304666869833",
+        "created_at": "2026-04-28T06:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T07:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049019304666869833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GB89DBjVom",
+              "end": 50,
+              "expanded_url": "https://x.com/Onlymilff/status/2049019304666869833/video/1",
+              "media_key": "13_2049019077184921600",
+              "start": 27,
+              "url": "https://t.co/GB89DBjVom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049019304666869833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 9740,
+          "impression_count": 429667,
+          "like_count": 22754,
+          "quote_count": 2,
+          "reply_count": 46,
+          "retweet_count": 1028
+        },
+        "reply_settings": "everyone",
+        "text": "漫展烧姬coser  贴了一天、回家撕下来好好喘口气 https://t.co/GB89DBjVom"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 674,
+          "like_count": 11227,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 2264
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T06:08:53.000Z",
+        "description": "",
+        "id": "2039585804595441664",
+        "name": "漫展摄影妲己",
+        "pinned_tweet_id": "2045414287796289945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047156051280351232/2oLw8gtx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81303,
+          "following_count": 0,
+          "like_count": 8,
+          "listed_count": 146,
+          "media_count": 8,
+          "tweet_count": 16
+        },
+        "username": "Onlymilff",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

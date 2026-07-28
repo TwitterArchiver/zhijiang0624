@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026657135053123591"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2025830654886506508",
+    "created_at": "2026-02-25T13:54:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T14:54:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026657144339329352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1807843851429896192",
+          "start": 0,
+          "username": "Williamlin85797"
+        },
+        {
+          "end": 25,
+          "id": "1433678976564662273",
+          "start": 17,
+          "username": "hsn8086"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WpVYs0d84N",
+          "end": 80,
+          "expanded_url": "https://x.com/ZhiJiang0624/status/2026657144339329352/photo/1",
+          "media_key": "3_2026657135053123591",
+          "start": 57,
+          "url": "https://t.co/WpVYs0d84N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026657144339329352",
+    "in_reply_to_user_id": "1807843851429896192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026598852896370909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Williamlin85797 @hsn8086 削解斑？那你就激起我的第二形态了\n现在登场的是——三艾组合！ https://t.co/WpVYs0d84N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2026657135053123591",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCAh7ThaMAcDVja.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026657135053123591"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025830654886506508",
+        "created_at": "2026-02-25T13:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T14:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026657144339329352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807843851429896192",
+              "start": 0,
+              "username": "Williamlin85797"
+            },
+            {
+              "end": 25,
+              "id": "1433678976564662273",
+              "start": 17,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WpVYs0d84N",
+              "end": 80,
+              "expanded_url": "https://x.com/ZhiJiang0624/status/2026657144339329352/photo/1",
+              "media_key": "3_2026657135053123591",
+              "start": 57,
+              "url": "https://t.co/WpVYs0d84N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026657144339329352",
+        "in_reply_to_user_id": "1807843851429896192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026598852896370909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Williamlin85797 @hsn8086 削解斑？那你就激起我的第二形态了\n现在登场的是——三艾组合！ https://t.co/WpVYs0d84N"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807843851429896192",
+        "conversation_id": "2025830654886506508",
+        "created_at": "2026-02-25T10:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T11:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026598852896370909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "ZhiJiang0624"
+            },
+            {
+              "end": 22,
+              "id": "1433678976564662273",
+              "start": 14,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026598852896370909",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025936490040262984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhiJiang0624 @hsn8086 等着削弱吧老登"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 464,
+          "like_count": 4022,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1372
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-01T18:29:19.000Z",
+        "description": "好事记得带我一个，坏事都是三国杀干的，全都算在三国杀头上",
+        "id": "1807843851429896192",
+        "location": "木叶村",
+        "name": "扣分记三国杀账上",
+        "pinned_tweet_id": "1989264794231451968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874109862046818309/AeUxNtTt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 20,
+          "like_count": 961,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 2290
+        },
+        "username": "Williamlin85797",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005307492637847552/_2AfujLO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118131,
+          "following_count": 1041,
+          "like_count": 51462,
+          "listed_count": 271,
+          "media_count": 19503,
+          "tweet_count": 29485
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

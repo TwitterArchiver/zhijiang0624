@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2018583453667885398",
+    "created_at": "2026-02-03T07:47:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T08:47:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018592132957892746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1592865779241734144",
+          "start": 0,
+          "username": "yuanyuan774"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018592132957892746",
+    "in_reply_to_user_id": "1592865779241734144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018583453667885398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanyuan774 最踏马的烦那种啥也不缺就在那里死装忧郁的傻福😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2018583453667885398",
+        "created_at": "2026-02-03T07:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T08:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018592132957892746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592865779241734144",
+              "start": 0,
+              "username": "yuanyuan774"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018592132957892746",
+        "in_reply_to_user_id": "1592865779241734144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018583453667885398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanyuan774 最踏马的烦那种啥也不缺就在那里死装忧郁的傻福😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592865779241734144",
+        "conversation_id": "2018583453667885398",
+        "created_at": "2026-02-03T07:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T08:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018583453667885398"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018583453667885398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 376,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝子你就继续拿着你的最新款苹果手机穿着几千块的衣服兴趣是去各种地方旅游还一边哭穷吧，我看着一点也不想死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 381,
+          "like_count": 2024,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 682
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T13:03:00.000Z",
+        "description": "小号 转喜欢看的片的。@CaTwTuoo。 不接推广接转推，除口令以外不看私信，52000好友位",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "CaTwTuoo"
+              }
+            ]
+          }
+        },
+        "id": "1592865779241734144",
+        "location": "🥕",
+        "name": "你是不是欠",
+        "pinned_tweet_id": "2009044724024529042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006600139784228864/G9KATkPW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31575,
+          "following_count": 247,
+          "like_count": 25643,
+          "listed_count": 44,
+          "media_count": 1378,
+          "tweet_count": 26060
+        },
+        "username": "yuanyuan774",
+        "verified": false
+      }
+    ]
+  }
+}

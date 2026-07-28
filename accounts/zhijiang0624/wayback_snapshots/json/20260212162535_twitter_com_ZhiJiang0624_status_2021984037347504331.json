@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2021973710195106123",
+    "created_at": "2026-02-12T16:25:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T17:25:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021984037347504331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2007104134466736129",
+          "start": 0,
+          "username": "peipeimao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021984037347504331",
+    "in_reply_to_user_id": "2007104134466736129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021973710195106123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@peipeimao 记得消毒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2021973680159698946",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA9-WWcbsAItgln.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2021973710195106123",
+        "created_at": "2026-02-12T16:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T17:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021984037347504331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021984037347504331",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021973710195106123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 记得消毒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021973680159698946"
+          ]
+        },
+        "author_id": "2007104134466736129",
+        "conversation_id": "2021973710195106123",
+        "created_at": "2026-02-12T15:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T16:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021973710195106123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SBspbYGek2",
+              "end": 40,
+              "expanded_url": "https://x.com/peipeimao/status/2021973710195106123/photo/1",
+              "media_key": "3_2021973680159698946",
+              "start": 17,
+              "url": "https://t.co/SBspbYGek2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021973710195106123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 258,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "既然要抢夺 请连我的痛苦一起带走 https://t.co/SBspbYGek2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 287,
+          "like_count": 2253,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 726
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "我请求你保持爱的能力",
+        "id": "2007104134466736129",
+        "location": "一般路过门槛妹",
+        "name": "裴裴小猫meoww",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021253605106515969/c3SWq9nW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2444,
+          "following_count": 157,
+          "like_count": 433,
+          "listed_count": 4,
+          "media_count": 60,
+          "tweet_count": 923
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

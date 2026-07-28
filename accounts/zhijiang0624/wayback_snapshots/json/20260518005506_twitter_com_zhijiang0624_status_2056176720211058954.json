@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2056176720211058954",
+    "created_at": "2026-05-18T00:55:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T01:55:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056176720211058954"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "酷狗音乐为您提供由鸣潮先约电台、Meredith Bull演唱的高清音质无损L!!!!ghtmp3在线听,听L!!!!ght,只来酷狗音乐!",
+          "display_url": "m.kugou.com/share/song.htm…",
+          "end": 58,
+          "expanded_url": "https://m.kugou.com/share/song.html?chain=3eO6b98G1V3",
+          "start": 35,
+          "status": 200,
+          "title": "L!!!!ght_鸣潮先约电台、Meredith Bull_高音质在线试听_L!!!!ght歌词|歌曲下载_酷狗音乐",
+          "unwound_url": "https://www.kugou.com/share/3eO6b98G1V3.html",
+          "url": "https://t.co/blqxzNB1wQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056176720211058954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "分享鸣潮先约电台、Meredith Bull的单曲《L!!!!ght》https://t.co/blqxzNB1wQ （@酷狗音乐）\n这么欢快，要我命了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2056176720211058954",
+        "created_at": "2026-05-18T00:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T01:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056176720211058954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "酷狗音乐为您提供由鸣潮先约电台、Meredith Bull演唱的高清音质无损L!!!!ghtmp3在线听,听L!!!!ght,只来酷狗音乐!",
+              "display_url": "m.kugou.com/share/song.htm…",
+              "end": 58,
+              "expanded_url": "https://m.kugou.com/share/song.html?chain=3eO6b98G1V3",
+              "start": 35,
+              "status": 200,
+              "title": "L!!!!ght_鸣潮先约电台、Meredith Bull_高音质在线试听_L!!!!ght歌词|歌曲下载_酷狗音乐",
+              "unwound_url": "https://www.kugou.com/share/3eO6b98G1V3.html",
+              "url": "https://t.co/blqxzNB1wQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056176720211058954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享鸣潮先约电台、Meredith Bull的单曲《L!!!!ght》https://t.co/blqxzNB1wQ （@酷狗音乐）\n这么欢快，要我命了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 694,
+          "like_count": 11948,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 2467
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      }
+    ]
+  }
+}

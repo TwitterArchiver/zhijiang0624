@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2023184547287126160",
+    "created_at": "2026-02-16T02:01:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T03:01:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023216098636906766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1032168025942777856",
+          "start": 0,
+          "username": "FreshyLuLu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023216098636906766",
+    "in_reply_to_user_id": "1032168025942777856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023184547287126160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FreshyLuLu 除夕快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2023184547287126160",
+        "created_at": "2026-02-16T02:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T03:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023216098636906766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1032168025942777856",
+              "start": 0,
+              "username": "FreshyLuLu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023216098636906766",
+        "in_reply_to_user_id": "1032168025942777856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023184547287126160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FreshyLuLu 除夕快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1032168025942777856",
+        "conversation_id": "2023184547287126160",
+        "created_at": "2026-02-15T23:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T00:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023184547287126160"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023184547287126160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1162,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "发情中\n\n祝大家除夕快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 322,
+          "like_count": 2833,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 976
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-22T07:30:08.000Z",
+        "description": "属性：INTJ/INFJ-A🎀\n主要内容：杂谈/绘画/Cosplay/VRChat/文爱 🎀\n\n想要了解我和我的情感陪伴和虚拟色色服务的话，请访问我的主页：https://t.co/hrZcoaw0XM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "freshylulu.com",
+                "end": 101,
+                "expanded_url": "http://freshylulu.com",
+                "start": 78,
+                "url": "https://t.co/hrZcoaw0XM"
+              }
+            ]
+          }
+        },
+        "id": "1032168025942777856",
+        "location": "日本 日本語対応可",
+        "name": "沈夏璐璐るる🎀FreshyLuLu",
+        "pinned_tweet_id": "2010692595157250240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1697323617674211330/b6OxQr30_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71064,
+          "following_count": 192,
+          "like_count": 23292,
+          "listed_count": 226,
+          "media_count": 871,
+          "tweet_count": 3604
+        },
+        "username": "FreshyLuLu",
+        "verified": true
+      }
+    ]
+  }
+}

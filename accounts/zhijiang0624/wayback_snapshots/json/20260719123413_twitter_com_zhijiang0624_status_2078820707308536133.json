@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2078820707308536133",
+    "created_at": "2026-07-19T12:34:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T13:34:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078820707308536133"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078820707308536133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "消息发着我爸想我\n视频打回去大半时间都在压力我\n你他妈也是最该死的那个傻逼\n我他妈让你把手机拿远点让我看看老爸整个人怎么样，你他妈让我爸站起来\n你他妈脑子里装的到底是什么？\n二姐去面试都过了已经找到工作\n大姐管不住嘴把事情给二姐说了让二姐去接\n二姐心态没稳住又把工作辞了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2078820707308536133",
+        "created_at": "2026-07-19T12:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078820707308536133"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078820707308536133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "消息发着我爸想我\n视频打回去大半时间都在压力我\n你他妈也是最该死的那个傻逼\n我他妈让你把手机拿远点让我看看老爸整个人怎么样，你他妈让我爸站起来\n你他妈脑子里装的到底是什么？\n二姐去面试都过了已经找到工作\n大姐管不住嘴把事情给二姐说了让二姐去接\n二姐心态没稳住又把工作辞了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 761,
+          "like_count": 13693,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 2731
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      }
+    ]
+  }
+}

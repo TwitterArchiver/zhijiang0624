@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2070739821124018311",
+    "created_at": "2026-07-04T21:32:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T22:32:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073520422377968104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1955086653711843328",
+          "start": 0,
+          "username": "noneliebb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073520422377968104",
+    "in_reply_to_user_id": "1955086653711843328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070739821124018311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@noneliebb 吃到撑死然后再睡个雷霆大觉\n“我是这个世界上最爽之人”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2070739821124018311",
+        "created_at": "2026-07-04T21:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T22:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073520422377968104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1955086653711843328",
+              "start": 0,
+              "username": "noneliebb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073520422377968104",
+        "in_reply_to_user_id": "1955086653711843328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070739821124018311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noneliebb 吃到撑死然后再睡个雷霆大觉\n“我是这个世界上最爽之人”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955086653711843328",
+        "conversation_id": "2070739821124018311",
+        "created_at": "2026-06-27T05:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T06:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070739821124018311"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070739821124018311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7809,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我每次点麦当劳肯德基塔斯汀之类的都喜欢点一大堆，谁懂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 729,
+          "like_count": 13019,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 2652
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-12T01:59:36.000Z",
+        "description": "00年 希望你有礼貌且有边界感 干干爽爽的讨厌一切暧昧关系 喜欢轻松状态 拒绝高压 希望缓慢进入关系 求性和完全服从指令的别来找我 很讨厌别人冒犯我 不喜欢肌肉男别给我看了谢谢",
+        "id": "1955086653711843328",
+        "name": "布丁小咪",
+        "pinned_tweet_id": "2021121847073571316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955891304308858882/AwJFRQt4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 0,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 227
+        },
+        "url": "",
+        "username": "noneliebb",
+        "verified": false
+      }
+    ]
+  }
+}

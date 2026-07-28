@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028501390101012480"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "conversation_id": "2028473976436252715",
+    "created_at": "2026-03-02T16:03:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T17:03:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028501403128476069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1230417860641472512",
+          "start": 0,
+          "username": "kylin200064"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kabx3GMy4u",
+          "end": 52,
+          "expanded_url": "https://x.com/ZhiJiang0624/status/2028501403128476069/photo/1",
+          "media_key": "3_2028501390101012480",
+          "start": 29,
+          "url": "https://t.co/kabx3GMy4u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028501403128476069",
+    "in_reply_to_user_id": "1230417860641472512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028473976436252715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kylin200064 这个不会是四爱专属外附魂骨吧？ https://t.co/kabx3GMy4u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1078,
+        "media_key": "3_2028501390101012480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCavRE9bYAAbCai.jpg",
+        "width": 1422
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2028473973726720000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCaWVPAbMAAVWmR.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028501390101012480"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "conversation_id": "2028473976436252715",
+        "created_at": "2026-03-02T16:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T17:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028501403128476069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1230417860641472512",
+              "start": 0,
+              "username": "kylin200064"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kabx3GMy4u",
+              "end": 52,
+              "expanded_url": "https://x.com/ZhiJiang0624/status/2028501403128476069/photo/1",
+              "media_key": "3_2028501390101012480",
+              "start": 29,
+              "url": "https://t.co/kabx3GMy4u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028501403128476069",
+        "in_reply_to_user_id": "1230417860641472512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028473976436252715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kylin200064 这个不会是四爱专属外附魂骨吧？ https://t.co/kabx3GMy4u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028473973726720000"
+          ]
+        },
+        "author_id": "1230417860641472512",
+        "conversation_id": "2028473976436252715",
+        "created_at": "2026-03-02T14:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T15:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028473976436252715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NW3BJv35tZ",
+              "end": 74,
+              "expanded_url": "https://x.com/kylin200064/status/2028473976436252715/photo/1",
+              "media_key": "3_2028473973726720000",
+              "start": 51,
+              "url": "https://t.co/NW3BJv35tZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028473976436252715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 247,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这东西现在已经在垃圾桶里了\n时间太久了也用不上，进嘴的东西总是要注意卫生\n😋当然，需要的时候会买新的 https://t.co/NW3BJv35tZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 498,
+          "like_count": 4760,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1451
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-20T09:04:25.000Z",
+        "description": "热衷于游戏的肥宅，不交朋友不聊天。非人类勿扰。",
+        "id": "1230417860641472512",
+        "name": "阿陵不是猫",
+        "pinned_tweet_id": "1889006030086111270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025955554913607680/xxorM-Ev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4324,
+          "following_count": 526,
+          "like_count": 277,
+          "listed_count": 13,
+          "media_count": 363,
+          "tweet_count": 3917
+        },
+        "username": "kylin200064",
+        "verified": false
+      }
+    ]
+  }
+}

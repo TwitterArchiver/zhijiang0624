@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2017369245274017799",
+    "created_at": "2026-01-31T23:59:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T00:59:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017749658488213975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1975041313403019264",
+          "start": 0,
+          "username": "maidinsara2gou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017749658488213975",
+    "in_reply_to_user_id": "1975041313403019264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017369245274017799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maidinsara2gou 新曲に期待"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2017369245274017799",
+        "created_at": "2026-01-31T23:59:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T00:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017749658488213975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1975041313403019264",
+              "start": 0,
+              "username": "maidinsara2gou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017749658488213975",
+        "in_reply_to_user_id": "1975041313403019264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017369245274017799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maidinsara2gou 新曲に期待"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975041313403019264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2017369245274017799",
+        "created_at": "2026-01-30T22:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T23:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017369245274017799"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017369245274017799",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 461,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "渾身の音ゲー尺の歌詞書けたので音ゲー楽曲公募などあった際に作曲で組んでいただける方いらっしゃいませんか。\n内容は病んだ感じですが明るいバンドロックイメージして書きました！\nこれで採用されてぇ！埋もれさすのもったいない出来なんです！\nぶっちゃけボーカル私じゃなくてもいいからお願い！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "你他妈的到底是谁？！莫名其妙跑到我的脑子里来做些莫名其妙的事！草你妈杀了你！",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 351,
+          "like_count": 1719,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 637
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T03:32:26.000Z",
+        "description": "@maidinsaraの緊急時アカウントです。本垢乗っ取られましたので奪還するまでこのアカウントでうごうごと動きます。\n皆さまには大変ご迷惑をおかけいたします。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "maidinsara"
+              }
+            ]
+          }
+        },
+        "id": "1975041313403019264",
+        "location": "東京都北区",
+        "name": "秣本瑳羅@緊急時用",
+        "pinned_tweet_id": "1975163687615754712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975168767484383232/VqCzrLUV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 28,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 136
+        },
+        "username": "maidinsara2gou",
+        "verified": false
+      }
+    ]
+  }
+}

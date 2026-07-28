@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2026182295691108591",
+    "created_at": "2026-02-24T06:30:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T07:30:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026182805869429128"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2026182805869429128",
+    "in_reply_to_user_id": "1730214580184604672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026182295691108591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "莫名的自动发帖\n（我不是把自动发帖关了吗？）\n总而言之，人类拉了一地"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2026182292595777536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB5yD1hboAATk6l.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2026182295691108591",
+        "created_at": "2026-02-24T06:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T07:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026182805869429128"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026182805869429128",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026182295691108591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "莫名的自动发帖\n（我不是把自动发帖关了吗？）\n总而言之，人类拉了一地"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026182292595777536"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "conversation_id": "2026182295691108591",
+        "created_at": "2026-02-24T06:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T07:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026182295691108591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 33,
+              "id": "1949220315336470529",
+              "start": 22,
+              "username": "wimzylens0"
+            },
+            {
+              "end": 47,
+              "id": "1773020567479996416",
+              "start": 34,
+              "username": "Qiiii1472170"
+            },
+            {
+              "end": 65,
+              "id": "1803419024560365568",
+              "start": 54,
+              "username": "Sariel_143"
+            },
+            {
+              "end": 82,
+              "id": "1829679457411477504",
+              "start": 72,
+              "username": "miaowuqvq"
+            },
+            {
+              "end": 94,
+              "id": "1812401761195630592",
+              "start": 83,
+              "username": "zzz1339080"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 122,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2025818254271553537/vOMWNkgM?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2025818254271553537/vOMWNkgM?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 99,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/XUpB4YkZ4M"
+            },
+            {
+              "display_url": "pic.x.com/Dy48pp5fHc",
+              "end": 146,
+              "expanded_url": "https://x.com/ZhiJiang0624/status/2026182295691108591/photo/1",
+              "media_key": "3_2026182292595777536",
+              "start": 123,
+              "url": "https://t.co/Dy48pp5fHc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026182295691108591",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @wimzylens0 @Qiiii1472170\n👰 配偶: @Sariel_143\n👶 孩子: @miaowuqvq @zzz1339080\n\n➡️ https://t.co/XUpB4YkZ4M https://t.co/Dy48pp5fHc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 457,
+          "like_count": 3931,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1345
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      }
+    ]
+  }
+}

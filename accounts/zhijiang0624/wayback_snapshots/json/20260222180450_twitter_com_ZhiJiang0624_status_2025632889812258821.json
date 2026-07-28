@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2025482635192205640",
+    "created_at": "2026-02-22T18:04:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T19:04:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025632889812258821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1773926837888208896",
+          "start": 0,
+          "username": "crybabyloveme0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025632889812258821",
+    "in_reply_to_user_id": "1773926837888208896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025482635192205640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@crybabyloveme0 ☆☆☆☆☆\n避雷，不知道谁的格调建模卡我身上了。\n带我入坑的其中一个老玩家不仅压力我，在我等级低的时候还想杀掉我。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2025482626946252800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBv1t73bQAAezEc.jpg",
+        "width": 1289
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2025482635192205640",
+        "created_at": "2026-02-22T18:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T19:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025632889812258821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1773926837888208896",
+              "start": 0,
+              "username": "crybabyloveme0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025632889812258821",
+        "in_reply_to_user_id": "1773926837888208896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025482635192205640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crybabyloveme0 ☆☆☆☆☆\n避雷，不知道谁的格调建模卡我身上了。\n带我入坑的其中一个老玩家不仅压力我，在我等级低的时候还想杀掉我。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025482626946252800"
+          ]
+        },
+        "author_id": "1773926837888208896",
+        "conversation_id": "2025482635192205640",
+        "created_at": "2026-02-22T08:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T09:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025482635192205640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OTaplZNAMP",
+              "end": 75,
+              "expanded_url": "https://x.com/crybabyloveme0/status/2025482635192205640/photo/1",
+              "media_key": "3_2025482626946252800",
+              "start": 52,
+              "url": "https://t.co/OTaplZNAMP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025482635192205640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 14942,
+          "like_count": 184,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "☆☆☆☆☆\n避雷，女玩家开局就比男玩家少个道具，每个月还会自动扣血，带我入坑的两个人还总是压力我（哭） https://t.co/OTaplZNAMP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 438,
+          "like_count": 3756,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1296
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T04:15:13.000Z",
+        "description": "🚪666vx（带姓）/ 1888",
+        "id": "1773926837888208896",
+        "name": "Lumina",
+        "pinned_tweet_id": "1995059827262025837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977412774860128256/kBP0P1CS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52516,
+          "following_count": 36,
+          "like_count": 183,
+          "listed_count": 234,
+          "media_count": 382,
+          "tweet_count": 1146
+        },
+        "username": "crybabyloveme0",
+        "verified": false
+      }
+    ]
+  }
+}

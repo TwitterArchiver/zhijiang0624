@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2022905601194627386",
+    "created_at": "2026-02-16T02:05:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T03:05:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023217068821397899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1792118860662841344",
+          "start": 0,
+          "username": "szy002827"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023217068821397899",
+    "in_reply_to_user_id": "1792118860662841344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022905601194627386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@szy002827 除夕快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2022905601194627386",
+        "created_at": "2026-02-16T02:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T03:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023217068821397899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1792118860662841344",
+              "start": 0,
+              "username": "szy002827"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023217068821397899",
+        "in_reply_to_user_id": "1792118860662841344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022905601194627386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@szy002827 除夕快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792118860662841344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2022905601194627386",
+        "created_at": "2026-02-15T05:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T06:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022905601194627386"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022905601194627386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1151,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我算是个自毁性很强的人，我妈把它归结为我太有主见太固执。我知道做什么是对的什么是对我好的该怎么去做，可我总觉得逆着来特别爽。被打也很爽，疼也很爽，痛苦也很爽，反正不健康的就是爽的。操你妈的人就是贱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 322,
+          "like_count": 2841,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 983
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-19T09:03:35.000Z",
+        "description": "喂。不许看我。",
+        "id": "1792118860662841344",
+        "location": "无🚪，不聊骚，不许骚扰我！",
+        "name": "⩌₋⩌",
+        "pinned_tweet_id": "1983111193981252000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016153236789723139/5JviuATB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 59,
+          "like_count": 486,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1191
+        },
+        "username": "szy002827",
+        "verified": false
+      }
+    ]
+  }
+}

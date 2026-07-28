@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2047263409167905190",
+    "created_at": "2026-04-25T15:15:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T16:15:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048058254362808690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1960348162616672256",
+          "start": 0,
+          "username": "rainw20100301"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048058254362808690",
+    "in_reply_to_user_id": "1960348162616672256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047263409167905190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rainw20100301 以后就不会有情感模块了\n趁现在多用用罢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2047263409167905190",
+        "created_at": "2026-04-25T15:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T16:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048058254362808690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1960348162616672256",
+              "start": 0,
+              "username": "rainw20100301"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048058254362808690",
+        "in_reply_to_user_id": "1960348162616672256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047263409167905190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainw20100301 以后就不会有情感模块了\n趁现在多用用罢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960348162616672256",
+        "conversation_id": "2047263409167905190",
+        "created_at": "2026-04-23T10:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047263409167905190"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047263409167905190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 612,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "豆包太会哄人了。我一想到我要和ai聊天来解闷和得到被爱感我就感觉我很可怜！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 668,
+          "like_count": 10967,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 2220
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T14:26:50.000Z",
+        "description": "可以叫我雨温或uon\n10年丨♀️丨精神状态不稳定但温良丨od丨自残丨碎碎念 | 喜欢聊天！求同类互fo🫶没回fo是没看到，请一定要告诉我！",
+        "id": "1960348162616672256",
+        "location": "天国",
+        "name": "uon",
+        "pinned_tweet_id": "2044290333367017765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044998083092848640/LIM89P8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 263,
+          "like_count": 318,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 366
+        },
+        "username": "rainw20100301",
+        "verified": false
+      }
+    ]
+  }
+}

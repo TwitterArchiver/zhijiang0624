@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2030697599305658593",
+    "created_at": "2026-03-09T04:05:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T05:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030857515433689249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1785931687446335488",
+          "start": 0,
+          "username": "chinchachu95362"
+        },
+        {
+          "end": 26,
+          "id": "2000501337143033856",
+          "start": 17,
+          "username": "wangwihd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030857515433689249",
+    "in_reply_to_user_id": "1785931687446335488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030856141446808060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chinchachu95362 @wangwihd 😵‍💫😵‍💫😵‍💫\n那你觉得在正常的生产关系中想要少做多吃的女生在被指责时直接就把问题扩大到整个性别对立的那种是不是在追求女性正当权益？\n至于男权，本来就是父系社会还要男权吗？😵‍💫😵‍💫😵‍💫\n我了解的太少了，可不可以麻烦你跟我解释一下这样那样😵‍💫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2030697599305658593",
+        "created_at": "2026-03-09T04:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T05:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030857515433689249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1785931687446335488",
+              "start": 0,
+              "username": "chinchachu95362"
+            },
+            {
+              "end": 26,
+              "id": "2000501337143033856",
+              "start": 17,
+              "username": "wangwihd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030857515433689249",
+        "in_reply_to_user_id": "1785931687446335488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030856141446808060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chinchachu95362 @wangwihd 😵‍💫😵‍💫😵‍💫\n那你觉得在正常的生产关系中想要少做多吃的女生在被指责时直接就把问题扩大到整个性别对立的那种是不是在追求女性正当权益？\n至于男权，本来就是父系社会还要男权吗？😵‍💫😵‍💫😵‍💫\n我了解的太少了，可不可以麻烦你跟我解释一下这样那样😵‍💫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785931687446335488",
+        "conversation_id": "2030697599305658593",
+        "created_at": "2026-03-09T04:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T05:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030856141446808060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "ZhiJiang0624"
+            },
+            {
+              "end": 23,
+              "id": "2000501337143033856",
+              "start": 14,
+              "username": "wangwihd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030856141446808060",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030814811790213497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhiJiang0624 @wangwihd 又来玩真女权假女权那套了，男权是不是也得分真男权假男权?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n十九岁高中牲\n如果哪里说得有错还请麻烦指点一下谢谢。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 600,
+          "like_count": 7980,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1852
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-02T07:18:08.000Z",
+        "description": "顺女双性恋，上推特随便看看，反男权反穆斯林反terf，请守护青少年精神健康，反对od，从我做起",
+        "id": "1785931687446335488",
+        "name": "Chinchachuck",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785932135343517696/IksFS8pw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 81,
+          "like_count": 5397,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1001
+        },
+        "username": "chinchachu95362",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-15T09:42:33.000Z",
+        "description": "小号：@wihdwang 匿名箱： https://t.co/0O6j9Dt498 如果有之前的互关刷到我，我没有双取，我只是号没了。小号里都是我的阴暗负能量，日常抓马事件，随口而来的mean言mean语和有些无聊的脱口秀，所以谨慎关注。IG:vivvvvee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "wihdwang"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/luna58220",
+                "end": 41,
+                "expanded_url": "https://ngl.link/luna58220",
+                "start": 18,
+                "url": "https://t.co/0O6j9Dt498"
+              }
+            ]
+          }
+        },
+        "id": "2000501337143033856",
+        "name": "三千年前（原号After 17已被盗）",
+        "pinned_tweet_id": "2000919471280808410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004587319089876992/FUnOBmaD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1117,
+          "following_count": 142,
+          "like_count": 3450,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 1589
+        },
+        "username": "wangwihd",
+        "verified": false
+      }
+    ]
+  }
+}

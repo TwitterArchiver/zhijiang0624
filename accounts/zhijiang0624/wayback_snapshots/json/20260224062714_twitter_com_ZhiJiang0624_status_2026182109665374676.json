@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2026177349612642462",
+    "created_at": "2026-02-24T06:27:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T07:27:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026182109665374676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1936969318191017984",
+          "start": 0,
+          "username": "MegomeKaze_920"
+        },
+        {
+          "end": 27,
+          "id": "1956544219751063552",
+          "start": 16,
+          "username": "wu_si42846"
+        },
+        {
+          "end": 41,
+          "id": "2022493924359892992",
+          "start": 28,
+          "username": "ALeimez37750"
+        },
+        {
+          "end": 51,
+          "id": "1723111253911203840",
+          "start": 42,
+          "username": "ME4444EM"
+        },
+        {
+          "end": 64,
+          "id": "1687566770763071489",
+          "start": 52,
+          "username": "Olebe179131"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026182109665374676",
+    "in_reply_to_user_id": "1936969318191017984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026177349612642462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MegomeKaze_920 @wu_si42846 @ALeimez37750 @ME4444EM @Olebe179131 人类拉了一地"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2026177340762640384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB5tjmgaUAAOHbC.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2026177349612642462",
+        "created_at": "2026-02-24T06:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T07:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026182109665374676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1936969318191017984",
+              "start": 0,
+              "username": "MegomeKaze_920"
+            },
+            {
+              "end": 27,
+              "id": "1956544219751063552",
+              "start": 16,
+              "username": "wu_si42846"
+            },
+            {
+              "end": 41,
+              "id": "2022493924359892992",
+              "start": 28,
+              "username": "ALeimez37750"
+            },
+            {
+              "end": 51,
+              "id": "1723111253911203840",
+              "start": 42,
+              "username": "ME4444EM"
+            },
+            {
+              "end": 64,
+              "id": "1687566770763071489",
+              "start": 52,
+              "username": "Olebe179131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026182109665374676",
+        "in_reply_to_user_id": "1936969318191017984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026177349612642462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MegomeKaze_920 @wu_si42846 @ALeimez37750 @ME4444EM @Olebe179131 人类拉了一地"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026177340762640384"
+          ]
+        },
+        "author_id": "1936969318191017984",
+        "conversation_id": "2026177349612642462",
+        "created_at": "2026-02-24T06:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T07:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026177349612642462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 33,
+              "id": "1956544219751063552",
+              "start": 22,
+              "username": "wu_si42846"
+            },
+            {
+              "end": 47,
+              "id": "2022493924359892992",
+              "start": 34,
+              "username": "ALeimez37750"
+            },
+            {
+              "end": 63,
+              "id": "1723111253911203840",
+              "start": 54,
+              "username": "ME4444EM"
+            },
+            {
+              "end": 83,
+              "id": "1730214580184604672",
+              "start": 70,
+              "username": "ZhiJiang0624"
+            },
+            {
+              "end": 96,
+              "id": "1687566770763071489",
+              "start": 84,
+              "username": "Olebe179131"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 124,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2025818254271553537/vOMWNkgM?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2025818254271553537/vOMWNkgM?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 101,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/ftZbsfaspT"
+            },
+            {
+              "display_url": "pic.x.com/ps293DQ1wM",
+              "end": 148,
+              "expanded_url": "https://x.com/MegomeKaze_920/status/2026177349612642462/photo/1",
+              "media_key": "3_2026177340762640384",
+              "start": 125,
+              "url": "https://t.co/ps293DQ1wM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026177349612642462",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @wu_si42846 @ALeimez37750\n👰 配偶: @ME4444EM\n👶 孩子: @ZhiJiang0624 @Olebe179131\n\n➡️ https://t.co/ftZbsfaspT https://t.co/ps293DQ1wM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 453,
+          "like_count": 3930,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1343
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T02:07:41.000Z",
+        "description": "低浮上↑ 中文｜한국어｜日本語｜English｜重焦重抑｜自傷od裸｜同類互fo｜05.30｜只发自己喜欢的，拍擦边的照片纯属自己喜欢｜不聊骚不约炮不线下",
+        "id": "1936969318191017984",
+        "location": "🐹",
+        "name": "げっしょく",
+        "pinned_tweet_id": "2024142792717644255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024012478586470400/e63x-sVw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 168,
+          "like_count": 660,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 595
+        },
+        "username": "MegomeKaze_920",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T02:31:25.000Z",
+        "description": "全天在线的天才末影人🔪- ✰*🎀 ੈ✩🐰✰*💗 ੈ✩- 生活在互联网里！看成分互fo捏喵!!!!/我是低龄糖逼大傻福，实在抱歉！/超级严重失眠 -12现役初中生/✟❀信徒@Fislonely_❀灵宠@dbdbsjbsja❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 85,
+                "username": "Fislonely_"
+              },
+              {
+                "end": 110,
+                "start": 99,
+                "username": "dbdbsjbsja"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iRin19196",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iRin19196",
+                "start": 0,
+                "url": "https://t.co/uWp3iQGWKL"
+              }
+            ]
+          }
+        },
+        "id": "1956544219751063552",
+        "location": "你看看你身后",
+        "name": "霖（完全病娇邪恶中2）",
+        "pinned_tweet_id": "2024329117580349689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024476491988578304/ndqIjzWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 465,
+          "like_count": 16118,
+          "listed_count": 1,
+          "media_count": 254,
+          "tweet_count": 5377
+        },
+        "url": "https://t.co/uWp3iQGWKL",
+        "username": "wu_si42846",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-14T02:11:53.000Z",
+        "description": "",
+        "id": "2022493924359892992",
+        "name": "易堂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025884218841235456/4o6V9Ayt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 11,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 90
+        },
+        "username": "ALeimez37750",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T22:52:05.000Z",
+        "description": "欢迎大家来找我互fo呀～_(:з」∠)_",
+        "id": "1723111253911203840",
+        "name": "ME",
+        "pinned_tweet_id": "2024491399283179924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022924717192359936/E_biCWBX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 8,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 124
+        },
+        "username": "ME4444EM",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T20:51:01.000Z",
+        "description": "04医学生/od/赛博精神病/百合厨/二次元\n欢迎互关",
+        "id": "1687566770763071489",
+        "name": "多柔比星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012345874899513344/DajrQh8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 253,
+          "like_count": 7013,
+          "listed_count": 0,
+          "media_count": 266,
+          "tweet_count": 723
+        },
+        "username": "Olebe179131",
+        "verified": false
+      }
+    ]
+  }
+}

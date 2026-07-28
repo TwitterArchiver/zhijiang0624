@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2046531285343252602",
+    "created_at": "2026-04-21T11:14:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T12:14:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046548133161861357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1285630764185292800",
+          "start": 0,
+          "username": "Rin53__03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046548133161861357",
+    "in_reply_to_user_id": "1285630764185292800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046531285343252602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rin53__03 たまに手元に一銭もないのに、取れないほど多くの荷物が届いているのに気づく。そして「やれやれ、あの時そうしなくては！」と後悔するが、結局買ったものが本当に役に立つかどうかわからないまま使っているだけだ（悲）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2046531285343252602",
+        "created_at": "2026-04-21T11:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T12:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046548133161861357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1285630764185292800",
+              "start": 0,
+              "username": "Rin53__03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046548133161861357",
+        "in_reply_to_user_id": "1285630764185292800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046531285343252602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rin53__03 たまに手元に一銭もないのに、取れないほど多くの荷物が届いているのに気づく。そして「やれやれ、あの時そうしなくては！」と後悔するが、結局買ったものが本当に役に立つかどうかわからないまま使っているだけだ（悲）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1285630764185292800",
+        "conversation_id": "2046531285343252602",
+        "created_at": "2026-04-21T10:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046531285343252602"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046531285343252602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ストック癖あるのでアディクションすら\nなくなったら困るので2本買いするし\nVDLの青下地も3本あるwww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 663,
+          "like_count": 10777,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 2186
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-21T17:41:29.000Z",
+        "description": "🗼| 20↑|鳴潮|HoYovers|🌈🕒 Sub→@mmnkrng 💌mmnkrng@gmail.com\n🍑🐈🍎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "mmnkrng"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/rin5303",
+                "end": 23,
+                "expanded_url": "https://lit.link/rin5303",
+                "start": 0,
+                "url": "https://t.co/FPN3am1GXJ"
+              }
+            ]
+          }
+        },
+        "id": "1285630764185292800",
+        "location": "DMは写真と連絡事項のみ",
+        "name": "桃猫りんご　ニコ超4/25",
+        "pinned_tweet_id": "2043284319230447781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007045613087772672/d37tABcw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4269,
+          "following_count": 433,
+          "like_count": 99732,
+          "listed_count": 117,
+          "media_count": 930,
+          "tweet_count": 34525
+        },
+        "url": "https://t.co/FPN3am1GXJ",
+        "username": "Rin53__03",
+        "verified": true
+      }
+    ]
+  }
+}

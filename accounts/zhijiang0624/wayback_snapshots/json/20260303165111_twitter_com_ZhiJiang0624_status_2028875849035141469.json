@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2028872490135822527",
+    "created_at": "2026-03-03T16:51:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T17:51:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028875849035141469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2015770770576678912",
+          "start": 0,
+          "username": "Stewie071105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028875849035141469",
+    "in_reply_to_user_id": "2015770770576678912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028875561419038915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stewie071105 那就试试熬通宵别睡，撑到晚上再睡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2028872490135822527",
+        "created_at": "2026-03-03T16:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T17:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028875849035141469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2015770770576678912",
+              "start": 0,
+              "username": "Stewie071105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028875849035141469",
+        "in_reply_to_user_id": "2015770770576678912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028875561419038915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stewie071105 那就试试熬通宵别睡，撑到晚上再睡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015770770576678912",
+        "conversation_id": "2028872490135822527",
+        "created_at": "2026-03-03T16:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T17:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028875561419038915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "ZhiJiang0624"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028875561419038915",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028873158124814785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhiJiang0624 睡不着😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 527,
+          "like_count": 5269,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1551
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-26T12:56:27.000Z",
+        "description": "骂我死全家 🚪52",
+        "id": "2015770770576678912",
+        "name": "饺子",
+        "pinned_tweet_id": "2020173140572483854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020843589862055936/g-5BpMGq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 24,
+          "like_count": 14,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 147
+        },
+        "username": "Stewie071105",
+        "verified": false
+      }
+    ]
+  }
+}

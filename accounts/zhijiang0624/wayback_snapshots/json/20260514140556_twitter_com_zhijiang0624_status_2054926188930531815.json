@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2054926188930531815",
+    "created_at": "2026-05-14T14:05:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T15:05:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054926188930531815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1882013113949855744",
+          "start": 3,
+          "username": "endless_37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054926188930531815",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054641291351544176",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @endless_37: 我在焦虑的情况下 看到手机屏幕上方的消息提示我都会觉得恐怖和畏惧，对不起我太懦弱了 我不敢面对一切。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2054926188930531815",
+        "created_at": "2026-05-14T14:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T15:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054926188930531815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1882013113949855744",
+              "start": 3,
+              "username": "endless_37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054926188930531815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054641291351544176",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @endless_37: 我在焦虑的情况下 看到手机屏幕上方的消息提示我都会觉得恐怖和畏惧，对不起我太懦弱了 我不敢面对一切。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882013113949855744",
+        "conversation_id": "2054641291351544176",
+        "created_at": "2026-05-13T19:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T20:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054641291351544176"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054641291351544176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1191,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在焦虑的情况下 看到手机屏幕上方的消息提示我都会觉得恐怖和畏惧，对不起我太懦弱了 我不敢面对一切。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 686,
+          "like_count": 11748,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 2406
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T10:31:17.000Z",
+        "description": "旧情人的泪做的香水",
+        "id": "1882013113949855744",
+        "name": "人类",
+        "pinned_tweet_id": "2051291565847671202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022447638269038594/-d9lp5ZG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 150,
+          "like_count": 5673,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 3582
+        },
+        "username": "endless_37",
+        "verified": false
+      }
+    ]
+  }
+}

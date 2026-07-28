@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2022906481235103933",
+    "created_at": "2026-02-16T02:33:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T03:33:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023224143559409796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1843975943419047936",
+          "start": 0,
+          "username": "leaderxiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023224143559409796",
+    "in_reply_to_user_id": "1843975943419047936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022906481235103933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leaderxiu 看片"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "16_2022906437119414272",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HBLOr85akAA4kPc.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HBLOr85akAA4kPc.mp4"
+          }
+        ],
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2022906481235103933",
+        "created_at": "2026-02-16T02:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T03:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023224143559409796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1843975943419047936",
+              "start": 0,
+              "username": "leaderxiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023224143559409796",
+        "in_reply_to_user_id": "1843975943419047936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022906481235103933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leaderxiu 看片"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2022906437119414272"
+          ]
+        },
+        "author_id": "1843975943419047936",
+        "conversation_id": "2022906481235103933",
+        "created_at": "2026-02-15T05:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T06:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022906481235103933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qGpV741B0q",
+              "end": 41,
+              "expanded_url": "https://x.com/leaderxiu/status/2022906481235103933/photo/1",
+              "media_key": "16_2022906437119414272",
+              "start": 18,
+              "url": "https://t.co/qGpV741B0q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022906481235103933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 295,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "隨機採訪，最初來推特的初心是什麽？ https://t.co/qGpV741B0q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 336,
+          "like_count": 2866,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1006
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T11:25:14.000Z",
+        "description": "發日常普通高中生 I碎碎念  I 睇NBA（以前）\n玩的遊戲：原神,櫻校等\n語言：Cantonese/Chinese/OK\n日本語を勉強している\n小號鎖推（@chaikh222）l  政治🚫🚫🚫\n（哪天我不在了要不是被差人抓了要不是VPN炸了）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 78,
+                "username": "chaikh222"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/leader…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/leaderxiu.bsky.social",
+                "start": 0,
+                "url": "https://t.co/BLOftAc4ro"
+              }
+            ]
+          }
+        },
+        "id": "1843975943419047936",
+        "location": "湛江市",
+        "name": "空去（淡推中…）",
+        "pinned_tweet_id": "2001314477996658707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012440912094482432/J1yoaxA6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 575,
+          "like_count": 75894,
+          "listed_count": 5,
+          "media_count": 352,
+          "tweet_count": 4879
+        },
+        "url": "https://t.co/BLOftAc4ro",
+        "username": "leaderxiu",
+        "verified": false
+      }
+    ]
+  }
+}

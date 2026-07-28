@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2021593282833269031",
+    "created_at": "2026-02-12T12:14:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T13:14:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021920956936335527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1772895033504747520",
+          "start": 0,
+          "username": "chuni_byou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021920956936335527",
+    "in_reply_to_user_id": "1772895033504747520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021593282833269031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuni_byou あなたは私にこのビデオを見る費用を支払うべきだ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19086,
+        "height": 590,
+        "media_key": "13_2021593247886548992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2021593247886548992/img/bff3hH6k5wXuP2OT.jpg",
+        "public_metrics": {
+          "view_count": 585763
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021593247886548992/vid/avc1/584x270/nKpzbsfc-3w7-w5v.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021593247886548992/vid/avc1/780x360/_Ep9PbC6Rmw486LB.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021593247886548992/vid/avc1/1280x590/q32n7Ud9ZNBUbRDn.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2021593247886548992/pl/TmqARcjFj_sdB2hW.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2021593282833269031",
+        "created_at": "2026-02-12T12:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T13:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021920956936335527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1772895033504747520",
+              "start": 0,
+              "username": "chuni_byou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021920956936335527",
+        "in_reply_to_user_id": "1772895033504747520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021593282833269031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuni_byou あなたは私にこのビデオを見る費用を支払うべきだ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2021593247886548992"
+          ]
+        },
+        "author_id": "1772895033504747520",
+        "conversation_id": "2021593282833269031",
+        "created_at": "2026-02-11T14:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T15:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021593282833269031"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 0,
+              "tag": "胎児ラーメンよりおぞましいと思うもの"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vUpPbend36",
+              "end": 43,
+              "expanded_url": "https://x.com/chuni_byou/status/2021593282833269031/video/1",
+              "media_key": "13_2021593247886548992",
+              "start": 20,
+              "url": "https://t.co/vUpPbend36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021593282833269031",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3557,
+          "impression_count": 1296473,
+          "like_count": 21870,
+          "quote_count": 476,
+          "reply_count": 145,
+          "retweet_count": 2523
+        },
+        "reply_settings": "everyone",
+        "text": "#胎児ラーメンよりおぞましいと思うもの https://t.co/vUpPbend36"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 288,
+          "like_count": 2238,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 714
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T07:55:10.000Z",
+        "description": "サブ垢 @chunibyousub 鍵＠chunibyoukagi 推しボカロP　@kemo_kemom　ソ連好き　音楽　ピアノ 反出生主義　不登校　全ての出会いに感謝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "chunibyousub"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "chunibyoukagi"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "kemo_kemom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC-pNY…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UC-pNYArqcnRbZb6fRFqsuCQ",
+                "start": 0,
+                "url": "https://t.co/RaL0Pu9Q1d"
+              }
+            ]
+          }
+        },
+        "id": "1772895033504747520",
+        "location": "家",
+        "name": "厨二病　🇯🇵🇨🇳🇷🇺好きの中国人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909192426788700160/XaQtb7qt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1484,
+          "following_count": 600,
+          "like_count": 153024,
+          "listed_count": 8,
+          "media_count": 3084,
+          "tweet_count": 19706
+        },
+        "url": "https://t.co/RaL0Pu9Q1d",
+        "username": "chuni_byou",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023382252965761024"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2023382283651326316",
+    "created_at": "2026-02-16T13:01:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T14:01:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023382283651326316"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Dkzop1jI0v",
+          "end": 27,
+          "expanded_url": "https://x.com/ZhiJiang0624/status/2023382283651326316/photo/1",
+          "media_key": "3_2023382252965761024",
+          "start": 4,
+          "url": "https://t.co/Dkzop1jI0v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023382283651326316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "年夜饭 https://t.co/Dkzop1jI0v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2023382252965761024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBR_cFDakAAIBYU.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023382252965761024"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2023382283651326316",
+        "created_at": "2026-02-16T13:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T14:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023382283651326316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dkzop1jI0v",
+              "end": 27,
+              "expanded_url": "https://x.com/ZhiJiang0624/status/2023382283651326316/photo/1",
+              "media_key": "3_2023382252965761024",
+              "start": 4,
+              "url": "https://t.co/Dkzop1jI0v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023382283651326316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "年夜饭 https://t.co/Dkzop1jI0v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 363,
+          "like_count": 3055,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1075
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      }
+    ]
+  }
+}

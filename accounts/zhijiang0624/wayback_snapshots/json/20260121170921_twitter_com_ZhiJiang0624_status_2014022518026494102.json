@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2013952263656558866",
+    "created_at": "2026-01-21T17:09:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T18:09:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014022518026494102"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "Aisya",
+          "probability": 0.3558,
+          "start": 24,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1975041313403019264",
+          "start": 0,
+          "username": "maidinsara2gou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014022518026494102",
+    "in_reply_to_user_id": "1975041313403019264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013952263656558866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maidinsara2gou 私はあなたの歌うAisya-ye ru amma-が大好きで、あなたの歌声に感謝します"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2013952263656558866",
+        "created_at": "2026-01-21T17:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T18:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014022518026494102"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "Aisya",
+              "probability": 0.3558,
+              "start": 24,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1975041313403019264",
+              "start": 0,
+              "username": "maidinsara2gou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014022518026494102",
+        "in_reply_to_user_id": "1975041313403019264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013952263656558866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maidinsara2gou 私はあなたの歌うAisya-ye ru amma-が大好きで、あなたの歌声に感謝します"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975041313403019264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2013952263656558866",
+        "created_at": "2026-01-21T12:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T13:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013952263656558866"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 141,
+              "start": 122,
+              "tag": "ボカデュオ2026チームメンバー募集"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/SoundsCocktail…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/SoundsCocktail/status/2013906917010411963",
+              "start": 142,
+              "url": "https://t.co/09lBUCXYS7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013952263656558866",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013906917010411963",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ボカデュオ初参加で素敵なチームの一員として歌わせていただくこととなりました！\nただいまイラスト担当様と動画担当様を募っております。\nアップテンポなゴシックの女性ツインボーカル曲をつくります。\nぜひ一緒にやりましょう✨️\nご連絡お待ちしてます！\n#ボカデュオ2026チームメンバー募集 https://t.co/09lBUCXYS7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "你他妈的到底是谁？！莫名其妙跑到我的脑子里来做些莫名其妙的事！草你妈杀了你！",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 330,
+          "like_count": 1590,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 619
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T03:32:26.000Z",
+        "description": "@maidinsaraの緊急時アカウントです。本垢乗っ取られましたので奪還するまでこのアカウントでうごうごと動きます。\n皆さまには大変ご迷惑をおかけいたします。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "maidinsara"
+              }
+            ]
+          }
+        },
+        "id": "1975041313403019264",
+        "location": "東京都北区",
+        "name": "秣本瑳羅@緊急時用",
+        "pinned_tweet_id": "1975163687615754712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975168767484383232/VqCzrLUV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 22,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 118
+        },
+        "username": "maidinsara2gou",
+        "verified": false
+      }
+    ]
+  }
+}

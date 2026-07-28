@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2030194283303817216"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "conversation_id": "2030194316862501182",
+    "created_at": "2026-03-07T08:10:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T09:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030194316862501182"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/x5BXRqiJdR",
+          "end": 72,
+          "expanded_url": "https://x.com/ZhiJiang0624/status/2030194316862501182/photo/1",
+          "media_key": "16_2030194283303817216",
+          "start": 49,
+          "url": "https://t.co/x5BXRqiJdR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030194316862501182",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "当我刷到屏蔽我的然后我又忘了因为什么但是可以确认是我的什么发言惹人不快的时候，\n我：（业火焚身） https://t.co/x5BXRqiJdR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "16_2030194283303817216",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HCyy8blaUAAbkpi.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HCyy8blaUAAbkpi.mp4"
+          }
+        ],
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2030194283303817216"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "conversation_id": "2030194316862501182",
+        "created_at": "2026-03-07T08:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T09:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030194316862501182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x5BXRqiJdR",
+              "end": 72,
+              "expanded_url": "https://x.com/ZhiJiang0624/status/2030194316862501182/photo/1",
+              "media_key": "16_2030194283303817216",
+              "start": 49,
+              "url": "https://t.co/x5BXRqiJdR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030194316862501182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当我刷到屏蔽我的然后我又忘了因为什么但是可以确认是我的什么发言惹人不快的时候，\n我：（业火焚身） https://t.co/x5BXRqiJdR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 571,
+          "like_count": 7056,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 1734
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      }
+    ]
+  }
+}

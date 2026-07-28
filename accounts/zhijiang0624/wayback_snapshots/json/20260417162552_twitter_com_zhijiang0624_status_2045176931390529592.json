@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2045176931390529592",
+    "created_at": "2026-04-17T16:25:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T17:25:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045176931390529592"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045176931390529592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你说你悲伤，\n何物不悲伤？\n你说你痛苦，\n何物不痛苦？\n时逝磨损之苦、\n风吹日晒雨淋之苦。\n你想要顽石一般的心，\n可你又何曾受过顽石的苦？\n你渴望拥有，\n可你又何曾献出多少？\n你渴望存在，\n可你如被除根之草，\n你渴望结束 ，\n可无死无生，无生无死，\n自然流转不系，\n又怎会因你而驻足"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2045176931390529592",
+        "created_at": "2026-04-17T16:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T17:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045176931390529592"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045176931390529592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你说你悲伤，\n何物不悲伤？\n你说你痛苦，\n何物不痛苦？\n时逝磨损之苦、\n风吹日晒雨淋之苦。\n你想要顽石一般的心，\n可你又何曾受过顽石的苦？\n你渴望拥有，\n可你又何曾献出多少？\n你渴望存在，\n可你如被除根之草，\n你渴望结束 ，\n可无死无生，无生无死，\n自然流转不系，\n又怎会因你而驻足"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 666,
+          "like_count": 10710,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 2183
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      }
+    ]
+  }
+}

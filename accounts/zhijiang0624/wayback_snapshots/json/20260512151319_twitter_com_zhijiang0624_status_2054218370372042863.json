@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2054218370372042863",
+    "created_at": "2026-05-12T15:13:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T16:13:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054218370372042863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1782990236836089856",
+          "start": 3,
+          "username": "lilllllli1i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054218370372042863",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054202991327268899",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lilllllli1i: 你们到底为什么会爱另一个人，如果我不愿或者不肯，究竟是不是我太吝啬了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2054218370372042863",
+        "created_at": "2026-05-12T15:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054218370372042863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1782990236836089856",
+              "start": 3,
+              "username": "lilllllli1i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054218370372042863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054202991327268899",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lilllllli1i: 你们到底为什么会爱另一个人，如果我不愿或者不肯，究竟是不是我太吝啬了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782990236836089856",
+        "conversation_id": "2054202991327268899",
+        "created_at": "2026-05-12T14:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T15:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054202991327268899"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054202991327268899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们到底为什么会爱另一个人，如果我不愿或者不肯，究竟是不是我太吝啬了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 684,
+          "like_count": 11680,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 2383
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T04:29:44.000Z",
+        "description": "不要回应（备战奥运中",
+        "id": "1782990236836089856",
+        "location": "自我意识极度过剩",
+        "name": "拿流浪的躯体抱拥直到筋竭力穷",
+        "pinned_tweet_id": "2036102534524551206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047360720048984064/5y0fSRyN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4452,
+          "following_count": 429,
+          "like_count": 20943,
+          "listed_count": 26,
+          "media_count": 388,
+          "tweet_count": 4561
+        },
+        "username": "lilllllli1i",
+        "verified": false
+      }
+    ]
+  }
+}

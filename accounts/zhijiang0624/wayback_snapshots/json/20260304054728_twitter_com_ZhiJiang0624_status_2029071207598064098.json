@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2027248970570072519",
+    "created_at": "2026-03-04T05:47:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T06:47:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029071207598064098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1975041313403019264",
+          "start": 0,
+          "username": "maidinsara2gou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029071207598064098",
+    "in_reply_to_user_id": "1975041313403019264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027248970570072519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maidinsara2gou 診察に行きましたか。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2027248970570072519",
+        "created_at": "2026-03-04T05:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T06:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029071207598064098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1975041313403019264",
+              "start": 0,
+              "username": "maidinsara2gou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029071207598064098",
+        "in_reply_to_user_id": "1975041313403019264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027248970570072519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maidinsara2gou 診察に行きましたか。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975041313403019264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          }
+        ],
+        "conversation_id": "2027248970570072519",
+        "created_at": "2026-02-27T05:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T06:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027248970570072519"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027248970570072519",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咳のし過ぎで冷たいお茶でさえ喉にしみていたい\n昼間にお熱38度後半出しちゃったら夜はいったいどうなるのさぁ😵‍💫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 534,
+          "like_count": 5537,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1592
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T03:32:26.000Z",
+        "description": "@maidinsaraの緊急時アカウントです。本垢乗っ取られましたので奪還するまでこのアカウントでうごうごと動きます。\n皆さまには大変ご迷惑をおかけいたします。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "maidinsara"
+              }
+            ]
+          }
+        },
+        "id": "1975041313403019264",
+        "location": "東京都北区",
+        "name": "秣本瑳羅@緊急時用",
+        "pinned_tweet_id": "1975163687615754712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975168767484383232/VqCzrLUV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 35,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 175
+        },
+        "username": "maidinsara2gou",
+        "verified": true
+      }
+    ]
+  }
+}

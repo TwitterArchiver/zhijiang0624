@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "1859840111195849201",
+    "created_at": "2026-02-14T15:40:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T16:40:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022697405419078116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1522016322166566912",
+          "start": 0,
+          "username": "UPPERCRUSTEVE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022697405419078116",
+    "in_reply_to_user_id": "1522016322166566912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859840111195849201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UPPERCRUSTEVE 一个自由的平台是一个抒发被压抑的内容的绝佳地方，但是肯定还是有律己的人能够正常谈论爱好、生活的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 518,
+        "media_key": "3_1859840108255703040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gc96uX-a8AAIyVQ.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "1859840111195849201",
+        "created_at": "2026-02-14T15:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T16:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022697405419078116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1522016322166566912",
+              "start": 0,
+              "username": "UPPERCRUSTEVE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022697405419078116",
+        "in_reply_to_user_id": "1522016322166566912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859840111195849201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UPPERCRUSTEVE 一个自由的平台是一个抒发被压抑的内容的绝佳地方，但是肯定还是有律己的人能够正常谈论爱好、生活的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859840108255703040"
+          ]
+        },
+        "author_id": "1522016322166566912",
+        "conversation_id": "1859840111195849201",
+        "created_at": "2024-11-22T06:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T07:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859840111195849201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NcwTSe2D5T",
+              "end": 87,
+              "expanded_url": "https://x.com/UPPERCRUSTEVE/status/1859840111195849201/photo/1",
+              "media_key": "3_1859840108255703040",
+              "start": 64,
+              "url": "https://t.co/NcwTSe2D5T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859840111195849201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3324,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个平台上汉语几乎全部用来描述性爱和政治了，好像生命只有这两件事情很重要（音乐在墙内也已经发展不下去了（希望在这里有些生机）） https://t.co/NcwTSe2D5T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 298,
+          "like_count": 2417,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 789
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-05T00:52:34.000Z",
+        "description": "听命于杜康。 | 简中🧂灸牲吉他手",
+        "id": "1522016322166566912",
+        "location": "陕V豫A",
+        "name": "X.Elon",
+        "pinned_tweet_id": "1859840111195849201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927643985620934656/tOp1NN79_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 752,
+          "like_count": 6811,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 527
+        },
+        "username": "UPPERCRUSTEVE",
+        "verified": false
+      }
+    ]
+  }
+}

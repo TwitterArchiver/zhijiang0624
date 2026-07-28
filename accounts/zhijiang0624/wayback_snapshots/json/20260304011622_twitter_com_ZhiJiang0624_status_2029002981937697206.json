@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2028996205758541966",
+    "created_at": "2026-03-04T01:16:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T02:16:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029002981937697206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1884209902832545792",
+          "start": 0,
+          "username": "Yu_uisg54"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029002981937697206",
+    "in_reply_to_user_id": "1884209902832545792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028996205758541966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yu_uisg54 確かに、心が不快だから、少し歌を聴けばいいのに。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2028996205758541966",
+        "created_at": "2026-03-04T01:16:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T02:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029002981937697206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1884209902832545792",
+              "start": 0,
+              "username": "Yu_uisg54"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029002981937697206",
+        "in_reply_to_user_id": "1884209902832545792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028996205758541966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yu_uisg54 確かに、心が不快だから、少し歌を聴けばいいのに。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884209902832545792",
+        "conversation_id": "2028996205758541966",
+        "created_at": "2026-03-04T00:49:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T01:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028996205758541966"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028996205758541966",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "歌声を聞いて精神安定をはかる"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 532,
+          "like_count": 5389,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1571
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-28T12:00:28.000Z",
+        "description": "愚痴と病みと鬱に自傷とODをひとつまみ🎶￤いいねは既読感覚￤\nげきらぶな251→@tUbUtUbU_717￤\nその他はlitlink￤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "tUbUtUbU_717"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yu_uisg54",
+                "end": 23,
+                "expanded_url": "https://lit.link/yu_uisg54",
+                "start": 0,
+                "url": "https://t.co/Xpa9wsbvAT"
+              }
+            ]
+          }
+        },
+        "id": "1884209902832545792",
+        "location": "とおいどこか",
+        "name": "ゆ〜",
+        "pinned_tweet_id": "2028801304425083025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884210610868740097/4GtfQPfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 170,
+          "like_count": 113174,
+          "listed_count": 7,
+          "media_count": 1076,
+          "tweet_count": 30520
+        },
+        "url": "https://t.co/Xpa9wsbvAT",
+        "username": "Yu_uisg54",
+        "verified": true
+      }
+    ]
+  }
+}

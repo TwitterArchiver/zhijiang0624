@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2055599814445003251",
+    "created_at": "2026-05-17T15:04:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T16:04:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056028132843692416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2002241057241907200",
+          "start": 0,
+          "username": "xiaoxiongOvO_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056028132843692416",
+    "in_reply_to_user_id": "2002241057241907200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055599814445003251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoxiongOvO_ 雷霆语言系统给我看得痛苦面具出来了\n豆包帮我清除一下记忆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2055599814445003251",
+        "created_at": "2026-05-17T15:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056028132843692416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2002241057241907200",
+              "start": 0,
+              "username": "xiaoxiongOvO_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056028132843692416",
+        "in_reply_to_user_id": "2002241057241907200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055599814445003251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoxiongOvO_ 雷霆语言系统给我看得痛苦面具出来了\n豆包帮我清除一下记忆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002241057241907200",
+        "conversation_id": "2055599814445003251",
+        "created_at": "2026-05-16T10:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T11:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055599814445003251"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055599814445003251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 10743,
+          "like_count": 364,
+          "quote_count": 11,
+          "reply_count": 42,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "你像个廉价跳蛋闯入我的生活让我陷入高潮一般梦幻的时间 结果又突然漏电炸逼般让我痛苦不堪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 692,
+          "like_count": 11918,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 2453
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-20T04:54:10.000Z",
+        "description": "鹅鸭杀梦女 文案复制来的 可爱宝宝和我互fo好吗",
+        "id": "2002241057241907200",
+        "location": "纯绿🚪88",
+        "name": "小熊（鹅鸭杀的主人）",
+        "pinned_tweet_id": "2048320026298679803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053731132081061888/xngHCRvJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1158,
+          "following_count": 53,
+          "like_count": 10083,
+          "listed_count": 1,
+          "media_count": 258,
+          "tweet_count": 6155
+        },
+        "username": "xiaoxiongOvO_",
+        "verified": false
+      }
+    ]
+  }
+}

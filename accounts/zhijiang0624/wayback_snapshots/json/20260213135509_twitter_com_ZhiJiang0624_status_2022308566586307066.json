@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2022146975207199080",
+    "created_at": "2026-02-13T13:55:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T14:55:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022308566586307066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1926313840557355008",
+          "start": 0,
+          "username": "yepa41"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022308566586307066",
+    "in_reply_to_user_id": "1926313840557355008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022146975207199080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yepa41 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 486,
+        "media_key": "3_2022146971608526849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBAb9PZbsAE2Jku.jpg",
+        "width": 486
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2022146975207199080",
+        "created_at": "2026-02-13T13:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T14:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022308566586307066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1926313840557355008",
+              "start": 0,
+              "username": "yepa41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022308566586307066",
+        "in_reply_to_user_id": "1926313840557355008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022146975207199080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yepa41 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022146971608526849"
+          ]
+        },
+        "author_id": "1926313840557355008",
+        "conversation_id": "2022146975207199080",
+        "created_at": "2026-02-13T03:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T04:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022146975207199080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sJZE6dIvtM",
+              "end": 68,
+              "expanded_url": "https://x.com/yepa41/status/2022146975207199080/photo/1",
+              "media_key": "3_2022146971608526849",
+              "start": 45,
+              "url": "https://t.co/sJZE6dIvtM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022146975207199080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 535,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "生日奖励自己的是一个人出去打舞萌，但是因为遇到大佬了都不敢上去和他拼机，奇怪可以不拼机嘛 https://t.co/sJZE6dIvtM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 289,
+          "like_count": 2301,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 743
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T16:26:40.000Z",
+        "description": "ccb",
+        "id": "1926313840557355008",
+        "location": "百味轩",
+        "name": "斯德哥尔摩第二吉他手（鸦鸦）",
+        "pinned_tweet_id": "1990480589112422835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998174458197245952/_6TPH7JC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 869,
+          "like_count": 93275,
+          "listed_count": 4,
+          "media_count": 932,
+          "tweet_count": 6064
+        },
+        "username": "yepa41",
+        "verified": false
+      }
+    ]
+  }
+}

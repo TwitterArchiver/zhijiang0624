@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2023052346922844174",
+    "created_at": "2026-02-15T16:40:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T17:40:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023074888274321690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1969429657482379266",
+          "start": 0,
+          "username": "Nnnn19887777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023074888274321690",
+    "in_reply_to_user_id": "1969429657482379266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023052346922844174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nnnn19887777 除夕快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2023052346922844174",
+        "created_at": "2026-02-15T16:40:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T17:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023074888274321690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1969429657482379266",
+              "start": 0,
+              "username": "Nnnn19887777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023074888274321690",
+        "in_reply_to_user_id": "1969429657482379266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023052346922844174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nnnn19887777 除夕快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969429657482379266",
+        "conversation_id": "2023052346922844174",
+        "created_at": "2026-02-15T15:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T16:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023052346922844174"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023052346922844174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 748,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我对所有人都很真诚，但是我是那种写日记都会写假话的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 320,
+          "like_count": 2759,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 935
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-20T15:53:25.000Z",
+        "description": "想到什么发什么🤍ENFP/不礼貌的不要来",
+        "id": "1969429657482379266",
+        "location": "🚪288/520",
+        "name": "liliwei",
+        "pinned_tweet_id": "1996083510084604283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991307146420736000/uxDben02_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6781,
+          "following_count": 57,
+          "like_count": 1470,
+          "listed_count": 18,
+          "media_count": 46,
+          "tweet_count": 593
+        },
+        "username": "Nnnn19887777",
+        "verified": false
+      }
+    ]
+  }
+}

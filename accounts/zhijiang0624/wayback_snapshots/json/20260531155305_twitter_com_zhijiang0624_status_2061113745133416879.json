@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2060899150204404114",
+    "created_at": "2026-05-31T15:53:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T16:53:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061113745133416879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2046395388974845952",
+          "start": 0,
+          "username": "eduantao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061113745133416879",
+    "in_reply_to_user_id": "2046395388974845952",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060899150204404114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eduantao E quem quiser ouvir música."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2060899150204404114",
+        "created_at": "2026-05-31T15:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T16:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061113745133416879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2046395388974845952",
+              "start": 0,
+              "username": "eduantao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061113745133416879",
+        "in_reply_to_user_id": "2046395388974845952",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060899150204404114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eduantao E quem quiser ouvir música."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046395388974845952",
+        "conversation_id": "2060899150204404114",
+        "created_at": "2026-05-31T01:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T02:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060899150204404114"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060899150204404114",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 134,
+          "impression_count": 181613,
+          "like_count": 6109,
+          "quote_count": 303,
+          "reply_count": 168,
+          "retweet_count": 1127
+        },
+        "reply_settings": "everyone",
+        "text": "O Twitter é dividido em dois grupos: os que querem morrer e os que querem transar"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 704,
+          "like_count": 12464,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 2575
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T01:08:21.000Z",
+        "description": "",
+        "id": "2046395388974845952",
+        "name": "Anubis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050114631327272960/B_ptha3X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1263,
+          "following_count": 464,
+          "like_count": 125,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 235
+        },
+        "username": "eduantao",
+        "verified": false
+      }
+    ]
+  }
+}

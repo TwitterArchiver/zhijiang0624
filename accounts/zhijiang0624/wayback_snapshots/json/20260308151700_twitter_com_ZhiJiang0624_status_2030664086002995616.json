@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2030312598391198196",
+    "created_at": "2026-03-08T15:17:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T16:17:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030664086002995616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1733117045900980224",
+          "start": 0,
+          "username": "bilbil11252011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030664086002995616",
+    "in_reply_to_user_id": "1733117045900980224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030312598391198196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bilbil11252011 朋友，你的账户被限制交易了所有我无法给你转账\n朋友，你不必为了当🚪而焦虑，二维码就在那里，扫的人出于自愿就好\n如果抱有越界的目的性，那大不了把💰退回去就是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2030312598391198196",
+        "created_at": "2026-03-08T15:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T16:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030664086002995616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1733117045900980224",
+              "start": 0,
+              "username": "bilbil11252011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030664086002995616",
+        "in_reply_to_user_id": "1733117045900980224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030312598391198196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bilbil11252011 朋友，你的账户被限制交易了所有我无法给你转账\n朋友，你不必为了当🚪而焦虑，二维码就在那里，扫的人出于自愿就好\n如果抱有越界的目的性，那大不了把💰退回去就是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733117045900980224",
+        "conversation_id": "2030312598391198196",
+        "created_at": "2026-03-07T16:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T17:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030312598391198196"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030312598391198196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 9604,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "🚪姐该怎么做呀，是要提供情绪价值还是什么。情绪价值我身边一堆鸡毛蒜皮的事有人愿意听吗。但是要我撩起衣服露出奶子，我又觉得 又觉得 对不起我读的书"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 589,
+          "like_count": 7697,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1819
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T13:31:30.000Z",
+        "description": "如果可以的话可以给我一点钱吗😔赞助我喝药 错了错了  我不圈了  聊不过来",
+        "id": "1733117045900980224",
+        "name": "库洛米",
+        "pinned_tweet_id": "2030330533922902230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030307152439791616/7YVsMkHh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 15,
+          "like_count": 64,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 221
+        },
+        "username": "bilbil11252011",
+        "verified": false
+      }
+    ]
+  }
+}

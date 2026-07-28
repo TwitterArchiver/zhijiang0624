@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2063225808811172217",
+    "created_at": "2026-06-07T02:30:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T03:30:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063448475606606288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2060021902698287104",
+          "start": 0,
+          "username": "Psycho_Wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063448475606606288",
+    "in_reply_to_user_id": "2060021902698287104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063225808811172217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Psycho_Wiki 不磕药也这样怎么办"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2063225808811172217",
+        "created_at": "2026-06-07T02:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T03:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063448475606606288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2060021902698287104",
+              "start": 0,
+              "username": "Psycho_Wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063448475606606288",
+        "in_reply_to_user_id": "2060021902698287104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063225808811172217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Psycho_Wiki 不磕药也这样怎么办"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060021902698287104",
+        "conversation_id": "2063225808811172217",
+        "created_at": "2026-06-06T11:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063225808811172217"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063225808811172217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3114,
+          "like_count": 82,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "长期药物滥用会让人陷入一种状态：什么都不想做，什么都提不起兴趣，对未来没有期待，对生活没有热情。不是懒了，也不一定是不努力了，而是大脑的奖赏与情绪系统早已被过度透支。\n\n药物滥用最可怕的不是成瘾，而是慢慢夺走对生活的希望。\n快乐越来越少，焦虑越来越多，动力越来越弱，连未来都看不到。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 703,
+          "like_count": 12452,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 2581
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T15:40:04.000Z",
+        "description": "精神药品知识库与药理学百科 💊\n致力于提供准确、客观、可验证的减害信息。\n📩 报告投稿、纠错与合作请私信。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "psychoactive.day",
+                "end": 23,
+                "expanded_url": "http://psychoactive.day",
+                "start": 0,
+                "url": "https://t.co/7HdMcfLcxM"
+              }
+            ]
+          }
+        },
+        "id": "2060021902698287104",
+        "name": "精神药品 Wiki",
+        "pinned_tweet_id": "2060031881526247850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060422952122978305/q2xZzfjI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 14,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "url": "https://t.co/7HdMcfLcxM",
+        "username": "Psycho_Wiki",
+        "verified": false
+      }
+    ]
+  }
+}

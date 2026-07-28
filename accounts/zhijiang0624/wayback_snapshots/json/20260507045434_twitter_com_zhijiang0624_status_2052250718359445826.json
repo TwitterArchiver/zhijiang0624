@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2052187936351990121",
+    "created_at": "2026-05-07T04:54:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T05:54:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052250718359445826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1991445770592219140",
+          "start": 0,
+          "username": "Sakurayukii77i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052250718359445826",
+    "in_reply_to_user_id": "1991445770592219140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052187936351990121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sakurayukii77i 你合影就合影，能不能不要睡着，起来露个脸尊重一下你的粉丝😃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052187925753040896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHrWC6bbEAAOvKD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2052187936351990121",
+        "created_at": "2026-05-07T04:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T05:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052250718359445826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991445770592219140",
+              "start": 0,
+              "username": "Sakurayukii77i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052250718359445826",
+        "in_reply_to_user_id": "1991445770592219140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052187936351990121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakurayukii77i 你合影就合影，能不能不要睡着，起来露个脸尊重一下你的粉丝😃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052187925753040896"
+          ]
+        },
+        "author_id": "1991445770592219140",
+        "conversation_id": "2052187936351990121",
+        "created_at": "2026-05-07T00:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T01:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052187936351990121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sOsM5yzpXw",
+              "end": 32,
+              "expanded_url": "https://x.com/Sakurayukii77i/status/2052187936351990121/photo/1",
+              "media_key": "3_2052187925753040896",
+              "start": 9,
+              "url": "https://t.co/sOsM5yzpXw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052187936351990121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 182,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟我粉丝合个影😝 https://t.co/sOsM5yzpXw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 680,
+          "like_count": 11552,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 2345
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T09:57:35.000Z",
+        "description": "你和雪有一个共同的特点",
+        "id": "1991445770592219140",
+        "location": "幻想乡｜🚪188/520/1314/5200",
+        "name": "我的心裂了一道缝",
+        "pinned_tweet_id": "1991448324319367613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991445945578647552/P-LIO0kK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5938,
+          "following_count": 12,
+          "like_count": 510,
+          "listed_count": 20,
+          "media_count": 293,
+          "tweet_count": 772
+        },
+        "url": "",
+        "username": "Sakurayukii77i",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2029208941931204767",
+    "created_at": "2026-03-05T01:21:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T02:21:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029366738832507215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1689257282348158976",
+          "start": 0,
+          "username": "Inaba_Tsumugi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029366738832507215",
+    "in_reply_to_user_id": "1689257282348158976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029208941931204767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Inaba_Tsumugi 在上课玩手机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2029208941931204767",
+        "created_at": "2026-03-05T01:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T02:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029366738832507215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1689257282348158976",
+              "start": 0,
+              "username": "Inaba_Tsumugi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029366738832507215",
+        "in_reply_to_user_id": "1689257282348158976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029208941931204767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Inaba_Tsumugi 在上课玩手机"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689257282348158976",
+        "conversation_id": "2029208941931204767",
+        "created_at": "2026-03-04T14:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T15:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029208941931204767"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029208941931204767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1529,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷推特感觉大家都不登校不上班😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 536,
+          "like_count": 5826,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 1619
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T12:48:24.000Z",
+        "description": "(CTU/ZUUU) 𝓣𝓼𝓾𝓶𝓾𝓰𝓲𝓱𝓸𝓵𝓲𝓬！/ ✌🦌夏が近づくと胸が騒めくのは何でなんでしょうか。 / 🍔🍟麦当劳重度依赖 / ☁共犯招募中 / #青ブタ #ボカロ #夢見る #みずえな 🎀🎨 / 🏳️‍🌈🏳️‍⚧️🇦🇶🏴‍☠️ 里账 @Amamiya_kksk",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 75,
+                "tag": "青ブタ"
+              },
+              {
+                "end": 84,
+                "start": 80,
+                "tag": "ボカロ"
+              },
+              {
+                "end": 89,
+                "start": 85,
+                "tag": "夢見る"
+              },
+              {
+                "end": 95,
+                "start": 90,
+                "tag": "みずえな"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "Amamiya_kksk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tsumugi.icu",
+                "end": 23,
+                "expanded_url": "http://tsumugi.icu/",
+                "start": 0,
+                "url": "https://t.co/Zzs8a676XS"
+              }
+            ]
+          }
+        },
+        "id": "1689257282348158976",
+        "location": "🌙",
+        "name": "🌙つむぎ🍮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028121462633340928/boF6LO-__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 1103,
+          "like_count": 49914,
+          "listed_count": 3,
+          "media_count": 1300,
+          "tweet_count": 9339
+        },
+        "url": "https://t.co/Zzs8a676XS",
+        "username": "Inaba_Tsumugi",
+        "verified": false
+      }
+    ]
+  }
+}

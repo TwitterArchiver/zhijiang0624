@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2030464220014518273"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "conversation_id": "2030464241136984115",
+    "created_at": "2026-03-08T02:02:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T03:02:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030464241136984115"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MTEcybAEUb",
+          "end": 72,
+          "expanded_url": "https://x.com/ZhiJiang0624/status/2030464241136984115/photo/1",
+          "media_key": "16_2030464220014518273",
+          "start": 49,
+          "url": "https://t.co/MTEcybAEUb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030464241136984115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刚刚看到一个很好看的照片\n因为确实好看就点了个关注\n然后点进主页一个“男的关注死妈”让我连忙取关 https://t.co/MTEcybAEUb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "16_2030464220014518273",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HC2oc0MbIAETPaJ.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HC2oc0MbIAETPaJ.mp4"
+          }
+        ],
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2030464220014518273"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "conversation_id": "2030464241136984115",
+        "created_at": "2026-03-08T02:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T03:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030464241136984115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MTEcybAEUb",
+              "end": 72,
+              "expanded_url": "https://x.com/ZhiJiang0624/status/2030464241136984115/photo/1",
+              "media_key": "16_2030464220014518273",
+              "start": 49,
+              "url": "https://t.co/MTEcybAEUb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030464241136984115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚看到一个很好看的照片\n因为确实好看就点了个关注\n然后点进主页一个“男的关注死妈”让我连忙取关 https://t.co/MTEcybAEUb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 584,
+          "like_count": 7441,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1779
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      }
+    ]
+  }
+}

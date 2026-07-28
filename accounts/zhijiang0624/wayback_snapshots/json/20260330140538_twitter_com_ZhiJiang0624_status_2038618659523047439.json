@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038617875444023296",
+        "3_2038617875427266560",
+        "3_2038617875435618304",
+        "3_2038617875439915008"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2038618659523047439",
+    "created_at": "2026-03-30T14:05:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T15:05:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038618659523047439"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/t7jaV4I8IV",
+          "end": 164,
+          "expanded_url": "https://x.com/ZhiJiang0624/status/2038618659523047439/photo/1",
+          "media_key": "3_2038617875444023296",
+          "start": 141,
+          "url": "https://t.co/t7jaV4I8IV"
+        },
+        {
+          "display_url": "pic.x.com/t7jaV4I8IV",
+          "end": 164,
+          "expanded_url": "https://x.com/ZhiJiang0624/status/2038618659523047439/photo/1",
+          "media_key": "3_2038617875427266560",
+          "start": 141,
+          "url": "https://t.co/t7jaV4I8IV"
+        },
+        {
+          "display_url": "pic.x.com/t7jaV4I8IV",
+          "end": 164,
+          "expanded_url": "https://x.com/ZhiJiang0624/status/2038618659523047439/photo/1",
+          "media_key": "3_2038617875435618304",
+          "start": 141,
+          "url": "https://t.co/t7jaV4I8IV"
+        },
+        {
+          "display_url": "pic.x.com/t7jaV4I8IV",
+          "end": 164,
+          "expanded_url": "https://x.com/ZhiJiang0624/status/2038618659523047439/photo/1",
+          "media_key": "3_2038617875439915008",
+          "start": 141,
+          "url": "https://t.co/t7jaV4I8IV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038618659523047439",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大失败\n用尖嘴钳拔掉了一颗坏牙的牙根但是没拔完有残留（如图），还因祸得祸把里面那颗牙的牙根露出来了\n用拔牙钳拔另一颗牙拔到整个右脑痛，两眼发黑浑身脱力还是拔不动，还因祸得祸把牙神经露出来了，只能把牙神经吸掉防止一直痛，那颗牙又不敢用尖嘴钳拔，力气用大了会碎掉\n布洛芬止痛没卵用，靠 https://t.co/t7jaV4I8IV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2038617875444023296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEqgKBqaQAA4Q-h.jpg",
+        "width": 3000
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2038617875427266560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEqgKBmakAAHtuN.jpg",
+        "width": 3000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2038617875435618304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEqgKBoaAAAj2h5.jpg",
+        "width": 4000
+      },
+      {
+        "height": 1077,
+        "media_key": "3_2038617875439915008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEqgKBpbkAAImHg.jpg",
+        "width": 1150
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038617875444023296",
+            "3_2038617875427266560",
+            "3_2038617875435618304",
+            "3_2038617875439915008"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2038618659523047439",
+        "created_at": "2026-03-30T14:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T15:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038618659523047439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t7jaV4I8IV",
+              "end": 164,
+              "expanded_url": "https://x.com/ZhiJiang0624/status/2038618659523047439/photo/1",
+              "media_key": "3_2038617875444023296",
+              "start": 141,
+              "url": "https://t.co/t7jaV4I8IV"
+            },
+            {
+              "display_url": "pic.x.com/t7jaV4I8IV",
+              "end": 164,
+              "expanded_url": "https://x.com/ZhiJiang0624/status/2038618659523047439/photo/1",
+              "media_key": "3_2038617875427266560",
+              "start": 141,
+              "url": "https://t.co/t7jaV4I8IV"
+            },
+            {
+              "display_url": "pic.x.com/t7jaV4I8IV",
+              "end": 164,
+              "expanded_url": "https://x.com/ZhiJiang0624/status/2038618659523047439/photo/1",
+              "media_key": "3_2038617875435618304",
+              "start": 141,
+              "url": "https://t.co/t7jaV4I8IV"
+            },
+            {
+              "display_url": "pic.x.com/t7jaV4I8IV",
+              "end": 164,
+              "expanded_url": "https://x.com/ZhiJiang0624/status/2038618659523047439/photo/1",
+              "media_key": "3_2038617875439915008",
+              "start": 141,
+              "url": "https://t.co/t7jaV4I8IV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038618659523047439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大失败\n用尖嘴钳拔掉了一颗坏牙的牙根但是没拔完有残留（如图），还因祸得祸把里面那颗牙的牙根露出来了\n用拔牙钳拔另一颗牙拔到整个右脑痛，两眼发黑浑身脱力还是拔不动，还因祸得祸把牙神经露出来了，只能把牙神经吸掉防止一直痛，那颗牙又不敢用尖嘴钳拔，力气用大了会碎掉\n布洛芬止痛没卵用，靠 https://t.co/t7jaV4I8IV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n07年纯种神经病\n如果哪里说得有错还请麻烦指点一下谢谢。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "Dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 622,
+          "like_count": 9232,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1982
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      }
+    ]
+  }
+}

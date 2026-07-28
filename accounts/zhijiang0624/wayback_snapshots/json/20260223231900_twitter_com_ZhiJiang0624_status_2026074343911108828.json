@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2025906306188759337",
+    "created_at": "2026-02-23T23:19:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T00:19:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026074343911108828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1122379259287261184",
+          "start": 0,
+          "username": "tnlhlnilml"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026074343911108828",
+    "in_reply_to_user_id": "1122379259287261184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025906306188759337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tnlhlnilml 谢谢你，微推史"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2025906306188759337",
+        "created_at": "2026-02-23T23:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T00:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026074343911108828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1122379259287261184",
+              "start": 0,
+              "username": "tnlhlnilml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026074343911108828",
+        "in_reply_to_user_id": "1122379259287261184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025906306188759337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tnlhlnilml 谢谢你，微推史"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1122379259287261184",
+        "conversation_id": "2025906306188759337",
+        "created_at": "2026-02-23T12:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T13:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025906306188759337"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025906306188759337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的特别喜欢推特\n你们往推特上搬屎\n我长按图片能直接转发到微信消息里\n不像国内平台会变成链接小卡片\n朋友懒得点进去\n现在我从推特直接搬屎到朋友聊天框\n她点开就是一堆屎\n然后就骂我\n好开心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 451,
+          "like_count": 3867,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1324
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-28T05:57:23.000Z",
+        "description": "女｜可以叫我高建国或者高高｜贴贴所有路过的人",
+        "id": "1122379259287261184",
+        "location": "布什·戈门",
+        "name": "只剩一口的高坚果",
+        "pinned_tweet_id": "1710957205317689496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1616448628159283201/250__DqO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 224,
+          "like_count": 60792,
+          "listed_count": 1,
+          "media_count": 479,
+          "tweet_count": 9001
+        },
+        "username": "tnlhlnilml",
+        "verified": false
+      }
+    ]
+  }
+}

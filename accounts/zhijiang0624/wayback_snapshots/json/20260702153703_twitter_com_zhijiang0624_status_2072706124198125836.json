@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072706115637530624"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "conversation_id": "2072692810856427553",
+    "created_at": "2026-07-02T15:37:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T16:37:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072706124198125836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2026954721601462272",
+          "start": 0,
+          "username": "whxsa11"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UtiKDjBEGm",
+          "end": 41,
+          "expanded_url": "https://x.com/zhijiang0624/status/2072706124198125836/photo/1",
+          "media_key": "3_2072706115637530624",
+          "start": 18,
+          "url": "https://t.co/UtiKDjBEGm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072706124198125836",
+    "in_reply_to_user_id": "2026954721601462272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072692865369841718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whxsa11 怎么比我还小…… https://t.co/UtiKDjBEGm"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2072692865369841718].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2072692865369841718",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2072692865369841718"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "3_2072706115637530624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMO7OwJa0AARB6X.jpg",
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072706115637530624"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "conversation_id": "2072692810856427553",
+        "created_at": "2026-07-02T15:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072706124198125836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2026954721601462272",
+              "start": 0,
+              "username": "whxsa11"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UtiKDjBEGm",
+              "end": 41,
+              "expanded_url": "https://x.com/zhijiang0624/status/2072706124198125836/photo/1",
+              "media_key": "3_2072706115637530624",
+              "start": 18,
+              "url": "https://t.co/UtiKDjBEGm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072706124198125836",
+        "in_reply_to_user_id": "2026954721601462272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072692865369841718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whxsa11 怎么比我还小…… https://t.co/UtiKDjBEGm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 722,
+          "like_count": 12909,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 2631
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-26T09:37:32.000Z",
+        "description": "那你去死啊别烦我",
+        "id": "2026954721601462272",
+        "location": "赶紧给我滚",
+        "name": "赶紧给我滚远点",
+        "pinned_tweet_id": "2072693697557536854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072186714983170048/M68V4UAq_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 7,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 293
+        },
+        "url": "",
+        "username": "whxsa11",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2030634652856168764",
+    "created_at": "2026-03-08T16:45:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T17:45:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030686306439975410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1252908934500954113",
+          "start": 0,
+          "username": "lajitongyoulaji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030686306439975410",
+    "in_reply_to_user_id": "1252908934500954113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030634652856168764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lajitongyoulaji 那就早点睡觉吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2030634652856168764",
+        "created_at": "2026-03-08T16:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T17:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030686306439975410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1252908934500954113",
+              "start": 0,
+              "username": "lajitongyoulaji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030686306439975410",
+        "in_reply_to_user_id": "1252908934500954113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030634652856168764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lajitongyoulaji 那就早点睡觉吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1252908934500954113",
+        "conversation_id": "2030634652856168764",
+        "created_at": "2026-03-08T13:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T14:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030634652856168764"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030634652856168764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在很困 我应该去睡觉了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 591,
+          "like_count": 7749,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1828
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-22T10:35:53.000Z",
+        "description": "想留下美好的回忆",
+        "id": "1252908934500954113",
+        "name": "垃圾桶里有垃圾",
+        "pinned_tweet_id": "1656759774128533510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020611612441292800/y_h2XZSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 6,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 221
+        },
+        "username": "lajitongyoulaji",
+        "verified": false
+      }
+    ]
+  }
+}

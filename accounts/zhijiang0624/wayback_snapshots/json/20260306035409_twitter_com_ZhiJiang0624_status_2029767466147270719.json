@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2029413948030869635",
+    "created_at": "2026-03-06T03:54:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T04:54:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029767466147270719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2015770770576678912",
+          "start": 0,
+          "username": "Stewie071105"
+        },
+        {
+          "end": 21,
+          "id": "1889273834479693824",
+          "start": 14,
+          "username": "xvxnuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029767466147270719",
+    "in_reply_to_user_id": "2015770770576678912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029540849684795843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stewie071105 @xvxnuo 猎奇的我不看\n猎奇到极致的我真得品鉴品鉴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2029413948030869635",
+        "created_at": "2026-03-06T03:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T04:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029767466147270719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2015770770576678912",
+              "start": 0,
+              "username": "Stewie071105"
+            },
+            {
+              "end": 21,
+              "id": "1889273834479693824",
+              "start": 14,
+              "username": "xvxnuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029767466147270719",
+        "in_reply_to_user_id": "2015770770576678912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029540849684795843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stewie071105 @xvxnuo 猎奇的我不看\n猎奇到极致的我真得品鉴品鉴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015770770576678912",
+        "conversation_id": "2029413948030869635",
+        "created_at": "2026-03-05T12:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T13:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029540849684795843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1889273834479693824",
+              "start": 0,
+              "username": "xvxnuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029540849684795843",
+        "in_reply_to_user_id": "1889273834479693824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 53977,
+          "like_count": 991,
+          "quote_count": 7,
+          "reply_count": 61,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029413948030869635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xvxnuo 日本的也傻逼 之前刷到过一个 儿媳妇不小心摔倒一屁股坐公公几把上了 又一不小心没穿内裤 又一不小心插b里了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 558,
+          "like_count": 6487,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 1680
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-26T12:56:27.000Z",
+        "description": "骂我死全家 🚪52",
+        "id": "2015770770576678912",
+        "name": "饺子",
+        "pinned_tweet_id": "2020173140572483854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020843589862055936/g-5BpMGq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 34,
+          "like_count": 15,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 156
+        },
+        "username": "Stewie071105",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T11:22:47.000Z",
+        "description": "我和你有什么好说的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xnuo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xnuo1",
+                "start": 0,
+                "url": "https://t.co/MGovzs8e0S"
+              }
+            ]
+          }
+        },
+        "id": "1889273834479693824",
+        "location": "纯绿🚪99",
+        "name": "诺诺许",
+        "pinned_tweet_id": "2029212937899130944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028697022442950656/BJpWpaNb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1090,
+          "following_count": 32,
+          "like_count": 16096,
+          "listed_count": 4,
+          "media_count": 104,
+          "tweet_count": 4038
+        },
+        "url": "https://t.co/MGovzs8e0S",
+        "username": "xvxnuo",
+        "verified": false
+      }
+    ]
+  }
+}

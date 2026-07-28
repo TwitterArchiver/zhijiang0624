@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2025068242856018335",
+    "created_at": "2026-02-22T17:53:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T18:53:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025630155167965252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1040062430171344897",
+          "start": 0,
+          "username": "lizisu2000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025630155167965252",
+    "in_reply_to_user_id": "1040062430171344897",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025068242856018335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lizisu2000 真的笑了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1421,
+        "media_key": "3_2025068234995793920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBp81JjaAAAlLg0.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2025068242856018335",
+        "created_at": "2026-02-22T17:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T18:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025630155167965252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1040062430171344897",
+              "start": 0,
+              "username": "lizisu2000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025630155167965252",
+        "in_reply_to_user_id": "1040062430171344897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025068242856018335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lizisu2000 真的笑了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025068234995793920"
+          ]
+        },
+        "author_id": "1040062430171344897",
+        "conversation_id": "2025068242856018335",
+        "created_at": "2026-02-21T04:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T05:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025068242856018335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gpyiQwIKUD",
+              "end": 30,
+              "expanded_url": "https://x.com/lizisu2000/status/2025068242856018335/photo/1",
+              "media_key": "3_2025068234995793920",
+              "start": 7,
+              "url": "https://t.co/gpyiQwIKUD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025068242856018335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 318481,
+          "like_count": 2955,
+          "quote_count": 11,
+          "reply_count": 195,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "你玩的破解版 https://t.co/gpyiQwIKUD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 437,
+          "like_count": 3751,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1291
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-13T02:19:41.000Z",
+        "description": "讨好型人格",
+        "id": "1040062430171344897",
+        "location": "🚪66",
+        "name": "栗子酥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885784306506924032/b6XBEVGI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168732,
+          "following_count": 24,
+          "like_count": 1418,
+          "listed_count": 250,
+          "media_count": 459,
+          "tweet_count": 973
+        },
+        "username": "lizisu2000",
+        "verified": false
+      }
+    ]
+  }
+}

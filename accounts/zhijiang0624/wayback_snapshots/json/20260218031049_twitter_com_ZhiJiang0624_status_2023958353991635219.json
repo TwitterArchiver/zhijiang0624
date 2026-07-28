@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2023774560110473638",
+    "created_at": "2026-02-18T03:10:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T04:10:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023958353991635219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1318606708814483461",
+          "start": 0,
+          "username": "huai71606936"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023958353991635219",
+    "in_reply_to_user_id": "1318606708814483461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023774560110473638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huai71606936 所以真的要记得消毒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2023774560110473638",
+        "created_at": "2026-02-18T03:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T04:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023958353991635219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1318606708814483461",
+              "start": 0,
+              "username": "huai71606936"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023958353991635219",
+        "in_reply_to_user_id": "1318606708814483461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023774560110473638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huai71606936 所以真的要记得消毒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1318606708814483461",
+        "conversation_id": "2023774560110473638",
+        "created_at": "2026-02-17T15:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T16:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023774560110473638"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023774560110473638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 287,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给自己换药，恶心到了，yue~\n（伤口好烦，怎么都好不了，溃烂又感染地，每天换药好恶心的伤口）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 419,
+          "like_count": 3449,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1201
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-20T17:35:25.000Z",
+        "description": "剑三单修绿色心法莫小问\n推特碎碎念\n梦境记录贴，emo树洞推\n不ghs，颜控\n纯爱战神，腰细腿长的帅哥我可以(⑉°з°)-♡\n男妈妈永远的神（人妻感男妈妈）\ninfj   摩羯♑",
+        "id": "1318606708814483461",
+        "name": "槐阿满",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1658137666934956033/uXpsZJUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 457,
+          "like_count": 955,
+          "listed_count": 6,
+          "media_count": 163,
+          "tweet_count": 3052
+        },
+        "username": "huai71606936",
+        "verified": false
+      }
+    ]
+  }
+}

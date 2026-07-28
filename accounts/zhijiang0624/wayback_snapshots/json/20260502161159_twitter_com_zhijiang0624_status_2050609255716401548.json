@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2050539078232547594",
+    "created_at": "2026-05-02T16:11:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T17:11:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050609255716401548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "760845942618591232",
+          "start": 0,
+          "username": "CarrierVessels_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050609255716401548",
+    "in_reply_to_user_id": "760845942618591232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050551347679010943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CarrierVessels_ 已经原路返回了\n走到那里的话回家连车都没得打\n下次放假再去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2050539078232547594",
+        "created_at": "2026-05-02T16:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T17:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050609255716401548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "760845942618591232",
+              "start": 0,
+              "username": "CarrierVessels_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050609255716401548",
+        "in_reply_to_user_id": "760845942618591232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050551347679010943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CarrierVessels_ 已经原路返回了\n走到那里的话回家连车都没得打\n下次放假再去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "760845942618591232",
+        "conversation_id": "2050539078232547594",
+        "created_at": "2026-05-02T12:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T13:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050551347679010943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "zhijiang0624"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050551347679010943",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050539078232547594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhijiang0624 希望路边有可以歇的地方🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 681,
+          "like_count": 11443,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 2326
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-03T14:33:03.000Z",
+        "description": "衰退",
+        "id": "760845942618591232",
+        "location": "sol III",
+        "name": "饺子",
+        "pinned_tweet_id": "1842245729529872536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888596968584462336/_VAhum-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 1397,
+          "like_count": 377263,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 24466
+        },
+        "username": "CarrierVessels_",
+        "verified": false
+      }
+    ]
+  }
+}

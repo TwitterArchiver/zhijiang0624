@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2035026158048481734",
+    "created_at": "2026-03-23T07:42:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T08:42:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035985528722690123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "124082532",
+          "start": 0,
+          "username": "jun_ichikawa_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035985528722690123",
+    "in_reply_to_user_id": "124082532",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035026158048481734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jun_ichikawa_ 新曲を楽しみにしています。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2035026158048481734",
+        "created_at": "2026-03-23T07:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T08:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035985528722690123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "124082532",
+              "start": 0,
+              "username": "jun_ichikawa_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035985528722690123",
+        "in_reply_to_user_id": "124082532",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035026158048481734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jun_ichikawa_ 新曲を楽しみにしています。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "124082532",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2035026158048481734",
+        "created_at": "2026-03-20T16:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T17:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035026158048481734"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "Edel Note",
+              "probability": 0.6305,
+              "start": 0,
+              "type": "Organization"
+            },
+            {
+              "end": 18,
+              "normalized_text": "EdelinieN",
+              "probability": 0.3877,
+              "start": 10,
+              "type": "Other"
+            },
+            {
+              "end": 41,
+              "normalized_text": "Edel Note",
+              "probability": 0.2676,
+              "start": 33,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/hasunosora_SIC…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/hasunosora_SIC/status/2034962910141964342",
+              "start": 50,
+              "url": "https://t.co/YqNUoppT35"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035026158048481734",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1413,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034962910141964342",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Edel Note「EdelinieN」\n編曲を担当しています\n\nEdel Noteは魅力あるよね https://t.co/YqNUoppT35"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n07年纯种神经病\n如果哪里说得有错还请麻烦指点一下谢谢。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 610,
+          "like_count": 8914,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1939
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-18T05:50:48.000Z",
+        "description": "作曲家・（株）Julydex代表取締役・洗足音楽大学講師 サウンドトラックや楽曲提供など  お問い合わせは公式サイトよりお願いします https://t.co/GJtWxWb7KA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "julydex.com",
+                "end": 90,
+                "expanded_url": "https://julydex.com",
+                "start": 67,
+                "url": "https://t.co/GJtWxWb7KA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "julydex.com",
+                "end": 23,
+                "expanded_url": "https://julydex.com/",
+                "start": 0,
+                "url": "https://t.co/HHgEO41z9U"
+              }
+            ]
+          }
+        },
+        "id": "124082532",
+        "location": "神奈川県",
+        "name": "市川淳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905246559715164160/D_x59uq1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1787,
+          "following_count": 350,
+          "like_count": 1228,
+          "listed_count": 63,
+          "media_count": 55,
+          "tweet_count": 1928
+        },
+        "url": "https://t.co/HHgEO41z9U",
+        "username": "jun_ichikawa_",
+        "verified": true
+      }
+    ]
+  }
+}

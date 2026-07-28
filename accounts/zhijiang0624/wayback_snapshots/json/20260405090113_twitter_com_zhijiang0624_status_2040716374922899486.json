@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2040716374922899486",
+    "created_at": "2026-04-05T09:01:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T10:01:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040716374922899486"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2040716374922899486",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "过了花果山隧道，我这是到没到湖北？（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2040716374922899486",
+        "created_at": "2026-04-05T09:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T10:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040716374922899486"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040716374922899486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "过了花果山隧道，我这是到没到湖北？（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "只是一个傻逼傻逼大傻逼————！",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 643,
+          "like_count": 9544,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 2037
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      }
+    ]
+  }
+}

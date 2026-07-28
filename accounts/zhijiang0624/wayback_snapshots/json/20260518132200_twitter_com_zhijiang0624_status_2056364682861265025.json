@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2056206717755777485",
+    "created_at": "2026-05-18T13:22:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T14:22:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056364682861265025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1754843908524376064",
+          "start": 0,
+          "username": "huajiliefushi"
+        },
+        {
+          "end": 29,
+          "id": "949316104144457729",
+          "start": 15,
+          "username": "wangchangfu88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056364682861265025",
+    "in_reply_to_user_id": "1754843908524376064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056361505923440891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huajiliefushi @wangchangfu88 我从四川到浙江打工，现在一个月工资两千"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2056206717755777485",
+        "created_at": "2026-05-18T13:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T14:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056364682861265025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1754843908524376064",
+              "start": 0,
+              "username": "huajiliefushi"
+            },
+            {
+              "end": 29,
+              "id": "949316104144457729",
+              "start": 15,
+              "username": "wangchangfu88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056364682861265025",
+        "in_reply_to_user_id": "1754843908524376064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056361505923440891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huajiliefushi @wangchangfu88 我从四川到浙江打工，现在一个月工资两千"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754843908524376064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2056206717755777485",
+        "created_at": "2026-05-18T13:09:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T14:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056361505923440891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "949316104144457729",
+              "start": 0,
+              "username": "wangchangfu88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056361505923440891",
+        "in_reply_to_user_id": "949316104144457729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056359310838653340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangchangfu88 你这是把社会问题放小，那我问你假如你从贵州的山村来到东莞打工，一个月工资3500，你需要支付房租，每个月得寄钱回家供弟弟读完高中说不定能考入大学，你每天怎么吃健康食品不熬夜找对象，目标也是没有的，出人头地的概率几乎为零，你在25岁就埋葬了你的梦想被家庭榨干，你怎么不抑郁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 695,
+          "like_count": 11967,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 2475
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T12:26:17.000Z",
+        "description": "颓废高中生 网络蛆虫  酒精入眠重度依赖  欢迎互fo互发乐子唠嗑",
+        "id": "1754843908524376064",
+        "location": "沃尔库塔—5",
+        "name": "diaonansfz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047123885615968256/ZU38SmS0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 75,
+          "like_count": 344,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 408
+        },
+        "username": "huajiliefushi",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-05T16:26:11.000Z",
+        "description": "AI + Crypto | 运营增长 | 投资理财 | 破局提升",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhihu.com/people/46-84-5…",
+                "end": 23,
+                "expanded_url": "https://www.zhihu.com/people/46-84-5-95",
+                "start": 0,
+                "url": "https://t.co/tEYK0T3zeJ"
+              }
+            ]
+          }
+        },
+        "id": "949316104144457729",
+        "name": "王长富",
+        "pinned_tweet_id": "2055249092750746040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038198296771248128/ra3vBm-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13383,
+          "following_count": 2723,
+          "like_count": 9545,
+          "listed_count": 45,
+          "media_count": 117,
+          "tweet_count": 7615
+        },
+        "url": "https://t.co/tEYK0T3zeJ",
+        "username": "wangchangfu88",
+        "verified": true
+      }
+    ]
+  }
+}

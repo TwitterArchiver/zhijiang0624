@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2029509309479211147",
+    "created_at": "2026-03-06T05:44:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T06:44:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029795333006565825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1924187505680867328",
+          "start": 0,
+          "username": "kyoka05180"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029795333006565825",
+    "in_reply_to_user_id": "1924187505680867328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029509309479211147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kyoka05180 并没有\n因为我是男孩？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2029509309479211147",
+        "created_at": "2026-03-06T05:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T06:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029795333006565825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1924187505680867328",
+              "start": 0,
+              "username": "kyoka05180"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029795333006565825",
+        "in_reply_to_user_id": "1924187505680867328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029509309479211147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kyoka05180 并没有\n因为我是男孩？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924187505680867328",
+        "conversation_id": "2029509309479211147",
+        "created_at": "2026-03-05T10:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T11:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029509309479211147"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029509309479211147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10635,
+          "like_count": 91,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我算是发现了 现实中再正经的男人也会在推特上发几把"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 559,
+          "like_count": 6543,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 1686
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-18T19:37:13.000Z",
+        "description": "🚪300vx/518tg/5180/13140 支持usdt paypal paypay 支付宝 微信",
+        "id": "1924187505680867328",
+        "name": "kyoka",
+        "pinned_tweet_id": "2028184085227868211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010674852873826304/E0LcrnHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2657,
+          "following_count": 84,
+          "like_count": 482,
+          "listed_count": 5,
+          "media_count": 116,
+          "tweet_count": 1959
+        },
+        "username": "kyoka05180",
+        "verified": true
+      }
+    ]
+  }
+}

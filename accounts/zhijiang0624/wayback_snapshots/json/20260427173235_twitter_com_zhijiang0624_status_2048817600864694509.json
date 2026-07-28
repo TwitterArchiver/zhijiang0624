@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2048817600864694509",
+    "created_at": "2026-04-27T17:32:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T18:32:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048817600864694509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1666072064481173506",
+          "start": 3,
+          "username": "shiyiyi22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048817600864694509",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048801515532681285",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shiyiyi22: 我要zzz了 许愿明天有一个愿意听我碎碎念 愿意和我从哲学聊到弱智的梗 愿意溺爱我 愿意包容我的人类"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2048817600864694509",
+        "created_at": "2026-04-27T17:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T18:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048817600864694509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1666072064481173506",
+              "start": 3,
+              "username": "shiyiyi22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048817600864694509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048801515532681285",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shiyiyi22: 我要zzz了 许愿明天有一个愿意听我碎碎念 愿意和我从哲学聊到弱智的梗 愿意溺爱我 愿意包容我的人类"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666072064481173506",
+        "conversation_id": "2048801515532681285",
+        "created_at": "2026-04-27T16:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T17:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048801515532681285"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048801515532681285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我要zzz了 许愿明天有一个愿意听我碎碎念 愿意和我从哲学聊到弱智的梗 愿意溺爱我 愿意包容我的人类"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 671,
+          "like_count": 11172,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 2255
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-06T13:18:49.000Z",
+        "description": "这里是小语/未成年女高/泛性恋/🉑包容你的一切/把推当朋友圈发 /170+的萌妹 体重为良子/随机掉落精修自拍ing/🈚🚪/主页有软色情的东西女宝互fo需要注意一下呀！！！/",
+        "id": "1666072064481173506",
+        "location": "哥伦比亚",
+        "name": "迟迟不语",
+        "pinned_tweet_id": "2046566080244772902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046051756254396416/LtF-S3kD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 172,
+          "like_count": 3254,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 3577
+        },
+        "username": "shiyiyi22",
+        "verified": false
+      }
+    ]
+  }
+}

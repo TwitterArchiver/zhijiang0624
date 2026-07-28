@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2007446300258718044",
+    "created_at": "2026-01-04T05:34:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T06:34:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007687150414999770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1786569587460624384",
+          "start": 0,
+          "username": "ANMAMIRUNAYO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007687150414999770",
+    "in_reply_to_user_id": "1786569587460624384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007446300258718044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ANMAMIRUNAYO これが噂の「デブはみんな有望株」なのか？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 969,
+        "media_key": "3_2007446295439650817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9vhxRFasAEVn39.jpg",
+        "width": 507
+      },
+      {
+        "height": 860,
+        "media_key": "3_2007446295435485184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9vhxREbIAAZYIi.jpg",
+        "width": 474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2007446300258718044",
+        "created_at": "2026-01-04T05:34:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T06:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007687150414999770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786569587460624384",
+              "start": 0,
+              "username": "ANMAMIRUNAYO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007687150414999770",
+        "in_reply_to_user_id": "1786569587460624384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007446300258718044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANMAMIRUNAYO これが噂の「デブはみんな有望株」なのか？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007446295439650817",
+            "3_2007446295435485184"
+          ]
+        },
+        "author_id": "1786569587460624384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Coming of Age day for all years.\n",
+              "id": "1322279676769755136",
+              "name": "Coming of age day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for all years for 成人式 (A Coming‐Of‐Age Ceremony)",
+              "id": "1333426778145058817",
+              "name": "成人式 (A Coming‐Of‐Age Ceremony)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Coming of Age day for all years.\n",
+              "id": "1322279676769755136",
+              "name": "Coming of age day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Coming of Age day for all years.\n",
+              "id": "1322279676769755136",
+              "name": "Coming of age day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2007446300258718044",
+        "created_at": "2026-01-03T13:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T14:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007446300258718044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qopge4ebjn",
+              "end": 71,
+              "expanded_url": "https://x.com/ANMAMIRUNAYO/status/2007446300258718044/photo/1",
+              "media_key": "3_2007446295439650817",
+              "start": 48,
+              "url": "https://t.co/qopge4ebjn"
+            },
+            {
+              "display_url": "pic.x.com/qopge4ebjn",
+              "end": 71,
+              "expanded_url": "https://x.com/ANMAMIRUNAYO/status/2007446300258718044/photo/1",
+              "media_key": "3_2007446295435485184",
+              "start": 48,
+              "url": "https://t.co/qopge4ebjn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007446300258718044",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 524,
+          "impression_count": 261054,
+          "like_count": 5208,
+          "quote_count": 41,
+          "reply_count": 34,
+          "retweet_count": 129
+        },
+        "reply_settings": "everyone",
+        "text": "今年20歳なんだけど、成人式\n行って友達に同じ人ってバレる自信ない笑\n\n←高校の時　　　現在→ https://t.co/qopge4ebjn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一个偶尔变得哲学或者厌世的重度自闭男生。理想大概就是想尽自己的绵薄之力尽量缝补这个世界支离破碎的一面吧",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 166,
+          "like_count": 582,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 415
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T01:33:19.000Z",
+        "description": "ネオニート",
+        "id": "1786569587460624384",
+        "name": "とりあえずニートTV",
+        "pinned_tweet_id": "1975827568411734025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859114757867139072/NExP1HSI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2064,
+          "following_count": 92,
+          "like_count": 4597,
+          "listed_count": 2,
+          "media_count": 297,
+          "tweet_count": 844
+        },
+        "username": "ANMAMIRUNAYO",
+        "verified": true
+      }
+    ]
+  }
+}

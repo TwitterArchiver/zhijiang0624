@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2033220244362379586",
+    "created_at": "2026-03-17T10:28:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T11:28:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033853041250906296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2011421861037633536",
+          "start": 0,
+          "username": "CoraMurray54034"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033853041250906296",
+    "in_reply_to_user_id": "2011421861037633536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033726367117066246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CoraMurray54034 死杂种去死吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2033220244362379586",
+        "created_at": "2026-03-17T10:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T11:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033853041250906296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2011421861037633536",
+              "start": 0,
+              "username": "CoraMurray54034"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033853041250906296",
+        "in_reply_to_user_id": "2011421861037633536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033726367117066246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CoraMurray54034 死杂种去死吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011421861037633536",
+        "conversation_id": "2033220244362379586",
+        "created_at": "2026-03-17T02:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T03:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033726367117066246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "ZhiJiang0624"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033726367117066246",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033220244362379586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhiJiang0624 �🎁�🧑‍⚖️可到付"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n十九岁高中牲\n如果哪里说得有错还请麻烦指点一下谢谢。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾，亦或是世界的彼方",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 612,
+          "like_count": 8479,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1897
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-14T12:55:40.000Z",
+        "description": "#香烟🚬\n#口粮🚬\n#免税香烟，一条起发，全国包邮!\n#货到付款，品类齐全/低价/保真!\n和天下380，中华细金边260,\n软阳光0，软中华280-329，等等高低端口粮🚬\n#价格低至冰点，量大价格从优!\n咨询联系点击下方✈群找我↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "香烟"
+              },
+              {
+                "end": 8,
+                "start": 5,
+                "tag": "口粮"
+              },
+              {
+                "end": 15,
+                "start": 10,
+                "tag": "免税香烟"
+              },
+              {
+                "end": 32,
+                "start": 27,
+                "tag": "货到付款"
+              },
+              {
+                "end": 94,
+                "start": 87,
+                "tag": "价格低至冰点"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aCI18GGQixJjM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aCI18GGQixJjMDA1",
+                "start": 0,
+                "url": "https://t.co/OfMV3Dwfa5"
+              }
+            ]
+          }
+        },
+        "id": "2011421861037633536",
+        "location": "加✈群咨询下单👉👉👉",
+        "name": "软阳光利群软中华煊赫门和天下1916烟草中国烟草荷花大苏小苏卡比龙鸿运口粮黄鹤楼和天下天叶大重九",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033184001654214656/cL26Gawo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 201
+        },
+        "url": "https://t.co/OfMV3Dwfa5",
+        "username": "CoraMurray54034",
+        "verified": false
+      }
+    ]
+  }
+}

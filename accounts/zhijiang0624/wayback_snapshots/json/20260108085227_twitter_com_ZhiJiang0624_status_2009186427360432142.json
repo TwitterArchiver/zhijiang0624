@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2008821008216834519",
+    "created_at": "2026-01-08T08:52:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T09:52:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009186427360432142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1592865779241734144",
+          "start": 0,
+          "username": "yuanyuan774"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009186427360432142",
+    "in_reply_to_user_id": "1592865779241734144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009044724024529042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanyuan774 可怜你一下，举报他了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2008821008216834519",
+        "created_at": "2026-01-08T08:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T09:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009186427360432142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592865779241734144",
+              "start": 0,
+              "username": "yuanyuan774"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009186427360432142",
+        "in_reply_to_user_id": "1592865779241734144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009044724024529042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanyuan774 可怜你一下，举报他了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592865779241734144",
+        "conversation_id": "2008821008216834519",
+        "created_at": "2026-01-07T23:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T00:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009044724024529042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1750757806787985408",
+              "start": 0,
+              "username": "axulq45349618"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009044724024529042",
+        "in_reply_to_user_id": "1750757806787985408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5427,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008821008216834519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axulq45349618 当然不会，因为你他妈发的是老娘的图"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一个偶尔变得哲学或者厌世的重度自闭男生。理想大概就是想尽自己的绵薄之力尽量缝补这个世界支离破碎的一面吧",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 195,
+          "like_count": 766,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 483
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T13:03:00.000Z",
+        "description": "小号 转喜欢看的片的。@CaTwTuoo。 关评推广自辩，除口令以外不看私信，52000好友位，",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "CaTwTuoo"
+              }
+            ]
+          }
+        },
+        "id": "1592865779241734144",
+        "location": "🥕",
+        "name": "你是不是欠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006600139784228864/G9KATkPW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31886,
+          "following_count": 250,
+          "like_count": 25596,
+          "listed_count": 43,
+          "media_count": 1362,
+          "tweet_count": 25942
+        },
+        "username": "yuanyuan774",
+        "verified": false
+      }
+    ]
+  }
+}

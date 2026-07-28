@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2066910445731197207",
+    "created_at": "2026-06-17T04:36:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T05:36:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067104054237638860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1939914447017119744",
+          "start": 0,
+          "username": "HEIMAO529"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067104054237638860",
+    "in_reply_to_user_id": "1939914447017119744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066910445731197207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HEIMAO529 嗯，好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2066910440496730112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8kGDxakAAWaCT.jpg",
+        "width": 720
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2066910440433815552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8kGDiakAAGqNe.jpg",
+        "width": 720
+      },
+      {
+        "height": 720,
+        "media_key": "3_2066910440437997568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8kGDjaYAAfcSZ.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2066910445731197207",
+        "created_at": "2026-06-17T04:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067104054237638860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1939914447017119744",
+              "start": 0,
+              "username": "HEIMAO529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067104054237638860",
+        "in_reply_to_user_id": "1939914447017119744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066910445731197207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HEIMAO529 嗯，好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066910440496730112",
+            "3_2066910440433815552",
+            "3_2066910440437997568"
+          ]
+        },
+        "author_id": "1939914447017119744",
+        "conversation_id": "2066910445731197207",
+        "created_at": "2026-06-16T15:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066910445731197207"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "BLACKSOULS"
+            },
+            {
+              "end": 24,
+              "start": 12,
+              "tag": "BLACKSOULS2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xk8zV9Ec9g",
+              "end": 67,
+              "expanded_url": "https://x.com/HEIMAO529/status/2066910445731197207/photo/1",
+              "media_key": "3_2066910440496730112",
+              "start": 44,
+              "url": "https://t.co/xk8zV9Ec9g"
+            },
+            {
+              "display_url": "pic.x.com/xk8zV9Ec9g",
+              "end": 67,
+              "expanded_url": "https://x.com/HEIMAO529/status/2066910445731197207/photo/1",
+              "media_key": "3_2066910440433815552",
+              "start": 44,
+              "url": "https://t.co/xk8zV9Ec9g"
+            },
+            {
+              "display_url": "pic.x.com/xk8zV9Ec9g",
+              "end": 67,
+              "expanded_url": "https://x.com/HEIMAO529/status/2066910445731197207/photo/1",
+              "media_key": "3_2066910440437997568",
+              "start": 44,
+              "url": "https://t.co/xk8zV9Ec9g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066910445731197207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4106,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#BLACKSOULS\n#BLACKSOULS2\n臥槽這是我 2月出的蕾克當時發沒流量 https://t.co/xk8zV9Ec9g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 708,
+          "like_count": 12592,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2605
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-01T05:10:41.000Z",
+        "description": "名字是黑貓\n互fo擴列啥的小窗就行\n背景圖是我老婆小梔\n剩下忘了",
+        "id": "1939914447017119744",
+        "location": "北校c栋",
+        "name": "くろねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057070025056628736/JgR553_V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 212,
+          "like_count": 3437,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 464
+        },
+        "username": "HEIMAO529",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056165644308299777"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "conversation_id": "2056163896575377771",
+    "created_at": "2026-05-18T00:11:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T01:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056165650859778557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1103064167748173826",
+          "start": 0,
+          "username": "Thais66011141"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3n70jKqfyp",
+          "end": 63,
+          "expanded_url": "https://x.com/zhijiang0624/status/2056165650859778557/photo/1",
+          "media_key": "3_2056165644308299777",
+          "start": 40,
+          "url": "https://t.co/3n70jKqfyp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056165650859778557",
+    "in_reply_to_user_id": "1103064167748173826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056163896575377771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Thais66011141 主机\n顺便一提害怕朋友发现的话可以试试变成加佐特 https://t.co/3n70jKqfyp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 266,
+        "media_key": "3_2056165644308299777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIj3wmxbwAEhhMk.jpg",
+        "width": 474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056165644308299777"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "conversation_id": "2056163896575377771",
+        "created_at": "2026-05-18T00:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T01:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056165650859778557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1103064167748173826",
+              "start": 0,
+              "username": "Thais66011141"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3n70jKqfyp",
+              "end": 63,
+              "expanded_url": "https://x.com/zhijiang0624/status/2056165650859778557/photo/1",
+              "media_key": "3_2056165644308299777",
+              "start": 40,
+              "url": "https://t.co/3n70jKqfyp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056165650859778557",
+        "in_reply_to_user_id": "1103064167748173826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056163896575377771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thais66011141 主机\n顺便一提害怕朋友发现的话可以试试变成加佐特 https://t.co/3n70jKqfyp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1103064167748173826",
+        "conversation_id": "2056163896575377771",
+        "created_at": "2026-05-18T00:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T01:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056163896575377771"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056163896575377771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 531,
+          "like_count": 123,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "你们玩推的手机都是备用机吗？我怕被现实朋友看到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 694,
+          "like_count": 11935,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 2462
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-05T22:46:06.000Z",
+        "description": "喜欢暧昧里的拉扯感   我主号：@linenbuguai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "linenbuguai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/linenbuguai",
+                "end": 23,
+                "expanded_url": "http://t.me/linenbuguai",
+                "start": 0,
+                "url": "https://t.co/WrUCRX9n7i"
+              }
+            ]
+          }
+        },
+        "id": "1103064167748173826",
+        "location": "16.9km  私人电报👉",
+        "name": "晚睡惯犯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055922937606344704/cCcLMOWB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 65,
+          "like_count": 8922,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 40
+        },
+        "url": "https://t.co/WrUCRX9n7i",
+        "username": "Thais66011141",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2009214083506294957",
+    "created_at": "2026-01-09T13:15:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T14:15:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009614998365175906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1998729188472389632",
+          "start": 0,
+          "username": "Aaap3tz"
+        },
+        {
+          "end": 25,
+          "id": "1880947236462616576",
+          "start": 9,
+          "username": "RuthanneSo92628"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009614998365175906",
+    "in_reply_to_user_id": "1998729188472389632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009614829380932083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aaap3tz @RuthanneSo92628 把我和狗排一块也是憋屈狗了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2009214083506294957",
+        "created_at": "2026-01-09T13:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T14:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009614998365175906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1998729188472389632",
+              "start": 0,
+              "username": "Aaap3tz"
+            },
+            {
+              "end": 25,
+              "id": "1880947236462616576",
+              "start": 9,
+              "username": "RuthanneSo92628"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009614998365175906",
+        "in_reply_to_user_id": "1998729188472389632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009614829380932083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aaap3tz @RuthanneSo92628 把我和狗排一块也是憋屈狗了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998729188472389632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2009214083506294957",
+        "created_at": "2026-01-09T13:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T14:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009614829380932083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "ZhiJiang0624"
+            },
+            {
+              "end": 30,
+              "id": "1880947236462616576",
+              "start": 14,
+              "username": "RuthanneSo92628"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009614829380932083",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009218719743201314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhiJiang0624 @RuthanneSo92628 暖男排狗后面"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一个偶尔变得哲学或者厌世的重度自闭男生。理想大概就是想尽自己的绵薄之力尽量缝补这个世界支离破碎的一面吧",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 243,
+          "like_count": 937,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 540
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T12:20:32.000Z",
+        "description": "",
+        "id": "1998729188472389632",
+        "name": "Augenstern",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998981494308773888/VJj7nY13_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 41,
+          "like_count": 343,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "Aaap3tz",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T11:55:54.000Z",
+        "description": "就不介绍了，都是自家人，就一个目的分享无聊的日常生活，寻找聊得来的搭子，全高中最沙雕的女人，有公的让我撩一下？（有🚪可验）",
+        "id": "1880947236462616576",
+        "name": "奥特之母",
+        "pinned_tweet_id": "2007761747223159213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905696285153460224/Adq5QrZF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64324,
+          "following_count": 0,
+          "like_count": 97,
+          "listed_count": 89,
+          "media_count": 312,
+          "tweet_count": 1473
+        },
+        "username": "RuthanneSo92628",
+        "verified": false
+      }
+    ]
+  }
+}

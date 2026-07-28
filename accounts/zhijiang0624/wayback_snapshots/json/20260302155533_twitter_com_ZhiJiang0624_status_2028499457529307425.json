@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2028499193523003417",
+    "created_at": "2026-03-02T15:55:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T16:55:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028499457529307425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2001821328584929280",
+          "start": 0,
+          "username": "cwmgdnn0305"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028499457529307425",
+    "in_reply_to_user_id": "2001821328584929280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028499193523003417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cwmgdnn0305 好好处理血渍并消毒吧\n血渍被发现了的话会很麻烦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1390,
+        "media_key": "3_2028499190314373120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCatRCHbEAA41Pl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2028499193523003417",
+        "created_at": "2026-03-02T15:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T16:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028499457529307425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2001821328584929280",
+              "start": 0,
+              "username": "cwmgdnn0305"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028499457529307425",
+        "in_reply_to_user_id": "2001821328584929280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028499193523003417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cwmgdnn0305 好好处理血渍并消毒吧\n血渍被发现了的话会很麻烦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028499190314373120"
+          ]
+        },
+        "author_id": "2001821328584929280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2028499193523003417",
+        "created_at": "2026-03-02T15:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T16:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028499193523003417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JoFYPsaGgh",
+              "end": 67,
+              "expanded_url": "https://x.com/cwmgdnn0305/status/2028499193523003417/photo/1",
+              "media_key": "3_2028499190314373120",
+              "start": 44,
+              "url": "https://t.co/JoFYPsaGgh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028499193523003417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学校的第一割呢(*¯︶¯*)（真是可惜只带了美工刀…好难受割不深…下次一定要好好准备） https://t.co/JoFYPsaGgh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 496,
+          "like_count": 4748,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1450
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-19T01:06:51.000Z",
+        "description": "餐券女   日常是一个非常温良的妹子可以随便找我倾诉哦   可以称呼我为楠楠   od💊喜欢右美（库存快没了，只能先o玉米片，虽然很苦但是解离带来的升天感好喜欢）感康（虽然很难受不过它给我的幻觉是难以想象的，喜欢）白兔，pr80（比较喜欢的，好幸福）你喜欢我＝我喜欢你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cwmgdnn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cwmgdnn",
+                "start": 0,
+                "url": "https://t.co/jtBG6h7WY2"
+              }
+            ]
+          }
+        },
+        "id": "2001821328584929280",
+        "location": "Tokyo-to, Japan",
+        "name": "…",
+        "pinned_tweet_id": "2022170822077722927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021498682844315648/hNPyW2zW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 187,
+          "like_count": 1338,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 326
+        },
+        "url": "https://t.co/jtBG6h7WY2",
+        "username": "cwmgdnn0305",
+        "verified": false
+      }
+    ]
+  }
+}

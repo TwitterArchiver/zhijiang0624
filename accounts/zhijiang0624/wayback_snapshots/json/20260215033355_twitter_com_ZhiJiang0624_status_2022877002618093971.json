@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2022591435930001843",
+    "created_at": "2026-02-15T03:33:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T04:33:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022877002618093971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1779149099084009472",
+          "start": 0,
+          "username": "MikuLoverr_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022877002618093971",
+    "in_reply_to_user_id": "1779149099084009472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022591435930001843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MikuLoverr_ 不把自己当人看也不把别人当人看，爱是什么鬼东西不认识"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2022591435930001843",
+        "created_at": "2026-02-15T03:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T04:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022877002618093971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1779149099084009472",
+              "start": 0,
+              "username": "MikuLoverr_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022877002618093971",
+        "in_reply_to_user_id": "1779149099084009472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022591435930001843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MikuLoverr_ 不把自己当人看也不把别人当人看，爱是什么鬼东西不认识"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779149099084009472",
+        "conversation_id": "2022591435930001843",
+        "created_at": "2026-02-14T08:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T09:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022591435930001843"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022591435930001843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 604,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做人缺爱\n做爱缺人\n真的只能二选一吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 318,
+          "like_count": 2594,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 835
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T14:06:24.000Z",
+        "description": "Miku单推人/抑郁疯癫二相体/SRS预备/音游痴迷（maimai，phi，arc，pjsk）/重庆09年17岁理科牲/mtf🏳️‍⚧️/里推 @HiddenEmmMiku 有照片，只过熟人/双相ADHD感统失调/恋人 @WikuWiku1911 /tips：本人玩梗不等同于自己实际立场",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 72,
+                "username": "HiddenEmmMiku"
+              },
+              {
+                "end": 123,
+                "start": 110,
+                "username": "WikuWiku1911"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ys-api.mihoyo.com/event/download…",
+                "end": 23,
+                "expanded_url": "https://ys-api.mihoyo.com/event/download_porter/link/ys_cn/official/android_default",
+                "start": 0,
+                "url": "https://t.co/rz5fLl4FbT"
+              }
+            ]
+          }
+        },
+        "id": "1779149099084009472",
+        "location": "劳资蜀道山",
+        "name": "emm❄️🥝",
+        "pinned_tweet_id": "1994783507596677183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007766586707648513/c_VucSAa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1485,
+          "following_count": 1125,
+          "like_count": 27989,
+          "listed_count": 11,
+          "media_count": 909,
+          "tweet_count": 13887
+        },
+        "url": "https://t.co/rz5fLl4FbT",
+        "username": "MikuLoverr_",
+        "verified": false
+      }
+    ]
+  }
+}

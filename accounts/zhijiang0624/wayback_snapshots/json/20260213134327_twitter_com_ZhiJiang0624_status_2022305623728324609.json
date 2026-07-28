@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2022040938898763929",
+    "created_at": "2026-02-13T13:43:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T14:43:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022305623728324609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1288520113230983168",
+          "start": 0,
+          "username": "AriUndefine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022305623728324609",
+    "in_reply_to_user_id": "1288520113230983168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022040938898763929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AriUndefine 未成年人的心智是还发育不完全的，辩识能力还不完整；而色情小说里大部分的情节都会多多少少脱离现实，导致他们的认知出现或多或少的问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2022040938898763929",
+        "created_at": "2026-02-13T13:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T14:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022305623728324609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1288520113230983168",
+              "start": 0,
+              "username": "AriUndefine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022305623728324609",
+        "in_reply_to_user_id": "1288520113230983168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022040938898763929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AriUndefine 未成年人的心智是还发育不完全的，辩识能力还不完整；而色情小说里大部分的情节都会多多少少脱离现实，导致他们的认知出现或多或少的问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1288520113230983168",
+        "conversation_id": "2022040938898763929",
+        "created_at": "2026-02-12T20:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T21:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022040938898763929"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022040938898763929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 22557,
+          "like_count": 280,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "想给未成年一个建议就是在能清晰地知道自己想要表达什么之前少看色情小说）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 289,
+          "like_count": 2294,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 739
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-29T17:01:58.000Z",
+        "description": "‖ 梦想是拥有一辆AE86 ‖ 休眠中 ‖ ㅍ ㅅ ㅍ ‖ 杂食 ‖日本語→翻訳機使ってます ‖",
+        "id": "1288520113230983168",
+        "name": "Ari",
+        "pinned_tweet_id": "1595885185547268097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990130518730625024/5NVVqLVs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3626,
+          "following_count": 108,
+          "like_count": 9176,
+          "listed_count": 12,
+          "media_count": 619,
+          "tweet_count": 3787
+        },
+        "username": "AriUndefine",
+        "verified": false
+      }
+    ]
+  }
+}

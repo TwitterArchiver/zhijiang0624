@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2028700245492711738",
+    "created_at": "2026-03-03T05:19:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T06:19:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028701708789149822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2022232330752925696",
+          "start": 0,
+          "username": "Meltss03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028701708789149822",
+    "in_reply_to_user_id": "2022232330752925696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028700245492711738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meltss03 为什么😳？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2028700245492711738",
+        "created_at": "2026-03-03T05:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T06:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028701708789149822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2022232330752925696",
+              "start": 0,
+              "username": "Meltss03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028701708789149822",
+        "in_reply_to_user_id": "2022232330752925696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028700245492711738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meltss03 为什么😳？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022232330752925696",
+        "conversation_id": "2028700245492711738",
+        "created_at": "2026-03-03T05:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T06:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028700245492711738"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028700245492711738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我鄙视每个姐弟家庭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 505,
+          "like_count": 4906,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1472
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T08:56:27.000Z",
+        "description": "一个转世七级恶灵胎儿的碎碎咒怨，我会一直盯着你哟…👁️👁️ 没网感的土逼不要评论关注我我是说永远",
+        "id": "2022232330752925696",
+        "name": "CO₂",
+        "pinned_tweet_id": "2026636031663980992",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1132,
+          "following_count": 34,
+          "like_count": 1028,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1596
+        },
+        "username": "Meltss03",
+        "verified": false
+      }
+    ]
+  }
+}

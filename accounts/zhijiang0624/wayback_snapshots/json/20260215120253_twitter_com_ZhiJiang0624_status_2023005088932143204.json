@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2022957119537053925",
+    "created_at": "2026-02-15T12:02:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T13:02:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023005088932143204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1219911575898734593",
+          "start": 0,
+          "username": "PgLegendary"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023005088932143204",
+    "in_reply_to_user_id": "1219911575898734593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022957119537053925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PgLegendary 谢谢你，感恩！\n✋   ✋\n   😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_2022957116986945537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBL8x6Ha8AEQTcj.jpg",
+        "width": 2080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2022957119537053925",
+        "created_at": "2026-02-15T12:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T13:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023005088932143204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1219911575898734593",
+              "start": 0,
+              "username": "PgLegendary"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023005088932143204",
+        "in_reply_to_user_id": "1219911575898734593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022957119537053925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PgLegendary 谢谢你，感恩！\n✋   ✋\n   😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022957116986945537"
+          ]
+        },
+        "author_id": "1219911575898734593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2022957119537053925",
+        "created_at": "2026-02-15T08:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T09:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022957119537053925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vcDmlENOtL",
+              "end": 103,
+              "expanded_url": "https://x.com/PgLegendary/status/2022957119537053925/photo/1",
+              "media_key": "3_2022957116986945537",
+              "start": 80,
+              "url": "https://t.co/vcDmlENOtL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022957119537053925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 984,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "【服务通知】\n您好，您于2026年2月23日22:41购买的“如果能够回到春节前几天就好了”服务现已生效，感谢您对本公司的支持，期待下次能为您带来更好的服务。 https://t.co/vcDmlENOtL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 319,
+          "like_count": 2671,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 858
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-22T09:16:14.000Z",
+        "description": "男的/伸手党下体人鉴证直接屏蔽/无糖/已有主/欢迎同好贴贴/是恶心丑陋油腻肥宅跟啥笔一样全是照骗/不卖账号且不接广/互关务必私信/和我相关的其他人发表的涉政内容不代表本人看法",
+        "id": "1219911575898734593",
+        "name": "Migratio",
+        "pinned_tweet_id": "1696004678247453102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944724415343919104/Grv443NH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9046,
+          "following_count": 611,
+          "like_count": 5109,
+          "listed_count": 32,
+          "media_count": 205,
+          "tweet_count": 1135
+        },
+        "username": "PgLegendary",
+        "verified": false
+      }
+    ]
+  }
+}

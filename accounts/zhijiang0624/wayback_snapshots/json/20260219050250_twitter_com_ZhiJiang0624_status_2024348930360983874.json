@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2023939354901774711",
+    "created_at": "2026-02-19T05:02:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T06:02:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024348930360983874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1700917352064561152",
+          "start": 0,
+          "username": "jing1234560"
+        },
+        {
+          "end": 19,
+          "id": "1646704599167041537",
+          "start": 13,
+          "username": "xsnez"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024348930360983874",
+    "in_reply_to_user_id": "1700917352064561152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024255551526621426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jing1234560 @xsnez 帮你举报了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2023939354901774711",
+        "created_at": "2026-02-19T05:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T06:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024348930360983874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1700917352064561152",
+              "start": 0,
+              "username": "jing1234560"
+            },
+            {
+              "end": 19,
+              "id": "1646704599167041537",
+              "start": 13,
+              "username": "xsnez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024348930360983874",
+        "in_reply_to_user_id": "1700917352064561152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024255551526621426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jing1234560 @xsnez 帮你举报了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700917352064561152",
+        "conversation_id": "2023939354901774711",
+        "created_at": "2026-02-18T22:51:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T23:51:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024255551526621426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1646704599167041537",
+              "start": 0,
+              "username": "xsnez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024255551526621426",
+        "in_reply_to_user_id": "1646704599167041537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023939354901774711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xsnez 一直盗图没完没了了啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 424,
+          "like_count": 3570,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1245
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T17:01:20.000Z",
+        "description": "🌈卧槽尼玛我的人生怎么变成县城小太妹了 过门请私信🚪88块钱 小号@xingyi1234560 推广自辨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "xingyi1234560"
+              }
+            ]
+          }
+        },
+        "id": "1700917352064561152",
+        "location": "在苞米地里务农",
+        "name": "恋痛症Z",
+        "pinned_tweet_id": "2010703913289490783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784554850753400832/oPoWwB4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5900,
+          "following_count": 118,
+          "like_count": 10362,
+          "listed_count": 11,
+          "media_count": 260,
+          "tweet_count": 5553
+        },
+        "username": "jing1234560",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-14T02:39:14.000Z",
+        "description": "bitch!!🫀🔪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/xsnez/status/2…",
+                "end": 23,
+                "expanded_url": "https://x.com/xsnez/status/2020384046636019894?s=46",
+                "start": 0,
+                "url": "https://t.co/1Fd9ndtHow"
+              }
+            ]
+          }
+        },
+        "id": "1646704599167041537",
+        "name": "zera",
+        "pinned_tweet_id": "2020806554967032080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020236641466789888/Hu4pJ2hl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1691,
+          "following_count": 33,
+          "like_count": 4366,
+          "listed_count": 21,
+          "media_count": 9,
+          "tweet_count": 932
+        },
+        "url": "https://t.co/1Fd9ndtHow",
+        "username": "xsnez",
+        "verified": false
+      }
+    ]
+  }
+}

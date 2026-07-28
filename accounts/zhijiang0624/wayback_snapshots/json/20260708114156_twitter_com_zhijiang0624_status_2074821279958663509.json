@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2074520596764069932",
+    "created_at": "2026-07-08T11:41:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T12:41:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074821279958663509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1112715535454597121",
+          "start": 0,
+          "username": "Secret0518king0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074821279958663509",
+    "in_reply_to_user_id": "1112715535454597121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074520596764069932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Secret0518king0 光是想象就能感受到绝望了（大悲）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2074520596764069932",
+        "created_at": "2026-07-08T11:41:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074821279958663509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1112715535454597121",
+              "start": 0,
+              "username": "Secret0518king0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074821279958663509",
+        "in_reply_to_user_id": "1112715535454597121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074520596764069932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Secret0518king0 光是想象就能感受到绝望了（大悲）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1112715535454597121",
+        "conversation_id": "2074520596764069932",
+        "created_at": "2026-07-07T15:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074520596764069932"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074520596764069932",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2979,
+          "impression_count": 10819214,
+          "like_count": 118313,
+          "quote_count": 317,
+          "reply_count": 1182,
+          "retweet_count": 2232
+        },
+        "reply_settings": "everyone",
+        "text": "ぶちころすぞ\n酔っ払いの女の子おんぶして\nそいつの家まで送ってたら\n脳天おゲロゲロされて\n泣きながらインターホン鳴らしたら彼氏さん出てきて\n哀れみの目でお風呂入りますか言われたよ\n死にてぇ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 744,
+          "like_count": 13297,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 2683
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-01T13:57:11.000Z",
+        "description": "毎シーズン不動の納棺師1位 納棺師勝利数7300回使用回数20000越え納棺師最高認知獲得者 まる丸杯2nd納棺師代表×CCC納棺師代表2024夏IVT2位 YUI CUP2位都道府県対抗3位ICC2×影鴉監督&リーダーしています ご連絡はメールでお待ちしてます。FA #納棺K 趣味垢 @ketasecret",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 139,
+                "start": 135,
+                "tag": "納棺K"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 155,
+                "start": 144,
+                "username": "ketasecret"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "allmylinks.com/secret0518king0",
+                "end": 23,
+                "expanded_url": "https://allmylinks.com/secret0518king0",
+                "start": 0,
+                "url": "https://t.co/hWnMo2pRq0"
+              }
+            ]
+          }
+        },
+        "id": "1112715535454597121",
+        "location": "取説→不動の納棺師１位",
+        "name": "Ke汰@YouTube",
+        "pinned_tweet_id": "1943071520932425952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063166913950449664/uJ655vWN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2747,
+          "following_count": 183,
+          "like_count": 2653,
+          "listed_count": 11,
+          "media_count": 1640,
+          "tweet_count": 6069
+        },
+        "url": "https://t.co/hWnMo2pRq0",
+        "username": "Secret0518king0",
+        "verified": false
+      }
+    ]
+  }
+}

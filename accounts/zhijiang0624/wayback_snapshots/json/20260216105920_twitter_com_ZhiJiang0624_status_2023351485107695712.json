@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2023337168568254783",
+    "created_at": "2026-02-16T10:59:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T11:59:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023351485107695712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1960765882348789762",
+          "start": 0,
+          "username": "duoduosamaQvQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023351485107695712",
+    "in_reply_to_user_id": "1960765882348789762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023337168568254783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duoduosamaQvQ 除夕快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2023337168568254783",
+        "created_at": "2026-02-16T10:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T11:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023351485107695712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1960765882348789762",
+              "start": 0,
+              "username": "duoduosamaQvQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023351485107695712",
+        "in_reply_to_user_id": "1960765882348789762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023337168568254783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duoduosamaQvQ 除夕快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960765882348789762",
+        "conversation_id": "2023337168568254783",
+        "created_at": "2026-02-16T10:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T11:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023337168568254783"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023337168568254783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "除夕快乐宝宝们~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 357,
+          "like_count": 3018,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1063
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-27T18:06:54.000Z",
+        "description": "分享日常丨08丨不线下不约纯绿丨周更朵朵腿照or其他丨懒懒懒",
+        "id": "1960765882348789762",
+        "location": "O_o",
+        "name": "朵朵占领世界",
+        "pinned_tweet_id": "1992990145084363155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975630833957675012/rQfTsRoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1762,
+          "following_count": 19,
+          "like_count": 1518,
+          "listed_count": 4,
+          "media_count": 57,
+          "tweet_count": 561
+        },
+        "username": "duoduosamaQvQ",
+        "verified": false
+      }
+    ]
+  }
+}

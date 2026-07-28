@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2021137000217313332",
+    "created_at": "2026-02-14T16:55:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T17:55:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022716455217958948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1647815138450505730",
+          "start": 0,
+          "username": "yaming00742313"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022716455217958948",
+    "in_reply_to_user_id": "1647815138450505730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021137000217313332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yaming00742313 因为现在互联网的发展让有目的的寻找变得困难，又因为大多数人在心情差的时候都会变懒，所以就直接地图炮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021136996836712448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAyFY-LaIAAAUv5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2021137000217313332",
+        "created_at": "2026-02-14T16:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T17:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022716455217958948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1647815138450505730",
+              "start": 0,
+              "username": "yaming00742313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022716455217958948",
+        "in_reply_to_user_id": "1647815138450505730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021137000217313332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaming00742313 因为现在互联网的发展让有目的的寻找变得困难，又因为大多数人在心情差的时候都会变懒，所以就直接地图炮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021136996836712448"
+          ]
+        },
+        "author_id": "1647815138450505730",
+        "conversation_id": "2021137000217313332",
+        "created_at": "2026-02-10T08:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T09:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021137000217313332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ihe80W2Yru",
+              "end": 95,
+              "expanded_url": "https://x.com/yaming00742313/status/2021137000217313332/photo/1",
+              "media_key": "3_2021136996836712448",
+              "start": 72,
+              "url": "https://t.co/Ihe80W2Yru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021137000217313332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "人们什么时候才能意识到要爱具体的人，恨具体的人，而不是根据某一标签就一棒子打死所有人，当你对某一群体有好人滤镜或坏人滤镜时，本质只是底层互害。\n当然，由创伤产生的对某一特质的阴影是必须被允许的，但你也要知道，被你由于你的创伤而伤害的人没有义务为你负责，更没有义务承受毫无根据的恶意，你们甚至可能只是萍水相逢的陌生人。\n所以，“做纯粹的人，做具体的事”也是我们一直以来的行事风格吧，尽管过程曲折，但找我们求助的人，请记住，我爱你与你何干?你恨我，亦与我无关。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 6476,
+          "like_count": 181,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "人们什么时候才能意识到要爱具体的人，恨具体的人，而不是根据某一标签就一棒子打死所有人，当你对某一群体有好人滤镜或坏人滤镜时，本质只是底层互害。 https://t.co/Ihe80W2Yru"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 308,
+          "like_count": 2475,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 803
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T04:12:24.000Z",
+        "description": "愿我们都能于光明中得救，愿我们会在站在自由的土壤上，再次相见。",
+        "id": "1647815138450505730",
+        "location": "与你同在",
+        "name": "yaming（雨中高歌死）",
+        "pinned_tweet_id": "1957361981465522636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877370976075395073/rQXoY9aN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12208,
+          "following_count": 1559,
+          "like_count": 7226,
+          "listed_count": 30,
+          "media_count": 363,
+          "tweet_count": 2623
+        },
+        "username": "yaming00742313",
+        "verified": false
+      }
+    ]
+  }
+}

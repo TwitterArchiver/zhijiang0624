@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2073053406630162830",
+    "created_at": "2026-07-03T22:38:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T23:38:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073174688755601834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2063547270730313728",
+          "start": 0,
+          "username": "Lyracutevibes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073174688755601834",
+    "in_reply_to_user_id": "2063547270730313728",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073053406630162830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lyracutevibes The probability is low, but it's not completely impossible.\nTwo of my teachers were once in a long-distance relationship, and now their lives are going very well."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2073053406630162830",
+        "created_at": "2026-07-03T22:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T23:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073174688755601834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2063547270730313728",
+              "start": 0,
+              "username": "Lyracutevibes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073174688755601834",
+        "in_reply_to_user_id": "2063547270730313728",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073053406630162830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lyracutevibes The probability is low, but it's not completely impossible.\nTwo of my teachers were once in a long-distance relationship, and now their lives are going very well."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063547270730313728",
+        "conversation_id": "2073053406630162830",
+        "created_at": "2026-07-03T14:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T15:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073053406630162830"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073053406630162830",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4630,
+          "like_count": 61,
+          "quote_count": 13,
+          "reply_count": 49,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "do you think long distance relationships can work?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 723,
+          "like_count": 12931,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 2636
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-07T09:05:29.000Z",
+        "description": "|21• looking for moots • say hi & •be friends|",
+        "id": "2063547270730313728",
+        "name": "Lyra",
+        "pinned_tweet_id": "2073053406630162830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063553442552184832/WGJpKPfn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 180,
+          "like_count": 267,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 199
+        },
+        "url": "",
+        "username": "Lyracutevibes",
+        "verified": true
+      }
+    ]
+  }
+}

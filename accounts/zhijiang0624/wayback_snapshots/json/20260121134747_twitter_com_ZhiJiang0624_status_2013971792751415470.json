@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2013967566780215697",
+    "created_at": "2026-01-21T13:47:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T14:47:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013971792751415470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1947257774267830272",
+          "start": 0,
+          "username": "RitchaShirayuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013971792751415470",
+    "in_reply_to_user_id": "1947257774267830272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013967566780215697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RitchaShirayuki おやすみ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2013967566780215697",
+        "created_at": "2026-01-21T13:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T14:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013971792751415470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1947257774267830272",
+              "start": 0,
+              "username": "RitchaShirayuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013971792751415470",
+        "in_reply_to_user_id": "1947257774267830272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013967566780215697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RitchaShirayuki おやすみ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947257774267830272",
+        "conversation_id": "2013967566780215697",
+        "created_at": "2026-01-21T13:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T14:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013967566780215697"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013967566780215697",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "みんなおやすみ🐬📷 ̖́- ꯁꯧᵃⁿᵈ↪︎ᵃⁿᵈ✎☡ よろしくね·͜· ꕤ︎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "你他妈的到底是谁？！莫名其妙跑到我的脑子里来做些莫名其妙的事！草你妈杀了你！",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 324,
+          "like_count": 1567,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 615
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-21T11:31:06.000Z",
+        "description": "高校生┊︎♀┊︎病み垢フォロバ┊︎ヤンデレ┊︎出会い厨✖︎┊︎ADHD┊︎躁鬱┊︎タメ️○┊︎DM○┊︎通話✖︎\n\nど〜も！りっちゃって呼んでください！\nボカロ好きです！VTuberも分かります！\n推しは優里、Orangestar、ヨルシカ……etc\n\n最推し曲はヨルシカの「逃亡」",
+        "id": "1947257774267830272",
+        "location": "私君の事だーいすきだよ？",
+        "name": "꒰𑁬✟白雪りっちゃ✟໒꒱ ฅ^•ω•^ฅ",
+        "pinned_tweet_id": "1962356586510426293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962353747545477121/yCAFpYWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2406,
+          "following_count": 2347,
+          "like_count": 3489,
+          "listed_count": 12,
+          "media_count": 22,
+          "tweet_count": 897
+        },
+        "username": "RitchaShirayuki",
+        "verified": false
+      }
+    ]
+  }
+}

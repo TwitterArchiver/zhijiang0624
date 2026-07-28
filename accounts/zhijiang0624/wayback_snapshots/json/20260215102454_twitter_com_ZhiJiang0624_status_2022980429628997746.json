@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2022979169609814275",
+    "created_at": "2026-02-15T10:24:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T11:24:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022980429628997746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1942907786385604608",
+          "start": 0,
+          "username": "MeowChillECK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022980429628997746",
+    "in_reply_to_user_id": "1942907786385604608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022979169609814275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeowChillECK 不想接纳别人的负面情绪也是一种合理的自我保护"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2022979169609814275",
+        "created_at": "2026-02-15T10:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T11:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022980429628997746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1942907786385604608",
+              "start": 0,
+              "username": "MeowChillECK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022980429628997746",
+        "in_reply_to_user_id": "1942907786385604608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022979169609814275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeowChillECK 不想接纳别人的负面情绪也是一种合理的自我保护"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942907786385604608",
+        "conversation_id": "2022979169609814275",
+        "created_at": "2026-02-15T10:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T11:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022979169609814275"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022979169609814275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎又哭，我一听别人哭就要绝望了，讲讲讲我受不了了，呜呜，哭什么哭，我还没有哭呢，全都是因为我吗，还有你呢，哭什么哭，我不安慰你了，我觉得你错的，你羡慕别人开开心心过年自己眼泪水过年，同情自己，同情世界，那我还没有开始哭呢，越想越委屈是不是，那你自己哭的，好绝望"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 319,
+          "like_count": 2644,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 846
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T11:25:05.000Z",
+        "description": "喜欢狗  找我玩好吗",
+        "id": "1942907786385604608",
+        "name": "战利品公主",
+        "pinned_tweet_id": "2020492734235291781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002706169572499456/mqxHCNx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 57,
+          "like_count": 552,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 80
+        },
+        "username": "MeowChillECK",
+        "verified": false
+      }
+    ]
+  }
+}

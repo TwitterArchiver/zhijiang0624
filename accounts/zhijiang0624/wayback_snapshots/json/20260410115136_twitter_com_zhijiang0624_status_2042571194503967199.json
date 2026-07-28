@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2040437408672411952",
+    "created_at": "2026-04-10T11:51:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T12:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042571194503967199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1945375974419529728",
+          "start": 0,
+          "username": "xngchn351390"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042571194503967199",
+    "in_reply_to_user_id": "1945375974419529728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040437408672411952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xngchn351390 我弄了个oc也叫星泪\n「星星的眼泪」\n多美好\n又多悲伤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2040437408672411952",
+        "created_at": "2026-04-10T11:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042571194503967199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1945375974419529728",
+              "start": 0,
+              "username": "xngchn351390"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042571194503967199",
+        "in_reply_to_user_id": "1945375974419529728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040437408672411952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xngchn351390 我弄了个oc也叫星泪\n「星星的眼泪」\n多美好\n又多悲伤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945375974419529728",
+        "conversation_id": "2040437408672411952",
+        "created_at": "2026-04-04T14:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T15:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040437408672411952"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040437408672411952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "万物皆空，而我，大概是苦瓜里最苦的那个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 654,
+          "like_count": 10123,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 2117
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-16T06:52:38.000Z",
+        "description": "",
+        "id": "1945375974419529728",
+        "name": "星泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035863428326113280/6fBruEi5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 18,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 18
+        },
+        "username": "xngchn351390",
+        "verified": false
+      }
+    ]
+  }
+}

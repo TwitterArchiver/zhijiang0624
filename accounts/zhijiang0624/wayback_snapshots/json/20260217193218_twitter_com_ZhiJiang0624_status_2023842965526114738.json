@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2014455721589669968",
+    "created_at": "2026-02-17T19:32:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T20:32:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023842965526114738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1773041626581221376",
+          "start": 0,
+          "username": "Nikikiki8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023842965526114738",
+    "in_reply_to_user_id": "1773041626581221376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014455721589669968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nikikiki8964 所以找到一个适合自己的方向才是当务之急"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2014455721589669968",
+        "created_at": "2026-02-17T19:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T20:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023842965526114738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1773041626581221376",
+              "start": 0,
+              "username": "Nikikiki8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023842965526114738",
+        "in_reply_to_user_id": "1773041626581221376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014455721589669968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nikikiki8964 所以找到一个适合自己的方向才是当务之急"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773041626581221376",
+        "conversation_id": "2014455721589669968",
+        "created_at": "2026-01-22T21:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T22:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014455721589669968"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014455721589669968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 277,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我完全无法从比烂中获得快乐，别人更烂更精神病更混乱更失败不能让我爽，看见别人恋爱被垃圾pua交友被背刺买房生子被套牢名校高材生被突然辞退我都笑不出来，我怕下一个是我，这些只让我感到世间疾苦和更大的悲凉，我永远都只渴望不烂的人生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 419,
+          "like_count": 3416,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1190
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T17:37:30.000Z",
+        "description": "个人想法储存站｜同人女｜虚拟性恋尊厌｜回关交友随缘｜有事提问箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%A5%BF%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%A5%BF%E7%93%9C%E6%8A%95%E6%89%8B",
+                "start": 0,
+                "url": "https://t.co/ujX5HCo8rR"
+              }
+            ]
+          }
+        },
+        "id": "1773041626581221376",
+        "location": "匿名提问箱→",
+        "name": "赛博葵花鹦鹉",
+        "pinned_tweet_id": "1983110926908961278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018744150007730176/OEgu-nth_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1548,
+          "following_count": 116,
+          "like_count": 85399,
+          "listed_count": 7,
+          "media_count": 64,
+          "tweet_count": 263
+        },
+        "url": "https://t.co/ujX5HCo8rR",
+        "username": "Nikikiki8964",
+        "verified": false
+      }
+    ]
+  }
+}

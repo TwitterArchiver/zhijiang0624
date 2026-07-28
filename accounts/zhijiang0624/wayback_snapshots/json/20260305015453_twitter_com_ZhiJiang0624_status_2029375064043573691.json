@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2029369672475586918",
+    "created_at": "2026-03-05T01:54:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T02:54:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029375064043573691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1739391734491086848",
+          "start": 0,
+          "username": "IXXA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029375064043573691",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029369672475586918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IXXA00 ✋😭✋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2029369672475586918",
+        "created_at": "2026-03-05T01:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T02:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029375064043573691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029375064043573691",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029369672475586918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 ✋😭✋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2029369672475586918",
+        "created_at": "2026-03-05T01:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T02:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029369672475586918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/moremoreagain/…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/moremoreagain/status/2029341555925148099",
+              "start": 78,
+              "url": "https://t.co/zDww3fUYJg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029369672475586918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029341555925148099",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "晚了，9点半全民就开始全球往isla老师身上充值就会亿倍返还系统，上一世我骗了isla老师5块直接九族破产，这一世，我要拿回属于我的一切。\n等下本小说吧。 https://t.co/zDww3fUYJg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 536,
+          "like_count": 5864,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 1622
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "你好，我是麦的。",
+        "id": "1739391734491086848",
+        "location": "isla滞销，帮帮我们😭",
+        "name": "客服isla",
+        "pinned_tweet_id": "2016421959370997852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027493703355666436/vIFrlKZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5766,
+          "following_count": 4479,
+          "like_count": 36147,
+          "listed_count": 14,
+          "media_count": 2628,
+          "tweet_count": 36294
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2022856704539472364",
+    "created_at": "2026-02-16T02:20:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T03:20:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023220832785273015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2009594484989026307",
+          "start": 0,
+          "username": "XiuJingDe953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023220832785273015",
+    "in_reply_to_user_id": "2009594484989026307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022856704539472364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiuJingDe953 我姐也是，高中复读了一年考上了一本大学，但是高中读了四年我家里就骂了四年，大一还在骂，后来我姐忍不了了打直球了家里才闭嘴了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2022856704539472364",
+        "created_at": "2026-02-16T02:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T03:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023220832785273015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2009594484989026307",
+              "start": 0,
+              "username": "XiuJingDe953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023220832785273015",
+        "in_reply_to_user_id": "2009594484989026307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022856704539472364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiuJingDe953 我姐也是，高中复读了一年考上了一本大学，但是高中读了四年我家里就骂了四年，大一还在骂，后来我姐忍不了了打直球了家里才闭嘴了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009594484989026307",
+        "conversation_id": "2022856704539472364",
+        "created_at": "2026-02-15T02:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T03:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022856704539472364"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022856704539472364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1187,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我妈给我生活费的时候总有点不情不愿，按她之前说话的逻辑大概是:老一辈都没给她怎么花钱，所以按理来讲她也不该给我花钱，只是因为她心善才给我钱花\n但生儿育女本来就得花钱呀，老一辈人不给她花钱是因为他们重男轻女或者说他们能力不足，但不代表我也该接受相同待遇\n有时候想到这些传统观念就无力唉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 336,
+          "like_count": 2861,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1002
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T11:54:09.000Z",
+        "description": "这是我的内脏",
+        "id": "2009594484989026307",
+        "location": "网络世界",
+        "name": "修靖德",
+        "pinned_tweet_id": "2009597299635446139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016005313074192384/9y9kfA1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 80,
+          "like_count": 351,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 184
+        },
+        "username": "XiuJingDe953",
+        "verified": false
+      }
+    ]
+  }
+}

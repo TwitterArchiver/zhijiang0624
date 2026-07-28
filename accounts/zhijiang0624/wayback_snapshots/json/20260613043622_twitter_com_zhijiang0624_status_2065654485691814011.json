@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2064306968014344572",
+    "created_at": "2026-06-13T04:36:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T05:36:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065654485691814011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1953485481691516928",
+          "start": 0,
+          "username": "khb3i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065654485691814011",
+    "in_reply_to_user_id": "1953485481691516928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064306968014344572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@khb3i 好熟悉的方言……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2064306968014344572",
+        "created_at": "2026-06-13T04:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T05:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065654485691814011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1953485481691516928",
+              "start": 0,
+              "username": "khb3i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065654485691814011",
+        "in_reply_to_user_id": "1953485481691516928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064306968014344572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@khb3i 好熟悉的方言……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953485481691516928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1400493319017222145",
+              "name": "Chain restaurants"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407432451467538432",
+              "name": "Family restaurants"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407775051349299200",
+              "name": "Saizeriya"
+            }
+          }
+        ],
+        "conversation_id": "2064306968014344572",
+        "created_at": "2026-06-09T11:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064306968014344572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bessy1037965/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/bessy1037965/status/2064268703223759185",
+              "start": 5,
+              "url": "https://t.co/y5Jo4b3KXy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064306968014344572",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 835,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064268703223759185",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "日你先人 https://t.co/y5Jo4b3KXy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 702,
+          "like_count": 12486,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2591
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-07T15:56:52.000Z",
+        "description": "绞尽脑汁想不出来",
+        "id": "1953485481691516928",
+        "name": "悲伤的农村入",
+        "pinned_tweet_id": "1953491435665428810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062345881366753280/plj-aCJa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 2,
+          "like_count": 77,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 22
+        },
+        "username": "khb3i",
+        "verified": false
+      }
+    ]
+  }
+}

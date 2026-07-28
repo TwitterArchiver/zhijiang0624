@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2006523275359535500",
+    "created_at": "2026-01-01T05:18:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T06:18:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006595782796022074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1694988381619712000",
+          "start": 0,
+          "username": "chronicpsycho_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006595782796022074",
+    "in_reply_to_user_id": "1694988381619712000",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006523275359535500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chronicpsycho_ Please take good care of her."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2006523275359535500",
+        "created_at": "2026-01-01T05:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T06:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006595782796022074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1694988381619712000",
+              "start": 0,
+              "username": "chronicpsycho_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006595782796022074",
+        "in_reply_to_user_id": "1694988381619712000",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006523275359535500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chronicpsycho_ Please take good care of her."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694988381619712000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2006523275359535500",
+        "created_at": "2026-01-01T00:30:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T01:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006523275359535500"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006523275359535500",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 15358,
+          "like_count": 989,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "possibly losing another friend to suicide on new years wasn’t what I expected.\n\nplease stay alive."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一个偶尔变得哲学或者厌世的重度自闭男生。理想大概就是想尽自己的绵薄之力尽量缝补这个世界支离破碎的一面吧",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730476491866349568/7MFnijBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 159,
+          "like_count": 460,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 338
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-25T08:21:57.000Z",
+        "description": "virtual diary I inpatient treatment since 2021 I PRO-recovery I disabled+AuDHD+chronically+mentally ill",
+        "id": "1694988381619712000",
+        "location": "this is how i cope 💔💔",
+        "name": "idk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971356163091595264/0wCpIXEB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56262,
+          "following_count": 2392,
+          "like_count": 7918,
+          "listed_count": 40,
+          "media_count": 1810,
+          "tweet_count": 7918
+        },
+        "username": "chronicpsycho_",
+        "verified": false
+      }
+    ]
+  }
+}

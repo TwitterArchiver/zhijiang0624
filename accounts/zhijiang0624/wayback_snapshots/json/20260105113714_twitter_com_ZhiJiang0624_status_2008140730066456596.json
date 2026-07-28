@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2008140715017342976"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "conversation_id": "2008140730066456596",
+    "created_at": "2026-01-05T11:37:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T12:37:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008140730066456596"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/utxlwnpkyw",
+          "end": 33,
+          "expanded_url": "https://x.com/ZhiJiang0624/status/2008140730066456596/photo/1",
+          "media_key": "3_2008140715017342976",
+          "start": 10,
+          "url": "https://t.co/utxlwnpkyw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008140730066456596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的道路属于我自己 https://t.co/utxlwnpkyw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1438,
+        "media_key": "3_2008140715017342976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G95ZVzmbkAArCKR.jpg",
+        "width": 956
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008140715017342976"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "conversation_id": "2008140730066456596",
+        "created_at": "2026-01-05T11:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T12:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008140730066456596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/utxlwnpkyw",
+              "end": 33,
+              "expanded_url": "https://x.com/ZhiJiang0624/status/2008140730066456596/photo/1",
+              "media_key": "3_2008140715017342976",
+              "start": 10,
+              "url": "https://t.co/utxlwnpkyw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008140730066456596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的道路属于我自己 https://t.co/utxlwnpkyw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一个偶尔变得哲学或者厌世的重度自闭男生。理想大概就是想尽自己的绵薄之力尽量缝补这个世界支离破碎的一面吧",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 170,
+          "like_count": 643,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 439
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      }
+    ]
+  }
+}

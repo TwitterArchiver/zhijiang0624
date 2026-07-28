@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2024717724660998239",
+    "created_at": "2026-02-20T10:00:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T11:00:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024786191506354610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1819394939354316800",
+          "start": 0,
+          "username": "joyfulframes"
+        },
+        {
+          "end": 24,
+          "id": "1414146868049715202",
+          "start": 14,
+          "username": "BQnanqiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024786191506354610",
+    "in_reply_to_user_id": "1819394939354316800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024753445748801741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@joyfulframes @BQnanqiao 早恋不是时间段的早，而是在还不能负起责任的情况下的放纵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2024717724660998239",
+        "created_at": "2026-02-20T10:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T11:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024786191506354610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1819394939354316800",
+              "start": 0,
+              "username": "joyfulframes"
+            },
+            {
+              "end": 24,
+              "id": "1414146868049715202",
+              "start": 14,
+              "username": "BQnanqiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024786191506354610",
+        "in_reply_to_user_id": "1819394939354316800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024753445748801741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@joyfulframes @BQnanqiao 早恋不是时间段的早，而是在还不能负起责任的情况下的放纵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819394939354316800",
+        "conversation_id": "2024717724660998239",
+        "created_at": "2026-02-20T07:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T08:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024753445748801741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1414146868049715202",
+              "start": 0,
+              "username": "BQnanqiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024753445748801741",
+        "in_reply_to_user_id": "1414146868049715202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1988,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024717724660998239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BQnanqiao 禁止早恋的最大副作用，就是把“早恋”逼成了“早孕”。你不让孩子学怎么爱，他们就只能用最原始的方式证明自己长大了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 426,
+          "like_count": 3659,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1265
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-02T15:29:43.000Z",
+        "description": "用文字与镜头，拾取人间最细碎的微光：普通人的喜悦、疲惫、坚持，和那些转瞬即逝的小确幸。愿你在这里，寻得温暖、快乐、释然与力量。",
+        "id": "1819394939354316800",
+        "location": "Earth",
+        "name": "一帧人间",
+        "pinned_tweet_id": "2024459904422203581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013597846205784064/GzFx_FlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6023,
+          "following_count": 2731,
+          "like_count": 1519,
+          "listed_count": 8,
+          "media_count": 172,
+          "tweet_count": 1744
+        },
+        "username": "joyfulframes",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-11T08:57:54.000Z",
+        "description": "两轮牛熊经历，2025年8月19日高点清仓，带领群友完美避开10月11日全网200亿U爆仓黑天鹅。盈利达到A7，牛顶套现第一人。\n\n◉ ok钱包邀请码：987987\n◉邀请链接：https://t.co/qAHqStIY5N",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "web3.okx.com/join/987987",
+                "end": 112,
+                "expanded_url": "https://web3.okx.com/join/987987",
+                "start": 89,
+                "url": "https://t.co/qAHqStIY5N"
+              }
+            ]
+          }
+        },
+        "id": "1414146868049715202",
+        "location": "English",
+        "name": "BQ南乔",
+        "pinned_tweet_id": "1962139622282305908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955396959772282880/ny2n_4-5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28420,
+          "following_count": 176,
+          "like_count": 25175,
+          "listed_count": 229,
+          "media_count": 685,
+          "tweet_count": 15658
+        },
+        "username": "BQnanqiao",
+        "verified": true
+      }
+    ]
+  }
+}

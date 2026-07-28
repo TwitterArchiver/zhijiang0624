@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2046929669887562156",
+    "created_at": "2026-04-22T13:13:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T14:13:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046940394475471333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1285630764185292800",
+          "start": 0,
+          "username": "Rin53__03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046940394475471333",
+    "in_reply_to_user_id": "1285630764185292800",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046929669887562156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rin53__03 😨😨😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2046929669887562156",
+        "created_at": "2026-04-22T13:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T14:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046940394475471333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1285630764185292800",
+              "start": 0,
+              "username": "Rin53__03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046940394475471333",
+        "in_reply_to_user_id": "1285630764185292800",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046929669887562156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rin53__03 😨😨😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1285630764185292800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "2046929669887562156",
+        "created_at": "2026-04-22T12:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T13:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046929669887562156"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046929669887562156",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "何故か足の筋力だけバグなので\nジムのレッグプレス普通に40キロあげてる\n（チョコザップで女性の目安は確か20キロ）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 663,
+          "like_count": 10854,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 2196
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-21T17:41:29.000Z",
+        "description": "🗼| 20↑|鳴潮|HoYovers|🌈🕒 Sub→@mmnkrng 💌mmnkrng@gmail.com\n🍑🐈🍎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "mmnkrng"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/rin5303",
+                "end": 23,
+                "expanded_url": "https://lit.link/rin5303",
+                "start": 0,
+                "url": "https://t.co/FPN3am1GXJ"
+              }
+            ]
+          }
+        },
+        "id": "1285630764185292800",
+        "location": "DMは写真と連絡事項のみ",
+        "name": "桃猫りんご　ニコ超4/25",
+        "pinned_tweet_id": "2043284319230447781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007045613087772672/d37tABcw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4269,
+          "following_count": 433,
+          "like_count": 99817,
+          "listed_count": 118,
+          "media_count": 931,
+          "tweet_count": 34554
+        },
+        "url": "https://t.co/FPN3am1GXJ",
+        "username": "Rin53__03",
+        "verified": true
+      }
+    ]
+  }
+}

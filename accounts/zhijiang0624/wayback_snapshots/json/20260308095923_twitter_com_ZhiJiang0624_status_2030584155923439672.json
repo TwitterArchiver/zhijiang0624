@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2030584155923439672",
+    "created_at": "2026-03-08T09:59:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T10:59:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030584155923439672"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Minako8964/sta…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/Minako8964/status/2030527915344171380",
+          "start": 21,
+          "url": "https://t.co/sGX8pxalyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030584155923439672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030527915344171380",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想撕烂特定的时间或者特定的叫我名字的东西 https://t.co/sGX8pxalyi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2030584155923439672",
+        "created_at": "2026-03-08T09:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T10:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030584155923439672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Minako8964/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/Minako8964/status/2030527915344171380",
+              "start": 21,
+              "url": "https://t.co/sGX8pxalyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030584155923439672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030527915344171380",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想撕烂特定的时间或者特定的叫我名字的东西 https://t.co/sGX8pxalyi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973430266124541952",
+        "conversation_id": "2030527915344171380",
+        "created_at": "2026-03-08T06:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T07:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030527915344171380"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030527915344171380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 390,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在外面谁蹭到一下我的手肘肩膀脚尖膝盖我就想把那个人撕烂，算肢体接触障碍吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 587,
+          "like_count": 7546,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1790
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-01T16:50:30.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kexuejiazhuang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kexuejiazhuang",
+                "start": 0,
+                "url": "https://t.co/qNfVsLeCNp"
+              }
+            ]
+          }
+        },
+        "id": "1973430266124541952",
+        "name": "给我寿司吧🍣",
+        "pinned_tweet_id": "2021662744383246524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025572034319925248/9sRM00ex_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 131,
+          "like_count": 10847,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1608
+        },
+        "url": "https://t.co/qNfVsLeCNp",
+        "username": "Minako8964",
+        "verified": false
+      }
+    ]
+  }
+}

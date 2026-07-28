@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2077428553705296220",
+    "created_at": "2026-07-16T13:44:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T14:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077751200351658270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1981381547594043396",
+          "start": 0,
+          "username": "donttouchme3322"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077751200351658270",
+    "in_reply_to_user_id": "1981381547594043396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077428553705296220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@donttouchme3322 辛苦你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2077428553705296220",
+        "created_at": "2026-07-16T13:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077751200351658270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1981381547594043396",
+              "start": 0,
+              "username": "donttouchme3322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077751200351658270",
+        "in_reply_to_user_id": "1981381547594043396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077428553705296220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@donttouchme3322 辛苦你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981381547594043396",
+        "conversation_id": "2077428553705296220",
+        "created_at": "2026-07-15T16:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T17:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077428553705296220"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077428553705296220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1062,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来夸夸这个小烂吧！真是太辛苦了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 761,
+          "like_count": 13612,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 2729
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-23T15:25:59.000Z",
+        "description": "目前人设：勾践。恶心我的死全家。                                                                               \n提问箱：https://t.co/6wYsRJnYiG           朋友圈：@lostmediagirlll",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 138,
+                "username": "lostmediagirlll"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/badsheep",
+                "end": 123,
+                "expanded_url": "https://ngl.link/badsheep",
+                "start": 100,
+                "url": "https://t.co/6wYsRJnYiG"
+              }
+            ]
+          }
+        },
+        "id": "1981381547594043396",
+        "name": "小烂（努力学习版）",
+        "pinned_tweet_id": "2042975618497941982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052349606823137280/IAT4Bl4k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 227,
+          "like_count": 2608,
+          "listed_count": 0,
+          "media_count": 237,
+          "tweet_count": 4122
+        },
+        "url": "",
+        "username": "donttouchme3322",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2023069796489990206",
+    "created_at": "2026-02-15T16:33:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T17:33:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023073150536401366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1635475392860397568",
+          "start": 0,
+          "username": "swatia111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023073150536401366",
+    "in_reply_to_user_id": "1635475392860397568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023069796489990206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@swatia111 忘了发没发过了，总而言之除夕快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2023069796489990206",
+        "created_at": "2026-02-15T16:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T17:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023073150536401366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1635475392860397568",
+              "start": 0,
+              "username": "swatia111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023073150536401366",
+        "in_reply_to_user_id": "1635475392860397568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023069796489990206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@swatia111 忘了发没发过了，总而言之除夕快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1635475392860397568",
+        "conversation_id": "2023069796489990206",
+        "created_at": "2026-02-15T16:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T17:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023069796489990206"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023069796489990206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哪来那么多弱智给我发什么身高体重还来一句我是小帅可以吗？\n我对比我小的没兴趣，对上学都没我好的更没兴趣，对长得没我好看的更是没有兴趣，拜拜，再见，拜拜啊，上网就是无聊，对操你也没兴趣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 320,
+          "like_count": 2740,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 916
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-14T02:58:28.000Z",
+        "description": "发发废片，看完本人2000条推文再和我说话",
+        "id": "1635475392860397568",
+        "name": "薯薯",
+        "pinned_tweet_id": "1950933811010945385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990461051482316800/Py8agOTq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10281,
+          "following_count": 32,
+          "like_count": 825,
+          "listed_count": 28,
+          "media_count": 472,
+          "tweet_count": 2614
+        },
+        "username": "swatia111",
+        "verified": false
+      }
+    ]
+  }
+}

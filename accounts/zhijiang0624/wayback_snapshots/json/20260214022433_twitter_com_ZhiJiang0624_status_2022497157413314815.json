@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2022352753570517176",
+    "created_at": "2026-02-14T02:24:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T03:24:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022497157413314815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1980682684985921536",
+          "start": 0,
+          "username": "linovo33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022497157413314815",
+    "in_reply_to_user_id": "1980682684985921536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022352753570517176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linovo33 这就是我一直不支持未成年人性行为的原因，所有的观念都没发育成型，只是为了快感而已。我堂哥十六岁抱着个孩和他女朋友逛街的时候我整个人都是震撼的。现在他只在我叔死的时候回来过一次，别的时候谁都不知道他去哪干什么了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2022352753570517176",
+        "created_at": "2026-02-14T02:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T03:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022497157413314815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1980682684985921536",
+              "start": 0,
+              "username": "linovo33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022497157413314815",
+        "in_reply_to_user_id": "1980682684985921536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022352753570517176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linovo33 这就是我一直不支持未成年人性行为的原因，所有的观念都没发育成型，只是为了快感而已。我堂哥十六岁抱着个孩和他女朋友逛街的时候我整个人都是震撼的。现在他只在我叔死的时候回来过一次，别的时候谁都不知道他去哪干什么了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980682684985921536",
+        "conversation_id": "2022352753570517176",
+        "created_at": "2026-02-13T16:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T17:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022352753570517176"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022352753570517176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 961,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你想要的面子，你想要的漂亮，你可以滚去找，你非要伤害我，不让我安安静静过个年，不让我以后好好生活，给你第一次的时候我才16岁，我妈都不会给我讲避孕措施怎么做的年龄，我给你分享了网上那些关于避孕套的，你看了，你在我们做爱的过程中，唯一对得起我的就是你戴好套了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 293,
+          "like_count": 2347,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 762
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T17:09:11.000Z",
+        "description": "不收门不加任何联系方式不下海不线下｜防走丢小号@linovo332 ｜我很敏感请不要对我有恶意不喜欢我拉黑就好",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "linovo332"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/linovo3olin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/linovo3olin",
+                "start": 0,
+                "url": "https://t.co/cK5zwGQuEn"
+              }
+            ]
+          }
+        },
+        "id": "1980682684985921536",
+        "location": "Amoy",
+        "name": "檩",
+        "pinned_tweet_id": "2020548406436110483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022363134095429633/2Rk5hCJZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1256,
+          "following_count": 82,
+          "like_count": 5863,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 4114
+        },
+        "url": "https://t.co/cK5zwGQuEn",
+        "username": "linovo33",
+        "verified": false
+      }
+    ]
+  }
+}

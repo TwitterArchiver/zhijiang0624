@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2006008544236339503",
+    "created_at": "2025-12-31T10:58:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T11:58:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006319003590066575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1895484355021250560",
+          "start": 0,
+          "username": "Ebenholz715"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006319003590066575",
+    "in_reply_to_user_id": "1895484355021250560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006008544236339503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ebenholz715 很可爱，抱抱你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2006008530659336195",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9bGIV5aYAMpINC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2006008544236339503",
+        "created_at": "2025-12-31T10:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T11:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006319003590066575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1895484355021250560",
+              "start": 0,
+              "username": "Ebenholz715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006319003590066575",
+        "in_reply_to_user_id": "1895484355021250560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006008544236339503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ebenholz715 很可爱，抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006008530659336195"
+          ]
+        },
+        "author_id": "1895484355021250560",
+        "conversation_id": "2006008544236339503",
+        "created_at": "2025-12-30T14:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T15:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006008544236339503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FDyr1uhtfb",
+              "end": 38,
+              "expanded_url": "https://x.com/Ebenholz715/status/2006008544236339503/photo/1",
+              "media_key": "3_2006008530659336195",
+              "start": 15,
+              "url": "https://t.co/FDyr1uhtfb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006008544236339503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 30843,
+          "like_count": 605,
+          "quote_count": 0,
+          "reply_count": 36,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "你跟我说这些干嘛呀我想要抱抱 https://t.co/FDyr1uhtfb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一个偶尔变得哲学或者厌世的重度自闭男生。理想大概就是想尽自己的绵薄之力尽量缝补这个世界支离破碎的一面吧",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730476491866349568/7MFnijBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 148,
+          "like_count": 426,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 316
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-28T14:41:10.000Z",
+        "description": "猜你想问：成年人，164cm，重庆人，社畜，dom/s，不是ai，不卖号，不约",
+        "id": "1895484355021250560",
+        "name": "我是棘刺的狗",
+        "pinned_tweet_id": "1964005205411836280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004999488273076224/7RSoZzN-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37409,
+          "following_count": 55,
+          "like_count": 1834,
+          "listed_count": 85,
+          "media_count": 363,
+          "tweet_count": 929
+        },
+        "username": "Ebenholz715",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2025609002328195149",
+    "created_at": "2026-02-23T05:11:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T06:11:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025800677763813378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1984274360040071168",
+          "start": 0,
+          "username": "g7rghi"
+        },
+        {
+          "end": 20,
+          "id": "2022438221590990848",
+          "start": 8,
+          "username": "Miharuka_96"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025800677763813378",
+    "in_reply_to_user_id": "1984274360040071168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025646209617318379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@g7rghi @Miharuka_96 嗯，重男轻女，爱打我妈云云，懒得记记不清了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2025609002328195149",
+        "created_at": "2026-02-23T05:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T06:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025800677763813378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1984274360040071168",
+              "start": 0,
+              "username": "g7rghi"
+            },
+            {
+              "end": 20,
+              "id": "2022438221590990848",
+              "start": 8,
+              "username": "Miharuka_96"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025800677763813378",
+        "in_reply_to_user_id": "1984274360040071168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025646209617318379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@g7rghi @Miharuka_96 嗯，重男轻女，爱打我妈云云，懒得记记不清了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984274360040071168",
+        "conversation_id": "2025609002328195149",
+        "created_at": "2026-02-22T18:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T19:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025646209617318379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "ZhiJiang0624"
+            },
+            {
+              "end": 26,
+              "id": "2022438221590990848",
+              "start": 14,
+              "username": "Miharuka_96"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025646209617318379",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025629278927548462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhiJiang0624 @Miharuka_96 您的外婆在您妈妈嘴里是什么样的。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 438,
+          "like_count": 3771,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1297
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-31T15:01:13.000Z",
+        "description": "",
+        "id": "1984274360040071168",
+        "name": "稽器人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984274468785831936/zqwUzoaG_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 21,
+          "like_count": 6304,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 1022
+        },
+        "username": "g7rghi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T22:30:27.000Z",
+        "description": "心的距离是遥不可及 | 我是小遥 之前的账号都鼠了 都来和我玩好不好🥺💖💖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/0vZb5MCwUM"
+              }
+            ]
+          }
+        },
+        "id": "2022438221590990848",
+        "location": "旁边的网址是留言板",
+        "name": "遥",
+        "pinned_tweet_id": "2023783513414406367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024494731917758464/aqquvn8u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 90,
+          "like_count": 1095,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 352
+        },
+        "url": "https://t.co/0vZb5MCwUM",
+        "username": "Miharuka_96",
+        "verified": false
+      }
+    ]
+  }
+}

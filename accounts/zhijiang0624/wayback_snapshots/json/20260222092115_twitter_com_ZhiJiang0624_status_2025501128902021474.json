@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2025500108989792314",
+    "created_at": "2026-02-22T09:21:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T10:21:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025501128902021474"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2025501128902021474",
+    "in_reply_to_user_id": "1730214580184604672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025500108989792314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "明明别人是请的同龄人朋友喝奶茶，你第一时间却是代入你们那一辈的恩怨。\n明明知道我不需要甚至厌恶，你还是会自顾自地把它做了然后自我感动。\n你从始至终关心的只有自己。\n不论是把我带到这世界上来，还是那些做作的关心、那些看似是个伟大母亲的行为。\n你的目的从始至终都只是想证明你自己而已。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2025500108989792314",
+        "created_at": "2026-02-22T09:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T10:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025501128902021474"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025501128902021474",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025500108989792314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "明明别人是请的同龄人朋友喝奶茶，你第一时间却是代入你们那一辈的恩怨。\n明明知道我不需要甚至厌恶，你还是会自顾自地把它做了然后自我感动。\n你从始至终关心的只有自己。\n不论是把我带到这世界上来，还是那些做作的关心、那些看似是个伟大母亲的行为。\n你的目的从始至终都只是想证明你自己而已。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2025500108989792314",
+        "created_at": "2026-02-22T09:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T10:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025500108989792314"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025500108989792314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我也知道你就只是单纯的不顾任何人的感受想秀你的掌控力而已。\n明明离水杯只有不到三步的距离，你还是会叫我走十几米去给你端水。\n明明知道那是我心里的刺，你还是会刻意阴阳。\n明明知道我已经内向孤僻没有朋友了，却还是限制我的活动。\n明明知道我身上难受，却还是要强拉着我去这里那里。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 432,
+          "like_count": 3692,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1281
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      }
+    ]
+  }
+}

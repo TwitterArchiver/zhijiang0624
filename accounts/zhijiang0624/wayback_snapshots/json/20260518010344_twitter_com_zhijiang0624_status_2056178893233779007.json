@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2055989038579056640"
+      ],
+      "media_source_tweet_id": [
+        "2055989281190244671"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2056178893233779007",
+    "created_at": "2026-05-18T01:03:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T02:03:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056178893233779007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1866403066872037376",
+          "start": 3,
+          "username": "luyao_100fo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bo35su4ZJp",
+          "end": 131,
+          "expanded_url": "https://x.com/luyao_100fo/status/2055989281190244671/video/1",
+          "media_key": "13_2055989038579056640",
+          "start": 108,
+          "url": "https://t.co/bo35su4ZJp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056178893233779007",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055989281190244671",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luyao_100fo: 一位三观超正的父亲，通过带女儿跑货车的方式，让她体验真实生活，从而改变了女儿极端的女权思维\n\n父亲用实际行动向女儿展示了真正的平等，让她明白女权是自强、尊重与平等，而不是索取特权！ https://t.co/bo35su4ZJp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 188000,
+        "height": 1080,
+        "media_key": "13_2055989038579056640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055989038579056640/img/-YqdsKcxmvFAMBLa.jpg",
+        "public_metrics": {
+          "view_count": 35542
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055989038579056640/pl/04yJTph1WmmYZkHT.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055989038579056640/vid/avc1/360x270/HSz5gCkLlpQQtWaP.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055989038579056640/vid/avc1/480x360/4f1wkcBlNU0_2I6c.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055989038579056640/vid/avc1/1440x1080/q1MWXAf8PmN0Hs8k.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055989038579056640/vid/avc1/960x720/B8KwDmvkbFEreSv2.mp4"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055989038579056640"
+          ],
+          "media_source_tweet_id": [
+            "2055989281190244671"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056178893233779007",
+        "created_at": "2026-05-18T01:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T02:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056178893233779007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1866403066872037376",
+              "start": 3,
+              "username": "luyao_100fo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bo35su4ZJp",
+              "end": 131,
+              "expanded_url": "https://x.com/luyao_100fo/status/2055989281190244671/video/1",
+              "media_key": "13_2055989038579056640",
+              "start": 108,
+              "url": "https://t.co/bo35su4ZJp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056178893233779007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055989281190244671",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luyao_100fo: 一位三观超正的父亲，通过带女儿跑货车的方式，让她体验真实生活，从而改变了女儿极端的女权思维\n\n父亲用实际行动向女儿展示了真正的平等，让她明白女权是自强、尊重与平等，而不是索取特权！ https://t.co/bo35su4ZJp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055989038579056640"
+          ]
+        },
+        "author_id": "1866403066872037376",
+        "conversation_id": "2055989281190244671",
+        "created_at": "2026-05-17T12:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055989281190244671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bo35su4ZJp",
+              "end": 114,
+              "expanded_url": "https://x.com/luyao_100fo/status/2055989281190244671/video/1",
+              "media_key": "13_2055989038579056640",
+              "start": 91,
+              "url": "https://t.co/bo35su4ZJp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055989281190244671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 38169,
+          "like_count": 323,
+          "quote_count": 5,
+          "reply_count": 72,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "一位三观超正的父亲，通过带女儿跑货车的方式，让她体验真实生活，从而改变了女儿极端的女权思维\n\n父亲用实际行动向女儿展示了真正的平等，让她明白女权是自强、尊重与平等，而不是索取特权！ https://t.co/bo35su4ZJp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 694,
+          "like_count": 11948,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 2468
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T08:42:33.000Z",
+        "description": "食色，性也。仁，内也，非外也。义，外也，非内也。\n自干五，图片、视频自网络，如侵删及时联系本人，谢谢！\n防走失@mali_100fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "mali_100fo"
+              }
+            ]
+          }
+        },
+        "id": "1866403066872037376",
+        "name": "尼古丁的依赖（💯fo）",
+        "pinned_tweet_id": "1926181189087293486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918551046470983680/liXNfqf-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8934,
+          "following_count": 2179,
+          "like_count": 36656,
+          "listed_count": 47,
+          "media_count": 2383,
+          "tweet_count": 12176
+        },
+        "username": "luyao_100fo",
+        "verified": true
+      }
+    ]
+  }
+}

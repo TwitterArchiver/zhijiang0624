@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2023049510252110104",
+    "created_at": "2026-02-15T16:43:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T17:43:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023075791421268019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1071661085311287296",
+          "start": 0,
+          "username": "guanbuai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023075791421268019",
+    "in_reply_to_user_id": "1071661085311287296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023049510252110104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guanbuai 除夕快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1895,
+        "media_key": "3_2023049502094139394",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBNQzbdaIAI-Smr.jpg",
+        "width": 1459
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2023049510252110104",
+        "created_at": "2026-02-15T16:43:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T17:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023075791421268019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1071661085311287296",
+              "start": 0,
+              "username": "guanbuai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023075791421268019",
+        "in_reply_to_user_id": "1071661085311287296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023049510252110104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guanbuai 除夕快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023049502094139394"
+          ]
+        },
+        "author_id": "1071661085311287296",
+        "conversation_id": "2023049510252110104",
+        "created_at": "2026-02-15T14:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T15:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023049510252110104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6NaXdEWAuZ",
+              "end": 157,
+              "expanded_url": "https://x.com/guanbuai/status/2023049510252110104/photo/1",
+              "media_key": "3_2023049502094139394",
+              "start": 134,
+              "url": "https://t.co/6NaXdEWAuZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023049510252110104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 10754,
+          "like_count": 121,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "声明一下，在我没回广东上那个逼班之前，我是不会回私信的。另外面基过我的都知道，我不是福利姬不收任何门槛的，所以别被冒充我的人骗了。\n一切等我养好身体，安顿好村里病恹恹的父亲与解决好老弟的债务再说。\n这段时间空的话我就上来写写回忆录，就这样。\n在山里给大家拜个早年吧。 https://t.co/6NaXdEWAuZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 320,
+          "like_count": 2769,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 947
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-09T07:01:28.000Z",
+        "description": "小女子一枚，梦想是做一个女作家",
+        "id": "1071661085311287296",
+        "name": "关难过",
+        "pinned_tweet_id": "2023049510252110104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875922112420171776/dBJ1hHnU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48274,
+          "following_count": 0,
+          "like_count": 329,
+          "listed_count": 99,
+          "media_count": 156,
+          "tweet_count": 1057
+        },
+        "username": "guanbuai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2028810782532603916",
+    "created_at": "2026-03-03T16:57:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T17:57:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028877427276177748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1962131732322213888",
+          "start": 0,
+          "username": "ribbontiedwrist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028877427276177748",
+    "in_reply_to_user_id": "1962131732322213888",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028810782532603916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ribbontiedwrist Friend, why do you feel like you've wasted your life?\nLiving is meant to make oneself happy and to welcome death without regrets.\nI sincerely hope that you can be more open-minded and have a little more confidence in life."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2028810782532603916",
+        "created_at": "2026-03-03T16:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T17:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028877427276177748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1962131732322213888",
+              "start": 0,
+              "username": "ribbontiedwrist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028877427276177748",
+        "in_reply_to_user_id": "1962131732322213888",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028810782532603916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ribbontiedwrist Friend, why do you feel like you've wasted your life?\nLiving is meant to make oneself happy and to welcome death without regrets.\nI sincerely hope that you can be more open-minded and have a little more confidence in life."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962131732322213888",
+        "conversation_id": "2028810782532603916",
+        "created_at": "2026-03-03T12:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T13:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028810782532603916"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028810782532603916",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 416,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ive wasted so much of my life away i literally feel hopeless"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 528,
+          "like_count": 5280,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1554
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T12:34:06.000Z",
+        "description": "bmi 19.5 Ი𐑼 she/her",
+        "id": "1962131732322213888",
+        "location": "ifb",
+        "name": "⋆ ˚ ࿔ aerith of shedtwt ⋆.˚ rina",
+        "pinned_tweet_id": "2017745289398866021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017738775657328640/JTx64R2x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 613,
+          "like_count": 5680,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 1317
+        },
+        "username": "ribbontiedwrist",
+        "verified": false
+      }
+    ]
+  }
+}

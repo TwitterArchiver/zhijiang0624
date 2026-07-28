@@ -1,0 +1,504 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1126559222122942464",
+          "name": "MrBeast"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1754648116094013440",
+          "name": "Mr. Beast"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1126559222122942464",
+          "name": "MrBeast"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1126559222122942464",
+          "name": "MrBeast"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1287879055191052288",
+          "name": "Gaming content creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Family and Life Stages",
+          "id": "864925500627484672",
+          "name": "Family and life stages"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Newlyweds",
+          "id": "847546008917520384",
+          "name": "Newlyweds"
+        }
+      }
+    ],
+    "conversation_id": "2079605184628498829",
+    "created_at": "2026-07-22T15:18:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T16:18:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079949251749253570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2455740283",
+          "start": 0,
+          "username": "MrBeast"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079949251749253570",
+    "in_reply_to_user_id": "2455740283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079605184628498829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MrBeast 新婚快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079605180463505408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNw95LaW4AAO2ZL.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1126559222122942464",
+              "name": "MrBeast"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1754648116094013440",
+              "name": "Mr. Beast"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1126559222122942464",
+              "name": "MrBeast"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1126559222122942464",
+              "name": "MrBeast"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287879055191052288",
+              "name": "Gaming content creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Newlyweds",
+              "id": "847546008917520384",
+              "name": "Newlyweds"
+            }
+          }
+        ],
+        "conversation_id": "2079605184628498829",
+        "created_at": "2026-07-22T15:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T16:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079949251749253570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2455740283",
+              "start": 0,
+              "username": "MrBeast"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079949251749253570",
+        "in_reply_to_user_id": "2455740283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079605184628498829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MrBeast 新婚快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079605180463505408"
+          ]
+        },
+        "author_id": "2455740283",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1126559222122942464",
+              "name": "MrBeast"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1754648116094013440",
+              "name": "Mr. Beast"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1126559222122942464",
+              "name": "MrBeast"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1126559222122942464",
+              "name": "MrBeast"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287879055191052288",
+              "name": "Gaming content creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2079605184628498829",
+        "created_at": "2026-07-21T16:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T17:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079605184628498829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rVgtU1xvSJ",
+              "end": 42,
+              "expanded_url": "https://x.com/MrBeast/status/2079605184628498829/photo/1",
+              "media_key": "3_2079605180463505408",
+              "start": 19,
+              "url": "https://t.co/rVgtU1xvSJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079605184628498829",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7436,
+          "impression_count": 12498208,
+          "like_count": 367588,
+          "quote_count": 1995,
+          "reply_count": 13865,
+          "retweet_count": 15770
+        },
+        "reply_settings": "everyone",
+        "text": "Mr and MrsBeast ❤️ https://t.co/rVgtU1xvSJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 760,
+          "like_count": 13681,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 2733
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-21T00:28:42.000Z",
+        "description": "Beast Games Strong Vs Smart Is Out Now!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/beastgames",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/beastgames",
+                "start": 0,
+                "url": "https://t.co/Sn9fDg55Ji"
+              }
+            ]
+          }
+        },
+        "id": "2455740283",
+        "location": "Follow me for a cookie",
+        "name": "MrBeast",
+        "pinned_tweet_id": "1941802940768850033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008838029776158720/oDvxIJ1X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34850407,
+          "following_count": 2303,
+          "like_count": 22677,
+          "listed_count": 9509,
+          "media_count": 1066,
+          "tweet_count": 7969
+        },
+        "url": "https://t.co/Sn9fDg55Ji",
+        "username": "MrBeast",
+        "verified": true
+      }
+    ]
+  }
+}

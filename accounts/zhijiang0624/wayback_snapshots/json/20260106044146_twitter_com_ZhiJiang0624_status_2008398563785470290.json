@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2008192149301694800",
+    "created_at": "2026-01-06T04:41:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T05:41:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008398563785470290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2363856960",
+          "start": 0,
+          "username": "NGNGVXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008398563785470290",
+    "in_reply_to_user_id": "2363856960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008192149301694800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NGNGVXX 但是之后就会越来越无聊，越来越空虚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2008192149301694800",
+        "created_at": "2026-01-06T04:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T05:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008398563785470290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008398563785470290",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008192149301694800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 但是之后就会越来越无聊，越来越空虚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2008192149301694800",
+        "created_at": "2026-01-05T15:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T16:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008192149301694800"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008192149301694800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 90809,
+          "like_count": 1138,
+          "quote_count": 15,
+          "reply_count": 101,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "我替大家试过了，如果一个人长期不工作没有任何社交，每天躲在家里刷刷手机看看书养养花，大门不出二门不迈，饿了就吃吃了就是睡也不用和任何人交流，这样下去除了没有朋友以外简直不要太舒服了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一个偶尔变得哲学或者厌世的重度自闭男生。理想大概就是想尽自己的绵薄之力尽量缝补这个世界支离破碎的一面吧",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 177,
+          "like_count": 666,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 448
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4104,
+          "following_count": 6,
+          "like_count": 870,
+          "listed_count": 11,
+          "media_count": 51,
+          "tweet_count": 954
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

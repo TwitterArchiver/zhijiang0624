@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2065514481774662134",
+    "created_at": "2026-06-13T04:40:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T05:40:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065655412888862871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1906360034725961728",
+          "start": 0,
+          "username": "Xiaoyou_329"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065655412888862871",
+    "in_reply_to_user_id": "1906360034725961728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065514481774662134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaoyou_329 你也把我的大脑褶皱抚平了朋友\n你应该付费让我看这种文案的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2065514481774662134",
+        "created_at": "2026-06-13T04:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T05:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065655412888862871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065655412888862871",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065514481774662134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 你也把我的大脑褶皱抚平了朋友\n你应该付费让我看这种文案的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2065514481774662134",
+        "created_at": "2026-06-12T19:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T20:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065514481774662134"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065514481774662134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 15828,
+          "like_count": 156,
+          "quote_count": 0,
+          "reply_count": 71,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "他妈有病吧卡完炮开始跟我说他前女友福无毛是粉的。自己带套了所以是处男。女的没怀孕所以自己就是处男。老子懵逼了。一瞬间大脑全部被抚平了。我选择删除跑路。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 702,
+          "like_count": 12487,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2592
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "属于我的小妹妹日记📓",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15457,
+          "following_count": 175,
+          "like_count": 7628,
+          "listed_count": 20,
+          "media_count": 804,
+          "tweet_count": 6727
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

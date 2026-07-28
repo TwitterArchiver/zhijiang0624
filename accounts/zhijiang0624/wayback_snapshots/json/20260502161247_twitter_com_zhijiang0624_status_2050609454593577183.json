@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2050588072614805635",
+    "created_at": "2026-05-02T16:12:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T17:12:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050609454593577183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2016619743294173185",
+          "start": 0,
+          "username": "HendrikBecc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050609454593577183",
+    "in_reply_to_user_id": "2016619743294173185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050588072614805635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HendrikBecc 他妈的猎奇啊\n他妈的恶俗啊\n他妈的救命啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 783766,
+        "height": 720,
+        "media_key": "13_2050587545734713344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050587545734713344/img/E12TUJscnrYTkoPj.jpg",
+        "public_metrics": {
+          "view_count": 1765
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050587545734713344/vid/avc1/480x270/8aIjZl38mCxA8pCv.mp4?tag=27"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050587545734713344/vid/avc1/640x360/7RSw5ZR709xqQr-S.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050587545734713344/vid/avc1/1280x720/vlD5amOIsB4JlZ2o.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050587545734713344/pl/LtTC7-NzhIdFvtbY.m3u8?tag=27"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2050588072614805635",
+        "created_at": "2026-05-02T16:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T17:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050609454593577183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2016619743294173185",
+              "start": 0,
+              "username": "HendrikBecc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050609454593577183",
+        "in_reply_to_user_id": "2016619743294173185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050588072614805635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HendrikBecc 他妈的猎奇啊\n他妈的恶俗啊\n他妈的救命啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050587545734713344"
+          ]
+        },
+        "author_id": "2016619743294173185",
+        "conversation_id": "2050588072614805635",
+        "created_at": "2026-05-02T14:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T15:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050588072614805635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "b8w9.top",
+              "end": 81,
+              "expanded_url": "https://b8w9.top",
+              "start": 58,
+              "status": 403,
+              "unwound_url": "https://b8w9.top",
+              "url": "https://t.co/2HCSfkIgFu"
+            },
+            {
+              "display_url": "bkmm.net",
+              "end": 111,
+              "expanded_url": "https://bkmm.net",
+              "start": 88,
+              "status": 200,
+              "title": "Loading..",
+              "unwound_url": "https://bkmm.net",
+              "url": "https://t.co/hAQ2TIVQOt"
+            },
+            {
+              "display_url": "pic.x.com/mnge14I7ly",
+              "end": 135,
+              "expanded_url": "https://x.com/HendrikBecc/status/2050588072614805635/video/1",
+              "media_key": "13_2050587545734713344",
+              "start": 112,
+              "url": "https://t.co/mnge14I7ly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050588072614805635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 4478,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "小胖的托马斯180度高速旋转和中二妹纸的金刚钻\n\n关键词《角色扮演变化 清纯系女大学生的危险的性癖》 \n\n直播地址：https://t.co/2HCSfkIgFu\n完整版指路：https://t.co/hAQ2TIVQOt https://t.co/mnge14I7ly"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 681,
+          "like_count": 11448,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 2327
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-28T21:09:53.000Z",
+        "description": "🎉🎉全网最全里番、漫画、小说平台💧💧\n\n日更漫画、小说、最新里番应有尽有😀\n\n🔔🔔官方app直链下载：\n⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vji1s.com",
+                "end": 23,
+                "expanded_url": "https://vji1s.com",
+                "start": 0,
+                "url": "https://t.co/1bhUw94Cvs"
+              }
+            ]
+          }
+        },
+        "id": "2016619743294173185",
+        "name": "欲漫涩官方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043968987986571265/YltPd4T6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192,
+          "following_count": 1,
+          "like_count": 9,
+          "listed_count": 6,
+          "media_count": 19,
+          "tweet_count": 96
+        },
+        "url": "https://t.co/1bhUw94Cvs",
+        "username": "HendrikBecc",
+        "verified": true
+      }
+    ]
+  }
+}

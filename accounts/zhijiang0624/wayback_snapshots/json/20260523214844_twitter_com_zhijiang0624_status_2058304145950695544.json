@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2058219856173089033",
+    "created_at": "2026-05-23T21:48:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T22:48:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058304145950695544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2009089669473161216",
+          "start": 0,
+          "username": "7nesjx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058304145950695544",
+    "in_reply_to_user_id": "2009089669473161216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058219856173089033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7nesjx 谁在青铜狙击我？！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2058219856173089033",
+        "created_at": "2026-05-23T21:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T22:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058304145950695544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2009089669473161216",
+              "start": 0,
+              "username": "7nesjx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058304145950695544",
+        "in_reply_to_user_id": "2009089669473161216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058219856173089033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7nesjx 谁在青铜狙击我？！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009089669473161216",
+        "conversation_id": "2058219856173089033",
+        "created_at": "2026-05-23T16:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T17:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058219856173089033"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058219856173089033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1781,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们这群带妹炸鱼的有没有想过我也是个妹呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 703,
+          "like_count": 12132,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 2523
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-08T02:29:31.000Z",
+        "description": "10年命苦高中生一枚…私信会看 脾气很好的奥（神人勿扰，无🚪，不线下）infj",
+        "id": "2009089669473161216",
+        "name": "7ne",
+        "pinned_tweet_id": "2055591786572382247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046264856358289410/SgkLwyEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5673,
+          "following_count": 238,
+          "like_count": 23,
+          "listed_count": 3,
+          "media_count": 80,
+          "tweet_count": 637
+        },
+        "username": "7nesjx",
+        "verified": false
+      }
+    ]
+  }
+}

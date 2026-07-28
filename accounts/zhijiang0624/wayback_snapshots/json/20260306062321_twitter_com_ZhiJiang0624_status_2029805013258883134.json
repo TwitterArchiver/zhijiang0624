@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2029740897873903929",
+    "created_at": "2026-03-06T06:23:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T07:23:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029805013258883134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "897749985361444866",
+          "start": 0,
+          "username": "woaishuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029805013258883134",
+    "in_reply_to_user_id": "897749985361444866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029804718525141219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woaishuji 生病了是得吃点好的，早日康复"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2029740897873903929",
+        "created_at": "2026-03-06T06:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T07:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029805013258883134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "897749985361444866",
+              "start": 0,
+              "username": "woaishuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029805013258883134",
+        "in_reply_to_user_id": "897749985361444866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029804718525141219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woaishuji 生病了是得吃点好的，早日康复"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "897749985361444866",
+        "conversation_id": "2029740897873903929",
+        "created_at": "2026-03-06T06:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T07:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029804718525141219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "ZhiJiang0624"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029804718525141219",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029804222393540980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhiJiang0624 有钱的个锤子 单纯没有其他多余消费 除了看病就是吃饭了 社交/娱乐等消费基本趋于零 今天也没吃饭 只能奢侈吃顿好的 现在还在医院等等等😭\n［排队进度3/6］"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 559,
+          "like_count": 6605,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1697
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-16T09:20:50.000Z",
+        "description": "",
+        "id": "897749985361444866",
+        "name": "文学少女安德烈",
+        "pinned_tweet_id": "1862810120075583938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417757199130624/fcknZsxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1620,
+          "following_count": 1851,
+          "like_count": 443257,
+          "listed_count": 10,
+          "media_count": 2743,
+          "tweet_count": 16249
+        },
+        "username": "woaishuji",
+        "verified": false
+      }
+    ]
+  }
+}

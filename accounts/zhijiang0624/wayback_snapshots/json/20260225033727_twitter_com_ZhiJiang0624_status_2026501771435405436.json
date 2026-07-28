@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2026445996847165641",
+    "created_at": "2026-02-25T03:37:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T04:37:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026501771435405436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1539835039877316609",
+          "start": 0,
+          "username": "Babyland777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026501771435405436",
+    "in_reply_to_user_id": "1539835039877316609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026445996847165641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Babyland777 噢泰迪！（捏着耳朵晃）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1945,
+        "media_key": "3_2026445994418753536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB9h5TXX0AAbict.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2026445996847165641",
+        "created_at": "2026-02-25T03:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T04:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026501771435405436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1539835039877316609",
+              "start": 0,
+              "username": "Babyland777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026501771435405436",
+        "in_reply_to_user_id": "1539835039877316609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026445996847165641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Babyland777 噢泰迪！（捏着耳朵晃）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026445994418753536"
+          ]
+        },
+        "author_id": "1539835039877316609",
+        "conversation_id": "2026445996847165641",
+        "created_at": "2026-02-24T23:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T00:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026445996847165641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AFzzTMQ63j",
+              "end": 37,
+              "expanded_url": "https://x.com/Babyland777/status/2026445996847165641/photo/1",
+              "media_key": "3_2026445994418753536",
+              "start": 14,
+              "url": "https://t.co/AFzzTMQ63j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026445996847165641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1369,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我做的冰箱贴 猜猜看它是谁 https://t.co/AFzzTMQ63j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 463,
+          "like_count": 3993,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1364
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-23T04:57:53.000Z",
+        "description": "🈚门槛 | 不在墙内| 不喜欢私聊 | 私信勿扰 | 男生止于推 | 不是黄推 | 碎碎念偏日常 | 话多不代表我想跟你聊天 | 别骚扰我（骚扰我穷一辈子",
+        "id": "1539835039877316609",
+        "location": "香香软软的被窝里",
+        "name": "Babyland.J",
+        "pinned_tweet_id": "2006929233587921209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014927456134647808/YnYDdOOr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 172,
+          "like_count": 9453,
+          "listed_count": 3,
+          "media_count": 396,
+          "tweet_count": 966
+        },
+        "username": "Babyland777",
+        "verified": true
+      }
+    ]
+  }
+}

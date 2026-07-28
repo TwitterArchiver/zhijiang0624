@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2033811748084408767",
+    "created_at": "2026-03-17T11:10:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T12:10:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033863548909326575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1863436759515697152",
+          "start": 0,
+          "username": "Eurocaine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033863548909326575",
+    "in_reply_to_user_id": "1863436759515697152",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033863038940430833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eurocaine I'm sorry to hear this news. If you have something you can't bring yourself to, please vent it in a timely manner instead of keeping it bottled up in your heart"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2033811748084408767",
+        "created_at": "2026-03-17T11:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T12:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033863548909326575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863436759515697152",
+              "start": 0,
+              "username": "Eurocaine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033863548909326575",
+        "in_reply_to_user_id": "1863436759515697152",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033863038940430833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eurocaine I'm sorry to hear this news. If you have something you can't bring yourself to, please vent it in a timely manner instead of keeping it bottled up in your heart"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863436759515697152",
+        "conversation_id": "2033811748084408767",
+        "created_at": "2026-03-17T11:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T12:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033863038940430833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "ZhiJiang0624"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033863038940430833",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033862805401768224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhiJiang0624 They’ve been purposely ignoring me for like 4 days I don’t think they care"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n十九岁高中牲\n如果哪里说得有错还请麻烦指点一下谢谢。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾，亦或是世界的彼方",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 612,
+          "like_count": 8503,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1903
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:15:37.000Z",
+        "description": "you wanted more than I was worth. you can call me Rue, Kayla or Frisk. Favorite song: https://t.co/D3kKQ9Bt9A",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtu.be/d4XsFzEqKZA?si…",
+                "end": 109,
+                "expanded_url": "https://youtu.be/d4XsFzEqKZA?si=an_tk74wRWxyyS3X",
+                "start": 86,
+                "url": "https://t.co/D3kKQ9Bt9A"
+              }
+            ]
+          }
+        },
+        "id": "1863436759515697152",
+        "location": "19 - She/They - 🏳️‍⚧️",
+        "name": "❀⋆༺𝐑𝐮𝐞༻⋆❀",
+        "pinned_tweet_id": "2033473719088066909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033652442290696193/8b50O4_R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 1694,
+          "like_count": 20618,
+          "listed_count": 2,
+          "media_count": 1488,
+          "tweet_count": 35117
+        },
+        "username": "Eurocaine",
+        "verified": false
+      }
+    ]
+  }
+}

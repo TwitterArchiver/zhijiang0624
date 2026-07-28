@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2028448401936048344",
+    "created_at": "2026-03-02T12:36:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T13:36:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028449337827865014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1960526209609293825",
+          "start": 0,
+          "username": "Dreamin_ts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028449337827865014",
+    "in_reply_to_user_id": "1960526209609293825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028448401936048344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dreamin_ts 依旧高质量建模"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2028448392045875200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCZ_EL0bUAA0esQ.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2028448401936048344",
+        "created_at": "2026-03-02T12:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T13:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028449337827865014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1960526209609293825",
+              "start": 0,
+              "username": "Dreamin_ts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028449337827865014",
+        "in_reply_to_user_id": "1960526209609293825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028448401936048344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dreamin_ts 依旧高质量建模"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028448392045875200"
+          ]
+        },
+        "author_id": "1960526209609293825",
+        "conversation_id": "2028448401936048344",
+        "created_at": "2026-03-02T12:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T13:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028448401936048344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Giy0iqmt3S",
+              "end": 26,
+              "expanded_url": "https://x.com/Dreamin_ts/status/2028448401936048344/photo/1",
+              "media_key": "3_2028448392045875200",
+              "start": 3,
+              "url": "https://t.co/Giy0iqmt3S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028448401936048344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 43,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "灵梦 https://t.co/Giy0iqmt3S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 493,
+          "like_count": 4681,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1448
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-27T02:14:14.000Z",
+        "description": "main @tingshuang_w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "tingshuang_w"
+              }
+            ]
+          }
+        },
+        "id": "1960526209609293825",
+        "location": "上海",
+        "name": "听霜w",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983919215188045825/IdkUJK2g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26086,
+          "following_count": 229,
+          "like_count": 3152,
+          "listed_count": 131,
+          "media_count": 124,
+          "tweet_count": 746
+        },
+        "username": "Dreamin_ts",
+        "verified": true
+      }
+    ]
+  }
+}

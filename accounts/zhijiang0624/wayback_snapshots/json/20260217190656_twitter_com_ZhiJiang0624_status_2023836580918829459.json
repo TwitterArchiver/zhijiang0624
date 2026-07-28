@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2023836580918829459",
+    "created_at": "2026-02-17T19:06:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T20:06:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023836580918829459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1678651719272611841",
+          "start": 3,
+          "username": "miokawa0701"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023836580918829459",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901950528382497105",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miokawa0701: 【Neko的粉丝群入群须知】\n因为往推上放群号导致好多看黄男进来发癫 朋友建议Neko入群收门槛来挡住看黄男\n不过Neko不太想收大家的钱 所以大家如果想进Neko的粉丝群（没有涩涩Neko和一群纯傻卵二次元发癫的群）吹水的话请持❗公益活动的5…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1901950517670240256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmUV6zoa4AACqP0.jpg",
+        "width": 1413
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2023836580918829459",
+        "created_at": "2026-02-17T19:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T20:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023836580918829459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1678651719272611841",
+              "start": 3,
+              "username": "miokawa0701"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023836580918829459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901950528382497105",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miokawa0701: 【Neko的粉丝群入群须知】\n因为往推上放群号导致好多看黄男进来发癫 朋友建议Neko入群收门槛来挡住看黄男\n不过Neko不太想收大家的钱 所以大家如果想进Neko的粉丝群（没有涩涩Neko和一群纯傻卵二次元发癫的群）吹水的话请持❗公益活动的5…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1901950517670240256"
+          ]
+        },
+        "author_id": "1678651719272611841",
+        "conversation_id": "1901950528382497105",
+        "created_at": "2025-03-18T10:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T11:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901950528382497105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vdaedt5jcT",
+              "end": 176,
+              "expanded_url": "https://x.com/miokawa0701/status/1901950528382497105/photo/1",
+              "media_key": "3_1901950517670240256",
+              "start": 153,
+              "url": "https://t.co/vdaedt5jcT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901950528382497105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 196298,
+          "like_count": 195,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【Neko的粉丝群入群须知】\n因为往推上放群号导致好多看黄男进来发癫 朋友建议Neko入群收门槛来挡住看黄男\n不过Neko不太想收大家的钱 所以大家如果想进Neko的粉丝群（没有涩涩Neko和一群纯傻卵二次元发癫的群）吹水的话请持❗公益活动的50元捐赠截图❗作为门槛来私信Neko进群\n谢谢大家的配合喵↓ https://t.co/vdaedt5jcT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 417,
+          "like_count": 3398,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1181
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-11T06:26:00.000Z",
+        "description": "💜ネオンに瞬く神に、美貌を代償として捧げる價💜English/中文/繁中‖F杯赛博魅魔👿‖抖s人格指路@rikokawaii0701 ‖ 不➕联系方式和线下",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "rikokawaii0701"
+              }
+            ]
+          }
+        },
+        "id": "1678651719272611841",
+        "location": "距离你 500 m",
+        "name": "neko今天🐱什么",
+        "pinned_tweet_id": "1901950528382497105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015623570500517888/tSs8FcwF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8352,
+          "following_count": 472,
+          "like_count": 10857,
+          "listed_count": 20,
+          "media_count": 556,
+          "tweet_count": 3015
+        },
+        "username": "miokawa0701",
+        "verified": false
+      }
+    ]
+  }
+}

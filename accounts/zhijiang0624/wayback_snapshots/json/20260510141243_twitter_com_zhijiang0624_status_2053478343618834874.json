@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2053403493181124632",
+    "created_at": "2026-05-10T14:12:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T15:12:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053478343618834874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1944989354239385600",
+          "start": 0,
+          "username": "123mp27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053478343618834874",
+    "in_reply_to_user_id": "1944989354239385600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053403493181124632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@123mp27 可能是一个音乐馆吧，反正我只想听歌听到死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2053403493181124632",
+        "created_at": "2026-05-10T14:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053478343618834874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1944989354239385600",
+              "start": 0,
+              "username": "123mp27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053478343618834874",
+        "in_reply_to_user_id": "1944989354239385600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053403493181124632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@123mp27 可能是一个音乐馆吧，反正我只想听歌听到死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944989354239385600",
+        "conversation_id": "2053403493181124632",
+        "created_at": "2026-05-10T09:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T10:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053403493181124632"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053403493181124632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2201,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 36,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "你认为死后是怎样的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 683,
+          "like_count": 11653,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 2374
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T05:16:48.000Z",
+        "description": "11年落地组装在河北承德，现居辽宁朝阳(intp)\n/欢迎私信，接受宣泄和游戏，不会泄露\n/实名王艳阳\n/我是低龄大傻逼\n/温和好猫！\n/匿名消息https://t.co/bvZlqGKxZu\n/可爱的人@DIC_EWE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 102,
+                "username": "DIC_EWE"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/123mp27",
+                "end": 96,
+                "expanded_url": "https://ngl.link/123mp27",
+                "start": 73,
+                "url": "https://t.co/bvZlqGKxZu"
+              }
+            ]
+          }
+        },
+        "id": "1944989354239385600",
+        "location": "互fo需要查成分，只要不是傻逼和重度鉴证就可以",
+        "name": "Rana (e…...mmm.....baka!.",
+        "pinned_tweet_id": "2052972523311042954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022327136024252416/SQnOL9qv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 401,
+          "like_count": 4121,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 2776
+        },
+        "username": "123mp27",
+        "verified": false
+      }
+    ]
+  }
+}

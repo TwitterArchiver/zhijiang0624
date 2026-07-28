@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2030063684123254985",
+    "created_at": "2026-03-07T07:26:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T08:26:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030183351982903358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1585339869445779456",
+          "start": 0,
+          "username": "mikawaifusuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030183351982903358",
+    "in_reply_to_user_id": "1585339869445779456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030063684123254985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikawaifusuki 并没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2030063684123254985",
+        "created_at": "2026-03-07T07:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T08:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030183351982903358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1585339869445779456",
+              "start": 0,
+              "username": "mikawaifusuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030183351982903358",
+        "in_reply_to_user_id": "1585339869445779456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030063684123254985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikawaifusuki 并没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585339869445779456",
+        "conversation_id": "2030063684123254985",
+        "created_at": "2026-03-06T23:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T00:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030063684123254985"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030063684123254985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 18033,
+          "like_count": 641,
+          "quote_count": 5,
+          "reply_count": 56,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "推特第一定律：只要你无意间为一个药娘的推文点赞，那么你的时间线就会永久性地推送药娘。\n\n推特第二定律：只要你被一个药娘关注，那么你在未来就将会被一串药娘关注，并且她们认为你也是药娘。\n\n推特第三定律：黄推 建政 药娘三位一体，构成主线剧情。如果拒绝建政与黄推，那你的时间线就全是药娘了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 570,
+          "like_count": 7017,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1726
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-26T18:37:43.000Z",
+        "description": "主页置顶转发原神动态抽奖 | 赛博老婆@miaowuqvq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 19,
+                "username": "miaowuqvq"
+              }
+            ]
+          }
+        },
+        "id": "1585339869445779456",
+        "location": "IP属地：河南 ",
+        "name": "小鸟游星野💈",
+        "pinned_tweet_id": "1973893927108542625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748095987724201984/Af1IOmbP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2753,
+          "following_count": 100,
+          "like_count": 38233,
+          "listed_count": 20,
+          "media_count": 723,
+          "tweet_count": 9908
+        },
+        "username": "mikawaifusuki",
+        "verified": true
+      }
+    ]
+  }
+}

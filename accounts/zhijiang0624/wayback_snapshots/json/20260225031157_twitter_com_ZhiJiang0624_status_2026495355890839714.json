@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2025771758272622837",
+    "created_at": "2026-02-25T03:11:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T04:11:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026495355890839714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1634143760690057216",
+          "start": 0,
+          "username": "Akiscara_6484"
+        },
+        {
+          "end": 29,
+          "id": "1621943298473758720",
+          "start": 15,
+          "username": "Akiscara_3405"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026495355890839714",
+    "in_reply_to_user_id": "1634143760690057216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026194985343922226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akiscara_6484 @Akiscara_3405 一根一根拔没多疼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2025771758272622837",
+        "created_at": "2026-02-25T03:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T04:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026495355890839714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            },
+            {
+              "end": 29,
+              "id": "1621943298473758720",
+              "start": 15,
+              "username": "Akiscara_3405"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026495355890839714",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026194985343922226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 @Akiscara_3405 一根一根拔没多疼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2025771758272622837",
+        "created_at": "2026-02-24T07:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T08:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026194985343922226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "ZhiJiang0624"
+            },
+            {
+              "end": 28,
+              "id": "1621943298473758720",
+              "start": 14,
+              "username": "Akiscara_3405"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026194985343922226",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 386,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025932137493622972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhiJiang0624 @Akiscara_3405 不疼吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 459,
+          "like_count": 3963,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1355
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵大王的极乐净土，日记∥\n抗抑郁，焦虑，惊恐，自残。od（喜欢抽烟，有外烟的可以联系我～）陈述这该死的生活\n家有男友，家有男友，家有男友。\n喜欢萌妹子，偶尔出cos。\n性骚扰草你妈死全家",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 26,
+          "like_count": 2919,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 416
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T18:46:43.000Z",
+        "description": "=霜夜。  18↑ 非二元性别｜双相情感障碍+重度焦虑  药物治疗中｜阿咖酚散仙人desu  普瑞巴林重度依赖｜@cnmdsjdqs小玖非常萌w｜@STULRS永远的老哥｜@sev_cloud我的小宝｜🚪66纯绿｜互关请私信查成分会回。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 56,
+                "username": "cnmdsjdqs"
+              },
+              {
+                "end": 80,
+                "start": 73,
+                "username": "STULRS"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "sev_cloud"
+              }
+            ]
+          }
+        },
+        "id": "1621943298473758720",
+        "location": "无限城",
+        "name": "霜皇帝☁︎☾.‎˖٭",
+        "pinned_tweet_id": "2013597242188538137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018862283078905857/d3yzQtFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2596,
+          "following_count": 959,
+          "like_count": 21746,
+          "listed_count": 5,
+          "media_count": 856,
+          "tweet_count": 10309
+        },
+        "username": "Akiscara_3405",
+        "verified": false
+      }
+    ]
+  }
+}

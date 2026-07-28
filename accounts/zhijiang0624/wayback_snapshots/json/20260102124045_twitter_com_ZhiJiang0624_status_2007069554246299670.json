@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2006978425597342042",
+    "created_at": "2026-01-02T12:40:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T13:40:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007069554246299670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1880947236462616576",
+          "start": 0,
+          "username": "RuthanneSo92628"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007069554246299670",
+    "in_reply_to_user_id": "1880947236462616576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006978425597342042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RuthanneSo92628 一样的痛啊，晒晒太阳或者吃了辣的就浑身痒😭😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2006978423110111232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9o4Pg1aEAAQqbv.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2006978425597342042",
+        "created_at": "2026-01-02T12:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T13:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007069554246299670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1880947236462616576",
+              "start": 0,
+              "username": "RuthanneSo92628"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007069554246299670",
+        "in_reply_to_user_id": "1880947236462616576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006978425597342042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RuthanneSo92628 一样的痛啊，晒晒太阳或者吃了辣的就浑身痒😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006978423110111232"
+          ]
+        },
+        "author_id": "1880947236462616576",
+        "conversation_id": "2006978425597342042",
+        "created_at": "2026-01-02T06:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T07:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006978425597342042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zIcC3NeYaM",
+              "end": 29,
+              "expanded_url": "https://x.com/RuthanneSo92628/status/2006978425597342042/photo/1",
+              "media_key": "3_2006978423110111232",
+              "start": 6,
+              "url": "https://t.co/zIcC3NeYaM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006978425597342042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 13321,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已经确诊了 https://t.co/zIcC3NeYaM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一个偶尔变得哲学或者厌世的重度自闭男生。理想大概就是想尽自己的绵薄之力尽量缝补这个世界支离破碎的一面吧",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730476491866349568/7MFnijBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 164,
+          "like_count": 532,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 375
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T11:55:54.000Z",
+        "description": "就不介绍了，都是自家人，就一个目的分享无聊的日常生活，寻找聊得来的搭子，全高中最沙雕的女人，有公的让我撩一下？（有🚪可验）",
+        "id": "1880947236462616576",
+        "name": "奥特之母",
+        "pinned_tweet_id": "2003469672428241219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905696285153460224/Adq5QrZF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63282,
+          "following_count": 0,
+          "like_count": 100,
+          "listed_count": 88,
+          "media_count": 303,
+          "tweet_count": 1432
+        },
+        "username": "RuthanneSo92628",
+        "verified": false
+      }
+    ]
+  }
+}

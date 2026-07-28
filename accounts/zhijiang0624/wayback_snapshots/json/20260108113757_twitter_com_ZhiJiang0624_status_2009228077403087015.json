@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2008955651301757188",
+    "created_at": "2026-01-08T11:37:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T12:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009228077403087015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1627842397924392960",
+          "start": 0,
+          "username": "frecbmh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009228077403087015",
+    "in_reply_to_user_id": "1627842397924392960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008955651301757188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@frecbmh 会有人理解回避型的痛苦的，别难过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2008955651301757188",
+        "created_at": "2026-01-08T11:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T12:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009228077403087015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1627842397924392960",
+              "start": 0,
+              "username": "frecbmh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009228077403087015",
+        "in_reply_to_user_id": "1627842397924392960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008955651301757188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@frecbmh 会有人理解回避型的痛苦的，别难过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627842397924392960",
+        "conversation_id": "2008955651301757188",
+        "created_at": "2026-01-07T17:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T18:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008955651301757188"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008955651301757188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 767,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到所有人都恨回避型让我越来越坚定这辈子不会再幸福的想法。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一个偶尔变得哲学或者厌世的重度自闭男生。理想大概就是想尽自己的绵薄之力尽量缝补这个世界支离破碎的一面吧",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 209,
+          "like_count": 825,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 504
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-21T01:27:36.000Z",
+        "description": "卖惨博主私信已关",
+        "id": "1627842397924392960",
+        "name": "易碎品",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993657210157907968/Vt_4P067_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 139,
+          "like_count": 6946,
+          "listed_count": 3,
+          "media_count": 12,
+          "tweet_count": 308
+        },
+        "username": "frecbmh",
+        "verified": false
+      }
+    ]
+  }
+}

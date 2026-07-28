@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2027653886170042562",
+    "created_at": "2026-02-28T08:31:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T09:31:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027662926354808855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1900958308187717632",
+          "start": 0,
+          "username": "nkk802667553356"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027662926354808855",
+    "in_reply_to_user_id": "1900958308187717632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027653886170042562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nkk802667553356 你把我缴械了？\n我不是戴了普利凯特的戒指吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027653882311282691",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCOsdoabEAMaXWU.jpg",
+        "width": 1365
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027653883020120068",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCOsdrDbEAQtdkx.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2027653886170042562",
+        "created_at": "2026-02-28T08:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T09:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027662926354808855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1900958308187717632",
+              "start": 0,
+              "username": "nkk802667553356"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027662926354808855",
+        "in_reply_to_user_id": "1900958308187717632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027653886170042562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nkk802667553356 你把我缴械了？\n我不是戴了普利凯特的戒指吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027653882311282691",
+            "3_2027653883020120068"
+          ]
+        },
+        "author_id": "1900958308187717632",
+        "conversation_id": "2027653886170042562",
+        "created_at": "2026-02-28T07:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T08:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027653886170042562"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 49,
+              "tag": "blacksouls"
+            },
+            {
+              "end": 74,
+              "start": 61,
+              "tag": "BLACKSOULSII"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ogu0xdg99B",
+              "end": 98,
+              "expanded_url": "https://x.com/nkk802667553356/status/2027653886170042562/photo/1",
+              "media_key": "3_2027653882311282691",
+              "start": 75,
+              "url": "https://t.co/ogu0xdg99B"
+            },
+            {
+              "display_url": "pic.x.com/ogu0xdg99B",
+              "end": 98,
+              "expanded_url": "https://x.com/nkk802667553356/status/2027653886170042562/photo/1",
+              "media_key": "3_2027653883020120068",
+              "start": 75,
+              "url": "https://t.co/ogu0xdg99B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027653886170042562",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 111,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "蛹悶 ∵ｺ｢蜃ｺ 豺ｷ蜷亥惠荳 襍ｷ蜿ｪ譛我ｸ画律譛育噪譛亥ｽｱ 譏ｭ遉ｺ逹 邇ｰ蝨ｨ逧・慮髣ｴ #blacksouls #BLACKSOULSII https://t.co/ogu0xdg99B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 475,
+          "like_count": 4349,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1393
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T17:12:43.000Z",
+        "description": "我是蝣困，中国人\ninfj，出cos随性xp来，\n谢谢喜欢我的，互相尊重就好\n没有扩列的义务..不接受任何傻福的建议\n我从来不主动攻击任何人，看不惯别看，任何在我账号无端攻击我的，我的一切弊端因果全归你背，x除了点平常图片就是蝣困的辱骂时间，没有善良的义务",
+        "id": "1900958308187717632",
+        "name": "yukn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016210404633149440/O5ca2Mxm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2125,
+          "following_count": 37,
+          "like_count": 1265,
+          "listed_count": 6,
+          "media_count": 119,
+          "tweet_count": 180
+        },
+        "username": "nkk802667553356",
+        "verified": false
+      }
+    ]
+  }
+}

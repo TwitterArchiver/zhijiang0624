@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2042526955778842739",
+    "created_at": "2026-04-10T15:03:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T16:03:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042619570922623409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1907247128881295360",
+          "start": 0,
+          "username": "shanshanliang77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042619570922623409",
+    "in_reply_to_user_id": "1907247128881295360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042526955778842739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shanshanliang77 （青年音）话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2042526955778842739",
+        "created_at": "2026-04-10T15:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T16:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042619570922623409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1907247128881295360",
+              "start": 0,
+              "username": "shanshanliang77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042619570922623409",
+        "in_reply_to_user_id": "1907247128881295360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042526955778842739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shanshanliang77 （青年音）话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907247128881295360",
+        "conversation_id": "2042526955778842739",
+        "created_at": "2026-04-10T08:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T09:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042526955778842739"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "青年"
+            },
+            {
+              "end": 24,
+              "start": 20,
+              "tag": "青年音"
+            },
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "男喘"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042526955778842739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 912,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有…青年音…跟我讲话…呀…\n#青年 #青年音 #男喘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "dalin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 654,
+          "like_count": 10172,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 2122
+        },
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-02T01:42:21.000Z",
+        "description": "涩情内容请关注 ：\n@bbmthgh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 10,
+                "username": "bbmthgh"
+              }
+            ]
+          }
+        },
+        "id": "1907247128881295360",
+        "name": "念念猫",
+        "pinned_tweet_id": "2020883464095154342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018194637962579968/-bPluWU9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 24,
+          "like_count": 291,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 325
+        },
+        "username": "shanshanliang77",
+        "verified": false
+      }
+    ]
+  }
+}

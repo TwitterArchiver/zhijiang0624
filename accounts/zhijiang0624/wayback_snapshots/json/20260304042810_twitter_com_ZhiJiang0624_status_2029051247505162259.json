@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2029034170929045958",
+    "created_at": "2026-03-04T04:28:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T05:28:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029051247505162259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2004377925303644160",
+          "start": 0,
+          "username": "allmoneycome2me"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029051247505162259",
+    "in_reply_to_user_id": "2004377925303644160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029034170929045958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@allmoneycome2me 这个有猪屎味的老版本最好看\n别的版本一直在往神秘画风发展"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 535,
+        "media_key": "3_2029034161693138944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCiT0dzaIAA28Mj.jpg",
+        "width": 535
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2029034170929045958",
+        "created_at": "2026-03-04T04:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T05:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029051247505162259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2004377925303644160",
+              "start": 0,
+              "username": "allmoneycome2me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029051247505162259",
+        "in_reply_to_user_id": "2004377925303644160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029034170929045958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allmoneycome2me 这个有猪屎味的老版本最好看\n别的版本一直在往神秘画风发展"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029034161693138944"
+          ]
+        },
+        "author_id": "2004377925303644160",
+        "conversation_id": "2029034170929045958",
+        "created_at": "2026-03-04T03:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T04:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029034170929045958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u1CVEoZUTW",
+              "end": 43,
+              "expanded_url": "https://x.com/allmoneycome2me/status/2029034170929045958/photo/1",
+              "media_key": "3_2029034161693138944",
+              "start": 20,
+              "url": "https://t.co/u1CVEoZUTW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029034170929045958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雷猪猪侠的别关注我，猪猪侠是底线，懂？ https://t.co/u1CVEoZUTW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 534,
+          "like_count": 5474,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1584
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-26T02:25:28.000Z",
+        "description": "数钱吧女孩没日没夜",
+        "id": "2004377925303644160",
+        "name": "季基博",
+        "pinned_tweet_id": "2010579171521843247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029015593974939653/98H7xznp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 2,
+          "like_count": 423,
+          "listed_count": 0,
+          "media_count": 279,
+          "tweet_count": 1324
+        },
+        "username": "allmoneycome2me",
+        "verified": false
+      }
+    ]
+  }
+}

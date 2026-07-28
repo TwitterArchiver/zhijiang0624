@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2021956977006707031",
+    "created_at": "2026-02-13T14:46:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T15:46:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022321431816864014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1836137610324119555",
+          "start": 0,
+          "username": "wngy115968"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022321431816864014",
+    "in_reply_to_user_id": "1836137610324119555",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021956977006707031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wngy115968 很难绷的就是：帅的不缺给他摸的人，所以你大概是只能尖叫了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1070,
+        "media_key": "3_2021956965950533635",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA9vJdKbsAMSfTI.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2021956977006707031",
+        "created_at": "2026-02-13T14:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T15:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022321431816864014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1836137610324119555",
+              "start": 0,
+              "username": "wngy115968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022321431816864014",
+        "in_reply_to_user_id": "1836137610324119555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021956977006707031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngy115968 很难绷的就是：帅的不缺给他摸的人，所以你大概是只能尖叫了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021956965950533635"
+          ]
+        },
+        "author_id": "1836137610324119555",
+        "conversation_id": "2021956977006707031",
+        "created_at": "2026-02-12T14:38:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T15:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021956977006707031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KFfZv6V0FL",
+              "end": 38,
+              "expanded_url": "https://x.com/wngy115968/status/2021956977006707031/photo/1",
+              "media_key": "3_2021956965950533635",
+              "start": 15,
+              "url": "https://t.co/KFfZv6V0FL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021956977006707031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 29053,
+          "like_count": 111,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的私信每天也都还蛮有意思的 https://t.co/KFfZv6V0FL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 292,
+          "like_count": 2326,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 759
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-17T20:18:24.000Z",
+        "description": "聊聊我的荷尔蒙",
+        "id": "1836137610324119555",
+        "name": "Os0932_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878932405693935617/_Tzny16Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2645,
+          "following_count": 356,
+          "like_count": 61,
+          "listed_count": 2,
+          "media_count": 3,
+          "tweet_count": 63
+        },
+        "username": "wngy115968",
+        "verified": false
+      }
+    ]
+  }
+}

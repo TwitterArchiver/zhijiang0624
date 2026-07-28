@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2031282839350817211",
+    "created_at": "2026-03-10T08:37:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T09:37:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031288313039171809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1421851995355369477",
+          "start": 0,
+          "username": "Aichijiandanxyz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031288313039171809",
+    "in_reply_to_user_id": "1421851995355369477",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031282839350817211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aichijiandanxyz woc！\n上链接！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2031282816601001984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDCQ9aHbkAAw9bW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2031282839350817211",
+        "created_at": "2026-03-10T08:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T09:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031288313039171809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1421851995355369477",
+              "start": 0,
+              "username": "Aichijiandanxyz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031288313039171809",
+        "in_reply_to_user_id": "1421851995355369477",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031282839350817211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aichijiandanxyz woc！\n上链接！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031282816601001984"
+          ]
+        },
+        "author_id": "1421851995355369477",
+        "conversation_id": "2031282839350817211",
+        "created_at": "2026-03-10T08:15:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T09:15:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031282839350817211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3H8gn68neR",
+              "end": 38,
+              "expanded_url": "https://x.com/Aichijiandanxyz/status/2031282839350817211/photo/1",
+              "media_key": "3_2031282816601001984",
+              "start": 15,
+              "url": "https://t.co/3H8gn68neR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031282839350817211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不打职业没必要搞这么好的装备 https://t.co/3H8gn68neR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n十九岁高中牲\n如果哪里说得有错还请麻烦指点一下谢谢。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 613,
+          "like_count": 8440,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1891
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-01T15:15:33.000Z",
+        "description": "思维补丁，本体是🥚\n@eggyyybaby\n#煎蛋不想说话就唱歌吧\n#蛋喘",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 22,
+                "tag": "煎蛋不想说话就唱歌吧"
+              },
+              {
+                "end": 37,
+                "start": 34,
+                "tag": "蛋喘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "eggyyybaby"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cmespeed.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://cmespeed.com/#/register?code=qnpQSfop",
+                "start": 0,
+                "url": "https://t.co/NEXqoJ99mw"
+              }
+            ]
+          }
+        },
+        "id": "1421851995355369477",
+        "location": "🍳🪜→",
+        "name": "煎蛋棉被",
+        "pinned_tweet_id": "1844974218825400809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922277650879676418/p7_qBFWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20720,
+          "following_count": 329,
+          "like_count": 161116,
+          "listed_count": 57,
+          "media_count": 8104,
+          "tweet_count": 76468
+        },
+        "url": "https://t.co/NEXqoJ99mw",
+        "username": "Aichijiandanxyz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2029768787009134849",
+    "created_at": "2026-03-07T07:15:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T08:15:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030180405572481101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "760845942618591232",
+          "start": 0,
+          "username": "CarrierVessels_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030180405572481101",
+    "in_reply_to_user_id": "760845942618591232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029768787009134849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CarrierVessels_ 你人怎么样？受伤了没？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2029768787009134849",
+        "created_at": "2026-03-07T07:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T08:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030180405572481101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "760845942618591232",
+              "start": 0,
+              "username": "CarrierVessels_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030180405572481101",
+        "in_reply_to_user_id": "760845942618591232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029768787009134849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CarrierVessels_ 你人怎么样？受伤了没？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "760845942618591232",
+        "conversation_id": "2029768787009134849",
+        "created_at": "2026-03-06T03:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T04:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029768787009134849"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029768787009134849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "塌房了（物理"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，男的，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了。\n学艺不精的野生电子电工学生。\n不论是想说我卖惨还是我矫情亦或是顺直男什么的都随你，你爱打字你就打。",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "Dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 569,
+          "like_count": 6992,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1725
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-03T14:33:03.000Z",
+        "description": "堕落",
+        "id": "760845942618591232",
+        "location": "sol III",
+        "name": "饺子",
+        "pinned_tweet_id": "1842245729529872536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888596968584462336/_VAhum-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 1350,
+          "like_count": 370083,
+          "listed_count": 3,
+          "media_count": 68,
+          "tweet_count": 24095
+        },
+        "username": "CarrierVessels_",
+        "verified": false
+      }
+    ]
+  }
+}

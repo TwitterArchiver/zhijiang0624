@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2022227015282364630",
+    "created_at": "2026-02-13T13:54:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T14:54:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022308275061174762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1742260148284833792",
+          "start": 0,
+          "username": "OvO0907miao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022308275061174762",
+    "in_reply_to_user_id": "1742260148284833792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022227015282364630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OvO0907miao 所以现在感冒发烧之类的病我都产生buff免疫了，甚至牙疼都能熬着了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2022227015282364630",
+        "created_at": "2026-02-13T13:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T14:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022308275061174762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1742260148284833792",
+              "start": 0,
+              "username": "OvO0907miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022308275061174762",
+        "in_reply_to_user_id": "1742260148284833792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022227015282364630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OvO0907miao 所以现在感冒发烧之类的病我都产生buff免疫了，甚至牙疼都能熬着了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1742260148284833792",
+        "conversation_id": "2022227015282364630",
+        "created_at": "2026-02-13T08:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T09:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022227015282364630"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022227015282364630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 822,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我讨厌自己容易感冒生病的垃圾体质，因为每次生病点没人照顾我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 289,
+          "like_count": 2299,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 742
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-02T19:02:59.000Z",
+        "description": "情感依赖症｜brat小猫｜不闲聊 骚扰我先打钱",
+        "id": "1742260148284833792",
+        "name": "有一点小猫饼",
+        "pinned_tweet_id": "2021254839846535554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997095436763779074/e86L9siJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4582,
+          "following_count": 53,
+          "like_count": 228,
+          "listed_count": 5,
+          "media_count": 33,
+          "tweet_count": 712
+        },
+        "username": "OvO0907miao",
+        "verified": false
+      }
+    ]
+  }
+}
