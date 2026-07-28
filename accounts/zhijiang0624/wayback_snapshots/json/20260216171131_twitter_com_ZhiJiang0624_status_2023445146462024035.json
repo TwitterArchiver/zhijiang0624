@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2023444449725239759",
+    "created_at": "2026-02-16T17:11:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T18:11:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023445146462024035"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2023445146462024035",
+    "in_reply_to_user_id": "1730214580184604672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023444449725239759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为我的大姐在初中没毕业的时候就受到亲戚的不少压力，出去打工了。我的二姐因为重男轻女，在我做手术父母都在照顾我的情况下奶奶没有守约去家里做饭的情况下被饿晕过一次，现在她以做饭为爱好也许就是因为那时候的事。我从小学就开始被灌输各种极端的思想譬如人际交往完全不重要，我只需要读死书就好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2023444449725239759",
+        "created_at": "2026-02-16T17:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T18:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023445146462024035"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023445146462024035",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023444449725239759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为我的大姐在初中没毕业的时候就受到亲戚的不少压力，出去打工了。我的二姐因为重男轻女，在我做手术父母都在照顾我的情况下奶奶没有守约去家里做饭的情况下被饿晕过一次，现在她以做饭为爱好也许就是因为那时候的事。我从小学就开始被灌输各种极端的思想譬如人际交往完全不重要，我只需要读死书就好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2023444449725239759",
+        "created_at": "2026-02-16T17:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T18:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023444449725239759"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023444449725239759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好吧，再总结一波。\n家母曾经因为计划生育打掉、流产了好几个孩子，精神有些不正常，我的大姐二姐都是女孩让我的母亲受到了我爷爷奶奶外婆的不少埋怨，就这样让她产生了生男孩的执念。她生下了我三姐后把我的三姐抛弃了，这样又生下了我。我忘了几岁的时候，她就想带着我和我的二姐自杀，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "是个人类，想到什么说什么想到什么做什么，脑子早就丢到不知道哪里去了",
+        "id": "1730214580184604672",
+        "location": "四川宜宾",
+        "name": "dalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 399,
+          "like_count": 3160,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1129
+        },
+        "username": "ZhiJiang0624",
+        "verified": false
+      }
+    ]
+  }
+}
