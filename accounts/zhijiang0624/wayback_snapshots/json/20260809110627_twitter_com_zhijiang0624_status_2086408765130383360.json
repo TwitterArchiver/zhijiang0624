@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2086141153905410382",
+    "created_at": "2026-08-09T11:06:27.000Z",
+    "display_text_range": [
+      16,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T12:06:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086408765130383360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1635476041438461952",
+          "start": 0,
+          "username": "JiaweiShen2568"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086408765130383360",
+    "in_reply_to_user_id": "1635476041438461952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086141153905410382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiaweiShen2568 今天下午我看到抖音给我推送了\n但是点进去\n“作品已被删除”"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 83336,
+        "height": 1024,
+        "media_key": "13_2086140804142436352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086140804142436352/img/X6wSq6SSC3AY2ohZ.jpg",
+        "public_metrics": {
+          "view_count": 220094
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086140804142436352/vid/avc1/320x568/50dSg36-eMdbVPgb.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086140804142436352/vid/avc1/480x852/Eqlm25Ql3ek7ligB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086140804142436352/vid/avc1/576x1024/o8GA8L3PC1mJXC2R.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086140804142436352/pl/6MQL15pcQZ278ABK.m3u8?v=431"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2086141153905410382",
+        "created_at": "2026-08-09T11:06:27.000Z",
+        "display_text_range": [
+          16,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T12:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086408765130383360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1635476041438461952",
+              "start": 0,
+              "username": "JiaweiShen2568"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086408765130383360",
+        "in_reply_to_user_id": "1635476041438461952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086141153905410382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiaweiShen2568 今天下午我看到抖音给我推送了\n但是点进去\n“作品已被删除”"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086140804142436352"
+          ]
+        },
+        "author_id": "1635476041438461952",
+        "conversation_id": "2086141153905410382",
+        "created_at": "2026-08-08T17:23:04.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T18:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086141153905410382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kzftSDg9lP",
+              "end": 95,
+              "expanded_url": "https://x.com/JiaweiShen2568/status/2086141153905410382/video/1",
+              "media_key": "13_2086140804142436352",
+              "start": 72,
+              "url": "https://t.co/kzftSDg9lP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086141153905410382",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2086140804142436352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 249,
+          "impression_count": 220593,
+          "like_count": 864,
+          "quote_count": 5,
+          "reply_count": 307,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "台州发布红色警戒并封闭景区堤坝区域\n游客四人仍然翻进去玩\n结果一个9岁男孩子被冲走了\n关键带他的不是父母\n是姑姑和姑丈\n这孩子父母怕是得气疯了 https://t.co/kzftSDg9lP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "is_identity_verified": false,
+        "location": "世界的彼方",
+        "most_recent_tweet_id": "2086408765130383360",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 737,
+          "like_count": 14087,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 2766
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-14T03:01:07.000Z",
+        "description": "最近听到字节跳槽出来的管理带来一些新的词汇，以前腾讯是拉通，字节喜欢说对齐。\n我不懂啥是对齐。有人说就是对齐思路，比如你在网上和人对线，那就是对齐。我说抱歉，真对齐不了一点儿。",
+        "id": "1635476041438461952",
+        "is_identity_verified": false,
+        "location": "广州，深圳",
+        "most_recent_tweet_id": "2086387183993438530",
+        "name": "渡边君",
+        "pinned_tweet_id": "1949724676168786000",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698170245012410368/-hDgjw5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37279,
+          "following_count": 2212,
+          "like_count": 65322,
+          "listed_count": 129,
+          "media_count": 6338,
+          "tweet_count": 46446
+        },
+        "url": "",
+        "username": "JiaweiShen2568",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083183992178872320"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "conversation_id": "2083074785945198750",
+    "created_at": "2026-07-31T13:32:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T14:32:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083184002865992047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2003214978959147008",
+          "start": 0,
+          "username": "dfw_ama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yd2uOAJmEI",
+          "end": 282,
+          "expanded_url": "https://x.com/zhijiang0624/status/2083184002865992047/photo/1",
+          "media_key": "3_2083183992178872320",
+          "start": 259,
+          "url": "https://t.co/Yd2uOAJmEI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083184002865992047",
+    "in_reply_to_user_id": "2003214978959147008",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083074785945198750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dfw_ama I think it might be a paederus beetle. The toxic juice of this insect has properties similar to hydrochloric acid.I have been victimized by this insect on my neck before.Sorry, I am Chinese and I don't know about the medical situation in your place. https://t.co/Yd2uOAJmEI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3200,
+        "media_key": "3_2083183992178872320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOj0zb-aEAAt2dL.jpg",
+        "width": 1440
+      },
+      {
+        "duration_ms": 12700,
+        "height": 1088,
+        "media_key": "13_2083074745684148224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083074745684148224/img/SAtwSqjWW2TkZj_w.jpg",
+        "public_metrics": {
+          "view_count": 1647821
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083074745684148224/vid/avc1/320x482/ghhEBD5LpGAdtl5c.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083074745684148224/vid/avc1/480x724/tHqNPoffUaFRDmVD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083074745684148224/vid/avc1/720x1088/z2fzplEayttr71al.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083074745684148224/pl/jve_wrlnK_MWTpYu.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1020,
+        "media_key": "3_2083074777749569536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOiReUhWwAAD6_V.jpg",
+        "width": 1020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083183992178872320"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "conversation_id": "2083074785945198750",
+        "created_at": "2026-07-31T13:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083184002865992047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2003214978959147008",
+              "start": 0,
+              "username": "dfw_ama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yd2uOAJmEI",
+              "end": 282,
+              "expanded_url": "https://x.com/zhijiang0624/status/2083184002865992047/photo/1",
+              "media_key": "3_2083183992178872320",
+              "start": 259,
+              "url": "https://t.co/Yd2uOAJmEI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083184002865992047",
+        "in_reply_to_user_id": "2003214978959147008",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083074785945198750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dfw_ama I think it might be a paederus beetle. The toxic juice of this insect has properties similar to hydrochloric acid.I have been victimized by this insect on my neck before.Sorry, I am Chinese and I don't know about the medical situation in your place. https://t.co/Yd2uOAJmEI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083074745684148224",
+            "3_2083074777749569536"
+          ]
+        },
+        "author_id": "2003214978959147008",
+        "conversation_id": "2083074785945198750",
+        "created_at": "2026-07-31T06:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T07:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083074785945198750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FAFFSj44hi",
+              "end": 175,
+              "expanded_url": "https://x.com/dfw_ama/status/2083074785945198750/video/1",
+              "media_key": "13_2083074745684148224",
+              "start": 152,
+              "url": "https://t.co/FAFFSj44hi"
+            },
+            {
+              "display_url": "pic.x.com/FAFFSj44hi",
+              "end": 175,
+              "expanded_url": "https://x.com/dfw_ama/status/2083074785945198750/video/1",
+              "media_key": "3_2083074777749569536",
+              "start": 152,
+              "url": "https://t.co/FAFFSj44hi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083074785945198750",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 532,
+          "impression_count": 2921296,
+          "like_count": 2639,
+          "quote_count": 89,
+          "reply_count": 356,
+          "retweet_count": 609
+        },
+        "reply_settings": "everyone",
+        "text": "I got bitten by this tiny insect, and it left a small mark on my hand. Does anyone know what kind of insect this is and the best way to treat the bite? https://t.co/FAFFSj44hi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 747,
+          "like_count": 13902,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 2753
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-22T21:24:25.000Z",
+        "description": "Beautiful hearts 💞",
+        "id": "2003214978959147008",
+        "location": "By yourside ",
+        "name": "𝕲𝖊𝖓𝖊𝖛𝖎𝖊𝖛𝖊 🦋💫",
+        "pinned_tweet_id": "2083074785945198750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079206597323010048/rCG6lK_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1886,
+          "following_count": 637,
+          "like_count": 1579,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 831
+        },
+        "url": "",
+        "username": "dfw_ama",
+        "verified": true
+      }
+    ]
+  }
+}

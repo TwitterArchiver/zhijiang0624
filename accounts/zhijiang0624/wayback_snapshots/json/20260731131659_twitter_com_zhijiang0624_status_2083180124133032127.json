@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2083180124133032127",
+    "created_at": "2026-07-31T13:16:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T14:16:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083180124133032127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2250210022",
+          "start": 3,
+          "username": "stelios199948"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083180124133032127",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083122643579154835",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @stelios199948: 好想赚钱😭好想赚钱😭\n好想赚钱😭好想赚钱😭\n好想赚钱😭好想赚钱😭\n好想赚钱😭好想赚钱😭\n好想赚钱😭好想赚钱😭\n好想赚钱😭好想赚钱😭\n好想赚钱😭好想赚钱😭\n好想赚钱😭好想赚钱😭\n好想赚钱😭好想赚钱😭\n好想赚钱😭好想赚钱😭\n好想赚钱😭好想赚钱😭…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2083180124133032127",
+        "created_at": "2026-07-31T13:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083180124133032127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2250210022",
+              "start": 3,
+              "username": "stelios199948"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083180124133032127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083122643579154835",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @stelios199948: 好想赚钱😭好想赚钱😭\n好想赚钱😭好想赚钱😭\n好想赚钱😭好想赚钱😭\n好想赚钱😭好想赚钱😭\n好想赚钱😭好想赚钱😭\n好想赚钱😭好想赚钱😭\n好想赚钱😭好想赚钱😭\n好想赚钱😭好想赚钱😭\n好想赚钱😭好想赚钱😭\n好想赚钱😭好想赚钱😭\n好想赚钱😭好想赚钱😭…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2250210022",
+        "conversation_id": "2083122643579154835",
+        "created_at": "2026-07-31T09:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T10:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083122643579154835"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083122643579154835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 417,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想赚钱😭好想赚钱😭\n好想赚钱😭好想赚钱😭\n好想赚钱😭好想赚钱😭\n好想赚钱😭好想赚钱😭\n好想赚钱😭好想赚钱😭\n好想赚钱😭好想赚钱😭\n好想赚钱😭好想赚钱😭\n好想赚钱😭好想赚钱😭\n好想赚钱😭好想赚钱😭\n好想赚钱😭好想赚钱😭\n好想赚钱😭好想赚钱😭\n好想赚钱😭好想赚钱😭\n好想赚钱😭好想赚钱😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 747,
+          "like_count": 13893,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 2751
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-29T15:21:44.000Z",
+        "description": "2009.2|\n喜欢文学，尤其是现实主义\n|私信不提示，晚回请见谅|Q群号：962809024|永远的小女孩😘",
+        "id": "2250210022",
+        "name": "四月飘雪",
+        "pinned_tweet_id": "2024694651081674809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024738450784866304/ItqCGyJu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 421,
+          "like_count": 520,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 477
+        },
+        "url": "",
+        "username": "stelios199948",
+        "verified": false
+      }
+    ]
+  }
+}

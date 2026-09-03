@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Destinations",
+          "id": "857603051657482241",
+          "name": "Destinations"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1194367046898733056",
+          "name": "Asia Pacific travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1308801514140360705",
+          "name": "Taiwan travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "for travel in specific places and types of travels, e.g., Venezuela travel, Spain travel, road trips",
+          "id": "163",
+          "name": "Travel"
+        },
+        "entity": {
+          "id": "1308801514140360705",
+          "name": "Taiwan travel"
+        }
+      }
+    ],
+    "conversation_id": "2093682784892318098",
+    "created_at": "2026-08-30T17:44:03.000Z",
+    "display_text_range": [
+      9,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T18:44:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094118966679708027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1719362124898811904",
+          "start": 0,
+          "username": "1nloLny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094118966679708027",
+    "in_reply_to_user_id": "1719362124898811904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093682784892318098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1nloLny 我是真的想去台湾旅行\n我初中时候听我们政治老师说以后可能会修直达台湾的桥\n而且也确实好奇各地的风土人情啊🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093682770027712513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ5BYvPbkAEvBnb.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Destinations",
+              "id": "857603051657482241",
+              "name": "Destinations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1194367046898733056",
+              "name": "Asia Pacific travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1308801514140360705",
+              "name": "Taiwan travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "for travel in specific places and types of travels, e.g., Venezuela travel, Spain travel, road trips",
+              "id": "163",
+              "name": "Travel"
+            },
+            "entity": {
+              "id": "1308801514140360705",
+              "name": "Taiwan travel"
+            }
+          }
+        ],
+        "conversation_id": "2093682784892318098",
+        "created_at": "2026-08-30T17:44:03.000Z",
+        "display_text_range": [
+          9,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T18:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094118966679708027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1719362124898811904",
+              "start": 0,
+              "username": "1nloLny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094118966679708027",
+        "in_reply_to_user_id": "1719362124898811904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093682784892318098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1nloLny 我是真的想去台湾旅行\n我初中时候听我们政治老师说以后可能会修直达台湾的桥\n而且也确实好奇各地的风土人情啊🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093682770027712513"
+          ]
+        },
+        "author_id": "1719362124898811904",
+        "conversation_id": "2093682784892318098",
+        "created_at": "2026-08-29T12:50:49.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T13:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093682784892318098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8pKXpuKLcK",
+              "end": 28,
+              "expanded_url": "https://x.com/1nloLny/status/2093682784892318098/photo/1",
+              "media_key": "3_2093682770027712513",
+              "start": 5,
+              "url": "https://t.co/8pKXpuKLcK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093682784892318098",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093682770027712513"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 13109,
+          "like_count": 123,
+          "quote_count": 0,
+          "reply_count": 37,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "起承轉屌 https://t.co/8pKXpuKLcK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "is_identity_verified": false,
+        "location": "世界的彼方",
+        "most_recent_tweet_id": "2094118966679708027",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 724,
+          "like_count": 14391,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 2797
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-31T14:34:18.000Z",
+        "description": "沒有漂亮的外觀誰他媽在乎你有趣的三觀",
+        "id": "1719362124898811904",
+        "is_identity_verified": false,
+        "location": "台灣獨立💗",
+        "most_recent_tweet_id": "2094111059246498164",
+        "name": "Luz",
+        "pinned_tweet_id": "2075170789637460028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1719362124898811904/1704183403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079066468910878721/wdJUPGHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4645,
+          "following_count": 132,
+          "like_count": 13125,
+          "listed_count": 7,
+          "media_count": 160,
+          "tweet_count": 5163
+        },
+        "url": "",
+        "username": "1nloLny",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

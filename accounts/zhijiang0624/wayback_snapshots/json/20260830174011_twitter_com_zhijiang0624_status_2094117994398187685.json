@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2093882940233249151",
+    "created_at": "2026-08-30T17:40:11.000Z",
+    "display_text_range": [
+      11,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T18:40:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094117994398187685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "927812638502936581",
+          "start": 0,
+          "username": "Rumford_S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094117994398187685",
+    "in_reply_to_user_id": "927812638502936581",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093882940233249151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rumford_S 请问可以发教程吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3328,
+        "media_key": "3_2093882912118800384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ73aioaAAAMWNc.jpg",
+        "width": 2723
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2093882940233249151",
+        "created_at": "2026-08-30T17:40:11.000Z",
+        "display_text_range": [
+          11,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T18:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094117994398187685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "927812638502936581",
+              "start": 0,
+              "username": "Rumford_S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094117994398187685",
+        "in_reply_to_user_id": "927812638502936581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093882940233249151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rumford_S 请问可以发教程吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093882912118800384"
+          ]
+        },
+        "author_id": "927812638502936581",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2093882940233249151",
+        "created_at": "2026-08-30T02:06:10.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T03:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093882940233249151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/blkX3PaQdi",
+              "end": 86,
+              "expanded_url": "https://x.com/Rumford_S/status/2093882940233249151/photo/1",
+              "media_key": "3_2093882912118800384",
+              "start": 63,
+              "url": "https://t.co/blkX3PaQdi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093882940233249151",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093882912118800384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1611,
+          "impression_count": 723766,
+          "like_count": 68979,
+          "quote_count": 345,
+          "reply_count": 237,
+          "retweet_count": 8169
+        },
+        "reply_settings": "everyone",
+        "text": "友達「結婚しました！！！」\n友達「子供産まれました！！！」\n友達「昇進しました！！！」\n\n俺「ストローで海老つくった！！！」 https://t.co/blkX3PaQdi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "is_identity_verified": false,
+        "location": "世界的彼方",
+        "most_recent_tweet_id": "2094117994398187685",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 724,
+          "like_count": 14389,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 2796
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-11-07T08:19:05.000Z",
+        "description": "◇トゥーンチックなイラスト◇ 無言フォロー・クソリプ大歓迎◇リンク→ https://t.co/MZUSviP4wd ←ご相談事/ギャラリーはこちら",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/rumford",
+                "end": 58,
+                "expanded_url": "https://lit.link/rumford",
+                "start": 35,
+                "url": "https://t.co/MZUSviP4wd"
+              }
+            ]
+          }
+        },
+        "id": "927812638502936581",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094063702492524774",
+        "name": "ラムフォード",
+        "pinned_tweet_id": "1964644460043898921",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/927812638502936581/1729832909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880393374425051139/U2CpQT0m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70349,
+          "following_count": 10512,
+          "like_count": 382962,
+          "listed_count": 478,
+          "media_count": 8149,
+          "tweet_count": 131683
+        },
+        "url": "",
+        "username": "Rumford_S",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

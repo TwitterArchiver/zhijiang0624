@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2082212685039665401",
+    "created_at": "2026-07-28T21:12:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T22:12:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082212685039665401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1826281483675299840",
+          "start": 3,
+          "username": "ci_shang85157"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082212685039665401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081875589506748839",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ci_shang85157: 这个世界如果没有音乐 那该太坏了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2082212685039665401",
+        "created_at": "2026-07-28T21:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T22:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082212685039665401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1826281483675299840",
+              "start": 3,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082212685039665401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081875589506748839",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ci_shang85157: 这个世界如果没有音乐 那该太坏了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2081875589506748839",
+        "created_at": "2026-07-27T22:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T23:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081875589506748839"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081875589506748839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 205,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这个世界如果没有音乐 那该太坏了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 755,
+          "like_count": 13798,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 2743
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答。  嗯我是男生 不要认错了。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2060026487768760460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1143,
+          "following_count": 733,
+          "like_count": 24792,
+          "listed_count": 2,
+          "media_count": 274,
+          "tweet_count": 8962
+        },
+        "url": "",
+        "username": "ci_shang85157",
+        "verified": false
+      }
+    ]
+  }
+}

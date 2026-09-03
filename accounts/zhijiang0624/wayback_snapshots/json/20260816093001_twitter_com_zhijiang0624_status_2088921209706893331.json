@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2088654443902644458",
+    "created_at": "2026-08-16T09:30:01.000Z",
+    "display_text_range": [
+      9,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T10:30:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088921209706893331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2059403033667317760",
+          "start": 0,
+          "username": "beimOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088921209706893331",
+    "in_reply_to_user_id": "2059403033667317760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088654443902644458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@beimOvO 很漂亮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088654435396575232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxkJJBbYAAG0Nf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2088654443902644458",
+        "created_at": "2026-08-16T09:30:01.000Z",
+        "display_text_range": [
+          9,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T10:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088921209706893331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2059403033667317760",
+              "start": 0,
+              "username": "beimOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088921209706893331",
+        "in_reply_to_user_id": "2059403033667317760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088654443902644458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beimOvO 很漂亮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088654435396575232"
+          ]
+        },
+        "author_id": "2059403033667317760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2088654443902644458",
+        "created_at": "2026-08-15T15:49:59.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T16:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088654443902644458"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 8,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nGuvvSJC8k",
+              "end": 40,
+              "expanded_url": "https://x.com/beimOvO/status/2088654443902644458/photo/1",
+              "media_key": "3_2088654435396575232",
+              "start": 17,
+              "url": "https://t.co/nGuvvSJC8k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088654443902644458",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088654435396575232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2333,
+          "like_count": 91,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小鸟一样的天使 #cosplay https://t.co/nGuvvSJC8k"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "is_identity_verified": false,
+        "location": "世界的彼方",
+        "most_recent_tweet_id": "2088921209706893331",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 729,
+          "like_count": 14249,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 2779
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T22:36:27.000Z",
+        "description": "你们一直夸我ouo我喜欢你们\n正常人，不是福利姬不会发福利，墙内骚扰我直接拉黑。就是觉得这里好玩，随便发些喜欢的，不要说奇怪的话呀，没惹你们。心理承受能力弱，崩溃了会把作品全删了专心只刷不发",
+        "id": "2059403033667317760",
+        "is_identity_verified": false,
+        "location": "中国",
+        "most_recent_tweet_id": "2088917616345956435",
+        "name": "北猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059403033667317760/1784385528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069568553934848000/w50YL8hY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2183,
+          "following_count": 4,
+          "like_count": 80,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 147
+        },
+        "url": "",
+        "username": "beimOvO",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

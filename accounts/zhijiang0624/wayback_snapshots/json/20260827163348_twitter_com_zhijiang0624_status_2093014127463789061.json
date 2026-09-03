@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2093014127463789061",
+    "created_at": "2026-08-27T16:33:48.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T17:33:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093014127463789061"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2093014127463789061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这几把世界是真的完蛋了\n男的看女同，女的看男同\n同性恋把同性当异性艹，异性之间的距离却跟他妈同性一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2093014127463789061",
+        "created_at": "2026-08-27T16:33:48.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T17:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093014127463789061"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093014127463789061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这几把世界是真的完蛋了\n男的看女同，女的看男同\n同性恋把同性当异性艹，异性之间的距离却跟他妈同性一样"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "is_identity_verified": false,
+        "location": "世界的彼方",
+        "most_recent_tweet_id": "2093014127463789061",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 722,
+          "like_count": 14331,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 2787
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

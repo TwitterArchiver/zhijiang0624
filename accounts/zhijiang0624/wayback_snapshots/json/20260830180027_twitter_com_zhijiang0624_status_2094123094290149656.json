@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2081476014484635941",
+    "created_at": "2026-08-30T18:00:27.000Z",
+    "display_text_range": [
+      17,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T19:00:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094123094290149656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2058879697011019776",
+          "start": 0,
+          "username": "Zarathustra8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094123094290149656",
+    "in_reply_to_user_id": "2058879697011019776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081476014484635941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zarathustra8964 恭喜"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2081476014484635941].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2081476014484635941",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2081476014484635941"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2081476014484635941",
+        "created_at": "2026-08-30T18:00:27.000Z",
+        "display_text_range": [
+          17,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T19:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094123094290149656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2058879697011019776",
+              "start": 0,
+              "username": "Zarathustra8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094123094290149656",
+        "in_reply_to_user_id": "2058879697011019776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081476014484635941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zarathustra8964 恭喜"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "is_identity_verified": false,
+        "location": "世界的彼方",
+        "most_recent_tweet_id": "2094123094290149656",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 725,
+          "like_count": 14409,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 2800
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-25T12:00:57.000Z",
+        "description": "在你的个人资料中添加简介",
+        "id": "2058879697011019776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2082445758830371203",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2092637687773827506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2058879697011019776/1779711138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058883784288927744/va7XxYIs_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 156,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 92
+        },
+        "url": "",
+        "username": "Zarathustra8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

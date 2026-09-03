@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082809162623533056",
+        "3_2082809300360269824"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "conversation_id": "2072412398930272376",
+    "created_at": "2026-07-30T12:43:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T13:43:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082809355867672753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1827754018984394752",
+          "start": 0,
+          "username": "nuomishubot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iTyl6G8wsl",
+          "end": 53,
+          "expanded_url": "https://x.com/zhijiang0624/status/2082809355867672753/photo/1",
+          "media_key": "3_2082809162623533056",
+          "start": 30,
+          "url": "https://t.co/iTyl6G8wsl"
+        },
+        {
+          "display_url": "pic.x.com/iTyl6G8wsl",
+          "end": 53,
+          "expanded_url": "https://x.com/zhijiang0624/status/2082809355867672753/photo/1",
+          "media_key": "3_2082809300360269824",
+          "start": 30,
+          "url": "https://t.co/iTyl6G8wsl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082809355867672753",
+    "in_reply_to_user_id": "1827754018984394752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072412398930272376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nuomishubot 我有些时候也不知道究竟该说什么好 https://t.co/iTyl6G8wsl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2082809162623533056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOef5fEawAARFiO.jpg",
+        "width": 1086
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2082809300360269824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOegBgLakAAOQ02.jpg",
+        "width": 864
+      },
+      {
+        "height": 3076,
+        "media_key": "3_2072412331112640512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMKwCPgbsAAhUJ4.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082809162623533056",
+            "3_2082809300360269824"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "conversation_id": "2072412398930272376",
+        "created_at": "2026-07-30T12:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082809355867672753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1827754018984394752",
+              "start": 0,
+              "username": "nuomishubot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iTyl6G8wsl",
+              "end": 53,
+              "expanded_url": "https://x.com/zhijiang0624/status/2082809355867672753/photo/1",
+              "media_key": "3_2082809162623533056",
+              "start": 30,
+              "url": "https://t.co/iTyl6G8wsl"
+            },
+            {
+              "display_url": "pic.x.com/iTyl6G8wsl",
+              "end": 53,
+              "expanded_url": "https://x.com/zhijiang0624/status/2082809355867672753/photo/1",
+              "media_key": "3_2082809300360269824",
+              "start": 30,
+              "url": "https://t.co/iTyl6G8wsl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082809355867672753",
+        "in_reply_to_user_id": "1827754018984394752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072412398930272376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nuomishubot 我有些时候也不知道究竟该说什么好 https://t.co/iTyl6G8wsl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072412331112640512"
+          ]
+        },
+        "author_id": "1827754018984394752",
+        "conversation_id": "2072412398930272376",
+        "created_at": "2026-07-01T20:09:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T21:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072412398930272376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/06iaZOA3kd",
+              "end": 34,
+              "expanded_url": "https://x.com/nuomishubot/status/2072412398930272376/photo/1",
+              "media_key": "3_2072412331112640512",
+              "start": 11,
+              "url": "https://t.co/06iaZOA3kd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072412398930272376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 10160,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想说的都说不出口。 https://t.co/06iaZOA3kd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 751,
+          "like_count": 13848,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 2749
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-25T17:05:19.000Z",
+        "description": "一个毛娘妆娘后期COSER，平平无奇的up，一个为孩子家庭努力奋斗的妈妈 全国接假发造型需要私聊，日本語の勉強,간단한 한글을 알 수 있습니다.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/DIjvJwp",
+                "end": 23,
+                "expanded_url": "https://b23.tv/DIjvJwp",
+                "start": 0,
+                "url": "https://t.co/xzDlr8SFS3"
+              }
+            ]
+          }
+        },
+        "id": "1827754018984394752",
+        "location": "纯绿🚪138 送免费造型假发",
+        "name": "索拉里斯最强妈妈",
+        "pinned_tweet_id": "1978177637848645889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003871475422449665/5_R0uWN__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43962,
+          "following_count": 107,
+          "like_count": 4851,
+          "listed_count": 97,
+          "media_count": 236,
+          "tweet_count": 820
+        },
+        "url": "https://t.co/xzDlr8SFS3",
+        "username": "nuomishubot",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2082438070167912857",
+    "created_at": "2026-07-29T15:24:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T16:24:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082487316208296407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "507255352",
+          "start": 0,
+          "username": "0209Love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082487316208296407",
+    "in_reply_to_user_id": "507255352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082438070167912857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0209Love 什么味的？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2082438070167912857].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2082438070167912857",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2082438070167912857"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2082438070167912857",
+        "created_at": "2026-07-29T15:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082487316208296407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "507255352",
+              "start": 0,
+              "username": "0209Love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082487316208296407",
+        "in_reply_to_user_id": "507255352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082438070167912857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0209Love 什么味的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 753,
+          "like_count": 13816,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 2745
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-28T11:39:23.000Z",
+        "description": "",
+        "id": "507255352",
+        "location": "距离4.5km",
+        "name": "开发日记本",
+        "pinned_tweet_id": "2034515177895530670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025209805821120512/dUDKeA9Q_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 85166,
+          "following_count": 132,
+          "like_count": 351,
+          "listed_count": 151,
+          "media_count": 65,
+          "tweet_count": 16709
+        },
+        "url": "",
+        "username": "0209Love",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

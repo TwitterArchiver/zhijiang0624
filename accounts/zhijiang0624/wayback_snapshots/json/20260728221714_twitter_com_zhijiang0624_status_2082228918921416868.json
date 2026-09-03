@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2082122181421809761",
+    "created_at": "2026-07-28T22:17:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T23:17:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082228918921416868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1421851995355369477",
+          "start": 0,
+          "username": "Aichijiandanxyz"
+        },
+        {
+          "end": 26,
+          "id": "1858129212970024960",
+          "start": 17,
+          "username": "bieguale"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082228918921416868",
+    "in_reply_to_user_id": "1421851995355369477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082174588633731516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aichijiandanxyz @bieguale 欲都孤儿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2082122181421809761",
+        "created_at": "2026-07-28T22:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T23:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082228918921416868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1421851995355369477",
+              "start": 0,
+              "username": "Aichijiandanxyz"
+            },
+            {
+              "end": 26,
+              "id": "1858129212970024960",
+              "start": 17,
+              "username": "bieguale"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082228918921416868",
+        "in_reply_to_user_id": "1421851995355369477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082174588633731516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aichijiandanxyz @bieguale 欲都孤儿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1421851995355369477",
+        "conversation_id": "2082122181421809761",
+        "created_at": "2026-07-28T18:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T19:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082174588633731516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1858129212970024960",
+              "start": 0,
+              "username": "bieguale"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082174588633731516",
+        "in_reply_to_user_id": "1858129212970024960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082122181421809761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bieguale 你好，请问这是什么游戏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 755,
+          "like_count": 13814,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 2744
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-01T15:15:33.000Z",
+        "description": "思维补丁，本体是🥚\n\n#煎蛋不想说话就唱歌吧\n\n#蛋喘",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 11,
+                "tag": "煎蛋不想说话就唱歌吧"
+              },
+              {
+                "end": 27,
+                "start": 24,
+                "tag": "蛋喘"
+              }
+            ]
+          }
+        },
+        "id": "1421851995355369477",
+        "location": "🍳",
+        "name": "煎蛋棉被",
+        "pinned_tweet_id": "1844974218825400809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922277650879676418/p7_qBFWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20628,
+          "following_count": 331,
+          "like_count": 160282,
+          "listed_count": 59,
+          "media_count": 8701,
+          "tweet_count": 79859
+        },
+        "url": "",
+        "username": "Aichijiandanxyz",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-17T12:45:16.000Z",
+        "description": "私房随缘摄影 涩话垃圾桶 激情互动",
+        "id": "1858129212970024960",
+        "location": "广州",
+        "name": "你看看你",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887553201421099011/msFGORG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 230,
+          "like_count": 6516,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 842
+        },
+        "url": "",
+        "username": "bieguale",
+        "verified": false
+      }
+    ]
+  }
+}

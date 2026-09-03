@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2087134956590186936",
+    "created_at": "2026-08-11T12:48:09.000Z",
+    "display_text_range": [
+      13,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T13:48:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087159133925756974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1257640833886547969",
+          "start": 0,
+          "username": "Yukibabeluv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087159133925756974",
+    "in_reply_to_user_id": "1257640833886547969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087134956590186936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yukibabeluv 脱离家庭是对的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 950,
+        "media_key": "3_2087134791963705344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPb-CQFbAAAeJBM.jpg",
+        "width": 604
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2087134956590186936",
+        "created_at": "2026-08-11T12:48:09.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T13:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087159133925756974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1257640833886547969",
+              "start": 0,
+              "username": "Yukibabeluv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087159133925756974",
+        "in_reply_to_user_id": "1257640833886547969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087134956590186936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yukibabeluv 脱离家庭是对的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087134791963705344"
+          ]
+        },
+        "author_id": "1257640833886547969",
+        "conversation_id": "2087134956590186936",
+        "created_at": "2026-08-11T11:12:05.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T12:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087134956590186936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jR8GH57DmU",
+              "end": 49,
+              "expanded_url": "https://x.com/Yukibabeluv/status/2087134956590186936/photo/1",
+              "media_key": "3_2087134791963705344",
+              "start": 26,
+              "url": "https://t.co/jR8GH57DmU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087134956590186936",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087134791963705344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2746,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "帮我哥还网贷的事已经成梗图了吗\n也算是赛博永生了… https://t.co/jR8GH57DmU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "is_identity_verified": false,
+        "location": "世界的彼方",
+        "most_recent_tweet_id": "2087159133925756974",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 736,
+          "like_count": 14122,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 2771
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-05T11:58:48.000Z",
+        "description": "电子魅魔☆恶魔瞄准  Dy：Yukihano\n过门私信留口令+姓 和 🛰️ 没回就是在睡觉，吞私信的宝宝评论区dd💗爽快多送浮力",
+        "id": "1257640833886547969",
+        "is_identity_verified": false,
+        "location": "288/520/1314 ",
+        "most_recent_tweet_id": "2087148969520705630",
+        "name": "梅子酱",
+        "pinned_tweet_id": "2080090264052678776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1257640833886547969/1690713780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008167083847430144/eQgx0Yat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102352,
+          "following_count": 268,
+          "like_count": 13717,
+          "listed_count": 260,
+          "media_count": 206,
+          "tweet_count": 12129
+        },
+        "url": "",
+        "username": "Yukibabeluv",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

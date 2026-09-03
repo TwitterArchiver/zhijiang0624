@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2084131113300357142",
+    "created_at": "2026-08-30T18:32:28.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T19:32:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094131151007068431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2001821328584929280",
+          "start": 0,
+          "username": "cwmgdnn0305"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094131151007068431",
+    "in_reply_to_user_id": "2001821328584929280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084131113300357142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cwmgdnn0305 还好吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3957,
+        "media_key": "3_2084131086549045248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxSLlca0AAv7LX.jpg",
+        "width": 1843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2084131113300357142",
+        "created_at": "2026-08-30T18:32:28.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T19:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094131151007068431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2001821328584929280",
+              "start": 0,
+              "username": "cwmgdnn0305"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094131151007068431",
+        "in_reply_to_user_id": "2001821328584929280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084131113300357142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cwmgdnn0305 还好吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084131086549045248"
+          ]
+        },
+        "author_id": "2001821328584929280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084131113300357142",
+        "created_at": "2026-08-03T04:15:53.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084131113300357142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GFrtRO7ZN2",
+              "end": 30,
+              "expanded_url": "https://x.com/cwmgdnn0305/status/2084131113300357142/photo/1",
+              "media_key": "3_2084131086549045248",
+              "start": 7,
+              "url": "https://t.co/GFrtRO7ZN2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084131113300357142",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2084131086549045248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 230,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这素在……？ https://t.co/GFrtRO7ZN2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "is_identity_verified": false,
+        "location": "世界的彼方",
+        "most_recent_tweet_id": "2094131151007068431",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 728,
+          "like_count": 14459,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 2805
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-19T01:06:51.000Z",
+        "description": "餐券女   日常是一个非常温良的妹子可以随便找我倾诉哦   可以称呼我为楠楠   od💊割手手  查成分互fo   直fo就是喜欢你 喜欢右美   感康（虽然很难受不过它给我的幻觉是难以想象的，喜欢）白兔（超级温柔的药），pr80（比较喜欢的，好幸福）你喜欢我＝我喜欢你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cwmgdnn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cwmgdnn",
+                "start": 0,
+                "url": "https://t.co/jtBG6h7WY2"
+              }
+            ]
+          }
+        },
+        "id": "2001821328584929280",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2084131113300357142",
+        "name": "…",
+        "pinned_tweet_id": "2080655488749052299",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2001821328584929280/1770800026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039171823590629376/Z_wwMudM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 254,
+          "like_count": 2727,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 672
+        },
+        "url": "https://t.co/jtBG6h7WY2",
+        "username": "cwmgdnn0305",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

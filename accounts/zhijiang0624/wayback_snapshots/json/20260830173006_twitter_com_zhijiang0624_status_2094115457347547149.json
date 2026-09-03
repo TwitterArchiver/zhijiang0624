@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2093925623295328596",
+    "created_at": "2026-08-30T17:30:06.000Z",
+    "display_text_range": [
+      10,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T18:30:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094115457347547149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1674081369830436864",
+          "start": 0,
+          "username": "yshidhe3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094115457347547149",
+    "in_reply_to_user_id": "1674081369830436864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093925623295328596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yshidhe3 相信自己的决定"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2093925623295328596",
+        "created_at": "2026-08-30T17:30:06.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T18:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094115457347547149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094115457347547149",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093925623295328596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 相信自己的决定"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2093925623295328596",
+        "created_at": "2026-08-30T04:55:46.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T05:49:23.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093924018852434093",
+          "2093925623295328596"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093925623295328596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 527,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我突然又懂了\n他早就不那麼愛我了\n他只是為了我能focus他\n只是那次之後他覺得我做不到了\n所以才走\n\n我偶爾感覺到他也沒有很愛我\n這已經代表全部了吧\n這就是事實啊\n\n他明知道我不懂\n卻不作解釋\n只是秋後算賬\n\n我該相信什麼？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "is_identity_verified": false,
+        "location": "世界的彼方",
+        "most_recent_tweet_id": "2094115457347547149",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 723,
+          "like_count": 14372,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 2792
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會/割 喔\n跟我聊天要先看自介噢 \n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2094065838777364536",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2093620803019604117",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 35,
+          "like_count": 2017,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1249
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

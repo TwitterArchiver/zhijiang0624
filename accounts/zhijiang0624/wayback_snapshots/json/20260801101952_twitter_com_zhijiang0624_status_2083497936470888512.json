@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083301885583532032"
+      ],
+      "media_source_tweet_id": [
+        "2083301893145825334"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "conversation_id": "2083497936470888512",
+    "created_at": "2026-08-01T10:19:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T11:19:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083497936470888512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1658645512483123200",
+          "start": 3,
+          "username": "cabinvisuals"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IASQjK4t7V",
+          "end": 41,
+          "expanded_url": "https://x.com/cabinvisuals/status/2083301893145825334/photo/1",
+          "media_key": "3_2083301885583532032",
+          "start": 18,
+          "url": "https://t.co/IASQjK4t7V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083497936470888512",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 129
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083301893145825334",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cabinvisuals: https://t.co/IASQjK4t7V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2083301885583532032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOlgBvIboAA76Ka.jpg",
+        "width": 683
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083301885583532032"
+          ]
+        },
+        "author_id": "1658645512483123200",
+        "conversation_id": "2083301893145825334",
+        "created_at": "2026-07-31T21:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T22:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083301893145825334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IASQjK4t7V",
+              "end": 23,
+              "expanded_url": "https://x.com/cabinvisuals/status/2083301893145825334/photo/1",
+              "media_key": "3_2083301885583532032",
+              "start": 0,
+              "url": "https://t.co/IASQjK4t7V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083301893145825334",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 6723,
+          "like_count": 761,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 129
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IASQjK4t7V"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083301885583532032"
+          ],
+          "media_source_tweet_id": [
+            "2083301893145825334"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "conversation_id": "2083497936470888512",
+        "created_at": "2026-08-01T10:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083497936470888512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1658645512483123200",
+              "start": 3,
+              "username": "cabinvisuals"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IASQjK4t7V",
+              "end": 41,
+              "expanded_url": "https://x.com/cabinvisuals/status/2083301893145825334/photo/1",
+              "media_key": "3_2083301885583532032",
+              "start": 18,
+              "url": "https://t.co/IASQjK4t7V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083497936470888512",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 129
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083301893145825334",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cabinvisuals: https://t.co/IASQjK4t7V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 749,
+          "like_count": 13943,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 2758
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T01:28:20.000Z",
+        "description": "𝘚𝘵𝘦𝘱 𝘪𝘯𝘵𝘰 𝘯𝘢𝘵𝘶𝘳𝘦’𝘴 𝘴𝘢𝘯𝘤𝘵𝘶𝘢𝘳𝘺, 𝘰𝘯𝘦 𝘤𝘢𝘣𝘪𝘯 𝘢𝘵 𝘢 𝘵𝘪𝘮𝘦. 𝘋𝘔 𝘧𝘰𝘳 𝘤𝘳𝘦𝘥𝘪𝘵/𝘳𝘦𝘮𝘰𝘷𝘢𝘭.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/kkkp",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/kkkp",
+                "start": 0,
+                "url": "https://t.co/WA9oFH0pY9"
+              }
+            ]
+          }
+        },
+        "id": "1658645512483123200",
+        "location": "🌎 ",
+        "name": "𝘤𝘢𝘣𝘪𝘯 𝘷𝘪𝘴𝘶𝘢𝘭𝘴 ❁࿐❁",
+        "pinned_tweet_id": "2082913846373892384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063323215590772736/FG56FFKu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53172,
+          "following_count": 15589,
+          "like_count": 32515,
+          "listed_count": 216,
+          "media_count": 5961,
+          "tweet_count": 19125
+        },
+        "url": "https://t.co/WA9oFH0pY9",
+        "username": "cabinvisuals",
+        "verified": true
+      }
+    ]
+  }
+}

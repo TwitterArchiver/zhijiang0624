@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2083074785945198750",
+    "created_at": "2026-07-31T13:33:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T14:33:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083184270403874933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2003214978959147008",
+          "start": 0,
+          "username": "dfw_ama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083184270403874933",
+    "in_reply_to_user_id": "1730214580184604672",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083184002865992047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dfw_ama Since I'm not familiar with the medical situation in your area, you'll need to look into it yourself and see what to do."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3200,
+        "media_key": "3_2083183992178872320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOj0zb-aEAAt2dL.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2083074785945198750",
+        "created_at": "2026-07-31T13:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083184270403874933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2003214978959147008",
+              "start": 0,
+              "username": "dfw_ama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083184270403874933",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083184002865992047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dfw_ama Since I'm not familiar with the medical situation in your area, you'll need to look into it yourself and see what to do."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083183992178872320"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "conversation_id": "2083074785945198750",
+        "created_at": "2026-07-31T13:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083184002865992047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2003214978959147008",
+              "start": 0,
+              "username": "dfw_ama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yd2uOAJmEI",
+              "end": 282,
+              "expanded_url": "https://x.com/zhijiang0624/status/2083184002865992047/photo/1",
+              "media_key": "3_2083183992178872320",
+              "start": 259,
+              "url": "https://t.co/Yd2uOAJmEI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083184002865992047",
+        "in_reply_to_user_id": "2003214978959147008",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083074785945198750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dfw_ama I think it might be a paederus beetle. The toxic juice of this insect has properties similar to hydrochloric acid.I have been victimized by this insect on my neck before.Sorry, I am Chinese and I don't know about the medical situation in your place. https://t.co/Yd2uOAJmEI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 747,
+          "like_count": 13902,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 2754
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-22T21:24:25.000Z",
+        "description": "Beautiful hearts 💞",
+        "id": "2003214978959147008",
+        "location": "By yourside ",
+        "name": "𝕲𝖊𝖓𝖊𝖛𝖎𝖊𝖛𝖊 🦋💫",
+        "pinned_tweet_id": "2083074785945198750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079206597323010048/rCG6lK_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1886,
+          "following_count": 637,
+          "like_count": 1579,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 831
+        },
+        "url": "",
+        "username": "dfw_ama",
+        "verified": true
+      }
+    ]
+  }
+}

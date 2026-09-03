@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2087371262117179831",
+    "created_at": "2026-08-12T14:41:25.000Z",
+    "display_text_range": [
+      14,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T15:41:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087550024481972497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1361937943128985601",
+          "start": 0,
+          "username": "aqua_cosplay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087550024481972497",
+    "in_reply_to_user_id": "1361937943128985601",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087371262117179831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aqua_cosplay しっかり治療してください、一日も早い回復をお祈りします。🙏🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2087371262117179831",
+        "created_at": "2026-08-12T14:41:25.000Z",
+        "display_text_range": [
+          14,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T15:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087550024481972497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1361937943128985601",
+              "start": 0,
+              "username": "aqua_cosplay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087550024481972497",
+        "in_reply_to_user_id": "1361937943128985601",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087371262117179831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aqua_cosplay しっかり治療してください、一日も早い回復をお祈りします。🙏🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1361937943128985601",
+        "conversation_id": "2087371262117179831",
+        "created_at": "2026-08-12T02:51:05.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T03:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087371262117179831"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087371262117179831",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "突然このようなお知らせになってしまって、本当にごめんなさい🥲\n急な病気で10日間ほど入院することになり、今回は本人がスペースに行くことができなくなってしまいました。\n\n頒布物もなんとか全部間に合わせて、みんなに会えるのをずっと楽しみにしていたのに、まさか自分が先に倒れてしまうとは……本当に残念です。\n\nみんなもちゃんと定期的に検診を受けて、身体を大切にしてください🥲\nやっぱり健康が一番大事です。\n\nスペースについての今後の対応は、また改めてお知らせします。\n今回みんなに会えなくなってしまって、本当にごめんなさい。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 174761,
+          "like_count": 1179,
+          "quote_count": 2,
+          "reply_count": 66,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "突然このようなお知らせになってしまって、本当にごめんなさい🥲\n急な病気で10日間ほど入院することになり、今回は本人がスペースに行くことができなくなってしまいました。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "is_identity_verified": false,
+        "location": "世界的彼方",
+        "most_recent_tweet_id": "2087550024481972497",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 737,
+          "like_count": 14151,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 2773
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-17T07:18:19.000Z",
+        "description": "🩵お仕事:shiimiaoaqua0728@gmail.com💙PATRON: https://t.co/zqATP5UuXq🩵写真集通販：https://t.co/4sQJS1eTOS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/aqua_cosplay",
+                "end": 63,
+                "expanded_url": "https://www.patreon.com/aqua_cosplay",
+                "start": 40,
+                "url": "https://t.co/zqATP5UuXq"
+              },
+              {
+                "display_url": "aquaarea.official.ec",
+                "end": 93,
+                "expanded_url": "https://aquaarea.official.ec/",
+                "start": 70,
+                "url": "https://t.co/4sQJS1eTOS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fantia.jp/fanclubs/61158",
+                "end": 23,
+                "expanded_url": "https://fantia.jp/fanclubs/61158",
+                "start": 0,
+                "url": "https://t.co/tXLRxdh8Vf"
+              }
+            ]
+          }
+        },
+        "id": "1361937943128985601",
+        "is_identity_verified": false,
+        "location": "淘宝：水水中心",
+        "most_recent_tweet_id": "2087371262117179831",
+        "name": "Aqua水淼",
+        "pinned_tweet_id": "2062907536664326209",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1361937943128985601/1769062285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014219279919714304/sZ0DXN6F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1973203,
+          "following_count": 265,
+          "like_count": 914,
+          "listed_count": 4009,
+          "media_count": 401,
+          "tweet_count": 935
+        },
+        "url": "https://t.co/tXLRxdh8Vf",
+        "username": "aqua_cosplay",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

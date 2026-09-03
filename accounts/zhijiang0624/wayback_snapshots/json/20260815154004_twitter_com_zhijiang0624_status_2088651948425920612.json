@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2088649616929755154",
+    "created_at": "2026-08-15T15:40:04.000Z",
+    "display_text_range": [
+      13,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T16:40:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088651948425920612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1628343048051490816",
+          "start": 0,
+          "username": "mamamia1008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088651948425920612",
+    "in_reply_to_user_id": "1628343048051490816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088649701315039262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mamamia1008 没有任何时候应该有无限的忍耐度"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2088649616929755154",
+        "created_at": "2026-08-15T15:40:04.000Z",
+        "display_text_range": [
+          13,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T16:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088651948425920612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628343048051490816",
+              "start": 0,
+              "username": "mamamia1008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088651948425920612",
+        "in_reply_to_user_id": "1628343048051490816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088649701315039262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mamamia1008 没有任何时候应该有无限的忍耐度"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628343048051490816",
+        "conversation_id": "2088649616929755154",
+        "created_at": "2026-08-15T15:31:08.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T16:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088649701315039262"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088649701315039262",
+        "in_reply_to_user_id": "1628343048051490816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 513,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088649616929755154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只能说通常我的忍耐度有限"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "is_identity_verified": false,
+        "location": "世界的彼方",
+        "most_recent_tweet_id": "2088651948425920612",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 735,
+          "like_count": 14217,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 2777
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-22T10:37:18.000Z",
+        "description": "易哭易怒脾气不好\n爱我请多多支持我喵",
+        "id": "1628343048051490816",
+        "is_identity_verified": false,
+        "location": "bilibili：咪娅酱ovo 微店：miya甜品店",
+        "most_recent_tweet_id": "2088649701315039262",
+        "name": "咪娅酱🐰",
+        "pinned_tweet_id": "2040299042652270671",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1628343048051490816/1745566789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911827877940572160/6LKyXZH5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357836,
+          "following_count": 71,
+          "like_count": 8062,
+          "listed_count": 1274,
+          "media_count": 314,
+          "tweet_count": 2544
+        },
+        "url": "",
+        "username": "mamamia1008",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

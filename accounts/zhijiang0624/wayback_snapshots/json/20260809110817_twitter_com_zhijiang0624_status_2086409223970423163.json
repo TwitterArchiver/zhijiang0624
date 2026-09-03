@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2086093919818039301",
+    "created_at": "2026-08-09T11:08:17.000Z",
+    "display_text_range": [
+      17,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T12:08:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086409223970423163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2035050973677441024",
+          "start": 0,
+          "username": "natsume_anan_23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086409223970423163",
+    "in_reply_to_user_id": "2035050973677441024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086093919818039301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@natsume_anan_23 坏了\n老乡上大分"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2086093883621138432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPNLVaVaYAAOeK7.jpg",
+        "width": 3071
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2086093899135885312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPNLWUIaoAAUS-7.jpg",
+        "width": 3072
+      },
+      {
+        "height": 2123,
+        "media_key": "3_2086093913149030400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPNLXIVaQAA_sYD.jpg",
+        "width": 1194
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2086093919818039301",
+        "created_at": "2026-08-09T11:08:17.000Z",
+        "display_text_range": [
+          17,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T12:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086409223970423163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035050973677441024",
+              "start": 0,
+              "username": "natsume_anan_23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086409223970423163",
+        "in_reply_to_user_id": "2035050973677441024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086093919818039301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@natsume_anan_23 坏了\n老乡上大分"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086093883621138432",
+            "3_2086093899135885312",
+            "3_2086093913149030400"
+          ]
+        },
+        "author_id": "2035050973677441024",
+        "conversation_id": "2086093919818039301",
+        "created_at": "2026-08-08T14:15:22.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T15:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086093919818039301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2zgHlIEuJ4",
+              "end": 160,
+              "expanded_url": "https://x.com/natsume_anan_23/status/2086093919818039301/photo/1",
+              "media_key": "3_2086093883621138432",
+              "start": 137,
+              "url": "https://t.co/2zgHlIEuJ4"
+            },
+            {
+              "display_url": "pic.x.com/2zgHlIEuJ4",
+              "end": 160,
+              "expanded_url": "https://x.com/natsume_anan_23/status/2086093919818039301/photo/1",
+              "media_key": "3_2086093899135885312",
+              "start": 137,
+              "url": "https://t.co/2zgHlIEuJ4"
+            },
+            {
+              "display_url": "pic.x.com/2zgHlIEuJ4",
+              "end": 160,
+              "expanded_url": "https://x.com/natsume_anan_23/status/2086093919818039301/photo/1",
+              "media_key": "3_2086093913149030400",
+              "start": 137,
+              "url": "https://t.co/2zgHlIEuJ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086093919818039301",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086093883621138432"
+          },
+          {
+            "media_key": "3_2086093899135885312"
+          },
+          {
+            "media_key": "3_2086093913149030400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 19577,
+          "like_count": 172,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "一条自介帖\n这里是莳萝,来自四川小城市的男娘兼底层coser,照片没作特殊说明默认轻度加工,身心均为男且是直男.没太多雷点,不搞黄不搞门槛费,更没有所谓的偶像架子,大多数群体可扩列但婉拒下体人和魔怔人,主页太干净看不出成分的看心情通过.\np3是今天新建的群，有兴趣可以来玩 https://t.co/2zgHlIEuJ4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "is_identity_verified": false,
+        "location": "世界的彼方",
+        "most_recent_tweet_id": "2086409223970423163",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 738,
+          "like_count": 14088,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 2767
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-20T17:49:14.000Z",
+        "description": "人生哪能多如意，万事只求半称心",
+        "id": "2035050973677441024",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086093919818039301",
+        "name": "莳萝dill",
+        "pinned_tweet_id": "2086093919818039301",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035050973677441024/1783174943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069047018027450368/oACsLr0__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3877,
+          "following_count": 97,
+          "like_count": 267,
+          "listed_count": 14,
+          "media_count": 48,
+          "tweet_count": 113
+        },
+        "url": "",
+        "username": "natsume_anan_23",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

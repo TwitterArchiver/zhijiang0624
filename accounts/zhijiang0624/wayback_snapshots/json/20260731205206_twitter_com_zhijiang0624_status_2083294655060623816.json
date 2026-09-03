@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2082973682180231168"
+      ],
+      "media_source_tweet_id": [
+        "2083147661763649698"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "conversation_id": "2083294655060623816",
+    "created_at": "2026-07-31T20:52:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T21:52:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083294655060623816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1266804779067506690",
+          "start": 3,
+          "username": "natureegloomy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/L4rqCvy7o9",
+          "end": 85,
+          "expanded_url": "https://x.com/natureegloomy/status/2083147661763649698/video/1",
+          "media_key": "13_2082973682180231168",
+          "start": 62,
+          "url": "https://t.co/L4rqCvy7o9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083294655060623816",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 237
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083147661763649698",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @natureegloomy: this is what i mean by perfect weather btw https://t.co/L4rqCvy7o9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19066,
+        "height": 1280,
+        "media_key": "13_2082973682180231168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082973682180231168/img/BSBypu0oohmDrtfl.jpg",
+        "public_metrics": {
+          "view_count": 10722
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082973682180231168/vid/avc1/320x568/cnGd5OI6UyHX2oEO.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082973682180231168/vid/avc1/480x852/Fe-tNu7kDNGL5BRt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082973682180231168/vid/avc1/720x1280/g3RvJkeP5l2kqIz-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082973682180231168/pl/02p9YEtSNsIP5YHl.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082973682180231168"
+          ]
+        },
+        "author_id": "1266804779067506690",
+        "conversation_id": "2083147661763649698",
+        "created_at": "2026-07-31T11:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T12:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083147661763649698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L4rqCvy7o9",
+              "end": 66,
+              "expanded_url": "https://x.com/natureegloomy/status/2083147661763649698/video/1",
+              "media_key": "13_2082973682180231168",
+              "start": 43,
+              "url": "https://t.co/L4rqCvy7o9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083147661763649698",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 305,
+          "impression_count": 31543,
+          "like_count": 1993,
+          "quote_count": 13,
+          "reply_count": 7,
+          "retweet_count": 237
+        },
+        "reply_settings": "everyone",
+        "text": "this is what i mean by perfect weather btw https://t.co/L4rqCvy7o9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082973682180231168"
+          ],
+          "media_source_tweet_id": [
+            "2083147661763649698"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "conversation_id": "2083294655060623816",
+        "created_at": "2026-07-31T20:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T21:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083294655060623816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1266804779067506690",
+              "start": 3,
+              "username": "natureegloomy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L4rqCvy7o9",
+              "end": 85,
+              "expanded_url": "https://x.com/natureegloomy/status/2083147661763649698/video/1",
+              "media_key": "13_2082973682180231168",
+              "start": 62,
+              "url": "https://t.co/L4rqCvy7o9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083294655060623816",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 237
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083147661763649698",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @natureegloomy: this is what i mean by perfect weather btw https://t.co/L4rqCvy7o9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 750,
+          "like_count": 13919,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 2756
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-30T18:52:55.000Z",
+        "description": "me and never ending love for the gloomy weather",
+        "id": "1266804779067506690",
+        "name": "𝑷𝒍𝒖𝒗𝒊𝒂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077731977155735552/a_j6nS5N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44491,
+          "following_count": 81,
+          "like_count": 5373,
+          "listed_count": 15,
+          "media_count": 285,
+          "tweet_count": 510
+        },
+        "url": "",
+        "username": "natureegloomy",
+        "verified": true
+      }
+    ]
+  }
+}

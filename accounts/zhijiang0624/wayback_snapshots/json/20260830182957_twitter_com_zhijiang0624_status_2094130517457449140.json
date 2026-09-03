@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2094120827063271825",
+    "created_at": "2026-08-30T18:29:57.000Z",
+    "display_text_range": [
+      9,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T19:29:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094130517457449140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2041095876417122305",
+          "start": 0,
+          "username": "Yihuiam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094130517457449140",
+    "in_reply_to_user_id": "2041095876417122305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094129965453471895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yihuiam 这样啊……\n抱歉我也给不出什么像样的建议，我现在差不多也是这样的处境"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2094120827063271825",
+        "created_at": "2026-08-30T18:29:57.000Z",
+        "display_text_range": [
+          9,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T19:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094130517457449140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2041095876417122305",
+              "start": 0,
+              "username": "Yihuiam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094130517457449140",
+        "in_reply_to_user_id": "2041095876417122305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094129965453471895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yihuiam 这样啊……\n抱歉我也给不出什么像样的建议，我现在差不多也是这样的处境"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2094120827063271825",
+        "created_at": "2026-08-30T18:27:45.000Z",
+        "display_text_range": [
+          14,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T19:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094129965453471895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730214580184604672",
+              "start": 0,
+              "username": "zhijiang0624"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094129965453471895",
+        "in_reply_to_user_id": "1730214580184604672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094129484886847743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhijiang0624 他说了很多…他说他帮不了我..就像没法教小学生微积分 我不敢彻底堕入虚无但又多现在的生活感到疲劳"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "is_identity_verified": false,
+        "location": "世界的彼方",
+        "most_recent_tweet_id": "2094130517457449140",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 728,
+          "like_count": 14450,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 2804
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习药理中🙂酒精依赖/尼古丁依赖/咖啡因依赖\n喜欢致幻剂////音乐/影视\n好闺闺@RottenCrow1\n梨梨@Hendry540558",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "RottenCrow1"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "Hendry540558"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aIoNeZz4IZ8wY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aIoNeZz4IZ8wYmJk",
+                "start": 0,
+                "url": "https://t.co/EFwkXL2szz"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094129965453471895",
+        "name": "Ichito",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041095876417122305/1779626311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 936,
+          "like_count": 6668,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 435
+        },
+        "url": "https://t.co/EFwkXL2szz",
+        "username": "Yihuiam",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

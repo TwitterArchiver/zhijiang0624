@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2082449839317749909",
+    "created_at": "2026-07-29T15:29:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T16:29:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082488680821014864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1223195507901849601",
+          "start": 0,
+          "username": "axunkaOri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082488680821014864",
+    "in_reply_to_user_id": "1223195507901849601",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082449839317749909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@axunkaOri 注意安全啊😱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 678,
+        "media_key": "3_2082449813581545472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZZEnkbQAABEad.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2082449839317749909",
+        "created_at": "2026-07-29T15:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082488680821014864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1223195507901849601",
+              "start": 0,
+              "username": "axunkaOri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082488680821014864",
+        "in_reply_to_user_id": "1223195507901849601",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082449839317749909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axunkaOri 注意安全啊😱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082449813581545472"
+          ]
+        },
+        "author_id": "1223195507901849601",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082449839317749909",
+        "created_at": "2026-07-29T12:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082449839317749909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zYGwurNgGs",
+              "end": 110,
+              "expanded_url": "https://x.com/axunkaOri/status/2082449839317749909/photo/1",
+              "media_key": "3_2082449813581545472",
+              "start": 87,
+              "url": "https://t.co/zYGwurNgGs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082449839317749909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 18428,
+          "like_count": 577,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "这张神了\n搞cos最拼的一集😰找了个真山旮旯拍实景。底下是真山坡不是影视基地。，一不小心掉下去就和大家歇菜了\n其实坐上去整个人都在抖，结果我的表情管理还是在线的 非常出片哇 https://t.co/zYGwurNgGs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 753,
+          "like_count": 13818,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 2746
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-31T10:45:47.000Z",
+        "description": "✨🔮我是阿薰⸝⸝'ᜊ'⸝⸝ ｜05年普通女孩｜💖dyb站@阿薰kaOri_✨｜实体周边🛒淘宝/微店：阿薰能量站｜百分比努力🥰要做只做最好｜用心拍作品📷｜任何改进建议欢迎留言💌｜求求大人们多支持🥺您的支持就是对我最大的鼓励🔮✨（不约不裸不线下）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "k.youshop10.com/5Rlf-Zoa",
+                "end": 23,
+                "expanded_url": "https://k.youshop10.com/5Rlf-Zoa",
+                "start": 0,
+                "url": "https://t.co/5LCvS3MiEj"
+              }
+            ]
+          }
+        },
+        "id": "1223195507901849601",
+        "location": "淘宝/微店：阿薰能量站",
+        "name": "✨🔮阿薰kaOri🔮✨",
+        "pinned_tweet_id": "2079881121781952788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951596079625224192/bZVw0Zhk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576713,
+          "following_count": 585,
+          "like_count": 319,
+          "listed_count": 2025,
+          "media_count": 928,
+          "tweet_count": 1721
+        },
+        "url": "https://t.co/5LCvS3MiEj",
+        "username": "axunkaOri",
+        "verified": true
+      }
+    ]
+  }
+}

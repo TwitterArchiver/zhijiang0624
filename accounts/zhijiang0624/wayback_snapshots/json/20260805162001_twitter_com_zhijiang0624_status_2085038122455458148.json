@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2085027853767442608",
+    "created_at": "2026-08-05T16:20:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T17:20:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085038122455458148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1973430266124541952",
+          "start": 0,
+          "username": "Minako8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085038122455458148",
+    "in_reply_to_user_id": "1973430266124541952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085027853767442608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minako8964 别介啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2085027853767442608",
+        "created_at": "2026-08-05T16:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T17:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085038122455458148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1973430266124541952",
+              "start": 0,
+              "username": "Minako8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085038122455458148",
+        "in_reply_to_user_id": "1973430266124541952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085027853767442608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minako8964 别介啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973430266124541952",
+        "conversation_id": "2085027853767442608",
+        "created_at": "2026-08-05T15:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T16:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085027853767442608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minako8964/sta…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/minako8964/status/2085026746135707967",
+              "start": 27,
+              "url": "https://t.co/eJcfWSwJfq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085027853767442608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085026746135707967",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的生命大概还剩十天，十天之后一个小天使就该回天堂了 https://t.co/eJcfWSwJfq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 749,
+          "like_count": 14036,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 2763
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-01T16:50:30.000Z",
+        "description": "可以叫我寿司🍣不安会屏蔽，想互关和私联直接来找我就可以啦，赞赏码在背景\n 这个是匿名问答⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kexuejiazhuang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kexuejiazhuang",
+                "start": 0,
+                "url": "https://t.co/qNfVsLeCNp"
+              }
+            ]
+          }
+        },
+        "id": "1973430266124541952",
+        "name": "给我寿司吧🥪",
+        "pinned_tweet_id": "2052037542984466641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072347563806912512/DRTPLYd8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1686,
+          "following_count": 364,
+          "like_count": 52498,
+          "listed_count": 4,
+          "media_count": 580,
+          "tweet_count": 7539
+        },
+        "url": "https://t.co/qNfVsLeCNp",
+        "username": "Minako8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2082763605670523214",
+    "created_at": "2026-08-05T14:57:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T15:57:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085017448521355728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1923957668831780864",
+          "start": 0,
+          "username": "Gniy666"
+        },
+        {
+          "end": 21,
+          "id": "1852809847303217152",
+          "start": 9,
+          "username": "NorthFotooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085017448521355728",
+    "in_reply_to_user_id": "1923957668831780864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082763605670523214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gniy666 @NorthFotooo 牢大，咋锁推了？😦"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2082763605670523214].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2082763605670523214",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2082763605670523214"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2082763605670523214",
+        "created_at": "2026-08-05T14:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T15:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085017448521355728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1923957668831780864",
+              "start": 0,
+              "username": "Gniy666"
+            },
+            {
+              "end": 21,
+              "id": "1852809847303217152",
+              "start": 9,
+              "username": "NorthFotooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085017448521355728",
+        "in_reply_to_user_id": "1923957668831780864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082763605670523214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gniy666 @NorthFotooo 牢大，咋锁推了？😦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "location": "世界的彼方",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 749,
+          "like_count": 14029,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 2760
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-18T04:24:00.000Z",
+        "description": "原创博主 让我明天更有色彩 （＾ω＾）只回口令/ IG :hfyqvq 碎碎念@hfymomojj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 39,
+                "username": "hfymomojj"
+              }
+            ]
+          }
+        },
+        "id": "1923957668831780864",
+        "location": "🚪520/1314/5200",
+        "name": "Duvet",
+        "pinned_tweet_id": "2035002154298352006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998696875462217728/R9_kWZ7G_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 220603,
+          "following_count": 95,
+          "like_count": 1266,
+          "listed_count": 603,
+          "media_count": 85,
+          "tweet_count": 478
+        },
+        "url": "",
+        "username": "Gniy666",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-02T20:28:02.000Z",
+        "description": "New York City🗽/Beijing🇨🇳/Shanghai🏙️ | Amateur Photographer",
+        "id": "1852809847303217152",
+        "location": "New York, USA",
+        "name": "North",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852810412804513792/ucWYCIWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44058,
+          "following_count": 89,
+          "like_count": 5193,
+          "listed_count": 224,
+          "media_count": 102,
+          "tweet_count": 227
+        },
+        "url": "",
+        "username": "NorthFotooo",
+        "verified": true
+      }
+    ]
+  }
+}
