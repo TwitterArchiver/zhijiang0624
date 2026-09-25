@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2096967517684277700",
+    "created_at": "2026-09-08T23:20:42.000Z",
+    "display_text_range": [
+      15,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T00:20:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097465181433700612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1634930304107581446",
+          "start": 0,
+          "username": "No102_Element"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097465181433700612",
+    "in_reply_to_user_id": "1634930304107581446",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096967517684277700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@No102_Element ［请输入文本］\n😦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2096967517684277700",
+        "created_at": "2026-09-08T23:20:42.000Z",
+        "display_text_range": [
+          15,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T00:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097465181433700612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634930304107581446",
+              "start": 0,
+              "username": "No102_Element"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097465181433700612",
+        "in_reply_to_user_id": "1634930304107581446",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096967517684277700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@No102_Element ［请输入文本］\n😦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634930304107581446",
+        "conversation_id": "2096967517684277700",
+        "created_at": "2026-09-07T14:23:10.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T15:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096967517684277700"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096967517684277700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 352,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "新舍友第一天就窜稀窜地板上了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "is_identity_verified": false,
+        "location": "世界的彼方",
+        "most_recent_tweet_id": "2097465181433700612",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 734,
+          "like_count": 14668,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 2822
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-12T14:52:26.000Z",
+        "description": "蓝色的田野会带来什么？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/no102_element",
+                "end": 23,
+                "expanded_url": "https://ngl.link/no102_element",
+                "start": 0,
+                "url": "https://t.co/Nmd4Acqe3o"
+              }
+            ]
+          }
+        },
+        "id": "1634930304107581446",
+        "is_identity_verified": false,
+        "location": "回南天下的潮湿角落",
+        "most_recent_tweet_id": "2097002107102703977",
+        "name": "第102次保持缄默",
+        "pinned_tweet_id": "2035521953663242718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1634930304107581446/1759546231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028146915486175232/tJXLqv4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 601,
+          "like_count": 9049,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1872
+        },
+        "url": "https://t.co/Nmd4Acqe3o",
+        "username": "No102_Element",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

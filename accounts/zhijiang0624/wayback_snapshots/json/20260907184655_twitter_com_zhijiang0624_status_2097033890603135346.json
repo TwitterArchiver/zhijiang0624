@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2097033890603135346",
+    "created_at": "2026-09-07T18:46:55.000Z",
+    "display_text_range": [
+      0,
+      132
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T19:46:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097033890603135346"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/111q_a54867/st…",
+          "end": 156,
+          "expanded_url": "https://twitter.com/111q_a54867/status/2097021080875704772",
+          "start": 133,
+          "url": "https://t.co/0FETpr9n5i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097033890603135346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097021080875704772",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的朋友在另一个学校遭受了校园霸凌，被造黄谣、孤立，甚至受了恩惠不承情还在说小话\n她也因此抑郁\n我想尽办法开导她但是一点用也没有\n想转学去陪陪她但是家里不同意\n一点用也没有\n很无力很无力\n言语的苍白简直冷透灵魂\n所以现在我可以承认自己做不到，但是不能接受什么也不做 https://t.co/0FETpr9n5i"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2097033890603135346",
+        "created_at": "2026-09-07T18:46:55.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T19:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097033890603135346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/111q_a54867/st…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/111q_a54867/status/2097021080875704772",
+              "start": 133,
+              "url": "https://t.co/0FETpr9n5i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097033890603135346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097021080875704772",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的朋友在另一个学校遭受了校园霸凌，被造黄谣、孤立，甚至受了恩惠不承情还在说小话\n她也因此抑郁\n我想尽办法开导她但是一点用也没有\n想转学去陪陪她但是家里不同意\n一点用也没有\n很无力很无力\n言语的苍白简直冷透灵魂\n所以现在我可以承认自己做不到，但是不能接受什么也不做 https://t.co/0FETpr9n5i"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "2097021080875704772",
+        "created_at": "2026-09-07T17:56:01.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T18:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097021080875704772"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097021080875704772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关系都是混杂的灰色。有时候我泛滥的共情能力和同理心，生活中的各种 但我却没办法改变任何好无奈 无力 蛮痛苦 现实和理想境界的不平衡，或者说是无法满足的一种遗憾追求😮‍💨"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "is_identity_verified": false,
+        "location": "世界的彼方",
+        "most_recent_tweet_id": "2097033890603135346",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 731,
+          "like_count": 14642,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 2814
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "小众活法不喜勿喷\n骚扰我前 请先过门🚪99/200/520",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "is_identity_verified": false,
+        "location": "低精力，喜欢我就打钱让我过得幸福，谢谢",
+        "most_recent_tweet_id": "2097025575781355898",
+        "name": "簽",
+        "pinned_tweet_id": "2072729903666266538",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1967887882384965632/1778626097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054167257560035328/mfmG5jat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2000,
+          "following_count": 1247,
+          "like_count": 7554,
+          "listed_count": 2,
+          "media_count": 343,
+          "tweet_count": 1761
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

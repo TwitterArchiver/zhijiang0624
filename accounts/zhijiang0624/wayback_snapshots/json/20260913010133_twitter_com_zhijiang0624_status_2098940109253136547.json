@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098940103771213824"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "conversation_id": "2098940109253136547",
+    "created_at": "2026-09-13T01:01:33.000Z",
+    "display_text_range": [
+      0,
+      127
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T02:01:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098940109253136547"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DK9VV1yvJ1",
+          "end": 151,
+          "expanded_url": "https://x.com/zhijiang0624/status/2098940109253136547/photo/1",
+          "media_key": "3_2098940103771213824",
+          "start": 128,
+          "url": "https://t.co/DK9VV1yvJ1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098940109253136547",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098940103771213824"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "就在志愿决战的前四十一秒，快手上响起了张雪峰的声音，「嘴唇」「发紫」「大学志愿」「去报土木」，到这时，私立大专招生办主任已经知道，自己再也没有机会阻止「雪」与「碧」的碰撞。“巧乐——「兹」”，是200%威力的巧乐兹，耀眼的光芒飞过那层层的私立大专招聘电话 https://t.co/DK9VV1yvJ1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1352,
+        "media_key": "3_2098940103771213824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSDu51oa0AA3EDl.jpg",
+        "width": 1070
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098940103771213824"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "conversation_id": "2098940109253136547",
+        "created_at": "2026-09-13T01:01:33.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T02:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098940109253136547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DK9VV1yvJ1",
+              "end": 151,
+              "expanded_url": "https://x.com/zhijiang0624/status/2098940109253136547/photo/1",
+              "media_key": "3_2098940103771213824",
+              "start": 128,
+              "url": "https://t.co/DK9VV1yvJ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098940109253136547",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098940103771213824"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就在志愿决战的前四十一秒，快手上响起了张雪峰的声音，「嘴唇」「发紫」「大学志愿」「去报土木」，到这时，私立大专招生办主任已经知道，自己再也没有机会阻止「雪」与「碧」的碰撞。“巧乐——「兹」”，是200%威力的巧乐兹，耀眼的光芒飞过那层层的私立大专招聘电话 https://t.co/DK9VV1yvJ1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "is_identity_verified": false,
+        "location": "世界的彼方",
+        "most_recent_tweet_id": "2098940111933378910",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 742,
+          "like_count": 14732,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 2828
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2099145356433064272",
+    "created_at": "2026-09-13T16:15:29.000Z",
+    "display_text_range": [
+      11,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T17:15:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099170107968917779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2088548025400709120",
+          "start": 0,
+          "username": "wdsjhc926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099170107968917779",
+    "in_reply_to_user_id": "2088548025400709120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099145356433064272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wdsjhc926 你到底哪来这么多神秘文案？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 331140,
+        "height": 1916,
+        "media_key": "13_2099144165556994048",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099144165556994048/img/hVcTGD_fdLD0S6St.jpg",
+        "public_metrics": {
+          "view_count": 1385
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099144165556994048/vid/avc1/320x566/60xOgvvRG3vMhRQ8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099144165556994048/pl/Fo1iK-AHaMJ_1fTH.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099144165556994048/vid/avc1/480x850/jMDQ-Hgzc92iHL6E.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099144165556994048/vid/avc1/720x1276/93twLPEH-UM6D-W4.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099144165556994048/vid/avc1/1080x1916/oCw9Ut2Zl950WMNd.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2099145356433064272",
+        "created_at": "2026-09-13T16:15:29.000Z",
+        "display_text_range": [
+          11,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T17:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099170107968917779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2088548025400709120",
+              "start": 0,
+              "username": "wdsjhc926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099170107968917779",
+        "in_reply_to_user_id": "2088548025400709120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099145356433064272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wdsjhc926 你到底哪来这么多神秘文案？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099144165556994048"
+          ]
+        },
+        "author_id": "2088548025400709120",
+        "conversation_id": "2099145356433064272",
+        "created_at": "2026-09-13T14:37:07.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T15:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099145356433064272"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "月野兔"
+            },
+            {
+              "end": 9,
+              "start": 5,
+              "tag": "兔子洞"
+            },
+            {
+              "end": 14,
+              "start": 10,
+              "tag": "cos"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "足控"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "足交"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "白丝"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "羞辱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/akbqTqEYY3",
+              "end": 54,
+              "expanded_url": "https://x.com/wdsjhc926/status/2099145356433064272/video/1",
+              "media_key": "13_2099144165556994048",
+              "start": 31,
+              "url": "https://t.co/akbqTqEYY3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099145356433064272",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "13_2099144165556994048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "月野兔"
+              },
+              {
+                "end": 9,
+                "start": 5,
+                "tag": "兔子洞"
+              },
+              {
+                "end": 14,
+                "start": 10,
+                "tag": "cos"
+              },
+              {
+                "end": 18,
+                "start": 15,
+                "tag": "足控"
+              },
+              {
+                "end": 22,
+                "start": 19,
+                "tag": "足交"
+              },
+              {
+                "end": 26,
+                "start": 23,
+                "tag": "白丝"
+              },
+              {
+                "end": 30,
+                "start": 27,
+                "tag": "羞辱"
+              }
+            ]
+          },
+          "text": "#月野兔 #兔子洞 #cos #足控 #足交 #白丝 #羞辱 \n张姐拉回自救发动前的14秒内，三角洲的总裁走廊再次响起了威龙的吟唱。“磁吸炸弹”“虎蹲炮”“AW”“M14”、液氮明白自己再也没有任何机会阻止张姐的复活了，无限制的M62如同雨点一般倾泻在总裁的连廊，乌鲁鲁的巡飞弹被M14击中爆炸，烟雾之中，全力护住自己的液氮无力的靠在残破的建筑上支持身体，他的左手和大腿都被这C4吞噬殆尽，同样伤痕累累的威龙出现在液氮面前，液氮立刻强迫自己不再倚靠墙壁，堂堂正正站在威龙面前，但是在杜瓦冷罐的影响下，威龙自身的移动速度被大大削弱，在碟无人机的治疗下威龙的身体再次恢复，对威龙来说，决定性的一击远距离“虎蹲炮”只是其即兴创作，结果乌鲁鲁被秒，“看来完成的还算不错”，谁能想到乌鲁鲁和液氮发了疯阻止的只是威龙刚刚随手打出的瞬爆虎蹲，威龙在张姐自救前的短短14秒内见招拆招，完成了数个几乎可以编入教科书的随机应变操作。碟呆呆的看着屏幕仍不可置信，“也就是说……”，“没错，是威龙赢了！”\n最强的战绩，铭刻于三角洲总裁走廊"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 5044,
+          "like_count": 124,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "#月野兔 #兔子洞 #cos #足控 #足交 #白丝 #羞辱 https://t.co/akbqTqEYY3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "is_identity_verified": false,
+        "location": "世界的彼方",
+        "most_recent_tweet_id": "2099170107968917779",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 741,
+          "like_count": 14765,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 2833
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T08:51:58.000Z",
+        "description": "NSFW 18+🔞\n哟，好久不见\n小号：@kskbl926\n——无所谓的，忘了吧\n第四世：@bcq926\n第三世：@dtmz926\n第二世：？\n第一世：@bcq_mm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "kskbl926"
+              },
+              {
+                "end": 52,
+                "start": 45,
+                "username": "bcq926"
+              },
+              {
+                "end": 65,
+                "start": 57,
+                "username": "dtmz926"
+              },
+              {
+                "end": 83,
+                "start": 76,
+                "username": "bcq_mm"
+              }
+            ]
+          }
+        },
+        "id": "2088548025400709120",
+        "is_identity_verified": false,
+        "location": "新宿",
+        "most_recent_tweet_id": "2099149684979958009",
+        "name": "传奇耐封王",
+        "pinned_tweet_id": "2098831484102811983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088548025400709120/1786784385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088551202346921984/7bSUC0jQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29416,
+          "following_count": 166,
+          "like_count": 232,
+          "listed_count": 35,
+          "media_count": 55,
+          "tweet_count": 88
+        },
+        "url": "",
+        "username": "wdsjhc926",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

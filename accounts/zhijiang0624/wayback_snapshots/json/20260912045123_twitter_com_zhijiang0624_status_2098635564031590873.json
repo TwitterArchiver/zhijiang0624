@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2098571598563569856",
+    "created_at": "2026-09-12T04:51:23.000Z",
+    "display_text_range": [
+      16,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T05:51:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098635564031590873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2027346225893404673",
+          "start": 0,
+          "username": "JDollyshit7786"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098635564031590873",
+    "in_reply_to_user_id": "2027346225893404673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098571598563569856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JDollyshit7786 0.5秒拦截外卖员\n0.1秒殴打业主\n遇到带土0.000……01秒跑路"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2098571573322285056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR-fuiubgAAajRH.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2098571598563569856",
+        "created_at": "2026-09-12T04:51:23.000Z",
+        "display_text_range": [
+          16,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T05:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098635564031590873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2027346225893404673",
+              "start": 0,
+              "username": "JDollyshit7786"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098635564031590873",
+        "in_reply_to_user_id": "2027346225893404673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098571598563569856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JDollyshit7786 0.5秒拦截外卖员\n0.1秒殴打业主\n遇到带土0.000……01秒跑路"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098571573322285056"
+          ]
+        },
+        "author_id": "2027346225893404673",
+        "conversation_id": "2098571598563569856",
+        "created_at": "2026-09-12T00:37:13.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T01:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098571598563569856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tbr3TRpvTN",
+              "end": 51,
+              "expanded_url": "https://x.com/JDollyshit7786/status/2098571598563569856/photo/1",
+              "media_key": "3_2098571573322285056",
+              "start": 28,
+              "url": "https://t.co/Tbr3TRpvTN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098571598563569856",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098571573322285056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 539,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是保安小李\n喜欢业主小丹\n守护一方平安\n爱吃小熊饼干 https://t.co/Tbr3TRpvTN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "is_identity_verified": false,
+        "location": "世界的彼方",
+        "most_recent_tweet_id": "2098635564031590873",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 742,
+          "like_count": 14720,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 2826
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-27T11:33:12.000Z",
+        "description": "男/假装阴湿高冷的扑街bg写手/请找我聊天/有建议或者想看的类型可以投稿在我的匿名信箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/momo48425",
+                "end": 23,
+                "expanded_url": "https://ngl.link/momo48425",
+                "start": 0,
+                "url": "https://t.co/EMXtIejyO4"
+              }
+            ]
+          }
+        },
+        "id": "2027346225893404673",
+        "is_identity_verified": false,
+        "location": "墓园",
+        "most_recent_tweet_id": "2098571598563569856",
+        "name": "符采克炳",
+        "pinned_tweet_id": "2090640813760106665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2027346225893404673/1787065715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089258119717351425/aw6N1GFw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8583,
+          "following_count": 21,
+          "like_count": 776,
+          "listed_count": 12,
+          "media_count": 134,
+          "tweet_count": 1642
+        },
+        "url": "https://t.co/EMXtIejyO4",
+        "username": "JDollyshit7786",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

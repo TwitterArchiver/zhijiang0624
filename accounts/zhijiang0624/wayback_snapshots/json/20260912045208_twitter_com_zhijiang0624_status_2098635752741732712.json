@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2097977680033632476",
+    "created_at": "2026-09-12T04:52:08.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T05:52:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098635752741732712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1973550331704516609",
+          "start": 0,
+          "username": "yanba233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098635752741732712",
+    "in_reply_to_user_id": "1973550331704516609",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097977680033632476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanba233 羡慕了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2097977680033632476",
+        "created_at": "2026-09-12T04:52:08.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T05:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098635752741732712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1973550331704516609",
+              "start": 0,
+              "username": "yanba233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098635752741732712",
+        "in_reply_to_user_id": "1973550331704516609",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097977680033632476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanba233 羡慕了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973550331704516609",
+        "conversation_id": "2097977680033632476",
+        "created_at": "2026-09-10T09:17:12.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T10:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097977680033632476"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097977680033632476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2531,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最爽的一个消息就是，中秋节和国庆节连着放，13天假！！好耶！！！(✧∇✧)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "is_identity_verified": false,
+        "location": "世界的彼方",
+        "most_recent_tweet_id": "2098635752741732712",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 742,
+          "like_count": 14722,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 2827
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-02T00:47:48.000Z",
+        "description": "脑容量8kb，超大（指脑容量嗯对） //直男  07 19岁//爱打游戏，一聊到游戏话会变得很多。。。//喜欢看黄和碎碎念（尤其是可爱的人） //  1i //在这里只想分享开心的事",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yanba233",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yanba233",
+                "start": 0,
+                "url": "https://t.co/SLcLqGjtLR"
+              }
+            ]
+          }
+        },
+        "id": "1973550331704516609",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098443826520346847",
+        "name": "盐巴",
+        "pinned_tweet_id": "2005283206514561406",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081645007069671424/KM7O2LSs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 1415,
+          "like_count": 45199,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1206
+        },
+        "url": "https://t.co/SLcLqGjtLR",
+        "username": "yanba233",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2099149684979958009",
+    "created_at": "2026-09-13T16:07:59.000Z",
+    "display_text_range": [
+      11,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T17:07:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099168221186388052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2088548025400709120",
+          "start": 0,
+          "username": "wdsjhc926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099168221186388052",
+    "in_reply_to_user_id": "2088548025400709120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099149684979958009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wdsjhc926 依旧神秘文案"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 176843,
+        "height": 1280,
+        "media_key": "13_2099146778830675968",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099146778830675968/img/1zDAHLpdEfXA8g2x.jpg",
+        "public_metrics": {
+          "view_count": 1439
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099146778830675968/vid/avc1/320x568/g7PPK-QkX6IF0sJ-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099146778830675968/vid/avc1/480x852/mXrFySf-xCH0dZ1h.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099146778830675968/vid/avc1/720x1280/qicIl-CicmQqXQbk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099146778830675968/pl/joo5mU8N0yi908_5.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 767233,
+        "height": 1280,
+        "media_key": "13_2099146778721517568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099146778721517568/img/bky-aOJZ-iloTNWx.jpg",
+        "public_metrics": {
+          "view_count": 231
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099146778721517568/vid/avc1/320x568/Ed8xhUQqh5mLTnMQ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099146778721517568/vid/avc1/480x852/fivA6wmSOhlbQX5r.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099146778721517568/vid/avc1/720x1280/cdBpnTVpwXhiA7Iz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099146778721517568/pl/wCCw9r4840p_Fltr.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2099149684979958009",
+        "created_at": "2026-09-13T16:07:59.000Z",
+        "display_text_range": [
+          11,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T17:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099168221186388052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2088548025400709120",
+              "start": 0,
+              "username": "wdsjhc926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099168221186388052",
+        "in_reply_to_user_id": "2088548025400709120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099149684979958009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wdsjhc926 依旧神秘文案"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099146778830675968",
+            "13_2099146778721517568"
+          ]
+        },
+        "author_id": "2088548025400709120",
+        "conversation_id": "2099149684979958009",
+        "created_at": "2026-09-13T14:54:19.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T15:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099149684979958009"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "芃芃大人"
+            },
+            {
+              "end": 10,
+              "start": 6,
+              "tag": "兔子洞"
+            },
+            {
+              "end": 15,
+              "start": 11,
+              "tag": "cos"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "调教"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "寸止"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "羞辱"
+            },
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "足控"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FyevPZokj2",
+              "end": 106,
+              "expanded_url": "https://x.com/wdsjhc926/status/2099149684979958009/video/1",
+              "media_key": "13_2099146778830675968",
+              "start": 83,
+              "url": "https://t.co/FyevPZokj2"
+            },
+            {
+              "display_url": "pic.x.com/FyevPZokj2",
+              "end": 106,
+              "expanded_url": "https://x.com/wdsjhc926/status/2099149684979958009/video/1",
+              "media_key": "13_2099146778721517568",
+              "start": 83,
+              "url": "https://t.co/FyevPZokj2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099149684979958009",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2099146778830675968"
+          },
+          {
+            "media_key": "13_2099146778721517568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "芃芃大人"
+              },
+              {
+                "end": 10,
+                "start": 6,
+                "tag": "兔子洞"
+              },
+              {
+                "end": 15,
+                "start": 11,
+                "tag": "cos"
+              },
+              {
+                "end": 19,
+                "start": 16,
+                "tag": "调教"
+              },
+              {
+                "end": 23,
+                "start": 20,
+                "tag": "寸止"
+              },
+              {
+                "end": 27,
+                "start": 24,
+                "tag": "羞辱"
+              },
+              {
+                "end": 31,
+                "start": 28,
+                "tag": "足控"
+              }
+            ]
+          },
+          "text": "#芃芃大人 #兔子洞 #cos #调教 #寸止 #羞辱 #足控 \n「闪电•诺亚」发动前的41秒内，新宿再次响起了孤门的吟唱\n【希望】【纽带】【光之巨人】【干巴爹】”\n此刻「光芒」「希望」在扎基眼前完成了交叠，扎基明白，自己再也没有任何机会阻止「诺亚」的诞生了。无限制的光线如同核爆一般在新宿亮起冲天的光芒，扎基的身影瞬间在光线中灰飞烟灭，他被一击吞噬殆尽，同样充满光芒的诺亚却轻松的站在原地，在光线同源的影响下，孤门所承受的伤害被大大削弱，在「诺亚•波动」的治疗下孤门的身体再次恢复，对孤门来说，决定性的一击远距离「闪电•诺亚」只是其即兴创作，结果扎基被秒。“看来完成的还算不错”，谁能想到扎基发了疯阻止的只是孤门刚刚开发的技能，孤门在闪电•诺亚发动前的短短41秒内见招拆招，完成了数个几乎可以编入教科书的随机应变操作。众人呆呆的看着屏幕仍不可置信，\n“也就是说....”，\n“没错，是孤门赢了!”\n最强的战绩，铭刻于新宿"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 3166,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "#芃芃大人 #兔子洞 #cos #调教 #寸止 #羞辱 #足控 \n「闪电•诺亚」发动前的41秒内，新宿再次响起了孤门的吟唱\n【希望】【纽带】【光之巨人】【干巴爹】” https://t.co/FyevPZokj2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "is_identity_verified": false,
+        "location": "世界的彼方",
+        "most_recent_tweet_id": "2099168221186388052",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 741,
+          "like_count": 14748,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 2831
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T08:51:58.000Z",
+        "description": "NSFW 18+🔞\n哟，好久不见\n小号：@kskbl926\n——无所谓的，忘了吧\n第四世：@bcq926\n第三世：@dtmz926\n第二世：？\n第一世：@bcq_mm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "kskbl926"
+              },
+              {
+                "end": 52,
+                "start": 45,
+                "username": "bcq926"
+              },
+              {
+                "end": 65,
+                "start": 57,
+                "username": "dtmz926"
+              },
+              {
+                "end": 83,
+                "start": 76,
+                "username": "bcq_mm"
+              }
+            ]
+          }
+        },
+        "id": "2088548025400709120",
+        "is_identity_verified": false,
+        "location": "新宿",
+        "most_recent_tweet_id": "2099149684979958009",
+        "name": "传奇耐封王",
+        "pinned_tweet_id": "2098831484102811983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088548025400709120/1786784385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088551202346921984/7bSUC0jQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29369,
+          "following_count": 166,
+          "like_count": 232,
+          "listed_count": 35,
+          "media_count": 55,
+          "tweet_count": 88
+        },
+        "url": "",
+        "username": "wdsjhc926",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
