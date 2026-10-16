@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2102713787497447705",
+    "created_at": "2026-09-23T21:37:35.000Z",
+    "display_text_range": [
+      14,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T22:37:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102875046448668945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1919363955929362432",
+          "start": 0,
+          "username": "xiaomingmumu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102875046448668945",
+    "in_reply_to_user_id": "1919363955929362432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102713787497447705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaomingmumu 有点像那种老电影里的经典丽人"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19536,
+        "height": 960,
+        "media_key": "13_2102713745885859840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2102713745885859840/img/8l4TVpT5yAIpZ2UW.jpg",
+        "public_metrics": {
+          "view_count": 371
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102713745885859840/vid/avc1/320x426/RVJXR9mX36dXdI0Z.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102713745885859840/vid/avc1/480x640/cP5kjqfSnmbIzH41.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102713745885859840/vid/avc1/720x960/wrJBkvVPhpInFK83.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2102713745885859840/pl/axAjJTqpgpJoyzsG.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2102713787497447705",
+        "created_at": "2026-09-23T21:37:35.000Z",
+        "display_text_range": [
+          14,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T22:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102875046448668945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1919363955929362432",
+              "start": 0,
+              "username": "xiaomingmumu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102875046448668945",
+        "in_reply_to_user_id": "1919363955929362432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102713787497447705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomingmumu 有点像那种老电影里的经典丽人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102713745885859840"
+          ]
+        },
+        "author_id": "1919363955929362432",
+        "conversation_id": "2102713787497447705",
+        "created_at": "2026-09-23T10:56:48.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T11:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102713787497447705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/18lBwwbRbb",
+              "end": 62,
+              "expanded_url": "https://x.com/xiaomingmumu/status/2102713787497447705/video/1",
+              "media_key": "13_2102713745885859840",
+              "start": 39,
+              "url": "https://t.co/18lBwwbRbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102713787497447705",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2102713745885859840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 743,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天吃饭前录的一段视频。。完全沉浸在屏幕里的自己，薄荷妹和我说话我都没及时回 https://t.co/18lBwwbRbb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "is_identity_verified": false,
+        "location": "世界的彼方",
+        "most_recent_tweet_id": "2102875046448668945",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 732,
+          "like_count": 14794,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 2842
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-05T12:10:10.000Z",
+        "description": "操死全世界",
+        "id": "1919363955929362432",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102784429223743874",
+        "name": "一根烂棉签",
+        "pinned_tweet_id": "2007795599199142093",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1919363955929362432/1746447281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079545636257771520/pUgc0OIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3302,
+          "following_count": 462,
+          "like_count": 25637,
+          "listed_count": 5,
+          "media_count": 829,
+          "tweet_count": 14862
+        },
+        "url": "",
+        "username": "xiaomingmumu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

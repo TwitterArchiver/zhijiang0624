@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2101515760866840698",
+    "created_at": "2026-09-21T08:26:02.000Z",
+    "display_text_range": [
+      11,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T09:26:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101951071614865582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2059364425157783552",
+          "start": 0,
+          "username": "Edenedddy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101951071614865582",
+    "in_reply_to_user_id": "2059364425157783552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101515760866840698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Edenedddy 豆包帮我清除一下记忆\n\n什么叫你服务器也被捅损坏了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2101515760866840698",
+        "created_at": "2026-09-21T08:26:02.000Z",
+        "display_text_range": [
+          11,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T09:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101951071614865582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2059364425157783552",
+              "start": 0,
+              "username": "Edenedddy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101951071614865582",
+        "in_reply_to_user_id": "2059364425157783552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101515760866840698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Edenedddy 豆包帮我清除一下记忆\n\n什么叫你服务器也被捅损坏了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059364425157783552",
+        "conversation_id": "2101515760866840698",
+        "created_at": "2026-09-20T03:36:16.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T04:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101515760866840698"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101515760866840698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21286,
+          "impression_count": 6606335,
+          "like_count": 182323,
+          "quote_count": 5429,
+          "reply_count": 2442,
+          "retweet_count": 32034
+        },
+        "reply_settings": "everyone",
+        "text": "我的鸡巴真是又粗又长，刚刚拉裤拉链的时候不小心手滑，鸡巴直接弹出来把窗户弹烂了捅穿了对面那栋楼的承重柱，一瞬间楼全垮了所有人都死在里面。我也因为鸡巴大被抓了说我私藏核武器，关着坐了几年牢出来大鸡巴已经被没收了所以变成了一个女孩子。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "is_identity_verified": false,
+        "location": "世界的彼方",
+        "most_recent_tweet_id": "2101951071614865582",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 736,
+          "like_count": 14791,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 2840
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T20:02:54.000Z",
+        "description": "我何尝不是一个横空出世的绝顶天才呢？\n\nPs 喂小鬼，爱看什么大大方方给本大王说啊。",
+        "id": "2059364425157783552",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101944642833170879",
+        "name": "Eden",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059364425157783552/1787233420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089784716027412481/10bevUQz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4442,
+          "following_count": 95,
+          "like_count": 623,
+          "listed_count": 3,
+          "media_count": 4,
+          "tweet_count": 345
+        },
+        "url": "",
+        "username": "Edenedddy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

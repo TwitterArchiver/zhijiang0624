@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2103620123747827973",
+    "created_at": "2026-09-25T22:58:15.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T23:58:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103620123747827973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1616889854",
+          "start": 3,
+          "username": "toro_yori_ebi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103620123747827973",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1697
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103318585674183088",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @toro_yori_ebi: 【DEAD RED HOOD　進捗！】\nCG...完成済（基本CG600枚以上。差分含めず）\nシナリオ...完成済\n羽虫...腹パン済\n\n後はゲーム部分っ！ 50%は超えました！ 尻に火がついて火だるま状態だけどがんばりますっ！\n\nようやく…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 626,
+        "media_key": "3_2103078165862395904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS-icwMbsAA-pDk.png",
+        "width": 796
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103620123747827973",
+        "created_at": "2026-09-25T22:58:15.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T23:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103620123747827973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1616889854",
+              "start": 3,
+              "username": "toro_yori_ebi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103620123747827973",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1697
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103318585674183088",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @toro_yori_ebi: 【DEAD RED HOOD　進捗！】\nCG...完成済（基本CG600枚以上。差分含めず）\nシナリオ...完成済\n羽虫...腹パン済\n\n後はゲーム部分っ！ 50%は超えました！ 尻に火がついて火だるま状態だけどがんばりますっ！\n\nようやく…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103078165862395904"
+          ]
+        },
+        "author_id": "1616889854",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103318585674183088",
+        "created_at": "2026-09-25T03:00:03.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T04:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103318585674183088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ztnMwzh5AV",
+              "end": 169,
+              "expanded_url": "https://x.com/toro_yori_ebi/status/2103318585674183088/photo/1",
+              "media_key": "3_2103078165862395904",
+              "start": 146,
+              "url": "https://t.co/ztnMwzh5AV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103318585674183088",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103078165862395904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1395,
+          "impression_count": 128623,
+          "like_count": 9192,
+          "quote_count": 127,
+          "reply_count": 285,
+          "retweet_count": 1697
+        },
+        "reply_settings": "everyone",
+        "text": "【DEAD RED HOOD　進捗！】\nCG...完成済（基本CG600枚以上。差分含めず）\nシナリオ...完成済\n羽虫...腹パン済\n\n後はゲーム部分っ！ 50%は超えました！ 尻に火がついて火だるま状態だけどがんばりますっ！\n\nようやく終わりが見えてきました\n待たせてごめんね（◞‸◟） https://t.co/ztnMwzh5AV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "is_identity_verified": false,
+        "location": "世界的彼方",
+        "most_recent_tweet_id": "2103620123747827973",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 724,
+          "like_count": 14847,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 2854
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-07-24T05:04:03.000Z",
+        "description": "ホラーとクリーチャーだいすきっ！\n同人サークル「イニミニマニモ？」でゲーム作ってるよっ！\nニコニコで東方異形郷（R-18G）という動画も投稿してるよんっ！\ncontact: https://t.co/Pbc37zzpZx\nヘッダーは憧れの洗濯船さんから",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "enmnmnm.com",
+                "end": 110,
+                "expanded_url": "https://enmnmnm.com/",
+                "start": 87,
+                "url": "https://t.co/Pbc37zzpZx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/susiyuusilya",
+                "end": 23,
+                "expanded_url": "http://pixiv.me/susiyuusilya",
+                "start": 0,
+                "url": "https://t.co/ag8rBAyGsd"
+              }
+            ]
+          }
+        },
+        "id": "1616889854",
+        "is_identity_verified": false,
+        "location": "異形郷",
+        "most_recent_tweet_id": "2103458014758154241",
+        "name": "寿司勇者トロ",
+        "pinned_tweet_id": "2011999924398014529",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1616889854/1592519835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606925251858034690/EUfyUNjS_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105622,
+          "following_count": 1966,
+          "like_count": 34750,
+          "listed_count": 253,
+          "media_count": 2509,
+          "tweet_count": 49435
+        },
+        "url": "https://t.co/ag8rBAyGsd",
+        "username": "toro_yori_ebi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

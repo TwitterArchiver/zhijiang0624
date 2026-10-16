@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2102780146092830937",
+    "created_at": "2026-09-23T21:57:39.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T22:57:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102880098974355733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1905566526595629060",
+          "start": 0,
+          "username": "Apipleeeee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102880098974355733",
+    "in_reply_to_user_id": "1905566526595629060",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102780146092830937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Apipleeeee 这腰牛逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2961,
+        "height": 720,
+        "media_key": "13_2102780102958604288",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2102780102958604288/img/30Hvklt2cmAv2ymq.jpg",
+        "public_metrics": {
+          "view_count": 633
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102780102958604288/vid/avc1/360x270/SiI8I2h85oeolVNg.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102780102958604288/vid/avc1/480x360/BqTYjlKXOnBZniK3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102780102958604288/vid/avc1/960x720/9hFcjMQBFVrGWkfc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2102780102958604288/pl/xZDxcmDDxnN8k-47.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2102780146092830937",
+        "created_at": "2026-09-23T21:57:39.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T22:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102880098974355733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1905566526595629060",
+              "start": 0,
+              "username": "Apipleeeee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102880098974355733",
+        "in_reply_to_user_id": "1905566526595629060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102780146092830937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Apipleeeee 这腰牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102780102958604288"
+          ]
+        },
+        "author_id": "1905566526595629060",
+        "conversation_id": "2102780146092830937",
+        "created_at": "2026-09-23T15:20:29.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T16:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102780146092830937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qpTnfW57PZ",
+              "end": 25,
+              "expanded_url": "https://x.com/Apipleeeee/status/2102780146092830937/video/1",
+              "media_key": "13_2102780102958604288",
+              "start": 2,
+              "url": "https://t.co/qpTnfW57PZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102780146092830937",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "13_2102780102958604288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1916,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🐈 https://t.co/qpTnfW57PZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "is_identity_verified": false,
+        "location": "世界的彼方",
+        "most_recent_tweet_id": "2102880098974355733",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 732,
+          "like_count": 14816,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 2849
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-28T10:24:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "work-fengniao.com",
+                "end": 23,
+                "expanded_url": "https://www.work-fengniao.com",
+                "start": 0,
+                "url": "https://t.co/Dsq2OLNgMn"
+              }
+            ]
+          }
+        },
+        "id": "1905566526595629060",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102840613691650475",
+        "name": "苹果",
+        "pinned_tweet_id": "2041450168307024329",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1905566526595629060/1770901033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021931545674850304/T1ritExR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14333,
+          "following_count": 1,
+          "like_count": 5444,
+          "listed_count": 36,
+          "media_count": 642,
+          "tweet_count": 2099
+        },
+        "url": "https://t.co/Dsq2OLNgMn",
+        "username": "Apipleeeee",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

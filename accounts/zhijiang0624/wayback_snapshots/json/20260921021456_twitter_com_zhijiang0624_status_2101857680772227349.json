@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2101670610623410176"
+      ],
+      "media_source_tweet_id": [
+        "2101670685076557895"
+      ]
+    },
+    "author_id": "1730214580184604672",
+    "conversation_id": "2101857680772227349",
+    "created_at": "2026-09-21T02:14:56.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T03:14:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101857680772227349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2087236779246014464",
+          "start": 3,
+          "username": "lammours"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eAoYoQ8C5w",
+          "end": 37,
+          "expanded_url": "https://x.com/lammours/status/2101670685076557895/video/1",
+          "media_key": "13_2101670610623410176",
+          "start": 14,
+          "url": "https://t.co/eAoYoQ8C5w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101857680772227349",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2101670610623410176"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7937
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101670685076557895",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lammours: https://t.co/eAoYoQ8C5w"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14833,
+        "height": 720,
+        "media_key": "13_2101670610623410176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101670610623410176/img/HA4rUTWKA6nPxh2T.jpg",
+        "public_metrics": {
+          "view_count": 180023
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101670610623410176/vid/avc1/404x270/0j1sPC7xpJjs4-Lr.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101670610623410176/vid/avc1/540x360/6-ALeE1Xx9HSmqED.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101670610623410176/vid/avc1/1080x720/eW0qgXN9v3YQhV55.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101670610623410176/pl/sEZSt0Etb2t9g1_5.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101670610623410176"
+          ],
+          "media_source_tweet_id": [
+            "2101670685076557895"
+          ]
+        },
+        "author_id": "1730214580184604672",
+        "conversation_id": "2101857680772227349",
+        "created_at": "2026-09-21T02:14:56.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T03:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101857680772227349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2087236779246014464",
+              "start": 3,
+              "username": "lammours"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eAoYoQ8C5w",
+              "end": 37,
+              "expanded_url": "https://x.com/lammours/status/2101670685076557895/video/1",
+              "media_key": "13_2101670610623410176",
+              "start": 14,
+              "url": "https://t.co/eAoYoQ8C5w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101857680772227349",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2101670610623410176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7937
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101670685076557895",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lammours: https://t.co/eAoYoQ8C5w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101670610623410176"
+          ]
+        },
+        "author_id": "2087236779246014464",
+        "conversation_id": "2101670685076557895",
+        "created_at": "2026-09-20T13:51:53.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T14:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101670685076557895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eAoYoQ8C5w",
+              "end": 23,
+              "expanded_url": "https://x.com/lammours/status/2101670685076557895/video/1",
+              "media_key": "13_2101670610623410176",
+              "start": 0,
+              "url": "https://t.co/eAoYoQ8C5w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101670685076557895",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2101670610623410176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4298,
+          "impression_count": 465962,
+          "like_count": 41795,
+          "quote_count": 333,
+          "reply_count": 75,
+          "retweet_count": 7937
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/eAoYoQ8C5w"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "is_identity_verified": false,
+        "location": "世界的彼方",
+        "most_recent_tweet_id": "2101857680772227349",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 737,
+          "like_count": 14776,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 2838
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-11T17:58:38.000Z",
+        "description": "i used to be a mountain",
+        "id": "2087236779246014464",
+        "is_identity_verified": false,
+        "location": "viva palestina!",
+        "most_recent_tweet_id": "2101781712258711921",
+        "name": "ᥫ᭡ˊ˗",
+        "pinned_tweet_id": "2098140532958503070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087236779246014464/1788902412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097288728343687168/kR2xjfq8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2888,
+          "following_count": 0,
+          "like_count": 1340,
+          "listed_count": 9,
+          "media_count": 458,
+          "tweet_count": 590
+        },
+        "url": "",
+        "username": "lammours",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

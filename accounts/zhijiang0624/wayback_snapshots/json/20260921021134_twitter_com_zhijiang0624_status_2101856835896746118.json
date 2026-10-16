@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2101856835896746118",
+    "created_at": "2026-09-21T02:11:34.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T03:11:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101856835896746118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1578279536642359300",
+          "start": 3,
+          "username": "baonianmianfei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101856835896746118",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101832749858291804",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baonianmianfei: 虽然一直在强调多沟通多交流，但真正交流的时候，只会想对面还是人脑吗？这猪脑想啥呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2101856835896746118",
+        "created_at": "2026-09-21T02:11:34.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T03:11:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101856835896746118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1578279536642359300",
+              "start": 3,
+              "username": "baonianmianfei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101856835896746118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101832749858291804",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @baonianmianfei: 虽然一直在强调多沟通多交流，但真正交流的时候，只会想对面还是人脑吗？这猪脑想啥呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1578279536642359300",
+        "conversation_id": "2101832749858291804",
+        "created_at": "2026-09-21T00:35:52.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T01:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101832749858291804"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101832749858291804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "虽然一直在强调多沟通多交流，但真正交流的时候，只会想对面还是人脑吗？这猪脑想啥呢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "is_identity_verified": false,
+        "location": "世界的彼方",
+        "most_recent_tweet_id": "2101856835896746118",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 737,
+          "like_count": 14769,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 2837
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-07T07:02:44.000Z",
+        "description": "你关注神经病干嘛",
+        "id": "1578279536642359300",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101833671594614894",
+        "name": "包年免费",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1578279536642359300/1669180778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1623244574520139777/A4Y2Uf9n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 58,
+          "like_count": 2498,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 2091
+        },
+        "url": "",
+        "username": "baonianmianfei",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

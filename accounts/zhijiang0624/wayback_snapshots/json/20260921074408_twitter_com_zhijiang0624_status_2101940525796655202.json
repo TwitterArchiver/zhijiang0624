@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730214580184604672",
+    "conversation_id": "2031324065877864964",
+    "created_at": "2026-09-21T07:44:08.000Z",
+    "display_text_range": [
+      10,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T08:44:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101940525796655202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2015808158413844480",
+          "start": 0,
+          "username": "fcbf8858"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101940525796655202",
+    "in_reply_to_user_id": "2015808158413844480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031324065877864964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fcbf8858 情况怎么样？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730214580184604672",
+        "conversation_id": "2031324065877864964",
+        "created_at": "2026-09-21T07:44:08.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T08:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101940525796655202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2015808158413844480",
+              "start": 0,
+              "username": "fcbf8858"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101940525796655202",
+        "in_reply_to_user_id": "2015808158413844480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031324065877864964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fcbf8858 情况怎么样？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015808158413844480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2031324065877864964",
+        "created_at": "2026-03-10T10:59:32.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-03-10T11:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031324065877864964"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031324065877864964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8308,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我老爸吃了没文化的亏，靠干苦力养活一家人，一直教育我好好学习用知识改变命运，比起他满手老茧和沧桑的面容，我这点学习压力算不上什么，我会考上理想大学的，等我好消息！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-30T13:18:11.000Z",
+        "description": "一粒无关紧要的小尘埃",
+        "id": "1730214580184604672",
+        "is_identity_verified": false,
+        "location": "世界的彼方",
+        "most_recent_tweet_id": "2101940525796655202",
+        "name": "DaLin",
+        "pinned_tweet_id": "2037955937798132202",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007403499995414528/yOBpu_rQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 735,
+          "like_count": 14779,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 2839
+        },
+        "url": "",
+        "username": "zhijiang0624",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-26T15:25:21.000Z",
+        "description": "爱搞抽象的小滑头",
+        "id": "2015808158413844480",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101905130488832499",
+        "name": "旺仔小滑头",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015808158413844480/1770908121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055111429515259904/HuPN6hwc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22203,
+          "following_count": 18,
+          "like_count": 179,
+          "listed_count": 13,
+          "media_count": 316,
+          "tweet_count": 716
+        },
+        "url": "",
+        "username": "fcbf8858",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
